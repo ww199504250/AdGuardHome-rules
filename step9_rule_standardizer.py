@@ -23,8 +23,8 @@ def write_file(path, lines, header):
 def main():
     white_input = './temp/TMP/AdWhiteList.txt'
     black_input = './temp/TMP/AdBlackList.txt'
-    white_output = './temp/TMP/AdGuardHomeWhite.txt'
-    black_output = './temp/TMP/AdGuardHomeBlack.txt'
+    white_output = './output/WhiteList.txt'
+    black_output = './output/BlackList.txt'
     log_others = './temp/Log/others.txt'
 
     os.makedirs('./output', exist_ok=True)
