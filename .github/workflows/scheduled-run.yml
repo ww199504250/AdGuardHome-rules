@@ -1,8 +1,8 @@
-name: 每12小时执行并提交更新
+name: 每8小时定时更新
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # 每12小时运行
+    - cron: '0 */8 * * *'  # 每12小时运行
   workflow_dispatch:         # 支持手动触发
 
 jobs:
