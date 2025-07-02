@@ -29,6 +29,7 @@ if __name__ == "__main__":
         "step7_combine_black_white.py",   # 合并黑白名单
         "step8_conflict_handler.py",      # 冲突处理
         "step9_rule_standardizer.py"      # 规则标准化
+        "step10_clean_adg.py"             # 删除.js^条目
     ]
 
     print("🚀 开始执行过滤规则处理流程...")
