@@ -3419,7 +3419,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /matomo-tracking.js
 /matomo.js$domain=~github.com
 /matomo.php
-/matomo/*$domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
+/matomo/*$script,domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
 /matomo_video_tracking.js
 /matongwu/img/gg_
 /maven/am.js$script
@@ -47590,7 +47590,6 @@ zzzyk.com###Tinfo
 ||zwaar.org^$third-party
 ||zwqzxh.com^$popup
 ||zx-adnet.com^$third-party
-||zx.svcsghost.com^
 ||zx123.cn/templates/zx123cs/theme-2015/js/right_xh.js
 ||zxcv112.byethost4.com^
 ||zxw51.com^$third-party
