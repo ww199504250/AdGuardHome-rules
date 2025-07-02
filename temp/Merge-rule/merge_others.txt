@@ -8673,7 +8673,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||google-analytics.com/plugins/ua/linkid.js$domain=ecmweb.com
 @@||google-analytics.com/plugins/ua/linkid.js$domain=support.amd.com
 @@||google-analytics.com/urchin.js$domain=record.xl.pt
-@@||google.com/adsense/search/ads.js$domain=news.biglobe.ne.jp
 @@||google.com/images/integrations/$image,~third-party
 @@||google.com/recaptcha/$csp,subdocument
 @@||google.com/recaptcha/api.js
@@ -10782,6 +10781,7 @@ apkmirror.com,tuxpi.com#@#.adslot
 apkmoddone.com###sn-Notif
 apkmody.io,apkmody.mobi###flirtwith-modal
 apkmody.io,apkmody.mobi##.body-fixed-footer
+apkmody.mobi###custom-container
 apkpac.com##.layout-beyond-ads
 apksum.com##.ad-left
 apnews.com##.Page-header-leaderboardAd
@@ -35311,7 +35311,6 @@ zzzyk.com###Tinfo
 ||hosturbater.com^
 ||hostvy.com^
 ||hostxxxinquiries.creatorlink.net^
-||hostz.hopto.org^
 ||hostzb.com^
 ||hot-count.com^$third-party
 ||hot-growngames.life^$popup
