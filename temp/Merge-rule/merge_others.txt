@@ -11963,7 +11963,7 @@ boundhub.com##.pla4ce
 boundhub.com##.t2op
 boundhub.com##.tab7le
 boundhub.com##noindex
-boundingintocomics.com##.tpd-incontent-ad-container
+boundingintocomics.com,thegrio.com##.tpd-incontent-ad-container
 bowenislandundercurrent.com,coastreporter.net,delta-optimist.com,richmond-news.com,squamishchief.com,tricitynews.com##.ga-ext
 bowhunter.com,firearmsnews.com,flyfisherman.com,gameandfishmag.com,gunsandammo.com,handgunsmag.com,in-fisherman.com,northamericanwhitetail.com,petersenshunting.com,rifleshootermag.com,shootingtimes.com,wildfowlmag.com##.video-detail-player
 box-core.net,mma-core.com###rrec
@@ -14528,10 +14528,8 @@ etest8.com###gads1
 etest8.com##.subtop2right
 etherealgames.com###widgets-wrap-after-content
 etherealgames.com###widgets-wrap-before-content
-etherscan.io##.text-white.text-opacity-75.noindex-section.mb-0:has([style="text-decoration: none;"])
-etherscan.io##[data-t8xt5pt6kr-seq="0"]
-etherscan.io##div > a[target="_blank"][rel="nofollow"] > img[alt="Ads"]
-etherscan.io,polygonscan.com###t8xt5pt6kr-0-1
+etherscan.io###ContentPlaceHolder1_maintable > .card > .row:has(a[href="/contactusadvertise"])
+etherscan.io##div[data-nosnippet]:has(> ins[id])
 etnet.com.cn##.firstAD
 etonline.com##.leader-inc
 etonline.com##.omni-skybox-plus-stick-placeholder
@@ -20702,7 +20700,6 @@ polyapt.com#@#.ad-one
 polygon.com##[data-concert]
 polygon.com##[data-native-ad-id^="container"]
 polygon.com,vox.com##[class]:has(> [data-concert])
-polygonscan.com###my-banner-ad
 pons.com###pons-ad-footer
 pons.com###pons-ad-leaderboard__container
 pons.com##.parallax-container
@@ -23176,6 +23173,7 @@ theglobeandmail.com##div[class^="BaseAd_"]
 thegoodchoice.ca,wandering-bird.com##.cb-box
 thegradcafe.com##.text-center.py-3
 thegradcafe.com##.upcoming-events
+thegrio.com##.aspect-ratio-box
 thegrio.com##.tpd-featured-video
 theguardian.com##.dcr-1aq0rzi
 theguardian.com##.js-top-banner
@@ -25867,6 +25865,7 @@ zzzyk.com###Tinfo
 ||1ppt.com/ad$image
 ||1pwx.com/js/ck.js
 ||1redirb.com^$popup
+||1ri7zwh3k.localto.net^
 ||1stfreehosting.com^
 ||1sweethost.com^
 ||1ts11.top^$popup
@@ -27006,6 +27005,7 @@ zzzyk.com###Tinfo
 ||adatrix.com^$third-party
 ||adbard.net^$third-party
 ||adbasket.net^$third-party
+||adbeacon.com^$third-party
 ||adbetclickin.pink^$popup
 ||adbetclickin.pink^$third-party
 ||adbetnetwork.com^$third-party
@@ -28781,6 +28781,7 @@ zzzyk.com###Tinfo
 ||awswaf.com^*/telemetry
 ||ax1x.com/2020/06/14/NSoyHe.png
 ||ax1x.com^$domain=caibaojian.com|hktvyb.com|zzvips.com
+||axeo.riselocal.net^
 ||axf8.net^$third-party
 ||axiaffiliates.com^$third-party
 ||axlikeoedipus.shop^$popup
@@ -29574,6 +29575,7 @@ zzzyk.com###Tinfo
 ||blossoms.com^$third-party
 ||blozoo.info/js/ranktool/
 ||blozoo.info/js/reversetool/
+||blp.riselocal.net^
 ||blsnet.com/plugins/advertising/getad/
 ||blubberspoiled.com^$popup
 ||bluecava.com^$third-party
@@ -31094,7 +31096,6 @@ zzzyk.com###Tinfo
 ||confirmational.com^$third-party
 ||confirmit.com/wix/inline.aspx?
 ||conhostlogsdown.sytes.net^
-||conhostlogsdown1.sytes.net^
 ||connatix.com/rtb/
 ||connatix.com/scripts/$~third-party
 ||connatix.com/tr/
@@ -32205,6 +32206,7 @@ zzzyk.com###Tinfo
 ||dopaleads.com^$popup
 ||dopansearor.com^$popup
 ||dope.autos^$popup
+||dopf.uthost.net^
 ||doppiocdn.com/healthcheck
 ||doppiocdn.org/healthcheck
 ||dorcel.com/_stats/
@@ -34215,6 +34217,7 @@ zzzyk.com###Tinfo
 ||ghost580.com/js/nei4.js
 ||ghost8.cn^
 ||ghostbringer.com^
+||ghostbyte.monster^
 ||ghostgenie.com^
 ||ghostnewz.com^
 ||ghostnewz.com^$popup
@@ -38900,6 +38903,8 @@ zzzyk.com###Tinfo
 ||myhack58.com/Articleacb0
 ||myhack58.com^*0$script
 ||myhaitang.cc/assets/public/*.js
+||myhost.misecure.com^
+||myhost.servepics.com^
 ||myhost001.myddns.me^
 ||myhost5.ddns.net^
 ||myhostisstillgood.hopto.org^
@@ -39832,7 +39837,6 @@ zzzyk.com###Tinfo
 ||ooyala.com^*/report?log
 ||opbandit.com^$third-party
 ||opecloud.com/ope-pdmp.js
-||open-premium-membership.websitepro.hosting^
 ||open.oneplus.net^$third-party
 ||open.ua/stat/
 ||openadserving.com^$popup
@@ -40651,6 +40655,7 @@ zzzyk.com###Tinfo
 ||pocitadlo.sk^$third-party
 ||poco.cn/v1_1/rank/get_floating_layer_ad
 ||poco.cn^*_info_banner
+||podbex.com^$document
 ||podcorn.com^$third-party
 ||podefr2.net^$popup
 ||poder360.com.br/_tracker
@@ -43486,6 +43491,7 @@ zzzyk.com###Tinfo
 ||srv235787.hoster-test.ru^
 ||srv235887.hoster-test.ru^
 ||srv236216.hoster-test.ru^
+||srv236271.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
@@ -43776,7 +43782,6 @@ zzzyk.com###Tinfo
 ||streamereasy.click^$popup
 ||streamingsites.com/images/adverticement/
 ||streamlabs.com/web/data/ping
-||streamline-local-manage-uid36729041.vercel.app^
 ||streamnoads.com/stat/
 ||streamoptim.com/log.js
 ||streamoptim.com/log/report?
