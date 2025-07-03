@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0LQfOH44N8M+rJQtv3AyPg
-! Version: 202507021031
+! Checksum: 1gkcTlM+4SrvdUqUvACKnw
+! Version: 202507030021
 ! Title: EasyList China
-! Last modified: 02 Jul 2025 10:31 UTC
+! Last modified: 03 Jul 2025 00:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1748,6 +1748,15 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||2wq9u06jq.com^
+||rmbsfh.icu^
+||j2jtq0hpb.com^
+||kawxkg.icu^
+||balerdoits.com^
+||hawthorng66.top^
+||qbcyr5tfd.com^
+||ldbwxo.cn^
+||eknz.cn^
 ||pq9alk18ik.com^
 ||mxafaw.icu^
 ||d1pc1a0g34.com^
@@ -1755,6 +1764,7 @@ newduba.cn###jq_youxi
 ||bvek.cn^
 ||4aqoxkesav.com^
 ||jasmined544.com^
+||yhak0o7rtz.com^
 ||uub6hz5eu.com^
 ||tristaspd.com^
 ||ngjfjf.icu^
@@ -9919,6 +9929,7 @@ meijutt.*/js/pcjs/
 ||waipian*.com/statics/recommend/
 ||taozi.icu/asfile/m/js/guding.
 ||komiic.com/ads/
+||v2ex.com/pro/emitter
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
 gx.cn###html-box-AD
