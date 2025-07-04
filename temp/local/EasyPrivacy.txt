@@ -26,6 +26,7 @@
 .com/counter?
 .com/dc.gif?
 .com/g.gif?
+.com/hit$ping
 .com/log/?
 .com/stats.aspx?
 .com/track?v=
@@ -553,6 +554,7 @@
 /cklog.js
 /clear.gif?
 /click-tracking.js
+/click.php?lp=data_upd&
 /click/impression?
 /click?track=
 /click_metrics-jquery.js
@@ -12994,6 +12996,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tapeblocker.com/stat/
 ||tapelovesads.org/stat/
 ||tapenoads.com/stat/
+||tapepops.com/stat/
 ||tapewithadblock.com/stat/
 ||tapewithadblock.org/stat/
 ||target-us.samsung.com^
