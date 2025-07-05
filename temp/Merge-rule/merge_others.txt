@@ -7559,6 +7559,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ?wpstealthadsjs=
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
+@@&http_referer=$domain=chaopx.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
 @@.com/ad.aspx|$domain=xdingdian.cc
@@ -9824,6 +9825,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
 @@||twitch.tv^$generichide
 @@||twitter.com/oct.js$domain=jp.square-enix.com
+@@||txws.yyzb456.top^$domain=857zb7.tv
 @@||type.jp/common/js/clicktag.js
 @@||uaprom.net/image/blank.gif?$image
 @@||ubisoft.com.first-party-js.datadome.co^$script,domain=connect.ubisoft.com
@@ -10635,6 +10637,7 @@ americanfreepress.net##strong > span > a
 americanfreepress.net,analyticsindiamag.com,namepros.com,readneverland.com##[width="600"]
 americanfreepress.net,sashares.co.za##.wppopups-whole
 americanindependent.com##.td-banner-bg
+americansongwriter.com,wideopencountry.com###sv-video-container
 americaoutloud.com,analyticsindiamag.com,artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com,developer-tech.com,forexmt4indicators.com,gamblingnewsmagazine.com,godradio1.com,irishcatholic.com,runnerstribe.com,tntribune.com,tryorthokeys.com##[width="728"]
 amgreatness.com##.bg-gray-200.mx-auto
 aminoapps.com##.overflow-scroll-sidebar > div
@@ -10894,7 +10897,7 @@ asda.com##.co-item:has(.co-item__sponsored-label)
 asda.com##.co-product-list[data-module-type="HookLogic"]
 asgg.php$domain=ghostbin.me|paste.fo
 asheville.com##.injected-ads
-asiangay.tv,asiangaysex.net,gaysex.tv,japangaysex.com##.float-ck
+asiangay.tv,asiangaysex.net,gaysex.tv,gayxx.net,japangaysex.com##.float-ck
 asianjournal.com###fancybox-overlay
 asianjournal.com###fancybox-wrap
 asianjournal.com##.ad_before_title
@@ -16326,6 +16329,8 @@ hellomagazine.com##.adContainerClass_acvudum
 hellomagazine.com,hola.com##.-variation-bannerinferior
 hellomagazine.com,hola.com##.-variation-megabanner
 help.xunlei.com#@#.a_fr
+helpnetsecurity.com##[style*="max-height: 250"]
+helpnetsecurity.com##[style^="max-height: 90"]
 helpnetsecurity.com##a[href^="https://helpnet.link/"] > img
 helpnetsecurity.com##aside[style="position:relative;display:block;box-sizing:border-box;margin:auto;padding:0;text-align:center;"]
 helpnetsecurity.com##div[style*="max-height: 250px; max-width: 300px;"]
@@ -17061,6 +17066,7 @@ independent.co.uk,standard.co.uk,the-independent.com###stickyFooterRoot
 independent.co.uk,standard.co.uk,the-independent.com##.teads:has(.third-party-ad)
 independent.co.uk,standard.co.uk,the-independent.com##[class] > :has(> [data-mpu])
 independent.co.uk,standard.co.uk,the-independent.com##[class]:has(> [data-mpu])
+independent.co.uk,the-independent.com###billboard-wrapper
 independent.co.uk,the-independent.com###taboola-mid-article-thumbnails-iii
 independent.co.uk,the-independent.com###top-banner-wrapper
 independent.com##.wp-block-group__inner-container
@@ -17861,7 +17867,7 @@ justwatch.com##.sponsored-recommendation
 juxia.com###fmt
 juxia.com##.game_img_list
 juxia.com##.index_bttg
-jw.org#@#.adsBlock
+jw.org,smart-flash.jp#@#.adsBlock
 jwire.com.au##div[style^="width:468px;"]
 jx3pve.com##.m-banner-tool
 jxcn.cn,redianyule.com##.dsp_yxxf
@@ -22253,6 +22259,8 @@ smalldev.tools##a[href="https://sendit.arcana.network"]
 smallnetbuilder.com##div[id^="snb-"]
 smallpopo.com##.fabox
 smallseotools.com##.mx-auto.d-block
+smart-flash.jp#@#.leftAds
+smart-flash.jp#@#.rightAds
 smartasset.com##.riklam-container
 smartasset.com##.sponsorcalc-wrapper
 smartasset.com##.top-banner-ctr
@@ -22517,7 +22525,6 @@ speedtest.cn##.ticket618_logo
 speedtest.cn##div[class^="speed-twoads"]
 speedtest.net##.pure-u-custom-ad-rectangle
 speedtest.net##.pure-u-custom-wifi-recommendation
-speedtest.net##.speedtest-container[style^="min-height:"] {min-height:unset
 speedtest.net##.top-placeholder
 spellcheck.net###grmrl_one
 spiceworks.com###sidebar-bottom-ad
@@ -23070,7 +23077,6 @@ thartribune.com##.adsbypubpower
 the-express.com###web-strip-banner
 the-express.com##.fr-container
 the-express.com##[data-tb-non-consent]
-the-independent.com###billboard-wrapper
 the-independent.com###taboola-mid-article-thumbnails-ii
 the-scientist.com###Torpedo
 the-scientist.com###preHeader
@@ -23115,6 +23121,7 @@ thechinaproject.com##.a4d
 thechinaproject.com##.sticky-spacer
 thecoinrise.com##.pp_ad_block
 thecompleteuniversityguide.co.uk##.bnr_out
+thecooldown.com##.theco-target
 thecooldown.com##.wp-block-tcd-multipurpose-gutenberg-block
 thecountersignal.com###geo-header-ad-1
 thecourier.com###TCFO_Middle2_300x250
@@ -24600,7 +24607,6 @@ whoreshub.com##[class^="pop-"]
 whosdatedwho.com##.block-global-adDFP_HomeFooter
 whosdatedwho.com##.ff-adblock
 wichspornos.com##.tf-sp
-wideopencountry.com###sv-video-container
 wideopencountry.com###video-header
 wien.info##.promotion-footer
 wifinetnews.com##table[height="260"]
@@ -30161,6 +30167,7 @@ zzzyk.com###Tinfo
 ||capturemedia.network^$third-party
 ||capturly.com^$third-party
 ||car.pchome.com.tw/iframe/news_iframe.
+||caracghost.pro^
 ||carambo.la/analytics/
 ||carambo.la/logging/
 ||carambo.la^$third-party
@@ -35320,7 +35327,6 @@ zzzyk.com###Tinfo
 ||hostsq.com^
 ||hostssp.com^
 ||hostsu.com^
-||hostszoom.com^
 ||hostt.link^
 ||hostteyahoo.ddns.net^
 ||hostujmy.pl^
@@ -36771,7 +36777,7 @@ zzzyk.com###Tinfo
 ||jwpcdn.com/player/plugins/googima/
 ||jwpcdn.com^$script,domain=bgr.com|decider.com|dexerto.com
 ||jwplatform.com/libraries/tdeymorh.js
-||jwplayer.com^$domain=americansongwriter.com|dexerto.com|evoke.ie|ginx.tv|imfdb.org|infoworld.com|kiplinger.com|lifewire.com|soulbounce.com|spokesman-recorder.com|tennis.com|thecooldown.com|thestreet.com|tomshardware.com|variety.com|whathifi.com
+||jwplayer.com^$domain=americansongwriter.com|dexerto.com|evoke.ie|ginx.tv|imfdb.org|infoworld.com|kiplinger.com|lifewire.com|soulbounce.com|spokesman-recorder.com|tennis.com|thecooldown.com|tomshardware.com|variety.com|whathifi.com
 ||jxcn.cn/assets/images/downWeatherApp.png
 ||jxcn.cn/js/hotpic_
 ||jxdown.com/statics/js/all.js
@@ -37667,6 +37673,8 @@ zzzyk.com###Tinfo
 ||localiser-map.fr^
 ||localiser-services.fr^
 ||localiser-verifier.fr^
+||localisermaps.fr^
+||localisersupport.fr^
 ||locallycompare.com^
 ||locallyforblow.shop^
 ||locallystocked.com^
@@ -42413,6 +42421,7 @@ zzzyk.com###Tinfo
 ||scrippscontroller.com^$third-party
 ||script-api.kinja.com/script?
 ||script.idgentertainment.de/gt.js
+||script.mixi.net/static/js/build/mixi-analysis-.production.js
 ||scriptil.com^$third-party
 ||scripts.stay22.com/letmeallez.js
 ||scripts.swifteq.com/hc_events.js
