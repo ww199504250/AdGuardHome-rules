@@ -8917,7 +8917,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||js.assemblyexchange.com/videojs-skip-$domain=worldstar.com
 @@||js.assemblyexchange.com/wana.$domain=worldstar.com
 @@||js.datadome.co/tags.js$script,domain=monster.ca|sso.garena.com|thefork.at|thefork.be|thefork.ch|thefork.co.uk|thefork.com|thefork.de|thefork.es|thefork.fr|thefork.it|thefork.nl|thefork.pt|thefork.se
-@@||js.sentry-cdn.com^$script,domain=app.homebinder.com|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
+@@||js.sentry-cdn.com^$script,domain=app.homebinder.com|bolt.new|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||jsdelivr.net/combine/npm/$domain=ulifestyle.com.hk
 @@||jsdelivr.net^$script,domain=thepiratebay.org
 @@||jsdelivr.net^*/keen-tracking.min.js$domain=nextquotidiano.it
@@ -27618,6 +27618,7 @@ zzzyk.com###Tinfo
 ||aetvellt.net^$popup
 ||af-z.jp^$third-party
 ||af29.com/banner/
+||afa.yey.mybluehost.me^
 ||afcpatrk.com^$popup
 ||aff-handler.com^$popup
 ||aff-handler.com^$third-party
@@ -37569,6 +37570,7 @@ zzzyk.com###Tinfo
 ||livefyre.com^*/tracker.js
 ||livefyre.com^*/tracking/
 ||livehelpnow.net/lhn/handler/$image
+||livehost.live^
 ||livehotty.com/landing/$popup,third-party
 ||livejasmin.com/pu/$popup
 ||livejasmin.com^$popup,third-party
@@ -40169,6 +40171,7 @@ zzzyk.com###Tinfo
 ||panpan.org/plus/img/
 ||panpan.org/templets/ad/
 ||pansoso.com^*pss.
+||pantyhosecool.com/rtig/
 ||pantyhosepornstars.com/foon/pryf003.js
 ||paopaoche.net/public/bd/article_inc.js
 ||paopaoche.net/skins/count.js
@@ -43524,6 +43527,7 @@ zzzyk.com###Tinfo
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srtrak.com^$popup
+||srv155384.hoster-test.ru^
 ||srv234925.hoster-test.ru^
 ||srv235692.hoster-test.ru^
 ||srv235787.hoster-test.ru^
@@ -46723,6 +46727,7 @@ zzzyk.com###Tinfo
 ||wtstats.ro^$third-party
 ||wudizuqiu.com/fy
 ||wudizuqiu.com/img/dasai8/ybbj.png
+||wudthost.duckdns.org^
 ||wuhaolin.cn/c/ls
 ||wujinzy.com/images/ok.gif
 ||wumii.cn/ext/relatedItemsWidget
@@ -46946,6 +46951,7 @@ zzzyk.com###Tinfo
 ||xmrpool.net^$third-party
 ||xmtrading.com^$third-party
 ||xn--e1aaipcdgnfsn.su^*/counter.php
+||xn--pal-5cd3fta.xn--m-0tbi.xn--lgin-55d.lovemyhost.com^
 ||xncwxw.me/js/xiaxuanfu.
 ||xnewsletter.de/count/counter.php?
 ||xng02.com/api.php?mod=ad&
