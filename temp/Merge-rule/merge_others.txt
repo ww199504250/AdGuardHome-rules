@@ -5331,6 +5331,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /yksmartbanner.
 /ylnew/*.js$image
 /yna_stat.js
+/yofi-telemetry-prod.min.js
 /youtubeVideoAnalytic.js
 /yozons-lib/*
 /yryy/css/javamy.js
@@ -27542,7 +27543,6 @@ zzzyk.com###Tinfo
 ||advcash.com^$third-party
 ||advconversion.com^$third-party
 ||adventori.com^$third-party
-||adventure-local-git-main-uid1093485.vercel.app^
 ||adventure-local-manage-uid728905163.vercel.app^
 ||adventurefeeds.com^$third-party
 ||adverdirect.com^$popup
@@ -28493,7 +28493,6 @@ zzzyk.com###Tinfo
 ||aralego.net^$third-party
 ||aramuz.net/frontapi/*/analyticsEvent?
 ||arbiscan.io/images/gen/*_StylusBlitz_Arbiscan_Ad.png
-||arbitrary-local-git-main-uid1692583.vercel.app^
 ||arborerplanful.shop^$popup
 ||arc.io^$third-party
 ||arc.pub/clavis/training/events
@@ -29928,6 +29927,7 @@ zzzyk.com###Tinfo
 ||bumq.com^$third-party
 ||bumskontakte.ch^$third-party
 ||bunchbox.co^$third-party
+||bundle.dyn-rev.app/loader.js
 ||bunintruder.com^$popup
 ||bunkr.si/lazyhungrilyheadlicks.js
 ||bunkrr.su/lazyhungrilyheadlicks.js
@@ -31443,7 +31443,6 @@ zzzyk.com###Tinfo
 ||cross-system.com^$script,third-party
 ||crossdresserhub.com/*.php$script
 ||crosspixel.net^$third-party
-||crosswalk-local-git-main-uid5371289.vercel.app^
 ||crosswalkmail.com^$third-party
 ||crowdscience.com^$third-party
 ||crowdskout.com/analytics.js
@@ -34258,6 +34257,7 @@ zzzyk.com###Tinfo
 ||ghost580.com/js/nei4.js
 ||ghost8.cn^
 ||ghostbringer.com^
+||ghostdx.com^
 ||ghostgenie.com^
 ||ghostnewz.com^
 ||ghostnewz.com^$popup
@@ -38479,7 +38479,6 @@ zzzyk.com###Tinfo
 ||mieru-ca.com^$third-party
 ||mifengtd.cn/ad-
 ||migrantspiteconnecting.com^$popup
-||migration-local-git-main-uid7539206.vercel.app^
 ||miguyu.com/AD/
 ||mikanani.me/images/Masha/
 ||mikuclub.*/pub/
@@ -39377,6 +39376,7 @@ zzzyk.com###Tinfo
 ||ngs.ru/s/
 ||ngsinspiringtga.info^$popup
 ||ngx273.inmotionhosting.com^
+||ngx361.inmotionhosting.com^
 ||ngx365.inmotionhosting.com^
 ||nhentai.net/api/_/popunder?$popup
 ||nhk.or.jp/mpulse/boomerang/
@@ -39835,7 +39835,6 @@ zzzyk.com###Tinfo
 ||online-metrix.net^$third-party
 ||online-umwandeln.de/analytics.js
 ||online.*/promoredirect?key=
-||onlinebdo.locale-img.workers.dev^
 ||onlinecashmethod.com^$popup
 ||onlinedeltazone.online^$popup
 ||onlinefinanceworld.com^$popup
@@ -40041,7 +40040,6 @@ zzzyk.com###Tinfo
 ||outbrain.com^*/widgetStatistics.js
 ||outbrainimg.com/transform/$media,third-party
 ||outbrainimg.com^$third-party
-||outermost-local-git-main-uid7581943.vercel.app^
 ||outfunnel.com^$third-party
 ||outgratingknack.com^$popup
 ||outhulem.net^$popup
@@ -40370,7 +40368,6 @@ zzzyk.com###Tinfo
 ||performancetrustednetwork.com^$popup
 ||performax.cz^$third-party
 ||performgroup.com/metrics/
-||perimeter-local-git-main-uid5328194.vercel.app^
 ||perimeterx.net/api/v1/collector/
 ||perion.com^$third-party
 ||perispro.com^$popup
@@ -42232,6 +42229,7 @@ zzzyk.com###Tinfo
 ||s-msn.com/portal/js/vendor/manto/
 ||s-msn.com/portal/xiatui.js
 ||s-opgg-kit.op.gg/gnb/config/*/lol.ads.json
+||s.axon.ai/s/pixel.js
 ||s.cdin.me/i.php
 ||s.click.aliexpress.com^$popup,domain=dzapk.com|up-4ever.net
 ||s.go.sohu.com^*/?callback=
@@ -42496,7 +42494,6 @@ zzzyk.com###Tinfo
 ||seatrackingdomain.com^$document
 ||seatrackingdomain.com^$popup
 ||seattlepi.com/413gkwMT/init.js
-||secretary-local-git-main-uid6850134.vercel.app^
 ||secretarypleasure.xyz^$document
 ||secretarypleasure.xyz^$popup
 ||secretbehindporn.com^$third-party
@@ -42510,6 +42507,7 @@ zzzyk.com###Tinfo
 ||secure.webhostingpad.com^
 ||secure256.inmotionhosting.com^
 ||secure289.inmotionhosting.com^
+||secure291.inmotionhosting.com^
 ||secure361.inmotionhosting.com^
 ||secureanalytic.com^$third-party
 ||secureclickers.com^$popup
@@ -45610,6 +45608,7 @@ zzzyk.com###Tinfo
 ||urlbrief.com^$third-party
 ||urlcash.net^$third-party
 ||urldefense.com^$image,third-party
+||urlocalartist.pt^
 ||urstats.de^$third-party
 ||urtyert.com^$popup
 ||usa.cc^$third-party
