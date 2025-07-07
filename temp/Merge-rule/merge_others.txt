@@ -7224,6 +7224,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 85lou.com###topwarning_7ree
 85novel.com,digitalocean.com,ikjzd.com#@#.ad-content
 85po.com##.asside-link
+85po.com,babepump.com,fapnfuck.com,fuqster.com,povxl.com,sexpester.com,w1mp.com,w4nkr.com,xmateur.com##.link-offer
 85wp.com###a3_diy2
 85wp.com##.top-ad-img
 8684.cn,8684.com##div[id*="adid"]
@@ -7529,6 +7530,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ?action=statsjs&
 ?action=track_visitor&
 ?action=tracking_script
+?adl=1*&id=$script,subdocument,~third-party
 ?adspot_$domain=~sponichi.co.jp
 ?advertiser_id=$domain=~ads.pinterest.com
 ?bd=ppd&r=$document
@@ -11116,7 +11118,6 @@ bab.la##.info-panel
 babepedia.com##.left_side > .sidebar_block > a
 babepedia.com##a[href^="https://porndoe.com/"]
 babepump.com,fapnfuck.com,fuqster.com,povxl.com,sexpester.com,thotcity.su,w1mp.com,w4nkr.com,xmateur.com##.asside-link
-babepump.com,fapnfuck.com,fuqster.com,povxl.com,sexpester.com,w1mp.com,w4nkr.com,xmateur.com##.link-offer
 babesandstars.com##.banner-right
 babesandstars.com##.traders
 babesandstars.com##a[href^="http://rabbits.webcam/"]
@@ -11384,7 +11385,7 @@ baltic-course.com###banner_master_top
 baltic-course.com###bannerbottom
 baltic-course.com###bannerleft
 baltic-course.com,webfail.com###bannertop
-bamsmackpow.com,mentalfloss.com##.player-wrapper
+bamsmackpow.com,fansided.com,mentalfloss.com##.player-wrapper
 bamxs.com###inglestore
 bamxs.com##body > a
 bangkokpost.com##.ads-related
@@ -19961,6 +19962,7 @@ nodejs.cn###pagead0
 nodejs.libhunt.com##.saashub-ad
 nodejs.org##.\!block[href^="https://www.herodevs.com/support/node-nes?"]
 nodeloc.com###wghtml
+nodeseek.com##.promotation-item
 noelleeming.co.nz#?#div.product-tile:-abp-has(span:-abp-contains(Sponsored))
 nofilmschool.com##.horizontal_ad
 nofilmschool.com##[class^="rblad-nfs_content"]
@@ -28166,6 +28168,7 @@ zzzyk.com###Tinfo
 ||amobee.com^$third-party
 ||amorlocal.com^
 ||amoteehoodaumse.net^$popup
+||amp.analytics-debugger.com^$third-party
 ||amp.vg/track/
 ||amplayeranydwou.info^$popup
 ||amplitude.com^$third-party
@@ -28187,7 +28190,6 @@ zzzyk.com###Tinfo
 ||analytically.net^$third-party
 ||analytics-api.dvdfab.
 ||analytics-cdiscount.com^$third-party
-||analytics-debugger.com^$third-party
 ||analytics-helper.com^$third-party
 ||analytics.ahrefs.
 ||analytics.cdnstr.com^$third-party
@@ -28409,6 +28411,7 @@ zzzyk.com###Tinfo
 ||app.chat.xiaomi.net^$third-party
 ||app.clickfunnels.com^$~stylesheet
 ||app.instantlocal.com^
+||app.kulgacdn.com/js/script.js
 ||app.link/_r?$script,third-party
 ||app.mediaexpert.pl/spark-data/
 ||app.opmnstr.com/v2/geolocate/
