@@ -4666,6 +4666,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /taevents-c.js
 /tag/proxy?id=G-
 /tag/tag.jsp?
+/tag?name=PageView$xmlhttprequest
 /tag?tags=
 /tagAnalyticscnil.php
 /tagCNIL.js
@@ -10868,6 +10869,7 @@ arcadespot.com##.as-label
 arcadespot.com##.as-unit
 archaeology.org##.site-header__iykyk
 archaeology.org##.top_black
+archaeologymag.com###tnp-leads-topbar
 archdaily.com##.ad-300-250
 architecturesideas.com##.linkpub_right_img
 archpaper.com##.an-ads
@@ -12818,7 +12820,7 @@ cnet.com##.c-avLazyStickyVideo
 cnet.com##.c-pageReviewContent_ad
 cnet.com##.c-shortcodeVideo_wrap
 cnet.com##.stickySkyboxSpacing
-cnet.com##[data-meta="placeholder-slot"]
+cnet.com,filehippo.com,filehippo.de,filehippo.jp,filehippo.pl##[data-meta="placeholder-slot"]
 cnet.com,healthline.com##.myFinance-ad-unit
 cnet.com,medicalnewstoday.com###MyFiAd
 cnet.com,zdnet.com##.c-avStickyVideo
@@ -35300,6 +35302,7 @@ zzzyk.com###Tinfo
 ||hostileconductive.com^
 ||hostinfo.cafe24.com^
 ||hosting-config.com^
+||hosting.adjug.com^
 ||hosting.miarroba.info^
 ||hosting.scently.nl^
 ||hosting.sproutbuilder.com^
@@ -37660,6 +37663,7 @@ zzzyk.com###Tinfo
 ||local-flirt.com^
 ||local-shares.ri.la^
 ||local-subsidiary.gl.at.ply.gg^
+||local-update.com^
 ||localads-statistics.maps.me^
 ||localads.maps.me^
 ||localaffordableroofer.com^
