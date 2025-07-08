@@ -7433,6 +7433,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://sli.*/imp?s=$image
 ://sportframe*.co^
 ://sportframe*.org^
+://stat.*/pageview/$xmlhttprequest
 ://stats.*/code/e.js
 ://t.order.*/r/?id=$image
 ://t.targito.
@@ -19625,6 +19626,7 @@ nationthailand.com##.light-box-ads
 nativeplanet.com##span[class^="oiad-txt"]
 natlawreview.com##.\#div\.block-native_bf
 natlawreview.com##.block-content-ad_block
+natomanga.com##.fly-ads-chapter-page
 naturalblaze.com##.n553lfzn75
 naturalblaze.com##.spot_between_posts
 naturalblaze.com##.trfkye8nxr
@@ -31953,6 +31955,7 @@ zzzyk.com###Tinfo
 ||developers.miro.com/pageview
 ||developpez.com/public/js/log.js
 ||device9.com^$third-party
+||deviceprotect.eu^$third-party
 ||devopscon.io/session-qualification/$subdocument
 ||devphp.org.ua^$third-party
 ||devtribu.fr/t.php?
@@ -42579,6 +42582,7 @@ zzzyk.com###Tinfo
 ||sembox.it/js/sembox-tracking.js
 ||semiocast.com^$third-party
 ||semnicneposilejte.cz^$third-party
+||sempra.pro/stat/
 ||semqraso.net^$popup
 ||semtracker.de^$third-party
 ||sendpulse.com^$third-party
@@ -44575,6 +44579,8 @@ zzzyk.com###Tinfo
 ||tiexue.net/pic/tx_1220.jpg
 ||tiexue.net/zgg/
 ||tiger-spotted.cyou^$popup
+||tigerbrluck.com^$document
+||tigerbrluck.com^$popup
 ||tigerking.world^$popup
 ||tigtag.com/images/*1000x
 ||tigtag.com/images/pic1/
@@ -45066,6 +45072,8 @@ zzzyk.com###Tinfo
 ||trailheadapp.com^$third-party
 ||trak.today-trip.com^$popup
 ||trakaff.net^$popup
+||trakit20.com^$document
+||trakit20.com^$popup
 ||trakken.de^$third-party
 ||trakksocial.googlecode.com^$third-party
 ||traktor.ru^*/counter.php?
@@ -45321,7 +45329,6 @@ zzzyk.com###Tinfo
 ||tvpage.com^*/__tvpa.gif?
 ||tvsou.com/js/360ad.js
 ||tvsquared.com^$third-party
-||tvtrep.vivalocal.com^
 ||tvyan.com/images/jscss/tv-
 ||tvyun07.com/template/mytheme/statics/js/layer/
 ||tw.beanfun.com/bfweb/NEW/commonlogin
