@@ -5497,6 +5497,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 ghost-ship.com
 0.0.0.0 ghostbringer.com
 0.0.0.0 ghostbyte.monster
+0.0.0.0 ghostdx.com
 0.0.0.0 ghostlayer.site
 0.0.0.0 ghostpioneer.online
 0.0.0.0 ghoststep.monster
@@ -5513,6 +5514,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 host.dailys.wiki
 0.0.0.0 host204805.xce.pl
 0.0.0.0 host207.ewtn.com
+0.0.0.0 host579678.stronawcal.pl
 0.0.0.0 host6.hitbox.com
 0.0.0.0 host81-138-7-108.in-addr.btopenworld.com
 0.0.0.0 hostalesdelperu.com
@@ -5543,7 +5545,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hostingoliver.com
 0.0.0.0 hostingprod.com
 0.0.0.0 hostingtue.wpenginepowered.com
-0.0.0.0 hostnamedashboarddnsextension.com.tr
 0.0.0.0 hostpowermedium.112.2o7.net
 0.0.0.0 hostslave.com
 0.0.0.0 hostujmy.pl
@@ -5806,6 +5807,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.ghost-ship.com
 0.0.0.0 www.ghostbringer.com
 0.0.0.0 www.ghostbyte.monster
+0.0.0.0 www.ghostdx.com
 0.0.0.0 www.ghostlayer.site
 0.0.0.0 www.ghostpioneer.online
 0.0.0.0 www.ghoststep.monster
@@ -5817,6 +5819,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.host-pesce.xyz
 0.0.0.0 www.host.dailys.wiki
 0.0.0.0 www.host204805.xce.pl
+0.0.0.0 www.host579678.stronawcal.pl
 0.0.0.0 www.hostalesdelperu.com
 0.0.0.0 www.hostbiznesstrateg.click
 0.0.0.0 www.hostedfiles.net
@@ -5829,7 +5832,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hostingoliver.com
 0.0.0.0 www.hostingtue.wpenginepowered.com
-0.0.0.0 www.hostnamedashboarddnsextension.com.tr
 0.0.0.0 www.hostslave.com
 0.0.0.0 www.hostujmy.pl
 0.0.0.0 www.hosturbater.com
@@ -34211,6 +34213,7 @@ zzzyk.com###Tinfo
 ||ghostbringer.com^
 ||ghostdx.com^
 ||ghostgenie.com^
+||ghostgrid.monster^
 ||ghostnewz.com^
 ||ghostnewz.com^$popup
 ||ghostpanel.giize.com^
