@@ -1,5 +1,5 @@
-! 规则更新时间 2025年07月09日 16:00:55
-! 本规则数量 180条
+! 规则更新时间 2025年07月10日 00:41:57
+! 本规则数量 172条
 ! 更新频率 12小时
 ! 白名单规则
 
@@ -12,7 +12,6 @@
 @@||access-open.quark.cn^
 @@||acs-m.daraz.com.bd^
 @@||acs-m.daraz.pk^
-@@||acs.m.taobao.com^
 @@||action.metaffiliation.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
@@ -64,7 +63,6 @@
 @@||cm-beacon.nakanohito.jp^
 @@||cm-widget.nakanohito.jp^
 @@||cmp.inmobi.com^
-@@||config2.cmpassport.com^
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cs.silverpop.com^
 @@||cutcaptcha.com^
@@ -80,8 +78,6 @@
 @@||fairplay.l.qq.com^
 @@||feed.adrelayer.com^
 @@||forum.notebookreview.com^
-@@||galleryapi.micloud.xiaomi.net^
-@@||gaode-jmacs.m.taobao.com^
 @@||gate.first-id.fr^
 @@||get.neofinancial.com^
 @@||go.adjust.com^
@@ -91,7 +87,7 @@
 @@||grp07.ias.rakuten.co.jp^
 @@||gs.statcounter.com^
 @@||guce.advertising.com^
-@@||h5.tv.mi.com^
+@@||hb.afl.rakuten.co.jp^
 @@||health.halodoc.com^
 @@||hidive.com^
 @@||home.focusatwill.com^
@@ -154,10 +150,8 @@
 @@||sentry.d.xiaomi.net^
 @@||smtp.focusgroupresearch.com^
 @@||sponsor.nitropay.com^
-@@||srv.sec.miui.com^
 @@||stash.roistat.com^
 @@||static-v*.trbo.com^
-@@||stats.music.xiaomi.com^
 @@||str.hit.gemius.pl^
 @@||support-beacon.nakanohito.jp^
 @@||support-widget.nakanohito.jp^
@@ -169,14 +163,12 @@
 @@||thumbnail.thench.net^
 @@||tlaol.com^
 @@||tlh.gedidigital.it^
-@@||torimochi.line-apps.com^
 @@||tr.rdrtr.com^
 @@||track.rutarget.ru^
 @@||track.webgains.com^
 @@||validate.perfdrive.com^
 @@||vcentry2.valuecommerce.ne.jp^
 @@||vcentry3.valuecommerce.ne.jp^
-@@||vv.video.qq.com^
 @@||www.alidns.com^
 @@||www.dogpile.com^
 @@||www.googleadservices.com^
