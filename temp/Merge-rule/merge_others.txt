@@ -6206,7 +6206,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 131458.com##.divGuanggao
 131458.com##.ulfooter_top
 1314gl.com##a[href*=".apkpackagesys.com/"]
-1337x.to###vpnvpn2
+1337x.to##[href^="https://limeiptv.to"]
 13tv.top,freehao123.com##.box
 13tv.top,sina.com##.aditem
 141hongkong.com###dialog
@@ -9672,6 +9672,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||torrindex.net/images/*.gif$domain=thepiratebay.org
 @@||torrindex.net/images/*.jpg$domain=thepiratebay.org
 @@||torrindex.net^$script,stylesheet,domain=thepiratebay.org
+@@||totalvene.fi/media/yendifvideoshare/adverts/$~third-party
 @@||totheglory.im/pic/ttg_logo
 @@||toweroffantasy-global.com/events/accounttransfer/public/js/fingerprint.js$~third-party
 @@||townhall.com/resources/dist/js/prebid-pjmedia.js$script,domain=pjmedia.com
@@ -14005,6 +14006,7 @@ duba.net###login_alert
 duckduckgo.com##.module--carousel-products
 duckduckgo.com##.module--carousel-toursactivities
 duckduckgo.com##.vertical-section-divider:has(span.badge--ad-wrap)
+duckduckgo.com##[data-layout$="_ads"]
 duckduckgo.com##[data-testid=serp-popover-promo]
 duckduckgo.com##li[data-layout="creditcard_ads"]
 duckduckgo.com##li[data-layout="products_middle"]
@@ -43295,6 +43297,7 @@ zzzyk.com###Tinfo
 ||srv235787.hoster-test.ru^
 ||srv235887.hoster-test.ru^
 ||srv236271.hoster-test.ru^
+||srv236386.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
