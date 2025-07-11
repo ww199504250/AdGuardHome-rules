@@ -37,7 +37,7 @@ $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.google.com *.addthis.com *.addthisedge.com *.facebook.net *.twitter.com *.jquery.com *.x.com,domain=kinox.lat|kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fyi|kinox.gratis|kinox.io|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to,~third-party
 $csp=script-src 'self' * 'unsafe-inline',domain=quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jubiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|2dsk.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
-$csp=script-src 'self' * 'unsafe-inline',domain=zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+$csp=script-src 'self' * 'unsafe-inline',domain=xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 $csp=script-src 'self' *,domain=sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' pic1.mangapicgallery.com www.google.com,domain=mangago.me
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' www.gstatic.com cdn.jsdelivr.net maxcdn.bootstrapcdn.com,domain=bigwarp.io
@@ -1072,7 +1072,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
-/\.[a-z]+[\:\/]/$~image,third-party,domain=zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+/\.[a-z]+[\:\/]/$~image,third-party,domain=xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 /\.[a-z]cinma[a-z].top\//$script,third-party
 /\.[a-z]dinma[a-z].top\//$script,third-party
 /\.[a-z]dinmi[a-z].top\//$script,third-party
@@ -28295,6 +28295,7 @@ zzzyk.com###Tinfo
 ||articlepawn.com^$popup
 ||artsai.com^$third-party
 ||arttrk.com/pixel/
+||aruba-hosting.account-id737298.com^
 ||aruba.hosting.costumer.account.eu.ngrok.io^
 ||aruba.it/servlet/counterserver?
 ||arwobaton.com^$document
@@ -28967,6 +28968,8 @@ zzzyk.com###Tinfo
 ||beemray.com^$third-party
 ||beemrdwn.com^$third-party
 ||beenpaidwoo-20559.portmap.host^
+||beenpaidwoo-29303.portmap.host^
+||beenpaidwoo-61863.portmap.host^
 ||beephone.com.tw/ad-middle.php
 ||beephone.com.tw/ad-yahoo.php
 ||befirstcdn.com^$popup
@@ -30885,7 +30888,6 @@ zzzyk.com###Tinfo
 ||conduze.com^$third-party
 ||conestreshow.com^$document
 ||conestreshow.com^$popup
-||conference-local-manage-main-id5817.vercel.app^
 ||config-security.com/event
 ||config.parsely.com^$third-party
 ||configurator.ecom-mobile-samsung.com/api/logger
@@ -31701,7 +31703,6 @@ zzzyk.com###Tinfo
 ||devatics.com^$third-party
 ||devatics.io^$third-party
 ||develenv.com^$third-party
-||developer.localtechplus.com^
 ||developer.mozilla.org/pong/
 ||developer.mozilla.org/submit/
 ||developermedia.com^$third-party
@@ -34939,7 +34940,6 @@ zzzyk.com###Tinfo
 ||homeschoolmath.net/a/
 ||homestore.com/srv/
 ||homoactive.tv/banner/
-||hond-ne.paas.hosted-by-previder.com^
 ||honestlyvicinityscene.com^$popup
 ||honeycomb.io/1/events/
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
@@ -37481,7 +37481,6 @@ zzzyk.com###Tinfo
 ||logicdate.com^$popup
 ||logicschort.com^$popup
 ||logicsfort.com^$third-party
-||login.localtechplus.com^
 ||loginfra.com^$third-party
 ||logly.co.jp^$third-party
 ||logmatic.io^$third-party
@@ -40750,7 +40749,6 @@ zzzyk.com###Tinfo
 ||pro-adblocker.com^$popup
 ||pro.cn^$third-party
 ||probid.ai^$third-party
-||processor-local-manage-main-id97264.vercel.app^
 ||processsky.com^$popup
 ||proclivitysystems.com^$third-party
 ||prod.benchmarkemail.com/tracker.bundle.js
@@ -41379,7 +41377,6 @@ zzzyk.com###Tinfo
 ||ranker.com/api/px
 ||ranker.com/api/tr?
 ||ranker.com/api/tracking/comscore
-||rankghost.com^
 ||ranking-charts.de^$third-party
 ||ranking-counter.de^$third-party
 ||ranking-hits.de^$third-party
@@ -41899,7 +41896,6 @@ zzzyk.com###Tinfo
 ||rsppartners.com^$popup
 ||rspro.xyz/wp-content/uploads/*/redotpay.webp
 ||rss-loader.com/track/
-||rss.localtechplus.com^
 ||rswebsols.com/wp-content/uploads/rsws-banners/
 ||rt.ru/proxy?
 ||rtb123.com^$third-party
@@ -43296,8 +43292,11 @@ zzzyk.com###Tinfo
 ||srv235692.hoster-test.ru^
 ||srv235787.hoster-test.ru^
 ||srv235887.hoster-test.ru^
+||srv236137.hoster-test.ru^
+||srv236250.hoster-test.ru^
 ||srv236271.hoster-test.ru^
 ||srv236386.hoster-test.ru^
+||srv236434.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
@@ -44861,7 +44860,6 @@ zzzyk.com###Tinfo
 ||trckswrm.com^$document
 ||trckswrm.com^$popup
 ||trcyrn.com^$popup
-||treatment-local-manage-main-id90765.vercel.app^
 ||trebleperfect.com^$third-party
 ||tree-nation.com/js/track.js
 ||trellian.com^$popup
@@ -44874,6 +44872,7 @@ zzzyk.com###Tinfo
 ||trfpump.com^$third-party
 ||trftopp.biz^$popup
 ||trialfire.com^$third-party
+||triangleadhesivescom.webhost4life.com^
 ||triangletribune.com/cache/sql/fba/
 ||trib.al^$image,third-party
 ||tribl.io^$third-party
@@ -45157,6 +45156,7 @@ zzzyk.com###Tinfo
 ||u-on.eu^$third-party
 ||u.ctrip.com/showcaseadvertisementsit/
 ||u.riju.com/click.php
+||u0688998.plsk.regruhosting.ru^
 ||u1pmt.com^$popup
 ||u26u.com^$popup,third-party
 ||u2host.com^
@@ -45226,7 +45226,6 @@ zzzyk.com###Tinfo
 ||ukcampsite.co.uk/banners/
 ||ukdevilz.com/api/stats?
 ||ukoffzeh.com^$popup
-||ukuhost.net^
 ||ukw.jp/taglog/
 ||ulclick.ru^$third-party
 ||ulink.cc^$third-party
@@ -45319,7 +45318,6 @@ zzzyk.com###Tinfo
 ||updateenow.com^$popup
 ||updatepagenew.activehosted.com^
 ||updatephone.club^$popup
-||updates.localtechplus.com^
 ||upgiveunsteps.shop^$popup
 ||upgliscorom.com^$popup
 ||upi.com/story/stat/
@@ -45389,6 +45387,7 @@ zzzyk.com###Tinfo
 ||user-api.com^$third-party
 ||user-clicks.com^$third-party
 ||user-red.com^$third-party
+||user11ghost.no-ip.org^
 ||user2332.royal-hosting.ru^
 ||usercentrics.eu/session/$image
 ||usercycle.com^$third-party
@@ -45507,7 +45506,6 @@ zzzyk.com###Tinfo
 ||veeseo.com/tracking/
 ||veeseo.com^*/url.gif?
 ||veeseo.com^*/view/$image
-||vegetation-local-manage-main-id1208.vercel.app^
 ||veille-referencement.com^$third-party
 ||veilsuccessfully.com^$popup
 ||veinteractive.com^$third-party
@@ -45827,6 +45825,7 @@ zzzyk.com###Tinfo
 ||vologda-info.ru^$third-party
 ||volument.com^$third-party
 ||volumntime.com^$popup
+||volunteer-local-manage-main-id52418.vercel.app^
 ||voluumtrk.com^$document
 ||voluumtrk.com^$popup
 ||voluumtrk3.com^$popup
