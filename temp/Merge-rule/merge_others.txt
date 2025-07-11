@@ -6206,7 +6206,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 131458.com##.divGuanggao
 131458.com##.ulfooter_top
 1314gl.com##a[href*=".apkpackagesys.com/"]
-1337x.to##[href^="https://limeiptv.to"]
+1337x.to,x1337x.eu,x1337x.ws##[href^="https://limeiptv.to"]
 13tv.top,freehao123.com##.box
 13tv.top,sina.com##.aditem
 141hongkong.com###dialog
@@ -11455,10 +11455,13 @@ bestbuy.ca##.x-productListItem:has([data-automation="sponsoredProductLabel"])
 bestbuy.ca##div.x-productListItem:has([class^="sponsoredProduct"])
 bestbuy.ca##div[data-automation^="criteo-sponsored-products-carousel-"]
 bestbuy.ca,bestbuy.com##[id^="atwb-ninja-carousel"]
+bestbuy.com###sponsored-carousel-na
+bestbuy.com##.atwb-display-ad
 bestbuy.com##.generic-morpher:has(.spns-label)
 bestbuy.com##.shop-dedicated-sponsored-carousel
 bestbuy.com##.shop-pushdown-ad
 bestbuy.com##.slContainer:has(> .sponsored)
+bestbuy.com##.spotlight-ad
 bestbuy.com##li.embedded-sponsored-listing
 bestbuy.com#?#.plp-ninja-carousel:-abp-contains(Sponsored)
 bestcclm.com##.wp.cl > a
@@ -18558,6 +18561,7 @@ maiziedu.com##.msg
 majorgeeks.com##.alford > tbody > tr
 majorgeeks.com##.highlight.content > center > font
 majorgeeks.com##.navigation-light
+majorgeeks.com##[style]:has([href*="&utm_source"])
 makaidong.com###bdcs
 makaidong.com###cyWallsplugin
 makeitmeme.com##._adContainer_f810z_1
@@ -20522,6 +20526,8 @@ politico.com##.border-gray-vulcan-92:has(>
 politico.com##.styles_container__zuzL0
 politico.com#@#a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
 politico.eu##.ad__mobile
+politicshome.com##.hdr-top
+politicshome.com##.row--ad
 politicspa.com##.dialog-type-lightbox
 politifact.com##.m-billboard
 pollunit.com##.btn[href$="?feature=ads"]
@@ -21503,7 +21509,7 @@ salon.com##.advertise_text
 salon.com##.outer_ad_container
 saltwire.com##.sw-banner
 saltwire.com##.youtube_article_ad
-sameday.costco.com##[aria-label="Product"]:has(sp-tag)
+sameday.costco.com##li:has([aria-label="Product"] sp-tag)
 samfw.com##[name="chimera_b"]
 sammobile.com###venatus-hybrid-banner
 sammobile.com##.adRoot-loop-ad
@@ -21818,7 +21824,6 @@ shopee.sg#?#.shopee-search-item-result__item:-abp-contains(Ad)
 shopee.sg#?#div[class="N_YeYe"]:has(> .shopee_ic:-abp-contains(Ad))
 shopee.sg#?#div[class="oMSmr0"]:has(> .shopee_ic:-abp-contains(Ad))
 shoprite.com##[class^="CitrusBannerXContainer"]
-shoprite.com##div[class^="Row"]:has(div[data-component] a[data-testid] picture source[media="(min-width: 1024px)"] + img[class*="ImageTextButtonImage"][src*=".jpg"])
 shortlist.com##.align-xl-content-between
 shortwaveschedule.com###reclama_mijloc
 shotcut.org##[style="background-color:
@@ -28295,7 +28300,6 @@ zzzyk.com###Tinfo
 ||articlepawn.com^$popup
 ||artsai.com^$third-party
 ||arttrk.com/pixel/
-||aruba-hosting.account-id737298.com^
 ||aruba.hosting.costumer.account.eu.ngrok.io^
 ||aruba.it/servlet/counterserver?
 ||arwobaton.com^$document
@@ -31140,7 +31144,6 @@ zzzyk.com###Tinfo
 ||cr173.com/skinb/
 ||cracataum.com^$third-party
 ||cradaygo.com^$document
-||craftinglocals.com^
 ||craftkeys.com^$third-party
 ||crakmedia.com^$third-party
 ||craktraffic.com^$third-party
@@ -35634,6 +35637,7 @@ zzzyk.com###Tinfo
 ||imlive.com/wmaster.ashx?$popup,third-party
 ||imlive.com^$script,third-party,domain=~imnude.com
 ||immanalytics.com^$third-party
+||immovlan.be/*/widget/cbc/
 ||immoweb.be/*/dpg/
 ||immoweb.be/*/track/
 ||imonomy.com^$third-party
