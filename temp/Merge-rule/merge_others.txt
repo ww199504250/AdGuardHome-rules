@@ -1165,6 +1165,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /a/?ad=
 /a/display.php?$popup
 /a/display.php?$script
+/a/elevar/static/*
 /a/p?adid=
 /a/performance_timing/*
 /a8c-analytics.js
@@ -2232,6 +2233,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ctr_tracking.php?
 /cuid/*$domain=colamanga.com
 /curveball/ads/*$image
+/custjs_new.js?4
 /custom-analytics.js
 /customer/ads/ad.php?id=
 /cv/conversion.js
@@ -2983,6 +2985,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /indextools.js
 /infinity.js.aspx?$script
 /inhouse_ads/*$image
+/init?*&fallbackUserId=
 /inline-pixel.js
 /inlineads.aspx$subdocument
 /inpl.measure.jssc
@@ -3949,6 +3952,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /promo/impression?
 /promotools.$subdocument
 /propagate_cookie.php
+/providers/atLabel/load|
 /proxy.htm?id=
 /proxy.html?id=
 /proxy_top_banner_js.php
@@ -7422,6 +7426,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 =Ad_ZPlusGoods&
 =BAIDU_SSP_define&
 =SOGOU_WAP_SETJSONADSLOT&
+=aWQ9R1RNL*apiKey=$script,~third-party
+=aWQ9R1RNL*page=$script,~third-party
 =ad_top_slider&
 =ajaxGetAds&type=
 =fitacg.com/static/othe
@@ -14173,6 +14179,7 @@ editpad.org###floorad-wrapper
 editpad.org##.edsec
 editpad.org##div[style="min-height: 300px;min-width: 300px"]
 editpad.org##div[style="min-width: 300px;min-height: 300px"]
+edmunds.com##.car-news-marquee
 edn.com###SideBarWrap
 edn.com,planetanalog.com###bannerWrap
 edrawsoft.cn###bottom-banner-activity-md
@@ -26368,6 +26375,7 @@ zzzyk.com###Tinfo
 ||7ca78m3csgbrid7ge.com^$popup
 ||7da4fbb8f5.1sthost.org^
 ||7eer.net^$third-party
+||7flies12.de^$document
 ||7gra.us/path-tracker-js/
 ||7host.com^
 ||7junshi.com/con/ad
@@ -33955,6 +33963,7 @@ zzzyk.com###Tinfo
 ||getconversion.net^$third-party
 ||getdownloadfree.cfd^$popup
 ||getdrip.com^$third-party
+||getelevar.com/configs/
 ||getelevar.com/shops/*/events.js
 ||getflowads.net^$popup
 ||getfreebl.com^$third-party
@@ -36669,7 +36678,6 @@ zzzyk.com###Tinfo
 ||kcolbda.com^$third-party
 ||kctag.net^$third-party
 ||kdata.fr^$third-party
-||kde.nfcfhosting.com^
 ||kdou.com/ad_js.php?adid=
 ||kdw*.com/layer/layer.js
 ||kedou*.com/layer/layer.js
@@ -40807,6 +40815,7 @@ zzzyk.com###Tinfo
 ||promos.investing.com/*/digibox.gif?
 ||promos.meetlocals.com^
 ||promote.pair.com/88x31.pl
+||promote1local.com^
 ||promotelocalbusiness.com^
 ||promotionengine.com^$third-party
 ||promotools.biz^$third-party
