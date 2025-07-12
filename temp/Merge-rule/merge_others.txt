@@ -5452,6 +5452,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 ghostbringer.com
 0.0.0.0 ghostbyte.monster
 0.0.0.0 ghostdx.com
+0.0.0.0 ghostgrid.monster
 0.0.0.0 ghostlayer.site
 0.0.0.0 ghostpioneer.online
 0.0.0.0 ghoststep.monster
@@ -5512,6 +5513,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 imbarghost.pro
 0.0.0.0 imp-east.pub.local.emxdgt.com
 0.0.0.0 inhostnetservice.com
+0.0.0.0 inpost.pl-mail.host86778.info
 0.0.0.0 iprimus-pendingmessages.freewebhostmost.com
 0.0.0.0 irondel.swisshost.by
 0.0.0.0 itsourlocal.com
@@ -5631,6 +5633,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 srv235692.hoster-test.ru
 0.0.0.0 srv235787.hoster-test.ru
 0.0.0.0 srv235887.hoster-test.ru
+0.0.0.0 srv236386.hoster-test.ru
 0.0.0.0 srv85202.seohost.com.pl
 0.0.0.0 srv88723.seohost.com.pl
 0.0.0.0 srverauth-processing.freewebhostmost.com
@@ -5646,6 +5649,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 telenorhosting.net
 0.0.0.0 terminal-local-ads-manage-idd362947.vercel.app
 0.0.0.0 theadhost.com
+0.0.0.0 theaterhostage.top
 0.0.0.0 theghostcop.com
 0.0.0.0 thelocalsearchnetwork.com
 0.0.0.0 thinknear-hosted.thinknearhub.com
@@ -5762,6 +5766,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.ghostbringer.com
 0.0.0.0 www.ghostbyte.monster
 0.0.0.0 www.ghostdx.com
+0.0.0.0 www.ghostgrid.monster
 0.0.0.0 www.ghostlayer.site
 0.0.0.0 www.ghostpioneer.online
 0.0.0.0 www.ghoststep.monster
@@ -5795,6 +5800,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hypecliente.s-host.net
 0.0.0.0 www.imbarghost.pro
 0.0.0.0 www.inhostnetservice.com
+0.0.0.0 www.inpost.pl-mail.host86778.info
 0.0.0.0 www.iprimus-pendingmessages.freewebhostmost.com
 0.0.0.0 www.itsourlocal.com
 0.0.0.0 www.kad.xdt.mybluehost.me
@@ -5878,6 +5884,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.srv235692.hoster-test.ru
 0.0.0.0 www.srv235787.hoster-test.ru
 0.0.0.0 www.srv235887.hoster-test.ru
+0.0.0.0 www.srv236386.hoster-test.ru
 0.0.0.0 www.srv85202.seohost.com.pl
 0.0.0.0 www.srv88723.seohost.com.pl
 0.0.0.0 www.srverauth-processing.freewebhostmost.com
@@ -5888,6 +5895,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.teammatehost.net
 0.0.0.0 www.telenorhosting.net
 0.0.0.0 www.terminal-local-ads-manage-idd362947.vercel.app
+0.0.0.0 www.theaterhostage.top
 0.0.0.0 www.theghostcop.com
 0.0.0.0 www.thrivehyperlocalsolutions.com
 0.0.0.0 www.tinyfilehost.com
@@ -5910,11 +5918,13 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.website-dfec9a4c.ssi.meb.mybluehost.me
 0.0.0.0 www.websitehost.org
 0.0.0.0 www.wp-hosting-romania.com
+0.0.0.0 www.xohostels.com
 0.0.0.0 www.xurrad96.smallhost.pl
 0.0.0.0 www.yuhkudnelappilcat.sviluppo.host
 0.0.0.0 www.zoovu-host.com
 0.0.0.0 www.zyh.qgd.mybluehost.me
 0.0.0.0 www3.webhostingtalk.com
+0.0.0.0 xohostels.com
 0.0.0.0 xurrad96.smallhost.pl
 0.0.0.0 yuhkudnelappilcat.sviluppo.host
 0.0.0.0 zoovu-host.com
@@ -38167,7 +38177,6 @@ zzzyk.com###Tinfo
 ||meteored.com/cmp/web/events/analytic/
 ||meteorsolutions.com^$third-party
 ||metering.pagesuite.com^$third-party
-||metherium-57921.portmap.host^
 ||methodcash.com^$third-party
 ||metka.ru/counter/
 ||metrepeaches.com^$popup
@@ -45219,6 +45228,7 @@ zzzyk.com###Tinfo
 ||ufile.cc/pps.js
 ||ufpcdn.com^$popup
 ||ugent.be/js/log.js
+||ugprod.geeksforgeeks.org/post/api/usertracking/
 ||ugroocuw.net^$popup
 ||uhdmovies.foo/onewinpop.js
 ||uhit.eu/id/$third-party
