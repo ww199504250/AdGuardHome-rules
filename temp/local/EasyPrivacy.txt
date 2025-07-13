@@ -11093,6 +11093,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sweet-candy.jp/c.php?$third-party
 ||sync.shinobi.jp^
 ||sysmon.kakaku.com^
+||t.adclr.jp^
 ||t.adlpo.com^
 ||t.blog.livedoor.jp^
 ||t.felmat.net^$third-party
@@ -50741,6 +50742,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||is-log.furunavi.jp^
 ||j1.ax.xrea.com^
 ||k-crm.jp/tracking.js
+||kabu-sokuhou.com/js/cpv/
 ||kojima.net/excludes/KPC/js/kjm_gtm.js
 ||korewaeroi.com/fukugan_$subdocument
 ||link.tv-asahi.co.jp/tver/cookiesync?

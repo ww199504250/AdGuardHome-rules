@@ -8542,6 +8542,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||gamersky.com/Common/GetHits.aspx?
 @@||gamersky.com^*/dhgame_
 @@||games.pch.com^$generichide
+@@||gammaplus.takeshobo.co.jp/img/ad/$~third-party
 @@||ganji.com/findjob/send_resume.*&ad_type=
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||ganyancanavari.com/js/fingerprint2.min.js$~third-party
@@ -15655,6 +15656,7 @@ gmw.cn##.ad_pics
 gmw.cn##.g_adMain
 goal.com##.aside_ad-rail__cawG6
 goal.com##.component-ad
+goal.com##.fco-sticky-wrapper__space-placeholder
 goal.com##[data-name="ad-leaderboard"]
 goal.com##[data-type="AdComponent"]
 goal.com##div[class^="open-web-ad_"]
@@ -17461,7 +17463,7 @@ javhope.com###havhope
 javhub.net##[href^="https://r.trwl1.com/"]
 javlibrary.com##.bannerqq
 javlibrary.com##.bottombanner2
-javplayer.me##div[style="position: absolute; inset: 0px; z-index: 999; display: block;"]
+javplayer.me,surrit.store##div[style="position: absolute; inset: 0px; z-index: 999; display: block;"]
 javtiful.com###showerm
 javtiful.com##.col.pb-3:has(.badge.bg-danger)
 javtiful.com##.p-0[style="margin-top: 0.45rem
@@ -18911,10 +18913,10 @@ mirror.co.uk,themirror.com###comments-standalone-mpu
 mirror.co.uk,themirror.com##.ad-placeholder
 mirrored.to##.centered > form[target^="_blank"]
 mirrored.to##tbody > tr:has(> td[data-label="Host"] > img[src="https://www.mirrored.to/templates/mirrored/images/hosts/FilesDL.png"])
-missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav888.com##.lg\:block
-missav.ai,missav.city,missav.loan,missav.today,missav.wiki,missav.ws,missav123.com,missav888.com##.lg\:hidden
-missav.ai,missav.ws,missav123.com,missav888.com##[style^="width: 300px; height: 250px;"]
-missav.ai,missav.ws,missav123.com,missav888.com##[x-show$="video_details'"] > div > .list-disc
+missav.*,missav123.com,missav888.com##.lg\:block
+missav.*,missav123.com,missav888.com##.lg\:hidden
+missav.*,missav123.com,missav888.com##[style^="width: 300px; height: 250px;"]
+missav.*,missav123.com,missav888.com##[x-show$="video_details'"] > div > .list-disc
 missingremote.com###top-bar
 missyuan.com##.spaceborder
 mitbbs.ca,mitbbs.com##.index_add
@@ -27656,6 +27658,7 @@ zzzyk.com###Tinfo
 ||akutapro.com^$popup
 ||akuziti.com/tu/*.js
 ||alargeredrubygsw.info^$popup
+||alarmenvious.com^$popup
 ||alarmsportsnetwork.com^$third-party
 ||alaskaair.com/AlXMT4Ma/init.js
 ||albacross.com^$third-party
@@ -34802,7 +34805,6 @@ zzzyk.com###Tinfo
 ||hh.ru/stat?
 ||hh010.com/static/image/fff/
 ||hhbypdoecp.com^$popup
-||hhost5.zapto.org^
 ||hiao.com/node/node_27508.htm
 ||hiasor.com^$document
 ||hiasor.com^$popup
@@ -36589,6 +36591,7 @@ zzzyk.com###Tinfo
 ||k8dm.com/960x70.
 ||k99.cc^$third-party
 ||kaas.am/hhapia/
+||kabu-sokuhou.com/js/cpv/
 ||kad.xdt.mybluehost.me^
 ||kadam.ru^$third-party
 ||kaggle.com/api/i/diagnostics.MetricsService
@@ -38980,6 +38983,7 @@ zzzyk.com###Tinfo
 ||netflavns1.com/assets/jquery/app0.
 ||netflix.com/ichnaea/log
 ||netflix.com/msl/playapi/cadmium/logblob/
+||netgames.io/js/page-ads.js
 ||netgraviton.net^$third-party
 ||netinsight.co.kr^$third-party
 ||netizen.co^$third-party
@@ -40296,7 +40300,6 @@ zzzyk.com###Tinfo
 ||pinnacle.com/ru/?btag=
 ||pinoymovies.es/links/$popup
 ||pinpoll.com^$third-party
-||piotr2222-40866.portmap.host^
 ||pipaffiliates.com^$popup
 ||pipeline.balkstercourant.nl^$~script
 ||pipeline.dvhn.nl^$~script
@@ -42512,6 +42515,7 @@ zzzyk.com###Tinfo
 ||sfswannn.activehosted.com^
 ||sgad.site^$document
 ||sgk.xyz/static/js/pc.js
+||sgsmtp12.sgcloudhosting.com^
 ||sgtm.fairmont.
 ||sgtm.fashionunited.
 ||sgtm.wimdu.
@@ -43009,6 +43013,7 @@ zzzyk.com###Tinfo
 ||snohetta.com/js/plascript.js
 ||snoobi.com^$third-party
 ||snoreempire.com^$popup
+||snow-fish-425904.hostingersite.com^
 ||snowdayonline.xyz^$popup
 ||snowplow-collector.
 ||snowsignal.com^$third-party
