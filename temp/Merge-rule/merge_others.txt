@@ -5396,7 +5396,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 cfd.ghostgloballtd.proxy844.com
 0.0.0.0 cfd.ghostglobaltd.com
 0.0.0.0 cfd.globalghostltd.com
-0.0.0.0 cheap-web-hosting-here.blogspot.com
 0.0.0.0 cheapgalahosting.com
 0.0.0.0 chillwebhosting.com
 0.0.0.0 citycenterhosting.com
@@ -5517,7 +5516,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 imbarghost.pro
 0.0.0.0 imp-east.pub.local.emxdgt.com
 0.0.0.0 inhostnetservice.com
-0.0.0.0 inpost.pl-mail.host86778.info
 0.0.0.0 iprimus-pendingmessages.freewebhostmost.com
 0.0.0.0 irondel.swisshost.by
 0.0.0.0 itsourlocal.com
@@ -5527,8 +5525,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 lngaccess.sviluppo.host
 0.0.0.0 local-analytics.uberinternal.com
 0.0.0.0 local-download.com
-0.0.0.0 local-media.ambient-platform.com
-0.0.0.0 local-media.m.ambient-platform.com
 0.0.0.0 local-update.com
 0.0.0.0 local.emxdgt.com
 0.0.0.0 local.ownlocal.com
@@ -5567,6 +5563,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 mf-ghost.com
 0.0.0.0 mhost.simple-url.com
 0.0.0.0 murbil.hostei.com
+0.0.0.0 mythostream.cfd
 0.0.0.0 neetworkhosting1.com
 0.0.0.0 netplh.smarthost.eu
 0.0.0.0 netwrkprocessing.freewebhostmost.com
@@ -5599,12 +5596,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 profile-lookup.services.53.localytics.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 promos.meetlocals.com
+0.0.0.0 promote1local.com
 0.0.0.0 protect-alocally.cyou
 0.0.0.0 pub.local.emxdgt.com
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 rankghost.com
 0.0.0.0 reformaslocalesmadrid.com
-0.0.0.0 renew-domen-smart-host-pl.hu-cloud.de
 0.0.0.0 reparacionhosteleriavalencia.com
 0.0.0.0 reparacionhosteleriavalencia.net
 0.0.0.0 reverify-access-login-78uyjh3jhuye8uyj3cid.freewebhostmost.com
@@ -5804,7 +5801,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hypecliente.s-host.net
 0.0.0.0 www.imbarghost.pro
 0.0.0.0 www.inhostnetservice.com
-0.0.0.0 www.inpost.pl-mail.host86778.info
 0.0.0.0 www.iprimus-pendingmessages.freewebhostmost.com
 0.0.0.0 www.itsourlocal.com
 0.0.0.0 www.kad.xdt.mybluehost.me
@@ -5818,6 +5814,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.localh0st.info
 0.0.0.0 www.locallystocked.com
 0.0.0.0 www.localmailserver.com
+0.0.0.0 www.localmais.com.br
 0.0.0.0 www.localnetranking.com
 0.0.0.0 www.localnewsboard.com
 0.0.0.0 www.localnewsfeed.online
@@ -5840,6 +5837,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.message-authentication-processing.freewebhostmost.com
 0.0.0.0 www.mf-ghost.com
 0.0.0.0 www.mhost.simple-url.com
+0.0.0.0 www.mythostream.cfd
 0.0.0.0 www.neetworkhosting1.com
 0.0.0.0 www.netplh.smarthost.eu
 0.0.0.0 www.netwrkprocessing.freewebhostmost.com
@@ -5859,10 +5857,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.plcyber.tempurl.host
 0.0.0.0 www.polyas.freesite.host
 0.0.0.0 www.portailsblocalede.com
+0.0.0.0 www.promote1local.com
 0.0.0.0 www.protect-alocally.cyou
 0.0.0.0 www.rankghost.com
 0.0.0.0 www.reformaslocalesmadrid.com
-0.0.0.0 www.renew-domen-smart-host-pl.hu-cloud.de
 0.0.0.0 www.reparacionhosteleriavalencia.com
 0.0.0.0 www.reparacionhosteleriavalencia.net
 0.0.0.0 www.reverify-access-login-78uyjh3jhuye8uyj3cid.freewebhostmost.com
@@ -28637,6 +28635,7 @@ zzzyk.com###Tinfo
 ||azurewebsites.net^*/telemetry.js
 ||b-cdn.net^$domain=bunkr-albums.io|bunkr.cr|bunkr.si
 ||b.cdnst.net/javascript/amazon.js$script,domain=speedtest.net
+||b.dzt-hoster.biz.id^
 ||b.link^$popup,domain=hltv.org
 ||b.localpages.com^
 ||b.marfeelcache.com/statics/marfeel/gardac-sync.js
@@ -29352,7 +29351,6 @@ zzzyk.com###Tinfo
 ||blehcourt.com^$document
 ||blehcourt.com^$popup
 ||blend.com/event/
-||blhwlxzgy.localto.net^
 ||bliink.io^$third-party
 ||blink.net/e/
 ||blip.bizrate.com^$script
@@ -40643,6 +40641,7 @@ zzzyk.com###Tinfo
 ||postback1win.com^$popup
 ||postimg.cc^*-960x60.
 ||postlnk.com^$popup
+||postlocalads.com^
 ||potawe.com^$popup
 ||potsaglu.net^$document
 ||potsaglu.net^$popup
@@ -43324,7 +43323,6 @@ zzzyk.com###Tinfo
 ||srpx.net^$third-party
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
-||srv234925.hoster-test.ru^
 ||srv235692.hoster-test.ru^
 ||srv235787.hoster-test.ru^
 ||srv235887.hoster-test.ru^
@@ -44382,7 +44380,6 @@ zzzyk.com###Tinfo
 ||tiktok.com/v1/list
 ||tiktok.com/web/report?
 ||tiktok.com/whale/
-||tiktokhosting.net^
 ||tiktokv.com/monitor_browser/
 ||tiktokv.com/web/report?
 ||tiktokv.us/monitor_browser/
