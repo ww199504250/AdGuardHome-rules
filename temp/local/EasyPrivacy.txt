@@ -1858,6 +1858,7 @@
 /pxtrack.js
 /qapcore.js
 /qlitics.js
+/qlog/add?userId=
 /qtracker-v3-min.js
 /quant.js
 /quantcast.js
@@ -4994,6 +4995,7 @@ omni.soundestlink.com$image
 ||mediego.com^$third-party
 ||mega-stats.com^$third-party
 ||megpxs.com^$third-party
+||mellow.tel^$third-party
 ||memecounter.com^$third-party
 ||memo.co^$third-party
 ||mercadoclics.com^$third-party
@@ -8188,6 +8190,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||diagnose.igstatic.com^
 ||dig.ultimedia.com^
 ||digimedia.com/pageviews.php?
+||digitaloceanspaces.com/pixel.min.js
 ||digitaloceanspaces.com/pixel/
 ||direct-collect.dy-api.com^
 ||direct-collect.dy-api.eu^
