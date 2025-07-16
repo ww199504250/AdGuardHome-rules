@@ -3112,7 +3112,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /js/wlfloat.js
 /js/yueyupp_3.js
 /js/yzgg.js
-/jsAds-1.4.min.js$script
+/jsAds-1.4.min.js
 /js_ibeat_ext.cms
 /js_log_error.js
 /js_logger.php
@@ -10904,6 +10904,7 @@ autotrader.com##[data-cmp="alphaShowcase"]
 av.movie##.adss-160x600
 av.movie##.pop-up-a
 av.movie##.video-banner
+avclub.com##.htlad-top_leaderboard
 avclub.com,infosecurity-magazine.com,jezebel.com,nationaljeweler.com,pastemagazine.com,splinter.com,theonion.com##.dfp
 avclub.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
 avclub.com,jezebel.com##.vertical-ad-spacer
@@ -19506,8 +19507,8 @@ newegg.com#@#.ad-click
 newegg.com#@#.product-ads
 newindian.in##.add160x600
 newindian.in##.add160x600-right
-newindian.in##.deskad
 newindian.in##.rhs-ad2
+newindian.in,watchinamerica.com##.deskad
 newindianexpress.com##.scc
 newkerala.com##.pb-2 .text-mute
 newmexicomagazine.org##.contentRender_name_plugins_dtn_gam_ad
@@ -20749,6 +20750,7 @@ price.com.hk###ad5
 price.com.hk,uwants.com##.MFV
 pricecharting.com##.pw-leaderboard
 pricehistoryapp.com##center[class^="min-h-"]
+priceline.com##[class*="ListingCardWrapper"]:has([class*="PromoText"])
 priceline.com##div[data-testid="HTL_NEW_LISTING_CARD_RESP"]:has(a[aria-label*=" Promoted"])
 pricespy.co.nz,pricespy.co.uk##.outsider-ads
 pricespy.co.nz,pricespy.co.uk##.pjra-w-\[970px\]
@@ -32700,6 +32702,7 @@ zzzyk.com###Tinfo
 ||etadult.com*/images/20
 ||etahub.com^$third-party
 ||eteknix.com/wp-content/uploads/*skin
+||eternalmangas.com/api/analytics/
 ||eternalmangas.com/api/track-visit
 ||etest8.com/js/158/infojs/
 ||etf88.com/jjb/*_ad$script
@@ -35230,6 +35233,7 @@ zzzyk.com###Tinfo
 ||huglocally.com^
 ||hugo3c.tw^$csp=script-src 'self' * 'unsafe-inline'
 ||hugregregy.pro^$popup
+||huhl5r.easypanel.host^
 ||huhumh.com/js/
 ||huiagun.com/template/common.js
 ||huibaihe.net/js/dddd.js

@@ -51165,6 +51165,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||esmas.com/scripts/esmas_stats.js
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^
+||eternalmangas.com/api/analytics/
 ||eternalmangas.com/api/track-visit
 ||fnvma.milanuncios.com^
 ||g.siliconweek.es^
