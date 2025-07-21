@@ -4233,6 +4233,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /scripts/hbx.js
 /scripts/js3caf.js$script
 /scripts/lchjs.php?
+/scripts/sdk/everflow.js
 /scripts/statistics/*
 /scripts/tr2.min.js
 /scripts/track_visit.php?
@@ -7247,7 +7248,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://elqtrk.
 ://email.*/o/$image
 ://fallback.*/collector
-://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://fathom.$domain=~fathom.care|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://gtm.*.js?st=
 ://gtrack.*/dye
 ://insights-collector.
@@ -28181,6 +28182,7 @@ zzzyk.com###Tinfo
 ||app.posthog.com/static/recorder-v2.js
 ||app.revenuehero.io/logs/ingest
 ||app.tag-plus.com/ja/api/v1/unison_planet/heat_map
+||app.trytada.com/addImpression
 ||app.yesware.com/t/$third-party
 ||app1ev.easypanel.host^
 ||appboycdn.com^$third-party
@@ -28649,6 +28651,7 @@ zzzyk.com###Tinfo
 ||backchina.com/banners/
 ||backcountry.com/api/log
 ||backend.academy.cs.cmu.edu/api/v0/event/
+||backend.leadconnectorhq.com/forms/form-survey-event
 ||backend.verbolia.com/content/js/velw.min.js
 ||backgroundrunway.com^$popup
 ||backgrounds.wetransfer.net/*.mp4$media
@@ -30562,7 +30565,6 @@ zzzyk.com###Tinfo
 ||cloudfront.net*/sp.js|
 ||cloudfront.net*/tracker.js
 ||cloudfront.net*/trk.js
-||cloudfront.net./script.js
 ||cloudfront.net/*.min.css$script,third-party
 ||cloudfront.net/?a=
 ||cloudfront.net/?dfcdd=
@@ -30598,7 +30600,6 @@ zzzyk.com###Tinfo
 ||cloudfront.net/public/external/v2/htmlxf.
 ||cloudfront.net/rc.js?
 ||cloudfront.net/rum/bacon.min.js
-||cloudfront.net/script.js
 ||cloudfront.net/scripts/cookies.js
 ||cloudfront.net/sentinel.js
 ||cloudfront.net/sitegainer_
@@ -30918,6 +30919,7 @@ zzzyk.com###Tinfo
 ||consensu.org/geoip
 ||consent.api.osano.com/record
 ||consent.ghostery.com/v1.js
+||consent.trustarc.com/analytics?
 ||consent.trustarc.com/bannermsg?
 ||consent.trustarc.com/noticemsg?
 ||consentmanager.net/delivery/info/$third-party
@@ -31358,12 +31360,14 @@ zzzyk.com###Tinfo
 ||d.rcmd.jp^$image
 ||d1.sina.com.cn^$object,script
 ||d134042.hostde43.fornex.host^
+||d14pdm1b7fi5kh.cloudfront.net/script.js
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.
 ||d1net.com/index.php?m=poster&
 ||d1snv67wdds0p2.cloudfront.net/tracker/
 ||d1z2jf7jlzjs58.cloudfront.net^$rewrite=abp-resource:blank-js,domain=voici.fr
 ||d2-apps.net^$third-party
 ||d2.sina.com.cn^$object,script
+||d2badvwg0mti9p.cloudfront.net/script.js
 ||d2c.ne.jp^$third-party
 ||d2fuc4clr7gvcn.cloudfront.net/track.js
 ||d2nq0f8d9ofdwv.cloudfront.net/track.js
@@ -31730,6 +31734,7 @@ zzzyk.com###Tinfo
 ||dfcfw.com/tg/
 ||dfcfw.com/zndh/
 ||dffy.com/static/popUp.
+||dfm7wh2x5l4za.cloudfront.net/script.js
 ||dforum.net/counter/
 ||dftoutiao.com/dfpcitv/pcitv?jsonpcallback=
 ||dftoutiao.com/dfpcitv/pcitv?type=
@@ -33098,6 +33103,7 @@ zzzyk.com###Tinfo
 ||fedra.info^$document
 ||feed-xml.com^$popup
 ||feed.informer.com/fdstats
+||feedbackws.icloud.com/reportStats
 ||feedblitz.com/imp?$third-party
 ||feedblitz.com^*.gif?$third-party
 ||feedcat.net^$third-party
@@ -35420,6 +35426,7 @@ zzzyk.com###Tinfo
 ||idlebrain.com/images4/footer-
 ||idlebrain.com/images5/main-
 ||idlebrain.com/images5/sky-
+||idmsa.apple.com/appleauth/jslog
 ||idntfy.ru^$third-party
 ||idolbucks.com^$third-party
 ||idot.cz^$third-party
@@ -42619,6 +42626,7 @@ zzzyk.com###Tinfo
 ||shoplytics.com^$third-party
 ||shopmyshelf.us^$third-party
 ||shopnetic.com^$third-party
+||shopper.shop.pe/pixel.png
 ||shopping.udn.com/mall/cus/cat/OutWebAd.do?
 ||shoppinglifestyle.biz^$document
 ||shoptarget.com.br^$third-party
@@ -47177,6 +47185,7 @@ zzzyk.com###Tinfo
 ||zantj.com/diao
 ||zap.buzz^$third-party
 ||zapcdn.space/zapret.js
+||zaphosted.com^
 ||zappos.com/err.cgi?
 ||zappos.com/karakoram/js/main.
 ||zarget.com^$third-party
