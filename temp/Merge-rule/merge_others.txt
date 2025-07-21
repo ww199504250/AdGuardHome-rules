@@ -14233,7 +14233,7 @@ elitepvpers.com##div[style^="font-size:11px;"]
 elnacional.cat##.c-banner
 elnacional.cat##.row-top-banner
 elnuevoherald.com,sacbee.com#@#.wps-player-wrap
-eloshapes.com##div[id^="promos-"]
+eloshapes.com##div[id^="prmos-"]
 emalm.com##a[href^="https://offer.alibaba.com/"]
 emalm.com,linkdecode.com,up-4ever.net##a[href^="https://s.click.aliexpress.com/"]
 emarketer.com##.ContentRightAd
@@ -17323,6 +17323,7 @@ itmunch.com##.vc_slide
 itnews.com.au###whitepapers-container
 itnews.com.au##.paid-content
 itnewsonline.com##td[width="120"]
+itpro.com##.hawk-base
 itsatechworld.com##.topd
 itsfoss.com,linuxhandbook.com##.kg-bookmark-card
 itsfoss.com,linuxhandbook.com##a[href^="https://www.warp.dev"]
@@ -21089,6 +21090,9 @@ qyun.vip##a[href*="/ad."]
 qyw0.com##.iad
 qyw0.com##.s11
 qz.com##.k3mqd
+qz.com##div[class*=":block"]:has(> .ay-ad-slot)
+qz.com##div[class*="my-"]:has(> .ay-ad-slot)
+qz.com##div[class="hidden md:block"]
 qz.com#?#div[class^="sc-"]:-abp-has(> div[class="ad-unit"])
 qz.com#?#div[class^="sc-"]:-abp-has(> div[is="bulbs-dfp"])
 qzone.qq.com###QM_Container_100005
@@ -21807,6 +21811,7 @@ shm.com.cn##.w1000.surround
 shmet.com##.spb-biz-cont
 shobiddak.com###homeShobiddakAds
 shockwave.com##.ympb_target_banner
+shootingillustrated.com#@#.video-ad-container
 shop.asobistore.jp#@#.block-sponsor
 shopee.sg#?#.shopee-header-section:has(> .shopee-header-section__content:-abp-contains(Ad))
 shopee.sg#?#.shopee-search-item-result__item:-abp-contains(Ad)
@@ -32161,7 +32166,6 @@ zzzyk.com###Tinfo
 ||dtdgsbsfg.localto.net^
 ||dti-ranker.com^$third-party
 ||dtiserv2.com^$third-party
-||dtjesus0246.activehosted.com^
 ||dtksoft.com/ajax/log^
 ||dtssrv.com^$popup
 ||dtx.click^$popup
@@ -35022,6 +35026,7 @@ zzzyk.com###Tinfo
 ||host81-138-7-108.in-addr.btopenworld.com^
 ||hostadsmarkets.com^
 ||hostageacarari.top^
+||hostalalberdi.cl^
 ||hostalloscisnes.cl^
 ||hostave.net^
 ||hostave2.net^
@@ -39601,6 +39606,7 @@ zzzyk.com###Tinfo
 ||online-metrix.net^$third-party
 ||online-umwandeln.de/analytics.js
 ||online.*/promoredirect?key=
+||onlinebdo.locale-img.workers.dev^
 ||onlinecashmethod.com^$popup
 ||onlinedeltazone.online^$popup
 ||onlinefinanceworld.com^$popup
@@ -42278,6 +42284,7 @@ zzzyk.com###Tinfo
 ||secure.webhostingpad.com^
 ||secure256.inmotionhosting.com^
 ||secure289.inmotionhosting.com^
+||secure296.inmotionhosting.com^
 ||secure361.inmotionhosting.com^
 ||secureanalytic.com^$third-party
 ||secureclickers.com^$popup
@@ -43315,6 +43322,7 @@ zzzyk.com###Tinfo
 ||srv236386.hoster-test.ru^
 ||srv236434.hoster-test.ru^
 ||srv236738.hoster-test.ru^
+||srv237236.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
@@ -45006,7 +45014,6 @@ zzzyk.com###Tinfo
 ||try.opera.com^$document
 ||try.opera.com^$popup
 ||trysera.com^$third-party
-||trytada.com^$third-party
 ||ts.fi/Statistics/Log$image
 ||ts.fi^*/spring.js
 ||tsbluebox.com^$third-party
@@ -46488,6 +46495,7 @@ zzzyk.com###Tinfo
 ||wpfc.ml^$third-party
 ||wples.com/pc/common.js
 ||wpnetwork.eu^$popup
+||wpv.lop.mybluehost.me^
 ||wpzoom.com/images/aff/
 ||wqah.com/images/banners/
 ||wrapper.lemde.fr^$third-party
