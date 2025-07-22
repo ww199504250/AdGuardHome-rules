@@ -8511,8 +8511,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||geoip-db.com/jsonp/$script,third-party
-@@||geolocation-db.com/json/$domain=admanager.line.biz
-@@||geolocation-db.com/jsonp$script,domain=parts.hp.com
 @@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp
 @@||getflywheel.com/addons/google-analytics/$~third-party
 @@||getjad.io/library/$script,domain=allocine.fr
@@ -12331,6 +12329,7 @@ cheese.com,fantasypros.com,foodlovers.co.nz,foodnetwork.ca,investorplace.com,kur
 cheese.com,investorplace.com###bottom-banner
 cheetahfun.com##.guide
 cheezburger.com##.chz-ad-container
+cheezburger.com##.chz-ad-wrap
 cheknews.ca##.chek-advertisement-placeholder
 cheknews.ca##.sponsored-by
 chem99.com###J_tcode
@@ -20161,6 +20160,8 @@ pcdown.net##.sort_list > .clearfix:first-child
 pcgamebenchmark.com##.nova_wrapper
 pcgamebenchmark.com,pcgamesn.com,pockettactics.com,thedigitalfix.com,wargamer.com###nn_astro_wrapper
 pcgamebenchmark.com,soccerway.com,streetcheck.co.uk##.placement
+pcgamer.com###coupons
+pcgamer.com##.listingResult:has(> .sponsored-post)
 pcgamer.com,techcrunch.com,tomsguide.com,tomshardware.com##div[class*="ad-unit"]
 pcgames.com.cn##.aFollowb
 pcgamesn.com##.constellation_promoted_iframe
@@ -33914,7 +33915,6 @@ zzzyk.com###Tinfo
 ||geoip-db.com^$third-party
 ||geoiplookup.io^$third-party
 ||geolid.com^$third-party
-||geolocation-db.com^$third-party
 ||geoplugin.net^$third-party
 ||geoproapp.com/api/record
 ||georealcdn.com/exo/
@@ -38589,6 +38589,7 @@ zzzyk.com###Tinfo
 ||mtesthost.dynu.com^
 ||mtime.cn/library/*/ECommerce/GoodsAndFeatureCtrl.js
 ||mtime.cn/tg/
+||mtm.rnz.mybluehost.me^
 ||mtrack.nl^$third-party
 ||mtracking.com^$third-party
 ||mtree.com^$third-party
@@ -43596,6 +43597,7 @@ zzzyk.com###Tinfo
 ||storyren.top/imgg/
 ||straitstimes.com/_web2/betterads_head.js
 ||stratascratch.com/monitoring?
+||strategic-host.vercel.app^
 ||strategy-local-ads-manage-id564738291.vercel.app^
 ||stratos.blue^$third-party
 ||strcdn.org/cdn-cgi/trace
@@ -45930,6 +45932,7 @@ zzzyk.com###Tinfo
 ||w010w.com.cn^$subdocument
 ||w0we.com^$document
 ||w0we.com^$popup
+||w1.verkut.host^
 ||w3counter.com^$third-party
 ||w3cschool.cn/attachments/image/20170919/1505817817281252.jpg
 ||w3cschool.cn/index/*Advert
