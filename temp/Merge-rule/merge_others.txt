@@ -12320,7 +12320,7 @@ checkfelix.com,kayak.*,swoodoo.com##div[class*="-adInner"]
 checkfelix.com,kayak.*,swoodoo.com##div[data-resultid]:has(a.IZSg-adlink)
 checkfelix.com,kayak.*,swoodoo.com##div[id^="inline-"]
 cheemsporn.com###text-8
-cheemsporn.com,milfnut.com,nudeof.com,sexseeimage.com,yporn.tv##.happy-inside-player
+cheemsporn.com,criollasx.com,milfnut.com,nudeof.com,sexseeimage.com,yporn.tv##.happy-inside-player
 cheemsporn.com,trannyvideosxxx.com###text-2
 cheemsporno.com##[class^="Banner_"]
 cheemsporno.com##[class^="PostCard_post-card__adContainer_"]
@@ -13080,6 +13080,10 @@ crictracker.com##div[class^="ad-block-"]
 cricwaves.com##.btm728
 crikey.com.au##.wp-block-pm-ad-placeholder-block
 criminaljusticedegreehub.com##.mobius-container
+criollasx.com##.sidebar-ads
+criollasx.com##.sticky
+criollasx.com##.under-video-block
+criollasx.com##.video-archive-ad
 cript.to##a.btn[target="_blank"][href^="https://cript.to/"]
 cript.to##a[href*="8stream-ai.com"]
 cript.to##a[href^="https://cript.to/goto/"]
@@ -22803,6 +22807,7 @@ tellymix.co.uk##.a-text
 tellymix.co.uk##.adb_top
 telugupeople.com##.fineprint
 telugupeople.com#?#table:-abp-has(> tbody > tr > td > a:-abp-contains(Advertisements))
+temp-mail.io##.fixed.bottom-0.\[\@media\(max-width\:1350px\)\]\:hidden
 tempest.com##.search-result-item--ad
 tempest.com##.search-result-item:has(.search-result-item__title--ad)
 templateshub.net##.col-lg-4.col-md-6:has(> div.singel-course)
@@ -24389,6 +24394,8 @@ wideopencountry.com###video-header
 wien.info##.promotion-footer
 wifinetnews.com##table[height="260"]
 wiki.fextralife.com#@#.ad-sidebar
+wiki.gg###wikigg-sl-header
+wiki.gg##.wikigg-showcase__reserved--mrec
 wiki.gg##[href^="https://app.wiki.gg/showcase/"]
 wikibrief.org##div[style="height:302px;width:auto;text-align:center;"]
 wikibrief.org##div[style="text-align:center;height:302px;width:auto;"]
@@ -26913,6 +26920,7 @@ zzzyk.com###Tinfo
 ||adgitize.com^$third-party
 ||adglare.net^$document
 ||adglare.net^$popup
+||adglidepro.com^$document
 ||adgocoo.com^$third-party
 ||adgreed.com^$third-party
 ||adgrid.io^$third-party
@@ -30453,6 +30461,7 @@ zzzyk.com###Tinfo
 ||clickalyzer.com^$third-party
 ||clickbank.net/*offer_id=$popup
 ||clickbet88.com^$third-party
+||clickblitzo.com^$document
 ||clickbrainiacs.com^$third-party
 ||clickcease.com^$third-party
 ||clickcertain.com^$third-party
@@ -35087,6 +35096,7 @@ zzzyk.com###Tinfo
 ||hostip.info^
 ||hostip.info^$third-party
 ||hostkiss.com^
+||hostmaster.lectec.com.au^
 ||hostmaster.richardhyettlawyernotary.com^
 ||hostmaster.undiaenlausj.com^
 ||hostmonster.com/src/js/$third-party
@@ -42434,6 +42444,7 @@ zzzyk.com###Tinfo
 ||server.localrank.so^
 ||server.shostee.com^
 ||server.valuehost.com.br^
+||serverhosting227.hpsafety.com.au^
 ||serverkompetenz.net/cpx.php?
 ||servernews.ru/track?
 ||servestats.com^$third-party
@@ -42996,6 +43007,7 @@ zzzyk.com###Tinfo
 ||smqzj.com/seo.js
 ||smrk.io^$third-party
 ||smrt-content.com^$popup
+||smrtmnk2.com^$document
 ||smsaffari.it/count_new.php?
 ||smtrk.net^$third-party
 ||smutgamer.com/ta2b8ed9c305.js
@@ -43344,6 +43356,7 @@ zzzyk.com###Tinfo
 ||srv236434.hoster-test.ru^
 ||srv236738.hoster-test.ru^
 ||srv237236.hoster-test.ru^
+||srv24900hostertestmesa.cfolks.pl^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
