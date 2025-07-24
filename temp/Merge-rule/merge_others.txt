@@ -6963,6 +6963,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 58pic.com##.activitySettings-fixedBottom
 58pic.com##.xyyh
 591hx.com##.banner_w
+5dm.link###player_pause
 5dm.link#@#.tm-share-this
 5eplay.com##img[width="1240"]
 5eplay.com##img[width="290"][height="360"]
@@ -13742,6 +13743,7 @@ doc88.com##.dk-side-gif
 docer.com##.popup
 docin.com###docindex_ad
 docin.com##.cpro_mod
+docin.com##.mini-series-container
 docin.com##.sider_gg
 docomo.ne.jp,hicbc.com#@#.ad-label
 docsmall.com##.modal-connection.show
@@ -14227,7 +14229,7 @@ elektro.info.pl,mashingup.jp#@#.is-sponsored
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##.doc-content-sidebar
+element-plus.org##.doc-sidebar-content
 elephanttube.world##.bottom-block
 elephanttube.world##.spots-bottom
 elephanttube.world,pornid.xxx##.rsidebar-spots-holder
@@ -19315,6 +19317,7 @@ mydrivers.com##.vwE9JmqU
 mydrivers.com##.yTv3AMqP
 mydrivers.com##a[href*=".dangbei.com"]
 mydrivers.com##div[style*="/ad/"]
+mydrivers.com##div[style="margin: auto;width: 580px;padding: 10px 0;"]
 mydrivers.com##div[style="margin: auto;width: 800px;padding: 10px 0;"]
 mydrivers.com##div[style^="position:fixed;left:50%;bottom:200px;"]
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(好  物))
@@ -21457,6 +21460,7 @@ ruian.com##div[class^="gg_"]
 rule34.paheal.net##section[id$="main"] > .blockbody:has(> div[align="center"] > ins)
 rule34.xxx##.desktop
 rule34.xxx##.nutaku-mobile
+rule34.xxx##[style="min-height: 135px; box-sizing: border-box;"]
 rule34.xxx,slixa.com##a[rel="sponsored"]
 rule34video.com##.item.thumb:has(> [title="Advertisement"])
 rumble.com##.a-break
@@ -23647,6 +23651,7 @@ tw116.com###t365
 twavking.com##.da_single_video
 tweakreviews.com##.banner-placement__article
 tweaktown.com###DesktopTop
+tweaktown.com###toppbnf
 tweaktown.com##.DesktopRightBA
 tweaktown.com##.adcon
 tweaktown.com##.center-tag-rightad
@@ -28424,6 +28429,7 @@ zzzyk.com###Tinfo
 ||atool.org/res/ads/
 ||atoplay.com/js/rtads.js
 ||atp.io^$third-party
+||atp.revistamuchomas.com^$document
 ||atpanel.com^$image
 ||atpansagean.com^$popup
 ||atptour.com^*/sponsors/
@@ -29254,6 +29260,7 @@ zzzyk.com###Tinfo
 ||bio-equip.com/dimg/
 ||bio-equip.com/dimgs/
 ||bio-equip.com/uploadimages/peiqing.gif
+||bio.to/~/tr/
 ||bioinformatics.org/images/ack_banners/
 ||biomedcentral.com/track/
 ||bionestraff.pro/300x250.php
@@ -31492,6 +31499,7 @@ zzzyk.com###Tinfo
 ||data-dynamic.net^$third-party
 ||data-px.services^$popup
 ||data.angel.digital/images/b/$image
+||data.armexdef.uk/api/visit/
 ||data.cheatography.com/banana.js
 ||data.debugbear.com^$third-party
 ||data.email.hostplus.com.au^
@@ -35030,6 +35038,7 @@ zzzyk.com###Tinfo
 ||host-195-103-203-106.business.telecomitalia.it^
 ||host-5-58-172-98.bitternet.ua^
 ||host-95-230-215-65.business.telecomitalia.it^
+||host-95-255-114-11.business.telecomitalia.it^
 ||host-conviction.gl.at.ply.gg^
 ||host-file-host6.com^
 ||host-host-file8.com^
@@ -35111,6 +35120,7 @@ zzzyk.com###Tinfo
 ||hostkiss.com^
 ||hostmaster.richardhyettlawyernotary.com^
 ||hostmaster.undiaenlausj.com^
+||hostmicro.com^
 ||hostmonster.com/src/js/$third-party
 ||hostname.biz^
 ||hostolhg.com^
@@ -37893,6 +37903,7 @@ zzzyk.com###Tinfo
 ||marketingautomation.services/client/ss.js
 ||marketingautomation.services/koi
 ||marketingcloudfx.com^$third-party
+||marketingthing.click^$document
 ||marketizator.com^$third-party
 ||marketleverage.com^$third-party
 ||marketo.com/gw1/
@@ -41662,6 +41673,7 @@ zzzyk.com###Tinfo
 ||refpaxfbvjlw.top^$popup
 ||refundsreisner.life^$popup
 ||refutationtiptoe.com^$popup
+||register.boostymark.com/a/reg
 ||registercitizen.com/413gkwMT/init.js
 ||regulushamal.top^$popup
 ||rehvbghwe.cc^$popup
@@ -42648,6 +42660,7 @@ zzzyk.com###Tinfo
 ||shoogloonetwork.com^$third-party
 ||shoop.de/mgtrx/
 ||shoopusahealth.com^$popup
+||shop.app/pay/hop?analytics_trace_id=
 ||shop.rewe.de/api/xrd/web-vitals
 ||shopalyst.com^$third-party
 ||shopcardvnmb.byethost7.com^
@@ -43372,9 +43385,7 @@ zzzyk.com###Tinfo
 ||srv236386.hoster-test.ru^
 ||srv236434.hoster-test.ru^
 ||srv236738.hoster-test.ru^
-||srv237137.hoster-test.ru^
 ||srv237236.hoster-test.ru^
-||srv237435.hoster-test.ru^
 ||srv24900hostertestmesa.cfolks.pl^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
@@ -43969,6 +43980,7 @@ zzzyk.com###Tinfo
 ||t.tubantia.nl^$image
 ||t1.daumcdn.net/*/static/kp.js
 ||t13.cl/hit/
+||t2.profityi.com/api/visit/
 ||t2lgo.com^$popup
 ||t3.chat/api/event
 ||t3.chat/js/xt/script.js
