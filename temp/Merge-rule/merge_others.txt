@@ -7182,7 +7182,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 9to5linux.com##.widget:has([href$=".php"])
 9to5linux.com,anoopcnair.com,apkmirror.com,askpython.com,beckernews.com,bizpacreview.com,boxingnews24.com,browserhow.com,constructionreviewonline.com,crankers.com,hard-drive.net,journeybytes.com,maxblizz.com,net-load.com,planetanalog.com,roadaheadonline.co.za,theamericantribune.com,windowslatest.com,yugatech.com##.ai_widget
 9to5linux.com,appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,dbknews.com,deshdoaba.com,developer-tech.com,foreverconscious.com,friendsjournal.org,glitched.online,globalgovernancenews.com,granitegrok.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,levittownnow.com,lifeandstylemag.com,manhuatop.org,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,palipost.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,supertotobet90.com,teksyndicate.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,thethaiger.com,theyucatantimes.com,tronweekly.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
-9to5linux.com,maxblizz.com##.block-widget
+9to5linux.com,maxblizz.com,twistedvoxel.com##.block-widget
 9to5mac.com##.single-custom-post-ad
 9tour.cn##a[href^="http://union.zhuna.cn/"]
 9u8u.com##.tc-box
@@ -8531,6 +8531,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||gitlab.com^$generichide
 @@||givingassistant.org/Advertisers/$~third-party
 @@||gk.sina.cn/v1/gkmatch?
+@@||glancecdn.net/cobrowse/$domain=payroll.toasttab.com
 @@||global-uploads.webflow.com/*_dimensions-$image,domain=dimensions.com
 @@||globalatlanticannuity.com/assets/embed/gtm.js$script,~third-party
 @@||glookup.info/api/json/$domain=grabify.link
@@ -11572,6 +11573,7 @@ bingfeng.tw###adbt
 bingfeng.tw##.wow-ad-link
 binnews.com,iheart.com,jessekellyshow.com,steveharveyfm.com##.component-pushdown
 binnews.com,iheart.com,jessekellyshow.com,steveharveyfm.com##.component-recommendation
+bio.to###lnk-ad-header
 biologists.com#@#.adhesion:not(body)
 bioon.com###ad_tb
 bioon.com##.grid_6
@@ -11929,6 +11931,7 @@ britannica.com##.bc-article-inline-dialogue
 britannica.com,courthousenews.com,diabetesjournals.org,infobel.com,kuioo.com,linkedin.com,mangagun.net,nicomanga.com,pilot007.org,radiotimes.com,rawinu.com,soundguys.com,topperlearning.com,weloma.art,welovemanga.one##.ad-banner
 britannica.com,merriam-webster.com##.abl
 britannicaenglish.com##.WordFromSponsor_content_enToar
+broadcastify.com##[href^="/click/"]
 broadsheet.com.au##.breakout-section-inverse
 broadwayworld.com##a[href^="https://cloud.broadwayworld.com/rec/ticketclick.cfm"]
 brobible.com###bro-leaderboard
@@ -12121,6 +12124,9 @@ canstar.com.au,designspiration.com,investors.com,propertyguru.com.sg,search.inst
 canstar.com.au,mail.yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 canyoublockit.com##.elementor-widget-container > center > p
 capetownmagazine.com###top-leader-wrapper
+capitalbrief.com##.ad-parent
+capitalbrief.com##.position1
+capitalbrief.com##.position2
 capitalfm.com,capitalxtra.com,classicfm.com,goldradio.com,heart.co.uk,smoothradio.com##.dac__mpu-card
 capsulenz.com,ssbcrack.com,thecoinrise.com##.td_spot_img_all
 captainaltcoin.com,dailyboulder.com,freedesignresources.net,ripplecoinnews.com,utahgunexchange.com,webkinznewz.ganzworld.com,webpokie.com##.widget_text
@@ -18308,6 +18314,7 @@ livemint.com##.leftblockAd
 livemint.com##.rightAdNew
 livemint.com##.rightblockAd
 livemint.com##.storyPage_storyblockAd__r4wwE
+livemint.com##[id^="video-ad-"]
 liverpoolecho.co.uk##.fixed-slots
 liverpoolecho.co.uk,manchestereveningnews.co.uk##.teaser[data-tmdatatrack-source="SHOP_WINDOW"]
 liverpoolfc.com###lfc_ads_article_pos_one
@@ -23479,6 +23486,8 @@ trademe.co.nz##.tm-display-s-listing__cards-flex:has(tm-sponsored-listings-tag)
 trademe.co.nz##.tm-display-sponsored-listing__cards-flex
 trademe.co.nz##.tm-stripe__SL-card-container:has([class^="tm-sponsored-"])
 trademe.co.nz##tm-display-ad
+traderie.com###ad-rails
+traderie.com##.cool-slot
 traderscasa.com##[class^="overlay-"]:has(> .af-both-cont)
 tradetrucks.com.au##.middle-banner-list
 tradingview.com###charting-ad
@@ -29145,6 +29154,7 @@ zzzyk.com###Tinfo
 ||bettermeter.com^$third-party
 ||bettingpremier.com/direct/$popup
 ||bettraff.com^$popup
+||betvictor.com*&utm_campaign=$popup
 ||between-legs.com/banners2/
 ||between-legs.com^*/banners/
 ||betweendigital.com^$third-party
@@ -35113,6 +35123,7 @@ zzzyk.com###Tinfo
 ||hostinger.com/api-proxy/api/sentry/
 ||hostingfile.live^
 ||hostingjo.com^
+||hostingoutlook.com^
 ||hostingservicefl.com^
 ||hostingtue.wpenginepowered.com^
 ||hostip.info^
