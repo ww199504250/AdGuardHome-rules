@@ -4260,6 +4260,7 @@ omni.soundestlink.com$image
 ||datamind.ru^$third-party
 ||dataperforma.com^$third-party
 ||dataroid.com^$third-party
+||datastat.me^$third-party
 ||datasteam.io^$third-party
 ||dataunlocker.com^$third-party
 ||dataxpand.com^$third-party
@@ -51230,11 +51231,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||terra.com.mx/js/metricspar_
 ||terra.com.mx^*/metrics_begin.js
 ||terra.com.mx^*/metrics_end.js
-||terra.com/js/metrics/
 ||terra.com^*/td.asp?bstat
 ||todomercadoweb.es/pixel
 ||tracker.atrapalo.com^
 ||tracker.jkplayers.com^
+||trrsf.com/*/mod-stalker.min.js
 ||trrsf.com/metrics/
 ||ubeat.tv/api/v1/sda/
 ||uecdn.es/js/pbmu.js

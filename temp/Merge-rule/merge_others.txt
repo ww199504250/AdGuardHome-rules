@@ -10798,6 +10798,7 @@ athlonsports.com,bringmethenews.com,meidastouch.com,si.com##.is-exco-player
 atlantablackstar.com,finurah.com,theshadowleague.com##.raptive-ddm-header
 atlantatribune.com,barrettsportsmedia.com,footballleagueworld.co.uk,ioncinema.com,marijuanamoment.net,ripplecoinnews.com,srilankamirror.com,tribune.net.ph###mvp-leader-wrap
 atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,yourindependentgrocer.ca,valumart.ca,zehrs.ca#?#[data-testid="section"]:has(.indiana-scroll-container:-abp-contains(/Sponsorisé|Sponsored/))
 atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca##.block-wrapper:has(.element-header__sponsoredLabel)
 atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
 atlasobscura.com##.ProgrammaticMembershipCallout--taboola-member-article-container
@@ -11574,7 +11575,7 @@ bingfeng.tw##.wow-ad-link
 binnews.com,iheart.com,jessekellyshow.com,steveharveyfm.com##.component-pushdown
 binnews.com,iheart.com,jessekellyshow.com,steveharveyfm.com##.component-recommendation
 bio.to###lnk-ad-header
-biologists.com#@#.adhesion:not(body)
+biologists.com,corsaires-paris.com#@#.adhesion:not(body)
 bioon.com###ad_tb
 bioon.com##.grid_6
 biquge001.com###content > a
@@ -12660,7 +12661,7 @@ cnet.com##.c-avLazyStickyVideo
 cnet.com##.c-pageReviewContent_ad
 cnet.com##.c-shortcodeVideo_wrap
 cnet.com##.stickySkyboxSpacing
-cnet.com,filehippo.com,filehippo.de,filehippo.jp,filehippo.pl##[data-meta="placeholder-slot"]
+cnet.com,filehippo.*##[data-meta="placeholder-slot"]
 cnet.com,healthline.com##.myFinance-ad-unit
 cnet.com,medicalnewstoday.com###MyFiAd
 cnet.com,zdnet.com##.c-avStickyVideo
@@ -14447,6 +14448,7 @@ euronews.com##.c-card-sponsor
 euronews.com##.enw-MPU
 euronews.com##.m-object:has(.m-object__spons-quote)
 euronews.com##.qa-dfpLeaderBoard
+euronews.com##.tp-outbrain
 euronews.com#?#.m-object:has(.m-object__quote:-abp-contains(/In partnership with|En partenariat avec|Mit Unterstützung von|In collaborazione con|En colaboración con|Em parceria com|Совместно с|ile birlikte|Σε συνεργασία με|Együttműködésben a|با همکاری|بالمشاركة مع/))
 europeangaming.eu###mvp-leader-wrap > a[href^="https://www.softswiss.com/"]
 europeanpharmaceuticalreview.com##.europ-fixed-footer
@@ -31547,6 +31549,7 @@ zzzyk.com###Tinfo
 ||dataroid.com^$third-party
 ||dataroyal.com.br^$third-party
 ||datasign.co/js/opn.js
+||datastat.me^$third-party
 ||datasteam.io^$third-party
 ||datatechdrift.com^$document
 ||datatechdrift.com^$popup
@@ -33487,6 +33490,7 @@ zzzyk.com###Tinfo
 ||fprnt.com^$third-party
 ||fpt.shop/fa_tracking.js
 ||fpukxcinlf.com^$popup
+||fpvxzvrzz-58282.portmap.host^
 ||fqsecure.com^$third-party
 ||fqtag.com^$third-party
 ||fr.shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
@@ -35127,6 +35131,7 @@ zzzyk.com###Tinfo
 ||hostip.info^
 ||hostip.info^$third-party
 ||hostkiss.com^
+||hostmaster.onelec.com.au^
 ||hostmaster.richardhyettlawyernotary.com^
 ||hostmaster.undiaenlausj.com^
 ||hostmicro.com^
@@ -35548,6 +35553,7 @@ zzzyk.com###Tinfo
 ||igg-games.com/maven/
 ||ignals.com^$document
 ||ignals.com^$popup
+||ignition-local-manage-071536284.vercel.app^
 ||ignitorkneecap.shop^$popup
 ||igo.cn/liuxue/js/slideBar
 ||igo99.cn/js/freetest.js
@@ -36764,7 +36770,6 @@ zzzyk.com###Tinfo
 ||keywordstrategy.org^$third-party
 ||keyxel.com^$third-party
 ||kfc.com.cn^$popup,domain=iqiyi.com
-||kgbhostpro.duckdns.org^
 ||kget.com/CvbtpUrj/init.js
 ||kgfjrb711.com^$popup
 ||kgimg.com/public/root//images/hardware.jpg
@@ -37824,6 +37829,7 @@ zzzyk.com###Tinfo
 ||mail.ru/grstat?
 ||mail.ru/k?
 ||mail.yahoo.com/f/track/
+||mailhost.3lo.com.au^
 ||mailhost.mysynology.net^
 ||maillocal.cddental.com.au^
 ||mailstat.us^$third-party
@@ -37845,7 +37851,7 @@ zzzyk.com###Tinfo
 ||maltunfaithfulpredominant.com^$popup
 ||mamaunweft.click^$popup
 ||mamecn.com/style/pcjs/bgimg.
-||manage-hosting.deluj.org^
+||manage-hosting-network.admin-g.eu^
 ||manbycus.com^$popup
 ||manconsider.com^$popup
 ||mandjasgrozde.com^$popup
@@ -40154,7 +40160,6 @@ zzzyk.com###Tinfo
 ||pdmntn.com^$third-party
 ||pdmp.jp^$third-party
 ||pdst.fm^$script,third-party
-||peachpuff-lobster-126067.hostingersite.com^
 ||peakcounter.dk^$third-party
 ||pearlysweepoverface.com^$popup
 ||pebblemedia.be^$third-party
@@ -44244,7 +44249,6 @@ zzzyk.com###Tinfo
 ||terra.com.mx/js/metricspar_
 ||terra.com.mx^*/metrics_begin.js
 ||terra.com.mx^*/metrics_end.js
-||terra.com/js/metrics/
 ||terra.com^*/td.asp?bstat
 ||terraclicks.com^$popup
 ||terratraf.com^$third-party
@@ -45034,6 +45038,7 @@ zzzyk.com###Tinfo
 ||trpool.org^$popup
 ||trpop.xyz^$popup
 ||trrsf.com.br/metrics/
+||trrsf.com/*/mod-stalker.min.js
 ||trrsf.com/metrics/
 ||trsbf.com/static/fbs.min.js
 ||trstplse.com^$third-party
@@ -46838,7 +46843,6 @@ zzzyk.com###Tinfo
 ||xoilactv123.gdn^$document
 ||xoilactvcj.cc^$document
 ||xoimg.com^$domain=18board.com|18p2p.com
-||xon.oqp.mybluehost.me^
 ||xonlines.com/upload/gg/
 ||xonlines.com/yyh_qp_200_200.png
 ||xoqod.sbs^$popup
