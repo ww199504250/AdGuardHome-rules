@@ -5332,8 +5332,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /~shared/do/~/count/?$image
 0.0.0.0 0.0.0.0
 0.0.0.0 0022a601.pphost.net
-0.0.0.0 103.103.69.97.12
-0.0.0.0 2043758164.cloudhostbuilder.com
 0.0.0.0 403.hqhost.net
 0.0.0.0 404.hqhost.net
 0.0.0.0 53.localytics.com
@@ -5356,6 +5354,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 advancelocal.blueconic.net
 0.0.0.0 affiliates.thinkhost.net
 0.0.0.0 affiliates.ultrahosting.com
+0.0.0.0 ahostmail.com
 0.0.0.0 ak-cdn.placelocal.com
 0.0.0.0 akureyri-hostel-2025.com
 0.0.0.0 alocalserver.com
@@ -5494,8 +5493,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hostingconsortium.com
 0.0.0.0 hostingfreelife.com
 0.0.0.0 hostingoliver.com
+0.0.0.0 hostingoutlook.com
 0.0.0.0 hostingprod.com
 0.0.0.0 hostingtue.wpenginepowered.com
+0.0.0.0 hostmicro.com
 0.0.0.0 hostpowermedium.112.2o7.net
 0.0.0.0 hostslave.com
 0.0.0.0 hostujmy.pl
@@ -5541,14 +5542,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 localxpert.com
 0.0.0.0 localytics.com
 0.0.0.0 luminousfilehost.info
-0.0.0.0 lylihost8.com
 0.0.0.0 managesecure.log-in.information-reactivate-billing.prime.qi16ja5.yzb.bnk.mybluehost.me
 0.0.0.0 managesecure.log-in.information-reactivate-statement.speqjsf.jdw.doi.mybluehost.me
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 matchmakerlocals.com
 0.0.0.0 merciless.localstars.com
-0.0.0.0 mhost.simple-url.com
 0.0.0.0 murbil.hostei.com
 0.0.0.0 mythostream.cfd
 0.0.0.0 neetworkhosting1.com
@@ -5583,6 +5582,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 promos.meetlocals.com
 0.0.0.0 promote1local.com
 0.0.0.0 promotealocal.com
+0.0.0.0 promoteonelocal.com
 0.0.0.0 pub.local.emxdgt.com
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 rankghost.com
@@ -5590,7 +5590,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 renew-domen-smart-host-pl.hu-cloud.de
 0.0.0.0 reparacionhosteleriavalencia.com
 0.0.0.0 reparacionhosteleriavalencia.net
-0.0.0.0 rfghrgrdtterson-canions-ertrgtmai-rtyrgocale-updatregg-jhedf.freewebhostmost.com
 0.0.0.0 riselocalmedia.com
 0.0.0.0 riselocalracing.com
 0.0.0.0 rkp.jhy.mybluehost.me
@@ -5657,7 +5656,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 viphostindustries.info
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vistabet-affiliate.host.bannerflow.com
-0.0.0.0 w1.verkut.host
 0.0.0.0 web-analytics.mona.host
 0.0.0.0 web-hoster.co
 0.0.0.0 web.53.localytics.com
@@ -5668,14 +5666,13 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 webhosting.hut1.ru
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 website-dfec9a4c.ssi.meb.mybluehost.me
-0.0.0.0 websitehost.org
 0.0.0.0 wellnessmonitor.bravehost.com
 0.0.0.0 widget.secure.ownlocal.com
 0.0.0.0 wpv.lop.mybluehost.me
-0.0.0.0 www.2043758164.cloudhostbuilder.com
 0.0.0.0 www.administratielocala.com
 0.0.0.0 www.adpartnershosting.com
 0.0.0.0 www.adpeepshosted.com
+0.0.0.0 www.ahostmail.com
 0.0.0.0 www.akureyri-hostel-2025.com
 0.0.0.0 www.alocalserver.com
 0.0.0.0 www.aspnetwebhost.com
@@ -5758,7 +5755,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostingconsortium.com
 0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hostingoliver.com
+0.0.0.0 www.hostingoutlook.com
 0.0.0.0 www.hostingtue.wpenginepowered.com
+0.0.0.0 www.hostmicro.com
 0.0.0.0 www.hostslave.com
 0.0.0.0 www.hostujmy.pl
 0.0.0.0 www.hosturbater.com
@@ -5790,11 +5789,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.localxpert.com
 0.0.0.0 www.localytics.com
 0.0.0.0 www.luminousfilehost.info
-0.0.0.0 www.lylihost8.com
 0.0.0.0 www.managesecure.log-in.information-reactivate-billing.prime.qi16ja5.yzb.bnk.mybluehost.me
 0.0.0.0 www.managesecure.log-in.information-reactivate-statement.speqjsf.jdw.doi.mybluehost.me
 0.0.0.0 www.matchmakerlocals.com
-0.0.0.0 www.mhost.simple-url.com
 0.0.0.0 www.mythostream.cfd
 0.0.0.0 www.neetworkhosting1.com
 0.0.0.0 www.netplh.smarthost.eu
@@ -5815,12 +5812,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.postlocalads.com
 0.0.0.0 www.promote1local.com
 0.0.0.0 www.promotealocal.com
+0.0.0.0 www.promoteonelocal.com
 0.0.0.0 www.rankghost.com
 0.0.0.0 www.reformaslocalesmadrid.com
 0.0.0.0 www.renew-domen-smart-host-pl.hu-cloud.de
 0.0.0.0 www.reparacionhosteleriavalencia.com
 0.0.0.0 www.reparacionhosteleriavalencia.net
-0.0.0.0 www.rfghrgrdtterson-canions-ertrgtmai-rtyrgocale-updatregg-jhedf.freewebhostmost.com
 0.0.0.0 www.riselocalmedia.com
 0.0.0.0 www.riselocalracing.com
 0.0.0.0 www.rkp.jhy.mybluehost.me
@@ -5867,7 +5864,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.web.ghostglobaltd.com
 0.0.0.0 www.webhostingcounter.com
 0.0.0.0 www.website-dfec9a4c.ssi.meb.mybluehost.me
-0.0.0.0 www.websitehost.org
 0.0.0.0 www.wpv.lop.mybluehost.me
 0.0.0.0 www.xohostels.com
 0.0.0.0 www.zaphosted.com
@@ -26207,7 +26203,6 @@ zzzyk.com###Tinfo
 ||53shop.com/img/*.js
 ||53shop.com/js/dun.js
 ||54019033.xyz^$document,popup
-||5404.a.hostable.me^
 ||54199287.xyz^$document,popup
 ||5442tu.com/style/ads5442.js
 ||54admin.net/images/ad_
@@ -37628,6 +37623,7 @@ zzzyk.com###Tinfo
 ||loverevenue.com^$popup
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lovesparkle.space^$popup
+||lowcost-website-hosting.com^
 ||lowes.com/gauge/
 ||lowes.com/pharos/api/webTelemetry?
 ||lowfuelmotorsport.com/assets/img/partners/$image
@@ -44195,7 +44191,6 @@ zzzyk.com###Tinfo
 ||tekoki-fuzoku-joho.com/js/ALinkPrepare_
 ||teksishe.net^$popup
 ||telemetric.dk^$third-party
-||telenorhosting.net^
 ||telerama.fr/*&ptag=
 ||teletarget.ru^$third-party
 ||telize.com^$third-party
