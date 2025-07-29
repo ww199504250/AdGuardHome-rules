@@ -7061,9 +7061,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 7k7k.com###player-ad
 7k7k.com##.page-right-side-btns-img-link
 7k7k.com##.pendant
-7mm001.com,7mm003.cc,7mmtv.sx##.set_height_250
-7mm001.com,7mmtv.sx##.a-d-block
 7mmtv.sx##.player-overlay
+7mmtv.sx,7tv045.com,7tv047.com##.a-d-block
+7mmtv.sx,7tv045.com,7tv047.com##.set_height_250
 7x7n.com##.down_load_1
 7x7n.com##.down_load_2
 80.lv###Big_Image_Banner
@@ -15023,6 +15023,7 @@ forums.whathifi.com###jwplayer-container-div
 forward.com###middle-of-page
 forward.com###wp_piano_top_wrapper
 forward.com##div.sticky-container:first-child
+fossforce.com##div[id^="fossf-"]
 fotmob.com##[class*="TopBannerWrapper"]
 founderoo.co##.ads-block_component
 fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox6now.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,ktvu.com,wogx.com##.vendor-unit
@@ -20099,6 +20100,7 @@ ouyaoxiazai.com##.qzhengfu
 ouyaoxiazai.com##div[id^="cs_"]
 ovacovid.com##div[class^="Banner-"]
 overclock.net##.buy-now
+overclock.net##.notice-plus
 overclock3d.net##.bglink
 overclock3d.net##.stage-sidebar-3
 overkill.wtf##.kg-blockquote-alt
@@ -21868,6 +21870,7 @@ shtfplan.com##.overlay-container
 shulink.com##.er_g
 shuowan.com##.side_flash
 si.com###mmvid
+si.com###static-top-ad-placeholder_1
 si.com##.style_hfl21i-o_O-style_uhlm2
 si.com##[data-target="ad"]
 si.com##[id^="static-ad-placeholder_"]
@@ -24077,7 +24080,9 @@ w3big.com,w3schools.com###mainLeaderboard
 w3cschool.cn##.abox-content
 w3cschool.cn##.abox-item
 w3cschool.cn##.widget-main
+w3docs.com##.buttom-ads
 w3docs.com##.cta-bookduck
+w3docs.com##.min-h-\[90px\]
 w3newspapers.com###btmadd
 w3newspapers.com###topads
 w3newspapers.com##.rads
@@ -29809,7 +29814,6 @@ zzzyk.com###Tinfo
 ||bwbx.io/s3/javelin/public/hub/js/abba/$script,domain=bloomberg.co.jp|bloomberg.com
 ||bwinpartypartners.com^$third-party
 ||bwredir.com^$popup
-||bxumze.wickedlocal.com^
 ||bxw666.com/storage/*.gif
 ||by4d.com/dh/
 ||by4d.com/love/
@@ -32705,7 +32709,6 @@ zzzyk.com###Tinfo
 ||eonsmedia.com^$popup
 ||eontappetito.com^$popup
 ||eoof.net/PicZone/qzgg
-||ep.tambuhost.eu^
 ||ep4p.com^$third-party
 ||eperfectdata.com^$third-party
 ||epicgameads.com^$popup
@@ -34537,6 +34540,7 @@ zzzyk.com###Tinfo
 ||gtimg.com/www/mobi/js/app-bar-
 ||gtimg.com^*/ad/
 ||gtimg.com^*/adv/
+||gtm-wp.paradaisehosts.com.br^
 ||gtm.btmaxhost.com^
 ||gtm.hostedbyjenny.com^
 ||gtm.localcarros.com^
@@ -35097,7 +35101,6 @@ zzzyk.com###Tinfo
 ||host2.ecombeast.shop^
 ||host207.ewtn.com^
 ||host238.hostmonster.com^
-||host24.net.mydays.de^
 ||host3.live^
 ||host579678.stronawcal.pl^
 ||host81-138-7-108.in-addr.btopenworld.com^
@@ -36654,6 +36657,7 @@ zzzyk.com###Tinfo
 ||k-analytix.com^$third-party
 ||k-crm.jp/tracking.js
 ||k.p-n.io/event-stream
+||k3on.com^$document
 ||k50.ru/tracker/
 ||k5a.io/?i=
 ||k8dm.com/960x70.
@@ -37494,6 +37498,7 @@ zzzyk.com###Tinfo
 ||lntrigulngdates.com^$popup
 ||lnzqw.net/js/
 ||load.gtm.poplocal.com.au^
+||load.hosted.evara.ie^
 ||load.tm.all3dp.com/rqlevydw.js
 ||loadtime.org^$document
 ||loazuptaice.net^$document
@@ -38084,7 +38089,6 @@ zzzyk.com###Tinfo
 ||mdmexclusives.com^$popup
 ||mdrew7967.activehosted.com^
 ||mdstrm.com/js/lib/streammetrics.js
-||mdws.local183cu.ca^
 ||mdxprod.io/analytics.js
 ||me360.com/swt/swt.js
 ||me4track.com^$document
@@ -38275,9 +38279,7 @@ zzzyk.com###Tinfo
 ||metricool.com^$third-party
 ||metrics-cbslocal-com.cdn.ampproject.org^
 ||metrics.cbslocal.com^
-||metrics.freewebhostingtalk.com^
 ||metrics.hostech.co.uk^
-||metrics.webhostingtalk.com^
 ||metrics0.com^$third-party
 ||metricsdirect.com^$third-party
 ||metricswave.com^$third-party
@@ -40573,7 +40575,6 @@ zzzyk.com###Tinfo
 ||poedb.tw/image/torchlight/
 ||poeticmetric.com^$third-party
 ||pog.com^$ping
-||poguia.estudiahosteleria.com^
 ||pointclicktrack.com^$popup
 ||pointclicktrack.com^$third-party
 ||pointillist.com^$third-party
@@ -43068,7 +43069,6 @@ zzzyk.com###Tinfo
 ||smerttb-40118.portmap.host^
 ||smetrics.echostar.com^
 ||smetrics.hoste-tungpust.no^
-||smetrics.webhostingtalk.com^
 ||smileycentral.com^$third-party
 ||smileyhost.net^
 ||smileyhost.net^$third-party
@@ -43448,6 +43448,7 @@ zzzyk.com###Tinfo
 ||srware.net/iron/assets/img/av/
 ||srx.com.sg/srx/media/
 ||ss-iconbeauty-no-prelive.wexohosting.com^
+||ss.gupovrlocalcomercial.info^
 ||ss.lv/counter/
 ||ss4w.de/counter.php?
 ||ss9874.com/img/91_
@@ -47243,7 +47244,6 @@ zzzyk.com###Tinfo
 ||yushuwen.com/astyle/wap.js
 ||yuwangshe.net/astyle/wap.
 ||yuwenbin.host^
-||ywrcqa.localmemphis.com^
 ||ywxi.net^$third-party,domain=~trustedsite.com
 ||yxad.com/baidu/
 ||yxad.com/yxad/
