@@ -11582,6 +11582,10 @@ birdsandblooms.com,familyhandyman.com,rd.com,tasteofhome.com,thehealthy.com###gc
 birdsandblooms.com,familyhandyman.com,rd.com,tasteofhome.com,thehealthy.com##.pre-article-ad
 birdwatchingdaily.com##.ad-advertisement-vertical
 birdwatchingdaily.com##.mobile-incontent-ad-label
+birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,stokesentinel.co.uk,walesonline.co.uk###right-aside-wrapper
+birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,stokesentinel.co.uk,walesonline.co.uk##.react-loading-skeleton
+birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,stokesentinel.co.uk,walesonline.co.uk##div[class^="sc-"]:has(> span[aria-live="polite"] > .react-loading-skeleton)
+birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,stokesentinel.co.uk,walesonline.co.uk##div[data-testid^="commercial-"]
 birrapedia.com##div[id^="textoDivPublicidad_"]
 bitauto.com###advCarsumType1
 bitauto.com###bitAd_background
@@ -15603,6 +15607,7 @@ gizmodo.com##.widget_keleops-ad
 gizmodo.jp#@#.l-ad
 gkstk.com##.layui-layer-shade
 gkstk.com,ufanw.com##.layui-layer
+glasgowtimes.co.uk,heraldseries.co.uk,somersetcountygazette.co.uk##.mar-leaderboard--top
 glennbeck.com###sPost_0_0_5_0_15_5_0_1_2_0
 glennbeck.com###sPost_Default_Layout_0_0_6_0_0_9_0_1_2_0
 global.espreso.tv##.ym-video--wrapper
@@ -17632,6 +17637,7 @@ jpfans.com,jpseek.com##table[cellspacing="1"][cellpadding="6"]
 jpost.com##.banner-h-270
 jpost.com##.banner-h-880
 jpost.com##.divConnatix
+jpost.com##.main-banner-container
 jpost.com##.right-side-banner
 jpost.com##.sticky-top-banner
 jpsub.com##.floatbar_div
@@ -19607,6 +19613,9 @@ news.sky.com,skysports.com,trueachievements.com,truesteamachievements.com,truetr
 news.sohu.com##.god-first
 news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 news.stv.tv##.stv-article-gam-slot
+news.yahoo.com###sda-mid-right-2-iframe
+news.yahoo.com###sda-mid-right-iframe
+news.yahoo.com###sda-top-right-iframe
 news12.com##.kBEazG
 news12.com##[template="leaderboard"]
 news12.com##div[alignitems="normal"]:has(> div[sizes*="object"])
@@ -20885,6 +20894,8 @@ publishedreporter.com##.no-bg-box-model
 pubs.rsc.org###journal-info > .text--centered
 pujia8.com###recommend
 pujia8.com##.ad740
+punchline-gloucester.com##.js-analytics-event-click
+punchline-gloucester.com##.slideshow
 punishworld.com##.alrt-ver2
 pupudy.com##.asst-post_header
 pupudy.com##.sidebar
@@ -32379,6 +32390,7 @@ zzzyk.com###Tinfo
 ||ea-tube.com/i2/
 ||ea3w.com/pv.js
 ||ea6c0ac4.xyz^$document,popup
+||eaaratte.net^$popup
 ||eabids.com^$popup
 ||eacdn.com^$popup
 ||eacla.com^$third-party
@@ -35581,7 +35593,6 @@ zzzyk.com###Tinfo
 ||igg-games.com/maven/
 ||ignals.com^$document
 ||ignals.com^$popup
-||ignition-local-manage-071536284.vercel.app^
 ||ignitorkneecap.shop^$popup
 ||igo.cn/liuxue/js/slideBar
 ||igo99.cn/js/freetest.js
@@ -37227,6 +37238,7 @@ zzzyk.com###Tinfo
 ||lfeeder.com^$third-party
 ||lfov.net^$third-party
 ||lftce.clearstem.com/load
+||lfv1zhpwz.localto.net^
 ||lgforbes.akamaized.net/rtblog.php?
 ||lgmi.com/ggimg/
 ||lgmi.com/left_right_
@@ -37343,6 +37355,7 @@ zzzyk.com###Tinfo
 ||linkgrand.com^$third-party
 ||linkhelper.cn/mmshow
 ||linkifier.com^$third-party
+||linkinbio.fun/iframes/
 ||linkmepu.com^$popup
 ||linkonclick.com^$popup
 ||linkpicture.com^$third-party
@@ -37558,6 +37571,7 @@ zzzyk.com###Tinfo
 ||localso.com^
 ||localstockservicefr.firebaseapp.com^
 ||localtest.evergage.com^
+||localtreasure.net^
 ||localytics.com^
 ||localytics.com^$third-party
 ||location3.com/analytics/
@@ -39364,6 +39378,7 @@ zzzyk.com###Tinfo
 ||notimoti.com^$popup
 ||notion.so/api/v*/teV1
 ||notix.io^$third-party
+||notmalicious-29362.portmap.host^
 ||notmining.org^$third-party
 ||notsy.io^$third-party
 ||notube.*/p/$popup
@@ -40111,6 +40126,7 @@ zzzyk.com###Tinfo
 ||patronimproveyourselves.com^$popup
 ||paulastroid.com^$document
 ||paulastroid.com^$popup
+||pavan001-50933.portmap.host^
 ||paxsfiss.com^$popup
 ||paxxfiss.com^$popup
 ||pay4fans.com/api/analytics
@@ -42155,7 +42171,6 @@ zzzyk.com###Tinfo
 ||saasexch.com/bapi/fe/usd/report/
 ||sabavision.com^$third-party
 ||saboom.com.pccdn.com^*/banner/
-||sackedrai-44446.portmap.host^
 ||sadbmetrics.localdigitalkit.com^
 ||safarinow.com/affiliate-zone/
 ||safe-click.net^$third-party
@@ -43117,7 +43132,6 @@ zzzyk.com###Tinfo
 ||snoobi.com^$third-party
 ||snoreempire.com^$popup
 ||snow-fish-425904.hostingersite.com^
-||snow-giraffe-791916.hostingersite.com^
 ||snowdayonline.xyz^$popup
 ||snowplow-collector.
 ||snowsignal.com^$third-party
@@ -43426,7 +43440,6 @@ zzzyk.com###Tinfo
 ||srv155384.hoster-test.ru^
 ||srv236250.hoster-test.ru^
 ||srv236386.hoster-test.ru^
-||srv236434.hoster-test.ru^
 ||srv236738.hoster-test.ru^
 ||srv237601.hoster-test.ru^
 ||srv2trking.com^$popup
@@ -45589,6 +45602,7 @@ zzzyk.com###Tinfo
 ||v3cars.com/load-ads.php
 ||v3cdn.net^$third-party
 ||v4dwkcv.com/html/click/
+||v4lcs-58756.portmap.host^
 ||v6rxv5coo5.com^$popup
 ||va-endpoint.com^$third-party
 ||va.tawk.to/log
@@ -47502,6 +47516,7 @@ zzzyk.com###Tinfo
 ||zwqzxh.com^$popup
 ||zx-adnet.com^$third-party
 ||zx123.cn/templates/zx123cs/theme-2015/js/right_xh.js
+||zxcmisha5963-26454.portmap.host^
 ||zxcv112.byethost4.com^
 ||zxw51.com^$third-party
 ||zybrdr.com^$popup
