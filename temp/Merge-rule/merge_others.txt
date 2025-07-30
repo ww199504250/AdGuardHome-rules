@@ -3189,6 +3189,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /lasso-ga.js
 /lazyad-loader.js$script
 /lazyad-loader.min.js$script
+/ldc.js?pid=
 /lead-tracking.min.js
 /leadgen/ga.js
 /leadtag.js
@@ -24042,6 +24043,8 @@ vjmedia.com.hk##.code-block
 vk.com,vk.ru###system_msg
 vk922.com##a[href^="/ad/"]
 vmall.com#@#.iframeAd
+vmlib.com##.elementor-widget > .elementor-widget-container > a[href^="http"]:not([href*="vmlib."])
+vmlib.com##.wp-caption
 vnkb.com##a[href^="https://vnkb.com/e/"]
 voachinese.com##.slide-in-wg
 vocm.com###leaderboard-area
@@ -31078,6 +31081,7 @@ zzzyk.com###Tinfo
 ||coolpc.com.tw/img/topweb.html
 ||coolserving.com^$document
 ||coolserving.com^$popup
+||coomer.st/api/v1/creators|
 ||coosync.com^$document
 ||coosync.com^$popup
 ||coppercranberrylamp.com^$popup
@@ -35779,6 +35783,7 @@ zzzyk.com###Tinfo
 ||incentivesnetwork.net^$third-party
 ||incomaker.com//tracking/
 ||increaserev.com^$third-party
+||increasingcustomers-tag.com^$third-party
 ||incrementxplay.com/api/adserver/
 ||ind.sh/view.php?$third-party
 ||indeed.com/cmp/_rpc/dwell-log?
@@ -36788,6 +36793,7 @@ zzzyk.com###Tinfo
 ||kelehut.cc/js/m.
 ||kelkoogroup.net/st?
 ||kellymary9742.activehosted.com^
+||kemono.cr/api/v1/creators|
 ||kendralust266.activehosted.com^
 ||kendrickcoleman.com/images/banners/
 ||kenny-glenn.net^*/longbanner_$third-party

@@ -1307,6 +1307,7 @@
 /LandingPageHitLog.aspx?
 /LandingPageInteractionLog.aspx?
 /lasso-ga.js
+/ldc.js?pid=
 /lead-tracking.min.js
 /leadgen/ga.js
 /leadtag.js
@@ -4717,6 +4718,7 @@ omni.soundestlink.com$image
 ||imtwjwoasak.com^$third-party
 ||inboxtag.com^$third-party
 ||incentivesnetwork.net^$third-party
+||increasingcustomers-tag.com^$third-party
 ||index.ru^$third-party
 ||indexstats.com^$third-party
 ||indextools.com^$third-party
@@ -11916,6 +11918,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||contentpass.net/error-tunnel
 ||contentpass.net/stats
 ||cookpad.com/*/activity_logs
+||coomer.st/api/v1/creators|
 ||copilot-telemetry.githubusercontent.com^
 ||count.all.biz^
 ||count.darkreader.app^
@@ -12394,6 +12397,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
+||kemono.cr/api/v1/creators|
 ||kgoma.com/v1/stat/
 ||khanacademy.org/api/internal/_analytics/
 ||kinesis.us-east-1.analytics.edmentum.com^
@@ -13046,6 +13050,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.kck.st^
 ||t.lataco.com/collect
 ||t.nypost.com^
+||t.optiwizehealth.com^
 ||t.pagesix.com^
 ||t.paypal.com^$image
 ||t.perigold.com^
