@@ -9054,6 +9054,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||newver.api.dedecms.com/index.php$subdocument
 @@||next.co.uk/static-content/gtm-sdk/gtm.js$~third-party
 @@||nextcloud.com/remote.php/$~third-party,xmlhttprequest
+@@||nfl.com^$generichide
 @@||nflcdn.com/static/site/$script,domain=nfl.com
 @@||nihasi.ru/upload/resize_cache/*/300_250_$image,~third-party
 @@||nike.com/assets/measure/data-capture/analytics-client.min.js$script,~third-party
@@ -10169,7 +10170,7 @@ adtunes.com#@##ad_thread_first_post_content
 adult-sex-games.com###skyscraper
 adultcomixxx.com##[href^="https://join.hentaisex3d.com/"]
 adultdvdempire.com##a[href*="?partner_id="][href*="&utm_"]
-adultfilmdatabase.com,analegg.com,animeidhentai.com,babeforums.org,bos.so,camvideos.tv,camwhores.tv,cheemsporn.com,coomer.su,f95zone.to,familypornhd.com,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,kemono.su,motherless.com,muchohentai.com,myporn.club,pandamovies.pw,planetsuzy.org,porntrex.com,pussyspace.com,sendvid.com,sexgalaxy.net,sextvx.com,simpcity.su,simpshub.com,socialmediagirls.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,xfantazy.com,yeapornpls.com##a[href*="theporndude.com"]
+adultfilmdatabase.com,analegg.com,animeidhentai.com,babeforums.org,bos.so,camvideos.tv,camwhores.tv,cheemsporn.com,coomer.st,f95zone.to,familypornhd.com,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,kemono.cr,motherless.com,muchohentai.com,myporn.club,pandamovies.pw,planetsuzy.org,porntrex.com,pussyspace.com,sendvid.com,sexgalaxy.net,sextvx.com,simpcity.su,simpshub.com,socialmediagirls.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,xfantazy.com,yeapornpls.com##a[href*="theporndude.com"]
 adultfilmindex.com##.aebn
 adultgamescollector.com,adultgamesworld.com,porngames.tv###slideApple
 adultgamesworld.com##.masonry-layout__panel:has(a[href^="https://access-the-website.com/"])
@@ -12780,7 +12781,7 @@ cockdude.com##.native-boxes-2-ver2
 cockdude.com##.native-boxes-ver2
 cockdude.com##.related-boxes-footer-ver2
 cockdude.com##.textovka
-cockdude.com##a[href*="/tsyndicate.com/"]
+cockdude.com,coomer.st,kemono.cr##a[href*="/tsyndicate.com/"]
 codapedia.com##a[href^="/ad-click.cfm"]
 codeceo.com##div[style="width:970px;margin:0 auto"]
 codeceo.com,fuli8.net##.widget_text:first-child
@@ -12990,9 +12991,7 @@ coolors.co##[style*="position:absolute;top:20px;"]
 coolors.co##a[href*="srv.Buysellads.com"]
 coolors.co#?#a:-abp-has(div:last-child:-abp-contains(Hide))
 coolpc.com.tw##TD[onclick="cancelBubble()"]
-coomer.su,kemono.su##.header + aside
-coomer.su,kemono.su##[href^="//a.adtng.com/get/"]
-coomer.su,kemono.su,pics-x.com,sdhentai.com,urlgalleries.net##.ad-container
+coomer.st,kemono.cr,pics-x.com,sdhentai.com,urlgalleries.net##.ad-container
 copart.com#@#.adscontainer
 copilot.microsoft.com##.b_ad
 copyfuture.com#?#.tabbable > div:-abp-contains(宝红)
@@ -17808,7 +17807,6 @@ kekenet.com##.h_news_c
 kekenet.com##.lp_r_bar:first-child
 kekeshici.com###pcAd
 kelatv.com##a[href^="https://www.kelatv.com/api/go."]
-kemono.su##a[href*="tsyndicate.com/"]
 kengso.com,pansoso.com,xgsoso.com##a[href*=".click.taobao.com"]
 kentonline.co.uk##.LeaderBack
 kentonline.co.uk##.PSDRGC
@@ -27369,7 +27367,6 @@ zzzyk.com###Tinfo
 ||advcash.com^$third-party
 ||advconversion.com^$third-party
 ||adventori.com^$third-party
-||adventure-local-manage-uid728905163.vercel.app^
 ||adventurefeeds.com^$third-party
 ||adverdirect.com^$popup
 ||adversal.com^$third-party
@@ -28380,6 +28377,7 @@ zzzyk.com###Tinfo
 ||aruba.it/servlet/counterserver?
 ||arwobaton.com^$popup
 ||as.coinbase.com/metrics
+||as.svcsghost.com^
 ||asadcdn.com^$third-party
 ||asayer.io/tracker.js
 ||asce.xyz^$popup
@@ -33027,6 +33025,7 @@ zzzyk.com###Tinfo
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f92j5.com^$third-party
+||f930dc1b3c.byethost11.com^
 ||fabricww.com^$third-party
 ||fabuye.vip/zhuanfa/
 ||faceb00k-free00.hostingerapp.com^
@@ -35180,10 +35179,12 @@ zzzyk.com###Tinfo
 ||hostmicro.com^
 ||hostmonster.com/src/js/$third-party
 ||hostname.biz^
+||hostnet-online-x-1.s3.us-east-005.backblazeb2.com^
 ||hostolhg.com^
 ||hostpdf.co^
 ||hostplushed.top^
 ||hostpowermedium.112.2o7.net^
+||hostqfix.rospasalon.com^
 ||hostrubs.com^
 ||hosts.dynuddns.com^
 ||hosts32.no-ip.biz^
@@ -35199,6 +35200,7 @@ zzzyk.com###Tinfo
 ||hostvy.com^
 ||hostwpe.com^
 ||hostxxxinquiries.creatorlink.net^
+||hostz.hopto.org^
 ||hostzb.com^
 ||hot-count.com^$third-party
 ||hot-growngames.life^$popup
@@ -36780,6 +36782,7 @@ zzzyk.com###Tinfo
 ||keepingbusinesslocal.com^
 ||keewoach.net^$popup
 ||kefeng56.com^$third-party
+||keirin.netkeiba.com/ndtracker/
 ||kejiwanjia.com/wp-content/uploads/*/1040x100.
 ||kekenet.com/Images/*/tom640X40.gif
 ||kekenet.com/images/*/akasuo
@@ -37166,6 +37169,7 @@ zzzyk.com###Tinfo
 ||lechosabode.shop^$popup
 ||lederer.nl/incl/stats.js.php?
 ||ledevoir.com/js/pianoAnalyticsTags.js
+||ledivineenfant-59793.portmap.host^
 ||leeleo.top^$third-party
 ||leesaushoah.net^$popup
 ||legacy.com/globalscripts/tracking/
@@ -37539,7 +37543,6 @@ zzzyk.com###Tinfo
 ||localau.vip/plugin/pause.php
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
-||localbusineess.com.br^
 ||localcabnearme.com^
 ||localconservatives.com^
 ||localdeliveryinc.info^
@@ -38215,6 +38218,7 @@ zzzyk.com###Tinfo
 ||megpxs.com^$third-party
 ||meherdewogoud.com^$popup
 ||mehrwertdienstekompetenz.de/cp/$third-party
+||meijersa.bighosted.com^
 ||meiju22.com/new/Public/gg.js
 ||meiju8.cc/js/jquery.p.min.js
 ||meiju8.cc/js/m_ban_
@@ -43442,7 +43446,6 @@ zzzyk.com###Tinfo
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srtrak.com^$popup
-||srv236250.hoster-test.ru^
 ||srv236386.hoster-test.ru^
 ||srv236738.hoster-test.ru^
 ||srv237601.hoster-test.ru^
@@ -45106,6 +45109,8 @@ zzzyk.com###Tinfo
 ||truenat.bid^$third-party
 ||truepeoplesearch.com/search/widgets?$xmlhttprequest
 ||truepush.com^$third-party
+||truevibe.live^$document
+||truevibe.live^$popup
 ||truex.com/js/client.js
 ||truffle.one^$third-party
 ||trugaze.io^$third-party
@@ -45972,6 +45977,7 @@ zzzyk.com###Tinfo
 ||voguelift.biz^$document
 ||voguelift.biz^$popup
 ||voicefive.com^$third-party
+||voir.host^
 ||vokut.com^$popup
 ||volantix.com^$third-party
 ||volform.online^$popup
