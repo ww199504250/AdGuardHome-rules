@@ -10551,6 +10551,7 @@ androidcommunity.com,euro-sd.com,sfbg.com,techworm.net##.td-header-rec-wrap
 androiddevtools.cn###auto-scroll-ad-box
 androidheadlines.com,dailyveganmeal.com,discussingfilm.net,gcaptain.com,mp1st.com,thedebrief.org,unofficialnetworks.com##.adthrive
 androidpctv.com,brigantinenow.com,downbeachbuzz.com,thecatholictravelguide.com##.widget_sp_image
+androidpolice.com##.display-card-main-content-wrapper
 androidpolice.com##.w-pencil-banner
 androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.adsninja-ad-zone-container-with-set-height
 androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[class*="ad-zone-container-content-character-count-repeatable"]
@@ -16307,6 +16308,8 @@ hitbdsm.com##a[href^="https://go.rabbitsreviews.com/"]
 hitbullseye.com##a[href*="&utm_medium="]
 hitime5.com###gg250
 hitime5.com###gg730
+hitomi.la##.content > div[class]:not([class*="-"]) {min-height:45px
+hitomi.la##.top-content > div[class]:not([class*="-"]) {min-height:45px
 hjenglish.com###regscrollcontainer
 hjenglish.com##.fix_questionnaire_btn
 hjenglish.com,hujiang.com##.lamu_banner
@@ -35180,6 +35183,7 @@ zzzyk.com###Tinfo
 ||hostmonster.com/src/js/$third-party
 ||hostname.biz^
 ||hostnet-online-x-1.s3.us-east-005.backblazeb2.com^
+||hostnetadv.site^
 ||hostolhg.com^
 ||hostpdf.co^
 ||hostplushed.top^
