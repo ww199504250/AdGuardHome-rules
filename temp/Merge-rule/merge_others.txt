@@ -3879,6 +3879,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
 /pmc-cxense.js
 /pn07uscr/f/tr/zavbn/*$third-party
+/pogoadkit.js
 /pointeur.gif?
 /pomegranate.js
 /pongAudienceLS?
@@ -11462,7 +11463,7 @@ bestfriendsclub.ca###theme-top-section > .section-content
 bestjavporn.com,javdock.com,javhdporn.net##.related-native-banner
 bestlifeonline.com,eatthis.com##.inline
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
-bestlifeonline.com,good.is##.placeholder-a-block
+bestlifeonline.com,good.is,pride.com##.placeholder-a-block
 bestlifeonline.com,hellogiggles.com##.widget_gm_karmaadunit_widget
 bestlifeonline.com,zeenews.india.com##.first-ad
 bestoftelegram.com##a[href^="/ads/banner_ads?"]
@@ -13772,6 +13773,8 @@ docin.com##.cpro_mod
 docin.com##.mini-series-container
 docin.com##.sider_gg
 docomo.ne.jp,hicbc.com#@#.ad-label
+docs.openwebui.com##.markdown > .w-full:has-text(Sponsored)
+docs.openwebui.com##.pb-4 > .mb-2:has-text(Sponsored)
 docsmall.com##.modal-connection.show
 doda.jp,tubefilter.com#@#.mainAd
 dodi-repacks.site###block-17
@@ -15427,6 +15430,9 @@ gays-cruising.com##.c_526x240
 gays-cruising.com##.c_728x265
 gays-cruising.com##.c_728x90
 gays-cruising.com##.c_900x250
+gays-cruising.com##.m-row.h_100
+gays-cruising.com##.m-row.h_250
+gays-cruising.com##.m-row.h_335
 gays-cruising.com##.w-100.h_250
 gayvegas.com###background
 gayvegas.com,geekhistory.com,looktothestars.org,nintandbox.net,plurk.com,thebarentsobserver.com,tolonews.com,webtor.io##.adsense
@@ -15700,7 +15706,7 @@ gomagic.org###fullscreen_ad_wrap
 gongkong.com###dull_left
 gongkong.com###dull_right
 gonintendo.com##.pt-5
-good.is,papermag.com##.topbarplaceholder
+good.is,papermag.com,pride.com##.topbarplaceholder
 goodcome.com.tw###fulljad
 goodcome.com.tw###jad-float
 goodcome.com.tw###jad-right
@@ -18281,6 +18287,7 @@ lingohut.com##.al-board
 lingojam.com###adsense-area-label
 linguisticsociety.org##.component-3
 linkedin.com##article[data-is-sponsored]
+linkedin.com##iframe[title="Advertisement"]
 linkedin.com##li[data-is-sponsored="true"]
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
@@ -22491,7 +22498,6 @@ starbike.com#@#.adsense_wrapper
 starsinsider.com##.pub-container
 start.firefoxchina.cn##.mod-delay-resource
 start.firefoxchina.cn##.wrap > div[style]:last-child
-startpage.com##.a-bg
 startribune.com##[class*="htlad-"]
 startup.ch##.smallbanner
 stat-nba.com###ad_video
@@ -26153,6 +26159,7 @@ zzzyk.com###Tinfo
 ||4kporn.xxx/static/analytics/
 ||4link.it^$third-party
 ||4localdealer.com^
+||4myrb8zoe.localto.net^
 ||4mythtracker.xyz^$third-party
 ||4oney.com^$third-party
 ||4paradigm.com^$domain=sina.com.cn
@@ -31744,7 +31751,6 @@ zzzyk.com###Tinfo
 ||dek-d.com^*/analytic.js
 ||delfi.lv/t/p.js
 ||delidatax.net^$third-party
-||delightfulhostess.com^
 ||deliveroo.com^*/events
 ||delivery-pc.wasu.cn/d/frontJs/3.0$rewrite=abp-resource:blank-js,domain=wasu.cn
 ||delivery-pc.wasu.cn/d/js/
@@ -36866,6 +36872,7 @@ zzzyk.com###Tinfo
 ||kijimea.it/javascript/script.js
 ||kikinote.net/iframe
 ||kiksajex.com^$popup
+||killnratdem.byethost3.com^
 ||kilometrix.de^$third-party
 ||kimonix.com/analytics/
 ||kindbea48.activehosted.com^
@@ -38035,6 +38042,7 @@ zzzyk.com###Tinfo
 ||massariuscdn.com/pubs/
 ||massivebelieved.com^$popup
 ||massivecams.com/api/metrics
+||massungold.byethost7.com^
 ||master-push.com^$third-party
 ||master-push.net^$third-party
 ||masternodes.online/baseimages/
@@ -40247,6 +40255,7 @@ zzzyk.com###Tinfo
 ||pebblemedia.be^$third-party
 ||pecash.com^$third-party
 ||pecialukizeias.info^$popup
+||peddypeddy.byethost7.com^
 ||peer39.com^$third-party
 ||peerius.com^$third-party
 ||peethach.com^$popup
@@ -43568,10 +43577,10 @@ zzzyk.com###Tinfo
 ||start.ru/logger/
 ||startd0wnload22x.com^$popup
 ||starti.pl^$third-party
-||startpage.com/*/async-ads.js
 ||startpage.com/sp/$ping
 ||startpage.com/sp/dplpxs?
 ||startpage.com/sp/jst
+||startpage.com^*/afs/
 ||startwebpromo.com^$third-party
 ||starwank.com/api/
 ||starzplay.com/resources/js/analytics.js
@@ -45351,7 +45360,6 @@ zzzyk.com###Tinfo
 ||u1pmt.com^$popup
 ||u26u.com^$popup,third-party
 ||u2host.com^
-||u3212790.isp.regruhosting.ru^
 ||u532344488.hostingerapp.com^
 ||u5e.com^$third-party
 ||u7u9.com^$third-party
@@ -45656,6 +45664,7 @@ zzzyk.com###Tinfo
 ||valuecommerce.com^$third-party
 ||valuedopinions.co.uk^$third-party
 ||vamaker.com^$third-party
+||vandizzel.byethost32.com^
 ||vanilladev.com/analytics.
 ||vanityfair.com/user-context?referrer
 ||vanpeople.com/gg/
@@ -46416,6 +46425,7 @@ zzzyk.com###Tinfo
 ||westca.com/server/
 ||westcoa.com^$popup
 ||weste.net/js/showpagead.js
+||westiron.byethost7.com^
 ||wetpaint.com^*/track?
 ||wetpussygames.com/t78d42b806a3.js
 ||wetrackgames.com^$document
