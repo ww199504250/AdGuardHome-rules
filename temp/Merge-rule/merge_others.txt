@@ -5174,6 +5174,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /wp-coin-hive-util.js
 /wp-coin-hive.js
 /wp-content/ads/*$~xmlhttprequest
+/wp-content/cache/min/1/advert/popads/*$script
 /wp-content/mbp-banner/*$image
 /wp-content/plugins/amazon-auto-links/*$script,stylesheet
 /wp-content/plugins/amazon-product-in-a-post-plugin/*
@@ -16122,7 +16123,7 @@ hd21.com,winporn.com###spot_video_underplayer_livecams
 hdchina.org##.sitead
 hdfcbank.com#@#.adLink
 hdhive.online#?#.mt-4:-abp-has(>.text-lg)
-hdporn92.com,javflix.net,koreanstreamer.xyz##.happy-header
+hdporn92.com,javflix.net,koreanstreamer.xyz,ofansleaks.com##.happy-header
 hdpornpics.net#?#.money:-abp-has(.century:-abp-contains(ADS))
 hdsex.org##.main-navigation__link--webcams
 hdshare.cn,it168.com###adv
@@ -19941,6 +19942,8 @@ odditycentral.com###add_160x600
 odishatv.in##[class$="-ad"]
 oeeee.com###adImg
 oeeee.com##.homeAD
+ofansleaks.com##.happy-footer-mobile
+ofansleaks.com##.happy-related-videos-mobile
 offcn.com###offcn_yx
 offcn.com##.jlstc
 officedepot.com###PromoteIqCarousel
@@ -36966,6 +36969,7 @@ zzzyk.com###Tinfo
 ||kpnoq8eil.localto.net^
 ||kppt.cc/zb_system/script/common.js
 ||kppt.cc/zhifu.jpg
+||kreatorhostplt.pl^
 ||krjxhvyyzp.com^$popup
 ||kroger.com/clickstream/
 ||kstrk.com^$document
@@ -37516,7 +37520,6 @@ zzzyk.com###Tinfo
 ||llanalytics.com^$third-party
 ||llj22.com/1.gif
 ||lloogg.com^$third-party
-||llordiwashere-55715.portmap.host^
 ||llpgpro.com^$popup
 ||llq.rsq.mybluehost.me^
 ||lmcdn.ru^*/statistics.js
@@ -43468,7 +43471,6 @@ zzzyk.com###Tinfo
 ||srv236386.hoster-test.ru^
 ||srv237601.hoster-test.ru^
 ||srv237693.hoster-test.ru^
-||srv237842.hoster-test.ru^
 ||srv237883.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
