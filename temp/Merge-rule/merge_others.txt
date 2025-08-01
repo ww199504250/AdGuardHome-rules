@@ -23401,7 +23401,7 @@ tmall.com###J_Recommend
 tmall.com##.app-download-popup
 tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
 tmall.com##.mui-mbarp-qrcode
-tmioe.com##.ekssxhn
+tmioe.com##.ekxxhn
 tmioe.com##.widget_image_img
 tmioe.com##a[href*=".zps.im"]
 tmo.report###directad
@@ -28746,6 +28746,8 @@ zzzyk.com###Tinfo
 ||backchina.com/banners/
 ||backcountry.com/api/log
 ||backend.academy.cs.cmu.edu/api/v0/event/
+||backend.alia-cloudflare.com/launcher/events/
+||backend.alia-cloudflare.com/user/events
 ||backend.leadconnectorhq.com/forms/form-survey-event
 ||backend.verbolia.com/content/js/velw.min.js
 ||backgroundrunway.com^$popup
@@ -28938,6 +28940,7 @@ zzzyk.com###Tinfo
 ||baronsoffers.com^$third-party
 ||barrons.com/cookies/pixel.gif
 ||barry-callebaut.com/pd.js
+||base-hostel-sydney.xyz^
 ||bashfulleadsock.com^$document
 ||basicflownetowork.co.in^$document
 ||basicstat.com^$third-party
@@ -39711,6 +39714,7 @@ zzzyk.com###Tinfo
 ||onclickprediction.com^$popup
 ||onclicksuper.com^$popup
 ||onclicktop.com^$popup
+||ondemand-delivery-express.nvb.ouq.mybluehost.me^
 ||onderhost.com^
 ||ondigitalocean.app/insight-analytics.js
 ||ondu.ru^$third-party
@@ -41876,6 +41880,7 @@ zzzyk.com###Tinfo
 ||revenueflex.com^$third-party
 ||revenuenetwork.com^$popup
 ||revenuepilot.com^$third-party
+||revenueroll.com^$third-party
 ||revenuescience.com^$third-party
 ||revenuewire.net^$third-party
 ||reverbnation.com/api/user/app_events
@@ -42802,6 +42807,7 @@ zzzyk.com###Tinfo
 ||shrtfly.vip/js/tag.js
 ||shuakongbao.com/resource/images/banner/
 ||shuanshu.com.com^$popup
+||shueisha.online/op/analytics.js
 ||shuffle.com/*&clickID=$popup
 ||shui5.cn^*/ima/gg
 ||shuihulu.com^$third-party
@@ -43961,7 +43967,6 @@ zzzyk.com###Tinfo
 ||svhost2.linkpc.net^
 ||svhost56.duckdns.org^
 ||svhosted.duckdns.org^
-||svhostwp.duckdns.org^
 ||sviluppo.host^
 ||svtrd.com^$third-party
 ||sw76r85eda3k.com/need/h5.
