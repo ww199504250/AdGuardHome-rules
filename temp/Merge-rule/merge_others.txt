@@ -6318,20 +6318,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 17yy.com###addiv
 17yy.com##.t2_3
 17yy.com##.t2r_3
-18-comicfrieren.xyz,18comic.org,18comic.vip###guide-modal
-18-comicfrieren.xyz,18comic.org,18comic.vip##.div_sticky2
-18-comicfrieren.xyz,18comic.org,18comic.vip##.modal-backdrop
-18-comicfrieren.xyz,18comic.org,18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
-18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > [style*="back"]
-18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style]
-18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img
-18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
-18-comicfrieren.xyz,18comic.org,18comic.vip##style + div[style="cursor: pointer; position: relative;"]
-18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+div)
-18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+script)
-18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+style)
-18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>script+ins)
-18-comicfrieren.xyz,18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 18183.com###gsBtn
 18183.com##.down_url
 18183.com##.pcBtn > a[href*="@"]
@@ -17631,6 +17617,22 @@ jjwxc.net##[id^="adp_"]
 jjwxc.net##table[style^="width:984px;"]
 jlmhk.com##.bn
 jlpcn.net##.vodAd
+jm18c-twie.vip,18comic.org,18comic.vip###guide-modal
+jm18c-twie.vip,18comic.org,18comic.vip##.div_sticky2
+jm18c-twie.vip,18comic.org,18comic.vip##.modal-backdrop
+jm18c-twie.vip,18comic.org,18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
+jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > [style*="back"]
+jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style]
+jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img
+jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
+jm18c-twie.vip,18comic.org,18comic.vip##div[data-group][data-width="300"]
+jm18c-twie.vip,18comic.org,18comic.vip##style + div[style="cursor: pointer; position: relative;"]
+jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>ins+div)
+jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>ins+script)
+jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>ins+style)
+jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>script+ins)
+jm18c-twie.vip,18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+jm18c-twie.vip,18comic.org,18comic.vip#?#div[data-group]:-abp-has(>.group-notice)
 jmbbs.com###xjj_jmbbs2015_01
 jmbbs.com##.middle_guanggao
 jmbbs.com##img[width="1100"]
@@ -25700,7 +25702,6 @@ zzzyk.com###Tinfo
 ||17k.com/jump/uh
 ||17ok.com/focus/3j_right_jdt.shtml
 ||17yy.com/style/ifra_ad/
-||18-comicfrieren.xyz/media/albums/*?$media
 ||180.76.2.18^$third-party,domain=~baidu.ip
 ||180.96.27.85^*.htm
 ||18183.com/common/js/side.js
@@ -36507,6 +36508,7 @@ zzzyk.com###Tinfo
 ||jlmhk.com/images/data/
 ||jlpcn.net/img/300p-
 ||jlwz.cn/js/xf*.js
+||jm18c-twie.vip/media/albums/*?$media
 ||jmbbs.cn/sjgg/
 ||jmhfw.com/index.php?/ajax/get_adv/
 ||jmvjpwl3o.localto.net^
@@ -43976,7 +43978,6 @@ zzzyk.com###Tinfo
 ||svchost.iqiyid.icu^
 ||svhost2.linkpc.net^
 ||svhost56.duckdns.org^
-||svhosted.duckdns.org^
 ||sviluppo.host^
 ||svtrd.com^$third-party
 ||sw76r85eda3k.com/need/h5.
