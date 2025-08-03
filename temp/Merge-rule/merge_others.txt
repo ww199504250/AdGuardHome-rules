@@ -2336,6 +2336,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /drwebstat.js
 /dspixel.js
 /dtm_cm.js
+/dtr/count.php
 /dtrack.js
 /duel-analytics.js
 /duilian.$domain=~388g.com|~msra.cn|~supfree.net
@@ -2522,6 +2523,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /figanalytics-short-ttl.js
 /fingerprint.js$domain=~github.com
 /fingerprint.min.js
+/fingerprint/iife.min.js
 /fingerprint2.js
 /fingerprint2.min.js
 /fingerprint3.js
@@ -38933,7 +38935,6 @@ zzzyk.com###Tinfo
 ||mysteelcdn.com/gg/
 ||mytanwan.com^$third-party
 ||mytdsnet.com^$document
-||mythostream.cfd^
 ||mytictac.com^$third-party
 ||mytopf.com^$third-party
 ||mytoys.ru/ka_z.jpg?

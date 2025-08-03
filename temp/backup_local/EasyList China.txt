@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Y3ZEO2JyyBjjVJcJBVLOaA
-! Version: 202508020751
+! Checksum: wLlWwYXmPefi2BWtO5xUaw
+! Version: 202508030021
 ! Title: EasyList China
-! Last modified: 02 Aug 2025 07:51 UTC
+! Last modified: 03 Aug 2025 00:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1750,6 +1750,11 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||junpjmg96.com^
+||cheesevp.com^
+||nug08030lu.com^
+||ksaef6idy.com^
+||qbibsy.icu^
 ||weggrq0p42.com^
 ||jhf4eib1zb.com^
 ||aaqaz.cn^
@@ -1759,6 +1764,9 @@ newduba.cn###jq_youxi
 ||kcqstn35as.com^
 ||nug08021lu.com^
 ||8lz3swf01q.com^
+||awfyuqoidy.com^
+||cui3875.xyz^
+||symjgg.icu^
 ||b0rz2s5ik.com^
 ||nug08010lu.com^
 ||ivzaq2irg.com^
