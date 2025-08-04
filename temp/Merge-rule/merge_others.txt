@@ -5372,7 +5372,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 api.localytics.com
 0.0.0.0 api.omnilocal.ai
 0.0.0.0 aspnetwebhost.com
-0.0.0.0 attention-processing.freewebhostmost.com
 0.0.0.0 austrianew.tempurl.host
 0.0.0.0 avworld.activehosted.com
 0.0.0.0 axeo.riselocal.net
@@ -5501,7 +5500,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hostingfreelife.com
 0.0.0.0 hostingoutlook.com
 0.0.0.0 hostingprod.com
-0.0.0.0 hostingtue.wpenginepowered.com
 0.0.0.0 hostipress.com
 0.0.0.0 hostmicro.com
 0.0.0.0 hostnet-online-x-1.s3.us-east-005.backblazeb2.com
@@ -5608,7 +5606,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 riselocalracing.com
 0.0.0.0 rkp.jhy.mybluehost.me
 0.0.0.0 rolehost.xyz
-0.0.0.0 roundcubesharepoint-login.localto.net
 0.0.0.0 sapalocaltrekking.com
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 sdk-assets.localytics.com
@@ -5658,10 +5655,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 tracking.hostgator.com
 0.0.0.0 trd.ghostglobaltd.com
-0.0.0.0 ttswebhosting.com
 0.0.0.0 unitedghostwriters.com
 0.0.0.0 update-skype.freehostia.com
-0.0.0.0 updates-support.freewebhostmost.com
 0.0.0.0 url-hoster.com
 0.0.0.0 us-east-1.local.emxdgt.com
 0.0.0.0 user0127398123.sviluppo.host
@@ -5683,6 +5678,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 website-dfec9a4c.ssi.meb.mybluehost.me
 0.0.0.0 wellnessmonitor.bravehost.com
 0.0.0.0 widget.secure.ownlocal.com
+0.0.0.0 wphwyhosting.com
 0.0.0.0 wpv.lop.mybluehost.me
 0.0.0.0 www.administratielocala.com
 0.0.0.0 www.adpartnershosting.com
@@ -5691,7 +5687,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.akureyri-hostel-2025.com
 0.0.0.0 www.alocalserver.com
 0.0.0.0 www.aspnetwebhost.com
-0.0.0.0 www.attention-processing.freewebhostmost.com
 0.0.0.0 www.austrianew.tempurl.host
 0.0.0.0 www.axeo.riselocal.net
 0.0.0.0 www.barcalocal.pro
@@ -5771,7 +5766,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostingconsortium.com
 0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hostingoutlook.com
-0.0.0.0 www.hostingtue.wpenginepowered.com
 0.0.0.0 www.hostipress.com
 0.0.0.0 www.hostmicro.com
 0.0.0.0 www.hostnet-online-x-1.s3.us-east-005.backblazeb2.com
@@ -5845,7 +5839,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.riselocalracing.com
 0.0.0.0 www.rkp.jhy.mybluehost.me
 0.0.0.0 www.rolehost.xyz
-0.0.0.0 www.roundcubesharepoint-login.localto.net
 0.0.0.0 www.sapalocaltrekking.com
 0.0.0.0 www.server190.web-hosting.com.cont003.xyz
 0.0.0.0 www.server359.web-hosting.com.cont002.xyz
@@ -5878,9 +5871,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.tinyfilehost.com
 0.0.0.0 www.tinyfileshost.com
 0.0.0.0 www.trd.ghostglobaltd.com
-0.0.0.0 www.ttswebhosting.com
 0.0.0.0 www.unitedghostwriters.com
-0.0.0.0 www.updates-support.freewebhostmost.com
 0.0.0.0 www.user0127398123.sviluppo.host
 0.0.0.0 www.validation-local-ads-manage-id82140.vercel.app
 0.0.0.0 www.valuehost.co.uk
@@ -5888,6 +5879,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.web.ghostglobaltd.com
 0.0.0.0 www.webhostingcounter.com
 0.0.0.0 www.website-dfec9a4c.ssi.meb.mybluehost.me
+0.0.0.0 www.wphwyhosting.com
 0.0.0.0 www.wpv.lop.mybluehost.me
 0.0.0.0 www.xohostels.com
 0.0.0.0 www.zaphosted.com
@@ -7221,8 +7213,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://adserving.
 ://adsrv.
 ://adsserver.
-://adv.$domain=~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.cryptonetlabs.it|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~farapp.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
+://adv.$third-party,domain=~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.cryptonetlabs.it|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.sciconnect.unsw.edu.au|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~farapp.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://aff-ads.
 ://affiliate.$third-party
 ://affiliates.$third-party
@@ -15211,6 +15203,7 @@ fznews.com.cn##.kuang100_right
 g-mh.org,godamh.com##.adshow
 g-years.com,ghoffice.cc,gpsuu.com,mydigit.cn###main > .textMes
 g2.com##.product-head__leads
+g2a.com##div[data-testid="placement"]
 gab.com##[aria-label*="Sponsored:"]
 gab.com##[data-comment="gab-ad-comment"]
 gab.com##a[rel="noopener"][target="_blank"][href^="https://grow.gab.com/go/"]
@@ -15807,6 +15800,7 @@ gs.chinanews.com.cn##.div1000_2 + .div980
 gsmarena.com###subHeader2
 gsmarena.com###subHeader3:has([href="deals.php3"])
 gsmarena.com###subHeader:has(>
+gsmarena.com##.justify-center:has(.ad-c-label)
 gsmarena.com##.pt-10
 gsmarena.com##div[style*="padding-bottom: 24px;"]
 gsmarena.com##div[style="margin-left: -10px; margin-top: 30px; height: 145px;"]
@@ -17944,6 +17938,10 @@ komando.com##[id^="leaderboardAdDiv"]
 komikcast.site###bannerhomefooter
 komikindo.info,manga18fx.com,manhwa18.cc,motherless.com##iframe[style]
 komikindo.tv##.gambar_pemanis
+komonews.com###js-Sponsored-Container
+komonews.com###taboolaContainerWrapper_0
+komonews.com##.index-module_featuredVideosWhiteWrapper__kfND
+komonews.com##.teaserList-module_nativeAdWrapper__uBhF
 kompass.com##.megaBanner
 kompass.com##.prodListBanner
 komplett.dk,komplett.no,komplett.se,komplettbedrift.no,komplettforetag.se,newegg.com#@#.product-ad
@@ -28956,7 +28954,6 @@ zzzyk.com###Tinfo
 ||baronsoffers.com^$third-party
 ||barrons.com/cookies/pixel.gif
 ||barry-callebaut.com/pd.js
-||base-hostel-sydney.xyz^
 ||bashfulleadsock.com^$document
 ||basicflownetowork.co.in^$document
 ||basicstat.com^$third-party
@@ -37589,8 +37586,8 @@ zzzyk.com###Tinfo
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
 ||localcabnearme.com^
+||localclasses.net^
 ||localconservatives.com^
-||localdeliveryinc.info^
 ||localedgemedia.com^
 ||localelover.com^$popup
 ||localenter.com^
@@ -39822,7 +39819,6 @@ zzzyk.com###Tinfo
 ||ooyala.com/verify?
 ||ooyala.com^*/report?log
 ||opbandit.com^$third-party
-||opbrghost-23030.portmap.host^
 ||opecloud.com/ope-pdmp.js
 ||open.oneplus.net^$third-party
 ||open.ua/stat/
@@ -41947,6 +41943,7 @@ zzzyk.com###Tinfo
 ||rfk.dsw.com/api/init/1/init.js
 ||rfksrv.com/rfkj/$image
 ||rfr-69.com^$third-party
+||rg.vexillaghoster.com^
 ||rgfftupf.
 ||rgshows.me/js/logger.js
 ||rgshows.me/js/statistics.js
@@ -42560,10 +42557,7 @@ zzzyk.com###Tinfo
 ||sentinelpro.com^$third-party
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||sentry-cdn.top^$third-party
-||sentry.hostaway.eu^
-||sentry.ib-host.com^
 ||sentry.io^$third-party
-||sentry.kontur.host^
 ||senzapudore.it^$popup,third-party
 ||seo-master.net^$third-party
 ||seo-overview.com^$popup
@@ -45768,7 +45762,6 @@ zzzyk.com###Tinfo
 ||vespymedia.com^$popup
 ||vesti.ru/counter/
 ||vetoembrace.com^$popup
-||vexillaghoster.com^
 ||vfghc.com^$popup
 ||vfgta.com^$third-party
 ||vfgtb.com^$popup
