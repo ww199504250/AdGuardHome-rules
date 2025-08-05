@@ -11641,7 +11641,7 @@ blackhatworld.com##.bhw-advertise-link
 blackhatworld.com##.bhw-banners
 blackview.hk##.blog-ad-banner
 blanktext.co##.min-h-\[230px\]
-blanktext.co,finbold.com,gizmodo.com,op.gg,radio.net##.min-h-\[250px\]
+blanktext.co,finbold.com,gizmodo.com,op.gg,outsideonline.com,radio.net##.min-h-\[250px\]
 blasternation.com###xobda
 blastingnews.com###content-banner-dx1-p1
 blastingnews.com##.adv-box-content
@@ -14939,7 +14939,7 @@ fool.com###articles-top
 fool.com##.promobox-container
 fool.com##.show-ad-label
 football-tribe.com##div[id^="da-article-"]
-football365.com,planetf1.com,planetrugby.com##.ps-block-a
+football365.com,planetf1.com,planetrugby.com,tennis365.com##.ps-block-a
 footballdb.com##.rightcol_ad
 footballtransfers.com##div[style*="min-height: 250px;"]
 foottheball.com,small-screen.co.uk##.snackStickyParent
@@ -19497,7 +19497,6 @@ navajotimes.com##.etad
 navajotimes.com##.extra-hp-skyscraper
 navajotimes.com##div[style="text-align: center; margin-top: -35px;"]
 naval-technology.com##.gdm-recommended-reports
-naver.com#@#.head_ad
 nba.hupu.com##div[class^="nba-ad"]
 nbcsports.com##bsp-reverse-scroll-ad
 nbsnews.com##.TaboolaFeed
@@ -20124,6 +20123,8 @@ outlookindia.com##.in-house-banner1
 outofmemory.cn##.iloveoutofmemory660
 outofmemory.cn##.tgBar
 outputter.io###content > section.html
+outsideonline.com##.min-h-\[150vh\]
+outsideonline.com##.prestitial-ad
 outsports.com##.adb-os-lb-top
 outsports.com##.bg-gray-100:has(.adb-os-lb-incontent)
 outsports.com##.min-h-\[100px\]:has(.adb-os-inarticle-block)
@@ -26351,7 +26352,6 @@ zzzyk.com###Tinfo
 ||62422.cn/ggimg/
 ||62868.com/static/js/gg.
 ||62ad.com^$popup
-||62e802abe785f6-06769598.webhosting.club^
 ||62mao.com/52
 ||63007.com:82/haodxi.js
 ||63ef.com^*.js
@@ -27401,6 +27401,7 @@ zzzyk.com###Tinfo
 ||advcash.com^$third-party
 ||advconversion.com^$third-party
 ||adventori.com^$third-party
+||adventure-local-main-6019384725.vercel.app^
 ||adventurefeeds.com^$third-party
 ||adverdirect.com^$popup
 ||adversal.com^$third-party
@@ -29632,6 +29633,7 @@ zzzyk.com###Tinfo
 ||botndm.nl^*/init.min.js
 ||botscanner.com^$third-party
 ||botsvisit.com^$third-party
+||botta.hostnin.com^
 ||bouhoagy.net^$popup
 ||bounceads.net^$popup
 ||bouncepilot.com^$third-party
@@ -33398,6 +33400,7 @@ zzzyk.com###Tinfo
 ||flexlinkspro.com^$third-party
 ||flighty.cn/images/
 ||flingforyou.com^$popup
+||flipbaker-35783.portmap.host^
 ||flipboard.com/api/v2/reporting
 ||flipboard.com/usage?
 ||flipflapflo.
@@ -34269,6 +34272,7 @@ zzzyk.com###Tinfo
 ||gmxvmvptfm.com^$popup
 ||gnavi.co.jp/analysis/
 ||gnezdo.ru^$third-party
+||gnggyurfucked-32857.portmap.host^
 ||gnpge.com^$third-party
 ||go-cpa.click^$popup
 ||go-route.com^$popup
@@ -34385,7 +34389,7 @@ zzzyk.com###Tinfo
 ||google.com/gmp/
 ||google.com/gsi/log?
 ||google.com/images/phd/px.gif
-||google.com/log^
+||google.com/log^$domain=~accounts.google.com
 ||google.com/pagead/1p-conversion/
 ||google.com/pagead/1p-user-list/
 ||google.com/pagead/conversion_async.js
@@ -34592,6 +34596,7 @@ zzzyk.com###Tinfo
 ||gtimg.com^*/adv/
 ||gtm-wp.paradaisehosts.com.br^
 ||gtm.btmaxhost.com^
+||gtm.ghostwriterbrasil.com.br^
 ||gtm.hostedbyjenny.com^
 ||gtm.localcarros.com^
 ||gtmdev.jabra.
@@ -35458,6 +35463,7 @@ zzzyk.com###Tinfo
 ||hyperdx.io^$third-party
 ||hypestat.com^$third-party
 ||hypnohub.net/assets/hub.js
+||hypnos-api.kapakhost.my.id^
 ||hyros.com^$third-party
 ||hyteck.de/count.js
 ||hyvyd.com/count$image,domain=mobile.de
@@ -36333,6 +36339,7 @@ zzzyk.com###Tinfo
 ||izhevskinfo.ru/count/
 ||izimuves.com^$document
 ||izinal.com/log
+||izm.utb.mybluehost.me^
 ||izooto.com^$third-party
 ||iztwp.com/images/
 ||j4ttb0gxg.localto.net^
@@ -37564,6 +37571,7 @@ zzzyk.com###Tinfo
 ||lnstagramhelp346.byethost33.com^
 ||lntrigulngdates.com^$popup
 ||lnzqw.net/js/
+||load.gtm.ghostdemocracy.com^
 ||load.gtm.poplocal.com.au^
 ||load.hosted.evara.ie^
 ||load.tm.all3dp.com/rqlevydw.js
@@ -39173,6 +39181,7 @@ zzzyk.com###Tinfo
 ||netvigie.com^$third-party
 ||network.nutaku.net^$popup
 ||networkad.net^$third-party
+||networkhosting.org^
 ||networkmanag.com^$third-party
 ||networld.hk^$third-party
 ||netzaehler.de^$third-party
@@ -43146,7 +43155,6 @@ zzzyk.com###Tinfo
 ||smentbrads.info^$popup
 ||smerttb-40118.portmap.host^
 ||smetrics.echostar.com^
-||smetrics.hoste-tungpust.no^
 ||smileycentral.com^$third-party
 ||smileyhost.net^
 ||smileyhost.net^$third-party
@@ -43504,6 +43512,7 @@ zzzyk.com###Tinfo
 ||srv237666.hoster-test.ru^
 ||srv237693.hoster-test.ru^
 ||srv237883.hoster-test.ru^
+||srv237943.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
@@ -45632,6 +45641,7 @@ zzzyk.com###Tinfo
 ||utarget.ru^$popup
 ||utherverse.com^$third-party
 ||uthorner.info^$popup
+||utileapp-connecte.tempurl.host^
 ||utility.rogersmedia.com/wrapper.js
 ||utilitydive.com/static/js/prestitial.js
 ||utils.global-e.com/set?
@@ -47197,6 +47207,7 @@ zzzyk.com###Tinfo
 ||yllix.com^$third-party
 ||ymetrica1.com^$third-party
 ||ymlykj.com/nuxt/static/liveBanner.jpg
+||ync9i5fv1.localto.net^
 ||ynet.co.il/gpt/
 ||ynet.com/c/js/manto.min.js
 ||ynztzh.com^$third-party
