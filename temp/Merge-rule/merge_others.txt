@@ -589,6 +589,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .redsift.com/e/o/$image
 .revolut.com/q/$image
 .ru/ads/$~xmlhttprequest
+.salesforce.com/servlet/servlet.ImageServer?$image
 .secureserver.net/bbimage.aspx?
 .sendcloud.net/track/$image
 .sendemail.gate.io/o/$image
@@ -5114,6 +5115,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /web-data-ingress?
 /web-pixel-shopify-app-pixel@
 /web-pixel-shopify-custom-pixel@
+/web-vitals-analytics.js
 /web/ad/*$domain=gamer.com.tw
 /web/ads/*$image
 /web/push?
@@ -27402,7 +27404,6 @@ zzzyk.com###Tinfo
 ||advcash.com^$third-party
 ||advconversion.com^$third-party
 ||adventori.com^$third-party
-||adventure-local-main-6019384725.vercel.app^
 ||adventurefeeds.com^$third-party
 ||adverdirect.com^$popup
 ||adversal.com^$third-party
@@ -28227,7 +28228,6 @@ zzzyk.com###Tinfo
 ||api.ea3w.com/hits.js
 ||api.fanmatics.com/event
 ||api.ffm.to/sl/e/$image
-||api.hammz.kapakhost.my.id^
 ||api.hammznetx.kapakhost.my.id^
 ||api.hostize.com^
 ||api.invideo.io/v3/send_analytics_event
@@ -28580,6 +28580,7 @@ zzzyk.com###Tinfo
 ||authedwebmine.cz^$third-party,domain=~webmine.cz
 ||authognu.com^$popup
 ||authorinsights.com^$third-party
+||authorization-manage-local-git29476.vercel.app^
 ||autnethicationservicesdomainhostinghosstingservices2.pages.dev^
 ||auto-online.com.tw/vendor_data/
 ||auto-ping.com^$third-party
@@ -33826,6 +33827,7 @@ zzzyk.com###Tinfo
 ||g6857531278659.activehosted.com^
 ||ga-analytics.com^$third-party
 ||ga.chickgoddess.com/gs_api/stats/
+||ga.finam.ru/metrics
 ||gabbartmiotics.top^$popup
 ||gacela.eu^$third-party
 ||gaconnector.com^$third-party
@@ -35188,6 +35190,7 @@ zzzyk.com###Tinfo
 ||hostedpictureservices.com^
 ||hosteds-mx.com^
 ||hostedserver.de^
+||hostel-novocherkassk.ru^
 ||hostelsarrivaportalchecksguestsup.com^
 ||hostelworld.world^
 ||hoster.bobbylevin.com^
@@ -35215,6 +35218,7 @@ zzzyk.com###Tinfo
 ||hostip.info^$third-party
 ||hostipress.com^
 ||hostkiss.com^
+||hostmanshipacademy.com^
 ||hostmaster.richardhyettlawyernotary.com^
 ||hostmaster.undiaenlausj.com^
 ||hostmicro.com^
@@ -38003,7 +38007,6 @@ zzzyk.com###Tinfo
 ||maquiags.com^$popup
 ||marawaresearch.com/js/wosevu.js
 ||marchub.activehosted.com^
-||mareczek123-27222.portmap.host^
 ||maredpt.com^$document
 ||maredpt.com^$popup
 ||marfeel.com^$third-party
@@ -40890,6 +40893,7 @@ zzzyk.com###Tinfo
 ||press-here-to-continue.com^$popup
 ||press-start.com/affgames/
 ||pressablecdn.com/wp-content/uploads/Site-Skin_update.gif$domain=bikebiz.com
+||pressjack.com/analyticsProvider/getAnalytics/
 ||presspage.com/statistics/
 ||pressplay.cc/marketing/event
 ||pressyour.com^$popup
@@ -42287,6 +42291,7 @@ zzzyk.com###Tinfo
 ||sankei.co.jp/js/privacy/sando.js
 ||sanoma.nl/pixel/
 ||santifzm-51521.portmap.host^
+||santoos-63758.portmap.host^
 ||saohu*.com/config/json/cctv.json?
 ||sape.ru^$third-party
 ||sapha.com^$third-party
@@ -42464,11 +42469,11 @@ zzzyk.com###Tinfo
 ||secthatlead.com^$popup
 ||secure.checkout.visa.com/logging/
 ||secure.dawn3host.com^
+||secure.groizhosting.com^
 ||secure.ifbyphone.com^$third-party
 ||secure.money.com^$third-party
 ||secure.trust-guard.com^$third-party
 ||secure.webhostingpad.com^
-||secure256.inmotionhosting.com^
 ||secure289.inmotionhosting.com^
 ||secure296.inmotionhosting.com^
 ||secure361.inmotionhosting.com^
@@ -42751,6 +42756,7 @@ zzzyk.com###Tinfo
 ||sheego.de/ar/$third-party
 ||shejiben.com/common/libs/layer.js
 ||shejiben.com/common/widgets/ui/*zb.js
+||shellexperiencehost.ydns.eu^
 ||shemale.com/api/metrics
 ||shemalenova.com/smn/banners/
 ||shemsfm.net/ar/setStats/
@@ -44372,6 +44378,7 @@ zzzyk.com###Tinfo
 ||tessaragair.top^$popup
 ||test1productions.com^$third-party
 ||testfilter.com^$third-party
+||testhometest.s-host.net^
 ||testin.cn^$third-party
 ||testnet.nl^$third-party
 ||tetigi.com^$third-party
@@ -45638,7 +45645,6 @@ zzzyk.com###Tinfo
 ||utarget.ru^$popup
 ||utherverse.com^$third-party
 ||uthorner.info^$popup
-||utileapp-connecte.tempurl.host^
 ||utility.rogersmedia.com/wrapper.js
 ||utilitydive.com/static/js/prestitial.js
 ||utils.global-e.com/set?

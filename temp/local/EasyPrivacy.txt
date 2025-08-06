@@ -2656,6 +2656,7 @@
 /web-data-ingress?
 /web-pixel-shopify-app-pixel@
 /web-pixel-shopify-custom-pixel@
+/web-vitals-analytics.js
 /web/push?
 /web_analytics/*
 /web_answertip.js
@@ -3057,6 +3058,7 @@ _WebVitalsReporter_
 .recolution.de/tools/emails/open/$image
 .redsift.com/e/o/$image
 .revolut.com/q/$image
+.salesforce.com/servlet/servlet.ImageServer?$image
 .secureserver.net/bbimage.aspx?
 .sendcloud.net/track/$image
 .sendemail.gate.io/o/$image
@@ -9206,6 +9208,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pr.blogflux.com^
 ||prd-collector-anon.ex.co^
 ||prd-collector-platform.ex.co^
+||pressjack.com/analyticsProvider/getAnalytics/
 ||presspage.com/statistics/
 ||prf.vagnt.com^
 ||pricespider.com/impression/
@@ -9803,6 +9806,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker-dot-optimeeze.appspot.com^
 ||tracker-server.high-cdn.com^
 ||tracker-v4.gamedock.io^
+||tracker.3dissue.com^
 ||tracker.affirm.com^
 ||tracker.au.zitcha.app^
 ||tracker.beezup.com^
@@ -13114,6 +13118,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||telemetry.api.playstation.com^
 ||telemetry.canva.com^
 ||telemetry.firez.one^
+||telemetry.proton.me^
 ||telemetry.stytch.com^
 ||telemetry.tradingview.com^
 ||tellerreport.com/react/pixel
@@ -51106,7 +51111,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||fb.ru/stat/
 ||fontanka.ru/api/metrics/
 ||fotostrana.ru/start/
-||ga.finam.ru^
+||ga.finam.ru/metrics
 ||goya.rutube.ru^$~image
 ||hh.ru/analytics^
 ||hh.ru/stat?
