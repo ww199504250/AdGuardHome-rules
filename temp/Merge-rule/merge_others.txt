@@ -2322,6 +2322,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /dmp/pixel.js
 /dmu2panalytics/ajax_call.php?
 /dnx-event-collector/*
+/dnxcheck/fing.js
 /doctracking.js
 /dolWebAnalytics.js
 /dom-event-tracker.min.js
@@ -26064,7 +26065,6 @@ zzzyk.com###Tinfo
 ||3987.com/images/
 ||3987.com/skins/*201
 ||3987.com/statics/tow_skin/new_img/20
-||398whyfrufheutji-25824.portmap.host^
 ||3alian.net^$third-party
 ||3bmmmesj.life/skin/js/dny.
 ||3boys2girls.com/newfile/image2010/banner_housead_
@@ -30152,6 +30152,7 @@ zzzyk.com###Tinfo
 ||cdn-files.prsmedia.fr^*/xiti/
 ||cdn-net.com^$third-party
 ||cdn-sitegainer.com^$third-party
+||cdn.app.cfigroup.com/webmon/$script
 ||cdn.autodoc.de/uploads/traffic-banners/$image
 ||cdn.b2.ai^$third-party
 ||cdn.c-i.as^$script,third-party
@@ -34981,7 +34982,6 @@ zzzyk.com###Tinfo
 ||hiperstat.com^$third-party
 ||hipersushiads.com^$popup
 ||hira-meki.jp^$third-party
-||hirelocalchefs.com^
 ||hirmatrix.hu^$third-party
 ||hirtv.hu/ajaxx/_stat/
 ||hirtv.hu/nx_general_stat.jpg?
@@ -35204,7 +35204,6 @@ zzzyk.com###Tinfo
 ||hosting.sproutbuilder.com^
 ||hosting.tempors.com^
 ||hosting1.marcasinvestments.com^
-||hosting10-38853.portmap.io^
 ||hosting24.com/images/banners/$third-party
 ||hostingcloud.*.wasm^
 ||hostingcloud.party
@@ -35247,7 +35246,6 @@ zzzyk.com###Tinfo
 ||hostvy.com^
 ||hostwpe.com^
 ||hostxxxinquiries.creatorlink.net^
-||hostz.hopto.org^
 ||hostzb.com^
 ||hot-count.com^$third-party
 ||hot-growngames.life^$popup
@@ -37606,10 +37604,12 @@ zzzyk.com###Tinfo
 ||localfuneraldirectors.co.uk^
 ||localglobaldates.com^
 ||localhookupclub1.com^
+||localiser-app.fr^
 ||localiser-info.fr^
 ||localiser-map.fr^
 ||localiser-services.fr^
 ||localiser-verifier.fr^
+||localiserservice.fr^
 ||locallycompare.com^
 ||locallystocked.com^
 ||localmais.com.br^
@@ -39416,6 +39416,7 @@ zzzyk.com###Tinfo
 ||nordicresearch.com^$third-party
 ||nordstrom.com/api/cake/
 ||nordstrom.com/api/cupcake/
+||northbeam.io^$third-party
 ||northdownload.com^$document
 ||northdownload.com^$popup
 ||northrtbads.top^$document
@@ -41997,6 +41998,8 @@ zzzyk.com###Tinfo
 ||rising.cn^*/pic-ad/
 ||rising.com.cn/weblog/
 ||riskid.security^$third-party
+||rivcash.com/*/event/page_visit
+||rivcash.com/ajax/log_js_error.php
 ||rivcash.com^$third-party
 ||riverhit.com^$popup
 ||rivrai.com^$third-party
@@ -43308,6 +43311,7 @@ zzzyk.com###Tinfo
 ||sol-data.com^$third-party
 ||solaranalytics.org^$popup
 ||soldierreproduceadmiration.com^$popup
+||solidcams.com/api/metrics
 ||solispartner.com^$popup
 ||solosegment.com^$third-party
 ||solucx.com.br^$third-party
@@ -46066,6 +46070,7 @@ zzzyk.com###Tinfo
 ||vowpairmax.live^$popup
 ||voxmedia.com/beacon-min.js
 ||voxus.com.br^$third-party
+||voyeur-house.tv/js/track.js
 ||voyeurhit.com/ffpqvfaczp/
 ||voyeurhit.com^$third-party
 ||vpn-access.site^$third-party
