@@ -7215,7 +7215,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://adsbb.
 ://adserving.
 ://adsrv.
-://adsserver.
+://adsserver.$~xmlhttprequest
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
 ://adv.$third-party,domain=~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.cryptonetlabs.it|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.sciconnect.unsw.edu.au|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~farapp.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://aff-ads.
@@ -28102,6 +28102,7 @@ zzzyk.com###Tinfo
 ||andbeyond.media^$third-party
 ||andcomemunicateth.info^$popup
 ||andersenit.dk^$third-party
+||andrefelipedonascime1753562407700.0461178.meusitehostgator.com.br^
 ||androidauth.wpengine.com/wp-json/api/advanced_placement/api-$domain=androidauthority.com
 ||androidfilehost.cfd^
 ||androidfilehost.cfd^$popup
@@ -32387,6 +32388,7 @@ zzzyk.com###Tinfo
 ||dytt8.com/js1y/
 ||dytt8.net/js3/
 ||dytt8.net/jsd
+||dywebhosting.com^
 ||dyxs39.com/statics/js/jquery.
 ||dyzyhj.com/Jk/
 ||dz19.net/addimg/
@@ -34160,7 +34162,6 @@ zzzyk.com###Tinfo
 ||ghost580.com/js/nei4.js
 ||ghost8.cn^
 ||ghostbringer.com^
-||ghostdx.com^
 ||ghostentry.openhous.com^
 ||ghostgenie.com^
 ||ghostnewz.com^
@@ -35174,6 +35175,7 @@ zzzyk.com###Tinfo
 ||host81-138-7-108.in-addr.btopenworld.com^
 ||hostadsmarkets.com^
 ||hostageacarari.top^
+||hostalalberdi.cl^
 ||hostalloscisnes.cl^
 ||hostave.net^
 ||hostave2.net^
@@ -35354,7 +35356,6 @@ zzzyk.com###Tinfo
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||htht1-21140.portmap.host^
 ||htm1.ch^$third-party
-||html-load.cc/script/$script
 ||html-load.cc^$document,popup
 ||html-load.com^$document,popup
 ||html-load.com^$popup
@@ -35927,6 +35928,7 @@ zzzyk.com###Tinfo
 ||inhe.net/Uploadfiles/inhegg2016/
 ||inheart.ru^$third-party
 ||inheritknow.com^$popup
+||inhostnetservice.com^
 ||inimbus.com.au^$third-party
 ||inistrack.net^$third-party
 ||inlead.digital/js/script.js
@@ -36578,7 +36580,6 @@ zzzyk.com###Tinfo
 ||jpfans.com/jpfans.jpg
 ||jpg.church/*.php?cat$popup
 ||jpg.church/quicknoisilyheadbites.js
-||jpg6.su/sdk/pup-sc.js
 ||jpgtrk.com^$popup
 ||jpush.cn^$third-party
 ||jpysvip.net/ad/
@@ -39491,6 +39492,8 @@ zzzyk.com###Tinfo
 ||nrsfh.com/neirong/
 ||ns-cdn.com^*/ns_vmtag.js
 ||ns106.ehostpros.com^
+||ns3.hostasa.org^
+||ns4.hostasa.org^
 ||nsaudience.pl^$third-party
 ||nscash.com^$third-party
 ||nsfwalbum.com/efds435m432.js
@@ -42606,7 +42609,6 @@ zzzyk.com###Tinfo
 ||sermonaudio.com/images/sponsors/
 ||sermoncloud.com/logger/
 ||serv-ac.com^$third-party
-||serv24900hostertestmesa.cfolks.pl^
 ||serve-servee.com^$popup
 ||serve.freeonlinegayporn.com^$popup
 ||serve.prestigecasino.com^$popup
@@ -43528,8 +43530,8 @@ zzzyk.com###Tinfo
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srtrak.com^$popup
+||srv155384.hoster-test.ru^
 ||srv237601.hoster-test.ru^
-||srv237666.hoster-test.ru^
 ||srv237693.hoster-test.ru^
 ||srv237883.hoster-test.ru^
 ||srv237943.hoster-test.ru^
@@ -46974,7 +46976,6 @@ zzzyk.com###Tinfo
 ||xmrpool.net^$third-party
 ||xmtrading.com^$third-party
 ||xn--e1aaipcdgnfsn.su^*/counter.php
-||xn--pal-5cd3fta.xn--m-0tbi.xn--lgin-55d.lovemyhost.com^
 ||xncwxw.me/js/xiaxuanfu.
 ||xnewsletter.de/count/counter.php?
 ||xng02.com/api.php?mod=ad&
