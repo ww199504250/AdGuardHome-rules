@@ -18079,7 +18079,6 @@ lapa.ninja##.col-sm-1
 lapoderosa.com###hcAdd
 laprensalatina.com##.LPL-after-content
 laprensalatina.com##.centered-leaderboard
-laravel-news.com##.relative:has([wire\:key="article-ad-card"])
 laredoute.*###hp-sponsored-banner
 laredoute.*##li[class*="sponsored-"]
 laredoute.be,laredoute.ch,laredoute.co.uk,laredoute.com,laredoute.de,laredoute.es,laredoute.fr,laredoute.gr,laredoute.it,laredoute.nl,laredoute.pt,laredoute.ru###hp-sponsored-banner
@@ -18259,6 +18258,7 @@ liepin.com##DIV[id^="nodetpl_g_"]
 life.tw###fbFixedAd
 lifeandstylemag.com###taboola-right-rail-thumbnails
 lifehacker.com##div[aria-label="Products List"]
+lifehacker.com,mashable.com###related-video
 lifeinvader.com,marginalreport.net,spanishdict.com,studentski-servis.com#@#.ad-wrapper
 lifenews.com###adds
 lifenews.com###advertisement-top
@@ -18721,7 +18721,6 @@ marketwatch.com##.container--sponsored
 marketwatch.com##.cxense-loading
 marketwatch.com##.imonaid_context
 mars.video#@##stickyads
-mashable.com###related-video
 mashable.com##.exco
 mashable.com##.top-0.sticky > div
 mashable.com##[data-pogo="top"]
@@ -20038,6 +20037,8 @@ onlyinyourstate.com##.py-8.md\:flex
 onlyporn.tube##.ft
 onlyporn.tube,porntop.com###s-suggesters
 onlytik.com##.temporary-real-extra-block
+ontvtonight.com##.body-container > div:has(script[src^="https://live.primis.tech/"])
+ontvtonight.com##.row > .col > div[style]:has(div[style] > div[id^="ad-"])
 onworks.net###adonworksbot
 oogiri-chaya.com#@#.adsText
 ooopic.com##.fix-newUser
@@ -40816,6 +40817,7 @@ zzzyk.com###Tinfo
 ||pornxp.com/sp/
 ||pornxp.net/spnbf.js
 ||pornyhd.com/hillpop.php
+||portailsblocalede.com^
 ||portal.kotodaman.jp/api/otel/v1/logs
 ||portfold.com^$third-party
 ||ports.co.za/banners/
@@ -42263,6 +42265,7 @@ zzzyk.com###Tinfo
 ||sabavision.com^$third-party
 ||saboom.com.pccdn.com^*/banner/
 ||sadbmetrics.localdigitalkit.com^
+||saddlebrown-dugong-708605.hostingersite.com^
 ||safarinow.com/affiliate-zone/
 ||safe-click.net^$third-party
 ||safe-connection21.com^$popup
