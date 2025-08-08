@@ -293,6 +293,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .com/adv/$domain=~adv.asahi.com|~advantabankcorp.com|~alltransistors.com|~archiproducts.com|~tritondigital.com
 .com/adv1/?q=
 .com/api/posts?token=$third-party
+.com/b.js|
 .com/by389.js$script,third-party
 .com/clk?
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
@@ -10358,6 +10359,7 @@ allevents.in##.advt-text
 alliedwindow.com,isewanferry.co.jp,jreu-h.jp,junkmail.co.za,nexco-hoken.co.jp,version2.dk#@#.ad-text
 allkeyshop.com##.blc-left
 allkeyshop.com##.blc-right
+allkeyshop.com##[href^="https://vaks.re/"]
 allkeyshop.com,cdkeyit.it,cdkeynl.nl,cdkeypt.pt,clavecd.es,goclecd.fr,keyforsteam.de##.background-link-left
 allkeyshop.com,cdkeyit.it,cdkeynl.nl,cdkeypt.pt,clavecd.es,goclecd.fr,keyforsteam.de##.background-link-right
 allkpop.com##.akp2_wrap
@@ -11623,6 +11625,8 @@ bjcxqd.com##.box-vdgd
 bjd.com.cn##.screenad
 bjhockey.org###homeVideoModal
 bjnews.com.cn##a[href*="/ads/"]
+bjs.com##.banner-cta-wrap:has([src="//retailmedia-static.criteo.com/"])
+bjs.com#?#[data-cnstrc-recommendations]:-abp-contains(Sponsored Products)
 bjx.com.cn##.layer_right2
 bjxfqc.net##script ~ ul[style]
 bkill.com##.alliance-ad
@@ -18604,8 +18608,6 @@ mainichi.jp###PC-english-rec1
 maiziedu.com##.msg
 majorgeeks.com##.alford > tbody > tr
 majorgeeks.com##.highlight.content > center > font
-majorgeeks.com##.navigation-light
-majorgeeks.com##[style]:has([href*="&utm_source"])
 makaidong.com###bdcs
 makaidong.com###cyWallsplugin
 makeitmeme.com##div[class^="_adContainer_"]
@@ -18620,6 +18622,8 @@ malaysiakini.com###gpt-layout-top-container
 malaysiakini.com##div[style^="height:600px"]
 mallorca.com##a[data-ad]
 maltadaily.mt##div[id^="malta-"]
+maltatoday.com.mt##.underlay_container
+maltatoday.com.mt##.underlay_spacer
 malwarefox.com##.entry-content > .gb-container
 malwaretips.com##.mwt_ads
 mamecn.com##.jjMain_bg
@@ -21584,7 +21588,7 @@ salon.com##.advertise_text
 salon.com##.outer_ad_container
 saltwire.com##.sw-banner
 saltwire.com##.youtube_article_ad
-sameday.costco.com##li:has([aria-label="Product"] sp-tag)
+sameday.costco.com##li:has([aria-label="Product"] [data-dfp-eligible])
 samfw.com##[name="chimera_b"]
 sammobile.com###snack-ad-cont
 sammobile.com###venatus-hybrid-banner
@@ -29745,6 +29749,7 @@ zzzyk.com###Tinfo
 ||browserpusher.com^$third-party
 ||brs.localizeplanos.com^
 ||brudirect.com/images/banners/
+||brujoshooch.shop^$document
 ||brushexpert.com/getimage/banners
 ||brutishlylifevoicing.com^$popup
 ||brycedice0904-24065.portmap.host^
@@ -37187,6 +37192,7 @@ zzzyk.com###Tinfo
 ||leadfeeder.com^$third-party
 ||leadforce1.com^$third-party
 ||leadforensics.com^$third-party
+||leadgainz.com^$document
 ||leadhit.ru^$third-party
 ||leadid.com^$third-party
 ||leadin.com^$third-party
@@ -39429,6 +39435,7 @@ zzzyk.com###Tinfo
 ||nordicresearch.com^$third-party
 ||nordstrom.com/api/cake/
 ||nordstrom.com/api/cupcake/
+||northauthority.xyz^$document
 ||northbeam.io^$third-party
 ||northdownload.com^$document
 ||northdownload.com^$popup
@@ -40388,6 +40395,7 @@ zzzyk.com###Tinfo
 ||phaitaghy.com^$popup
 ||pharmnet.com.cn/cnbanner/
 ||pharmnet.com.cn/js/float_div.js
+||phazashabu.pro^$document
 ||phb123.com/skin/js/tongji.js
 ||phbkm.com/js/
 ||pheniter.com^$document
@@ -45553,6 +45561,7 @@ zzzyk.com###Tinfo
 ||unpkg.com/videojs-vast-vpaid@
 ||unpkg.com/web-vitals?
 ||unreshiramor.com^$popup
+||unrolltougher.shop^$document
 ||unseaminoax.click^$document
 ||unseenrazorcaptain.com^$popup
 ||unsplash.com/nmetrics
