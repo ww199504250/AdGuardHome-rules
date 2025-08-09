@@ -7310,6 +7310,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://tracking.*/event
 ://tru.am^
 ://uads.$third-party,xmlhttprequest
+://www.*.com/*/-1/327/$script,subdocument,third-party,xmlhttprequest
+://www.*.com/*/-1/70/$script,subdocument,third-party,xmlhttprequest
 ://www.*.com/players/*/-1/$script,subdocument,third-party,xmlhttprequest
 ://www.*.com/players/*/a/$subdocument,third-party,domain=~edu|~gov
 ://www.*.com/script/*.com.js|$script,third-party
@@ -17027,7 +17029,7 @@ insidehpc.com##.featured-728x90-ad
 insidehpc.com##.sidebar-sponsored-content
 insidehpc.com##.widget_download_manager_widget
 insidemydream.com##.afxshop
-insomnia.gr,kingsinteriors.co.uk#@#.adlink
+insomnia.gr,kingsinteriors.co.uk,w3e.kanazawa-it.ac.jp#@#.adlink
 insta-stories-viewer.com##.context
 instacart.com##.image-banner-a-9l2sjs
 instacart.com##.image-banner-a-ak0wn
@@ -22725,6 +22727,8 @@ talkbass.com###primary-products
 talkfx.co###frameff1Hu9_left
 talkfx.co##.slidebox
 talkingpointsmemo.com##.--span\:12.AdSlot
+talksport.com##.stack-recirc--ad-slot
+talksport.com##.stack-recirc--item--ad-slot
 tallermaintenancar.com##.girl
 tallermaintenancar.com##.thumbs
 tametimes.co.za##.white-background
@@ -27551,6 +27555,7 @@ zzzyk.com###Tinfo
 ||affilist.com^$third-party
 ||affilizr.com^$third-party
 ||affinesystems.com^$third-party
+||affinity.com^$third-party
 ||affinity.net^$popup
 ||affinitymatrix.com^$third-party
 ||affirm.com/api/chrono/*/collect
@@ -38372,6 +38377,7 @@ zzzyk.com###Tinfo
 ||methodcash.com^$third-party
 ||metka.ru/counter/
 ||metrepeaches.com^$popup
+||metrezaannatto.shop^$popup
 ||metric.hostmonkey.com^
 ||metrica-yandex.com^$popup
 ||metricode.com^$third-party
