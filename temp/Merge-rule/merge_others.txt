@@ -5487,7 +5487,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hostedbannerads.aebn.net
 0.0.0.0 hostedfiles.net
-0.0.0.0 hostelsa.com
 0.0.0.0 hostelsarrivaportalchecksguestsup.com
 0.0.0.0 hostelworld.world
 0.0.0.0 hosterchecker.com
@@ -5505,6 +5504,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hostingoutlook.com
 0.0.0.0 hostingprod.com
 0.0.0.0 hostipress.com
+0.0.0.0 hostmanshipacademy.com
 0.0.0.0 hostmicro.com
 0.0.0.0 hostnet-online-x-1.s3.us-east-005.backblazeb2.com
 0.0.0.0 hostpowermedium.112.2o7.net
@@ -5524,9 +5524,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 ipromotelocal.com
 0.0.0.0 irondel.swisshost.by
 0.0.0.0 itsourlocal.com
+0.0.0.0 izm.utb.mybluehost.me
 0.0.0.0 kad.xdt.mybluehost.me
 0.0.0.0 kreatorhostplt.pl
-0.0.0.0 lantaihosting.com
 0.0.0.0 lckhost.help
 0.0.0.0 local-analytics.uberinternal.com
 0.0.0.0 local-download.com
@@ -5538,6 +5538,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 localauctioninfo.com
 0.0.0.0 localbestdating1.com
 0.0.0.0 localcabnearme.com
+0.0.0.0 localclasses.net
 0.0.0.0 localcoffeeguide.net
 0.0.0.0 localcratic.com
 0.0.0.0 localfp.com
@@ -5566,9 +5567,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 merciless.localstars.com
 0.0.0.0 murbil.hostei.com
 0.0.0.0 mythostream.cfd
-0.0.0.0 neetworkhosting1.com
 0.0.0.0 netplh.smarthost.eu
-0.0.0.0 netwrkprocessing.freewebhostmost.com
+0.0.0.0 networkhosting.org
 0.0.0.0 newslocalreports.online
 0.0.0.0 newyork.cbslocal.us.intellitxt.com
 0.0.0.0 nexcesshostsupp.mallorca-transporte.com
@@ -5590,8 +5590,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 pgeepolskaweb.sviluppo.host
 0.0.0.0 pgl.example0101
 0.0.0.0 philadelphia_cbslocal.us.intellitxt.com
+0.0.0.0 pl.postahost.my
 0.0.0.0 plcyber.tempurl.host
 0.0.0.0 polyas.freesite.host
+0.0.0.0 portailsblocalede.com
 0.0.0.0 postlocalads.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile-lookup.services.53.localytics.com
@@ -5603,8 +5605,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 pub.local.emxdgt.com
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 rankghost.com
-0.0.0.0 reformaslocalesmadrid.com
-0.0.0.0 reparacionhosteleriavalencia.com
 0.0.0.0 reparacionhosteleriavalencia.net
 0.0.0.0 riselocalmedia.com
 0.0.0.0 riselocalracing.com
@@ -5679,6 +5679,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 webhosting-ads.home.pl
 0.0.0.0 webhosting.hut1.ru
 0.0.0.0 webmail-who-int.000webhostapp.com
+0.0.0.0 website-47bd7fff.tfd.qhd.mybluehost.me
 0.0.0.0 website-dfec9a4c.ssi.meb.mybluehost.me
 0.0.0.0 wellnessmonitor.bravehost.com
 0.0.0.0 widget.secure.ownlocal.com
@@ -5761,7 +5762,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostalesdelperu.com
 0.0.0.0 www.hostbiznesstrateg.click
 0.0.0.0 www.hostedfiles.net
-0.0.0.0 www.hostelsa.com
 0.0.0.0 www.hostelsarrivaportalchecksguestsup.com
 0.0.0.0 www.hostelworld.world
 0.0.0.0 www.hosterchecker.com
@@ -5771,6 +5771,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hostingoutlook.com
 0.0.0.0 www.hostipress.com
+0.0.0.0 www.hostmanshipacademy.com
 0.0.0.0 www.hostmicro.com
 0.0.0.0 www.hostnet-online-x-1.s3.us-east-005.backblazeb2.com
 0.0.0.0 www.hostqfix.rospasalon.com
@@ -5785,12 +5786,13 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.iprimus-pendingmessages.freewebhostmost.com
 0.0.0.0 www.ipromotelocal.com
 0.0.0.0 www.itsourlocal.com
+0.0.0.0 www.izm.utb.mybluehost.me
 0.0.0.0 www.kad.xdt.mybluehost.me
 0.0.0.0 www.kreatorhostplt.pl
-0.0.0.0 www.lantaihosting.com
 0.0.0.0 www.lckhost.help
 0.0.0.0 www.localauctioninfo.com
 0.0.0.0 www.localcabnearme.com
+0.0.0.0 www.localclasses.net
 0.0.0.0 www.localcoffeeguide.net
 0.0.0.0 www.localcratic.com
 0.0.0.0 www.localfp.com
@@ -5814,9 +5816,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.managesecure.log-in.information-reactivate-statement.speqjsf.jdw.doi.mybluehost.me
 0.0.0.0 www.matchmakerlocals.com
 0.0.0.0 www.mythostream.cfd
-0.0.0.0 www.neetworkhosting1.com
 0.0.0.0 www.netplh.smarthost.eu
-0.0.0.0 www.netwrkprocessing.freewebhostmost.com
+0.0.0.0 www.networkhosting.org
 0.0.0.0 www.newslocalreports.online
 0.0.0.0 www.nexcesshostsupp.mallorca-transporte.com
 0.0.0.0 www.ntpli.freesite.host
@@ -5831,13 +5832,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.placelocal.com
 0.0.0.0 www.plcyber.tempurl.host
 0.0.0.0 www.polyas.freesite.host
+0.0.0.0 www.portailsblocalede.com
 0.0.0.0 www.postlocalads.com
 0.0.0.0 www.promote1local.com
 0.0.0.0 www.promotealocal.com
 0.0.0.0 www.promoteonelocal.com
 0.0.0.0 www.rankghost.com
-0.0.0.0 www.reformaslocalesmadrid.com
-0.0.0.0 www.reparacionhosteleriavalencia.com
 0.0.0.0 www.reparacionhosteleriavalencia.net
 0.0.0.0 www.riselocalmedia.com
 0.0.0.0 www.riselocalracing.com
@@ -5882,6 +5882,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.ventadelocalesenmarbella.com
 0.0.0.0 www.web.ghostglobaltd.com
 0.0.0.0 www.webhostingcounter.com
+0.0.0.0 www.website-47bd7fff.tfd.qhd.mybluehost.me
 0.0.0.0 www.website-dfec9a4c.ssi.meb.mybluehost.me
 0.0.0.0 www.wphwyhosting.com
 0.0.0.0 www.wpv.lop.mybluehost.me
@@ -8260,7 +8261,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||daoju.qq.com/time/*/js/ad/
 @@||dashboard.mgid.com^$popup
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
-@@||data.tm-awx.com^$script,domain=hulldailymail.co.uk
+@@||data.tm-awx.com^$script,domain=birminghammail.co.uk|bristolpost.co.uk|dailyrecord.co.uk|hulldailymail.co.uk|liverpoolecho.co.uk|manchestereveningnews.co.uk|stokesentinel.co.uk
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|hungryroot.com|usa.experian.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||daxiaamu.com^$generichide
@@ -11580,7 +11581,6 @@ birdsandblooms.com,familyhandyman.com,rd.com,tasteofhome.com,thehealthy.com###gc
 birdsandblooms.com,familyhandyman.com,rd.com,tasteofhome.com,thehealthy.com##.pre-article-ad
 birdwatchingdaily.com##.ad-advertisement-vertical
 birdwatchingdaily.com##.mobile-incontent-ad-label
-birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,stokesentinel.co.uk,walesonline.co.uk###right-aside-wrapper
 birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,stokesentinel.co.uk,walesonline.co.uk##.react-loading-skeleton
 birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,stokesentinel.co.uk,walesonline.co.uk##div[class^="sc-"]:has(> span[aria-live="polite"] > .react-loading-skeleton)
 birminghammail.co.uk,bristolpost.co.uk,dailyrecord.co.uk,irishstar.com,liverpoolecho.co.uk,manchestereveningnews.co.uk,stokesentinel.co.uk,walesonline.co.uk##div[data-testid^="commercial-"]
@@ -31602,6 +31602,7 @@ zzzyk.com###Tinfo
 ||dashboard.iproyal.com/img/b/
 ||dashboard.nowdialogue.com/api/events/
 ||dasoertliche.de/js/liwAnalytics.js
+||daspol-eu.s10.hostcreators.sk^
 ||data-02011e6008.golocal.de^
 ||data-35b9638d7b.bibdia-hosts.de^
 ||data-8b77a703e0.golocal.de^
@@ -36545,7 +36546,6 @@ zzzyk.com###Tinfo
 ||jm18c-twie.vip/media/albums/*?$media
 ||jmbbs.cn/sjgg/
 ||jmhfw.com/index.php?/ajax/get_adv/
-||jmvjpwl3o.localto.net^
 ||jmw.com.cn/m_v2/js/active.js
 ||jmydm.com/jspage/ftt.js
 ||jnhosting.com^
@@ -39343,6 +39343,7 @@ zzzyk.com###Tinfo
 ||ngsinspiringtga.info^$popup
 ||ngx273.inmotionhosting.com^
 ||ngx365.inmotionhosting.com^
+||nha2wjgep.localto.net^
 ||nhentai.net/api/_/popunder?$popup
 ||nhk.or.jp/mpulse/boomerang/
 ||nhk.or.jp^*/bc.js
@@ -39802,7 +39803,6 @@ zzzyk.com###Tinfo
 ||onet.pl^*/tags?
 ||onetad.com^$third-party
 ||onetag-sys.com^$third-party
-||onetimeatt82116.activehosted.com^
 ||onetouch12.com^$popup
 ||onetouch19.com^$popup
 ||onetrust.com^$ping
@@ -46116,6 +46116,7 @@ zzzyk.com###Tinfo
 ||vpnfortorrents.*?$popup
 ||vpnoffers.cc^$popup
 ||vpnrice.com/a/p.js
+||vpns.veonix.host^
 ||vprtrfc.com^$popup
 ||vprza.com^$third-party
 ||vps-41077.vps-default-host.net^

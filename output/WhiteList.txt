@@ -1,5 +1,5 @@
-! 规则更新时间 2025年08月08日 16:09:45
-! 本规则数量 173条
+! 规则更新时间 2025年08月09日 00:41:04
+! 本规则数量 174条
 ! 更新频率 12小时
 ! 白名单规则
 
@@ -42,6 +42,7 @@
 @@||captcha.su.baidu.com^
 @@||catchup.thisisdax.com^
 @@||cbsi.map.fastly.net^
+@@||cdn.atmedia.hu^
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.us*.exponea.com^
