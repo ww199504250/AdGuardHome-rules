@@ -23706,6 +23706,7 @@ tvbs.com.tw##.smart_banner
 tvbs.com.tw##div[data-testid="ad-container"]
 tvcancelrenew.com##.h-72
 tvfanatic.com##.feed_holder
+tvguide.co.uk##.mx-auto:has(> [id^="ad-content"])
 tvguide.com##.c-tvListingsSchedule_adRow
 tvguide.com##.c-tvListingsSchedule_video
 tvline.com##._video_ti56x_1
@@ -33848,6 +33849,7 @@ zzzyk.com###Tinfo
 ||g2afse.com^$popup
 ||g33ktr4ck.com^$popup
 ||g3f3.com/love/
+||g3host.com^
 ||g5jko7dyn.localto.net^
 ||g6857531218241.activehosted.com^
 ||g6857531221502.activehosted.com^
@@ -34570,6 +34572,7 @@ zzzyk.com###Tinfo
 ||gsdpw.com/file/script/A
 ||gsecondscreen.com^$third-party
 ||gsecurecontent.com^$popup
+||gsehost.com^
 ||gsght.com/twizards.js
 ||gsght.com^$third-party
 ||gsimedia.net^$third-party
@@ -37060,6 +37063,7 @@ zzzyk.com###Tinfo
 ||kuk8.com^$third-party
 ||kuke99.com/static/home/js/index/index.js
 ||kuku99.com^$third-party
+||kumo.network-n.com^$third-party
 ||kunduz.com/kunduzlytics.min.js
 ||kununu.com^*/tracking/
 ||kunvertads.com^$popup
@@ -42252,6 +42256,7 @@ zzzyk.com###Tinfo
 ||s.pixfs.net/visitor.pixplug.in/
 ||s.radioreference.com/sm/$image
 ||s.smallpdf.com/static/track-js-
+||s.sofoot.com/script.js
 ||s.ssl.qhres2.com/ssl/
 ||s.weibo.com/widget.html
 ||s.yimg.com/ja/ap/$script,subdocument,domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
