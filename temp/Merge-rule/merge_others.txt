@@ -239,6 +239,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .blog/ads/
 .bluekai.com/*?e_id_
 .bmetrack.com/c/$image
+.bosch-homecomfort.com/op/$image
 .br/ads/$~xmlhttprequest
 .bt*.com/imgs.js?t=
 .buzz/*=$object,third-party
@@ -30556,6 +30557,7 @@ zzzyk.com###Tinfo
 ||cleanmypc.click^$document
 ||cleanmypc.click^$popup
 ||cleantalk.org/pixel/
+||cleanupx-manage-local-git9142083651.vercel.app^
 ||clearbit.com^$third-party
 ||clearbitjs.com^$third-party
 ||clearbuy.com/api/cookie
@@ -32691,6 +32693,7 @@ zzzyk.com###Tinfo
 ||elephant-ads.com^$popup
 ||elil.cc/pdev/
 ||elil.cc/reqe.js
+||eliotexe0110-26529.portmap.host^
 ||elitepaysites.com/ae-banners/
 ||elitesingles.com/cs/tp.png?
 ||elitics.com^$third-party
@@ -46127,7 +46130,6 @@ zzzyk.com###Tinfo
 ||vpnfortorrents.*?$popup
 ||vpnoffers.cc^$popup
 ||vpnrice.com/a/p.js
-||vpns.veonix.host^
 ||vprtrfc.com^$popup
 ||vprza.com^$third-party
 ||vps-41077.vps-default-host.net^
