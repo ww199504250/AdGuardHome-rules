@@ -6355,6 +6355,23 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="920"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="950"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width^="72"]
+18comic.org,18comic.vip###guide-modal
+18comic.org,18comic.vip##.div_sticky2
+18comic.org,18comic.vip##.modal-backdrop
+18comic.org,18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
+18comic.org,18comic.vip##a[herf*="//"]:not([href*="comic."]) > img
+18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > [style*="back"]
+18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style]
+18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img
+18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
+18comic.org,18comic.vip##div[data-group][data-width="300"]
+18comic.org,18comic.vip##style + div[style="cursor: pointer; position: relative;"]
+18comic.org,18comic.vip#?#:-abp-has(>ins+div)
+18comic.org,18comic.vip#?#:-abp-has(>ins+script)
+18comic.org,18comic.vip#?#:-abp-has(>ins+style)
+18comic.org,18comic.vip#?#:-abp-has(>script+ins)
+18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+18comic.org,18comic.vip#?#div[data-group]:-abp-has(>.group-notice)
 18moe.org##.alignnone[alt="恰饭广告"]
 18moe.vip##a[href^="http"]:not([href*="18moe.vip"]) > img[src*="tc.18moe.net"]
 18porn.sex,18teensex.tv,429men.com,4kporn.xxx,4wank.com,alotporn.com,amateurporn.co,amateurporn.me,bigtitslust.com,camwhores.tv,danude.com,daporn.com,epicgfs.com,fapnow.xxx,fpo.xxx,freeporn8.com,fuqer.com,gayck.com,hentai-moon.com,hentai0day.com,heroero.com,hoes.tube,intporn.com,japaneseporn.xxx,javpoint.com,javwind.com,jizzberry.com,mrdeepfakes.com,multi.xxx,onlyhentaistuff.com,pornchimp.com,porndr.com,pornmix.org,sextubespot.com,sortporn.com,tabootube.xxx,watchmygf.xxx,xcavy.com,xgroovy.com,xmateur.com,xxxshake.com##.table
@@ -15428,7 +15445,6 @@ gazette.com,thehindu.com##.dfp-ad
 gbnews.com##.ad--billboard
 gbnews.com##.video-inbody
 gbnews.com##.vsly-player
-gbnews.com##div[data-attr-layout_custom_field_viously_html]
 gbnews.com,smithsonianmag.com,tasty.co##.ad-wrapper
 gd163.cn##.bbs_ad
 gd163.cn,itavcn.com,jmnews.com.cn###msg_win
@@ -17619,22 +17635,6 @@ jjwxc.net##[id^="adp_"]
 jjwxc.net##table[style^="width:984px;"]
 jlmhk.com##.bn
 jlpcn.net##.vodAd
-jm18c-twie.vip,18comic.org,18comic.vip###guide-modal
-jm18c-twie.vip,18comic.org,18comic.vip##.div_sticky2
-jm18c-twie.vip,18comic.org,18comic.vip##.modal-backdrop
-jm18c-twie.vip,18comic.org,18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
-jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > [style*="back"]
-jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style]
-jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img
-jm18c-twie.vip,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
-jm18c-twie.vip,18comic.org,18comic.vip##div[data-group][data-width="300"]
-jm18c-twie.vip,18comic.org,18comic.vip##style + div[style="cursor: pointer; position: relative;"]
-jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>ins+div)
-jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>ins+script)
-jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>ins+style)
-jm18c-twie.vip,18comic.org,18comic.vip#?#:-abp-has(>script+ins)
-jm18c-twie.vip,18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-jm18c-twie.vip,18comic.org,18comic.vip#?#div[data-group]:-abp-has(>.group-notice)
 jmbbs.com###xjj_jmbbs2015_01
 jmbbs.com##.middle_guanggao
 jmbbs.com##img[width="1100"]
@@ -25786,6 +25786,7 @@ zzzyk.com###Tinfo
 ||1redirb.com^$popup
 ||1ri7zwh3k.localto.net^
 ||1stfreehosting.com^
+||1sthost.cc^
 ||1sweethost.com^
 ||1ts11.top^$popup
 ||1ts17.top^$popup
@@ -30562,7 +30563,6 @@ zzzyk.com###Tinfo
 ||cleanmypc.click^$document
 ||cleanmypc.click^$popup
 ||cleantalk.org/pixel/
-||cleanupx-manage-local-git9142083651.vercel.app^
 ||clearbit.com^$third-party
 ||clearbitjs.com^$third-party
 ||clearbuy.com/api/cookie
@@ -30673,6 +30673,7 @@ zzzyk.com###Tinfo
 ||clickzs.com^$third-party
 ||clickzzs.nl^$third-party
 ||clictrck.com^$popup
+||client.hosthlior.com^
 ||clientgear.com^$third-party
 ||clinch.co/a_js/client_pixels/
 ||clipcentric.com^$third-party
@@ -33306,6 +33307,7 @@ zzzyk.com###Tinfo
 ||fetdmpg7z.localto.net^
 ||fetishshrine.com/js/customscript.js
 ||feuageepitoke.com^$popup
+||fewafef-56170.portmap.host^
 ||fgip.rosehosting.com^
 ||fh21.com.cn/js/passport/createQuickMenu.js
 ||fh21.com.cn/partners/
@@ -33545,10 +33547,12 @@ zzzyk.com###Tinfo
 ||forarchenchan.com^$popup
 ||forazelftor.com^$popup
 ||force24.co.uk^$third-party
+||forcr4ck-24910.portmap.host^
 ||fordforums.com.au/logos/
 ||foremedia.net^$third-party
 ||forensics1000.com^$third-party
 ||foreseeresults.com^$third-party
+||foreso8150-41869.portmap.host^
 ||forethought.ai/workflow/tracking-event
 ||forex-affiliate.com^$third-party
 ||forex.com.cn/index.php/Invoking/tanchukuang
@@ -34198,7 +34202,6 @@ zzzyk.com###Tinfo
 ||ghostsapp.com^
 ||ghostsinstance.com^
 ||ghostssquadpoints.dlcodes.com^
-||ghostteamone.com^
 ||ghostwoodalbum.com^
 ||gianteagle.com/webevents/
 ||giaoji.com/Runtime/Js/
@@ -35195,7 +35198,6 @@ zzzyk.com###Tinfo
 ||host.sogoforms.com^
 ||host.zoodipistoia.it^
 ||host11.traffic-builders.com^
-||host1877066.hostland.pro^
 ||host2.ecombeast.shop^
 ||host207.ewtn.com^
 ||host238.hostmonster.com^
@@ -36560,7 +36562,6 @@ zzzyk.com###Tinfo
 ||jlmhk.com/images/data/
 ||jlpcn.net/img/300p-
 ||jlwz.cn/js/xf*.js
-||jm18c-twie.vip/media/albums/*?$media
 ||jmbbs.cn/sjgg/
 ||jmhfw.com/index.php?/ajax/get_adv/
 ||jmw.com.cn/m_v2/js/active.js
@@ -40676,7 +40677,6 @@ zzzyk.com###Tinfo
 ||plug.it^*/tracking_
 ||plugin.ws^$third-party
 ||plugrush.com^$third-party
-||plum-octopus-898011.hostingersite.com^
 ||plus.net/images/referrals/
 ||plushd.bio/cdn-cgi/trace
 ||pm0.net^$third-party
@@ -43162,6 +43162,7 @@ zzzyk.com###Tinfo
 ||sloto.live^$popup
 ||slowww.xyz^$popup
 ||slut2fuck.net^$popup
+||slvbx0pkq.localto.net^
 ||slysoft.com/img/banner/
 ||smac-ad.com^$third-party
 ||smaero.jp/js/access.js
@@ -43379,7 +43380,7 @@ zzzyk.com###Tinfo
 ||somebestgamesus.com^$popup
 ||sometrics.com^$third-party
 ||somquery.sqrt-5041.de/tv/tracking-event
-||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~gamekult.com|~jeanmarcmorandini.com|~lesnumeriques.com|~marmiton.org|~melty.fr|~nextplz.fr|~the-race.com
+||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~gamekult.com|~gbnews.com|~jeanmarcmorandini.com|~lesnumeriques.com|~marmiton.org|~melty.fr|~nextplz.fr|~the-race.com
 ||songsongyun.com/ads/
 ||sonichits.com/tf.php
 ||sonimei.cn/images/gg.png
@@ -43577,6 +43578,7 @@ zzzyk.com###Tinfo
 ||srv237943.hoster-test.ru^
 ||srv238176.hoster-test.ru^
 ||srv238251.hoster-test.ru^
+||srv238376.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
@@ -44694,7 +44696,6 @@ zzzyk.com###Tinfo
 ||tits-guru.com/js/istripper4.js
 ||titsintops.com/phpBB2/nb/
 ||tjoomo.com^$popup
-||tjwpn04kn.localto.net^
 ||tjwsg.com^$document
 ||tjwsg.com^$popup
 ||tka.tiki.vn/pixel/
