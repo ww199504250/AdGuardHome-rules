@@ -6412,7 +6412,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 1kkk.com,dm5.com,dm5.hk###beitou
 1kkk.com,dm5.com,dm5.hk##.adform_1
 1kkk.com,dm5.com,dm5.hk##.adform_2
-1lou.icu,1lou.me,1lou.one,1lou.pro###advert > :not(.card)
+1lou.info,1lou.icu,1lou.me,1lou.one,1lou.pro###advert > :not(.card)
 1m3d.com###klp_adtop
 1news.co.nz,actionnewsjax.com,boston25news.com,fox23.com,hits973.com,kiro7.com,wftv.com,whio.com,wpxi.com,wsbradio.com,wsbtv.com,wsoctv.com##.arcad_feature
 1point3acres.com###portal_block_479
@@ -7226,7 +7226,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://adn.*/zone/$popup
 ://adn.*/zone/$subdocument
 ://ads.$popup,domain=~smartnews.com
-://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
+://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
 ://ads2.
 ://adsbb.
 ://adserving.
@@ -7253,6 +7253,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://beacon.*/track
 ://blue.*/script.js
 ://btt*/Runtime/js/psData.
+://c-hh-point-jp.*.cuenote.jp/c/$image
 ://cl.melonbooks.co.jp/c/$image
 ://client.rum.
 ://cmpworker.
@@ -7278,6 +7279,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://l.*/counter.php?id=$script,~third-party
 ://l.*/script.php?i=$script,~third-party
 ://lightning.*/launch/
+://links.flickr.com/s/eo/$image
 ://links.paypal.*/eos/$image
 ://load.*.js?st=$~third-party
 ://loader.*.com/loader.min.js|$script,~third-party
@@ -9293,6 +9295,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||quantcast.com/wp-content/themes/quantcast/$domain=quantcast.com
 @@||quanzhi.cn/v3/images/index_ad/
 @@||query.petametrics.com^$image,xmlhttprequest,domain=mechacomic.jp
+@@||r10s.jp/com/img/home/t.gif?$domain=24.rakuten.co.jp
 @@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
 @@||r3sub.com^$generichide
 @@||radio24.ilsole24ore.com/plugins/cordova-plugin-nielsen/www/nielsen.js$script,~third-party
@@ -12332,6 +12335,7 @@ cheatcodes.com###ad_atf_970
 cheatcodes.com###game_details_ad
 cheatcodes.com##.ad_btf_728
 check-host.net##.ra-elative
+check-host.net##div[id^="antpeayvraea"]
 checkfelix.com,kayak.*,swoodoo.com###resultWrapper > div > div > [role="button"][tabindex="0"] > .yuAt-pres-rounded
 checkfelix.com,kayak.*,swoodoo.com##.Dp1L
 checkfelix.com,kayak.*,swoodoo.com##.EvBR
@@ -21349,6 +21353,10 @@ redian.news##.md\:w-\[728px\].mx-auto
 rediff.com###world_right1
 rediff.com###world_right2
 rediff.com###world_top
+rediff.com##.adbxo1
+rediff.com##.advtcontainer
+rediff.com##.advttext
+rediff.com##.boxadvtcontainer
 rediff.com##div[id^="div_ad_"]
 redircdn.com##.al
 redketchup.io##.potato_sticky
@@ -22344,6 +22352,7 @@ solscan.io##.adsHeaderTextWrapper
 some.porn##.fluid_html_on_pause_container
 someecards.com##div[class^="BaseAdSlot_adContainer_"]
 songbpm.com##.mb-6:has(> section > div[id^="ad--searches"])
+songbpm.com##div.mb-6:has-text(Advertisement)
 songfacts.com##.songfacts-song-inline-ads
 songkick.com##.video-ad-wrapper
 songlyrics.com##div[id^="ad-absolute-160"]
@@ -25789,7 +25798,6 @@ zzzyk.com###Tinfo
 ||1redirb.com^$popup
 ||1ri7zwh3k.localto.net^
 ||1stfreehosting.com^
-||1sthost.cc^
 ||1sweethost.com^
 ||1ts11.top^$popup
 ||1ts17.top^$popup
@@ -28262,6 +28270,7 @@ zzzyk.com###Tinfo
 ||apexstats.com^$third-party
 ||apextag.com^$third-party
 ||apextwo.com^$third-party
+||api-dynhost.hismarttv.com^
 ||api-iam.intercom.io/messenger/web/metrics
 ||api-location-prd.pelcro.com^$domain=newsweek.com
 ||api-player.globalsun.io/api/publishers/player/content?category_id=*&adserver_id=$xmlhttprequest
@@ -33616,6 +33625,7 @@ zzzyk.com###Tinfo
 ||forensics1000.com^$third-party
 ||foreseeresults.com^$third-party
 ||foreso8150-41869.portmap.host^
+||forestgreen-marten-359970.hostingersite.com^
 ||forethought.ai/workflow/tracking-event
 ||forex-affiliate.com^$third-party
 ||forex.com.cn/index.php/Invoking/tanchukuang
@@ -35393,6 +35403,7 @@ zzzyk.com###Tinfo
 ||hostteyahoo.ddns.net^
 ||hostujmy.pl^
 ||hosturbater.com^
+||hostvita.com^
 ||hostvy.com^
 ||hostwpe.com^
 ||hostxxxinquiries.creatorlink.net^
@@ -37740,7 +37751,6 @@ zzzyk.com###Tinfo
 ||local-flirt.com^
 ||local-shares.ri.la^
 ||local-subsidiary.gl.at.ply.gg^
-||local-update.com^
 ||localads-statistics.maps.me^
 ||localads.chengzijianzhan.cn.queniurc.com^
 ||localads.maps.me^
@@ -42294,6 +42304,7 @@ zzzyk.com###Tinfo
 ||roadcontagion.com^$popup
 ||roaddataay.live^$popup
 ||roadster.com/roadster_dealer_analytics
+||roaj1om6hh5dchv0xjudgxtt0fcucdjh.scvhost.click^
 ||roastoup.com^$popup
 ||roblox.com/_/_/1px.gif
 ||roblox.com/report
@@ -43782,7 +43793,6 @@ zzzyk.com###Tinfo
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
 ||srv237601.hoster-test.ru^
-||srv237943.hoster-test.ru^
 ||srv238176.hoster-test.ru^
 ||srv238251.hoster-test.ru^
 ||srv238376.hoster-test.ru^
@@ -44150,6 +44160,7 @@ zzzyk.com###Tinfo
 ||stt6.cfd^$popup
 ||stubhub.com/a/icph
 ||studeersnel.nl/27m703Hm/init.js
+||studio--new-prototype-xwdnb.us-central1.hosted.app^
 ||studiocustomers.com^$popup
 ||studiostack.com^$third-party
 ||studocu.com/27m703Hm/init.js
@@ -44411,6 +44422,7 @@ zzzyk.com###Tinfo
 ||tacticalrepublic.com^$third-party
 ||tadpull.com^$third-party
 ||tafmaster.com^$third-party
+||tag.flvcdn.net/lytag.js
 ||tag4arm.com^$third-party
 ||tagbucket.cc^$third-party
 ||tagcommander.com^$third-party
@@ -47574,6 +47586,7 @@ zzzyk.com###Tinfo
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
+||youtube.com/api/stats/atr?
 ||youtube.com/api/stats/delayplay?
 ||youtube.com/api/stats/qoe?
 ||youtube.com/embed/C-iDzdvIg1Y$domain=biznews.com
