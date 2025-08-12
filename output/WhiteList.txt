@@ -1,5 +1,5 @@
-! 规则更新时间 2025年08月12日 08:01:00
-! 本规则数量 173条
+! 规则更新时间 2025年08月12日 16:01:06
+! 本规则数量 182条
 ! 更新频率 12小时
 ! 白名单规则
 
@@ -7,10 +7,12 @@
 @@||5471782.fls.doubleclick.net^
 @@||79423.analytics.edgekey.net^
 @@||a.adwolf.ru^
+@@||a.sellpoint.net^
 @@||ac.ebis.ne.jp^
 @@||access-open.quark.cn^
 @@||acs-m.daraz.com.bd^
 @@||acs-m.daraz.pk^
+@@||acs.m.taobao.com^
 @@||action.metaffiliation.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
@@ -63,6 +65,7 @@
 @@||cm-beacon.nakanohito.jp^
 @@||cm-widget.nakanohito.jp^
 @@||cmp.inmobi.com^
+@@||config2.cmpassport.com^
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cs.silverpop.com^
 @@||cutcaptcha.com^
@@ -79,6 +82,7 @@
 @@||feed.adrelayer.com^
 @@||forum.notebookreview.com^
 @@||galleryapi.micloud.xiaomi.net^
+@@||gaode-jmacs.m.taobao.com^
 @@||gate.first-id.fr^
 @@||get.neofinancial.com^
 @@||go.adjust.com^
@@ -88,7 +92,7 @@
 @@||grp07.ias.rakuten.co.jp^
 @@||gs.statcounter.com^
 @@||guce.advertising.com^
-@@||hb.afl.rakuten.co.jp^
+@@||h5.tv.mi.com^
 @@||health.halodoc.com^
 @@||hidive.com^
 @@||home.focusatwill.com^
@@ -128,6 +132,7 @@
 @@||oneline.nextday.media^
 @@||pagead.l.doubleclick.net^
 @@||partner.everydays.de^
+@@||pay.bilibili.com^
 @@||promo.gramedia.com^
 @@||pt.afl.rakuten.co.jp^
 @@||public-cis.exponea.com^
@@ -150,8 +155,10 @@
 @@||sentry.d.xiaomi.net^
 @@||smtp.focusgroupresearch.com^
 @@||sponsor.nitropay.com^
+@@||srv.sec.miui.com^
 @@||stash.roistat.com^
 @@||static-v*.trbo.com^
+@@||stats.music.xiaomi.com^
 @@||str.hit.gemius.pl^
 @@||support-beacon.nakanohito.jp^
 @@||support-widget.nakanohito.jp^
@@ -163,6 +170,7 @@
 @@||thumbnail.thench.net^
 @@||tlaol.com^
 @@||tlh.gedidigital.it^
+@@||torimochi.line-apps.com^
 @@||tr.rdrtr.com^
 @@||track.rutarget.ru^
 @@||track.webgains.com^
@@ -170,6 +178,7 @@
 @@||validate.perfdrive.com^
 @@||vcentry2.valuecommerce.ne.jp^
 @@||vcentry3.valuecommerce.ne.jp^
+@@||vv.video.qq.com^
 @@||www.alidns.com^
 @@||www.dogpile.com^
 @@||www.googleadservices.com^
