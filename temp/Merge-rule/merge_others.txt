@@ -6175,8 +6175,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,breakingac.com,britishheritage.com,businessinsider.com,capemaynjdaily.com,cbs8.com,cc.com,ccjdigital.com,centralbucksnews.com,dailytrust.com,delconow.com,delish.com,downbeach.com,driven.co.nz,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,euromaidanpress.com,fastcompany.com,fishermap.org,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,greatitalianchefs.com,hbr.org,highdefdigest.com,historynet.com,horshamnow.com,howstuffworks.com,huffpost.com,ibtimes.sg,inc.com,insidehook.com,intouchweekly.com,irishcentral.com,karanpc.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,namemc.com,nbcnews.com,newrepublic.com,northpennnow.com,nzherald.co.nz,ocnjdaily.com,oneesports.gg,opb.org,outkick.com,papermag.com,partners.disney.com,perkvalleynow.com,phillydaily.com,physiology.org,pixiv.net,podcastaddict.com,punchng.com,qns.com,queye.co,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,seaislenews.com,seattletimes.com,songkick.com,sportskeeda.com,storyboard18.com,thebaltimorebanner.com,thedailybeast.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,thenationonlineng.net,thenewstack.io,thetimes.com,tmz.com,toofab.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,willowgrovenow.com,wired.com,wogx.com,worldsoccertalk.com,wral.com##.ad-container
 12tomatoes.com###footboard
 12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,hockeybuzz.com,koreaboo.com,logotv.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,penny-arcade.com,publishersweekly.com,skysports.com,sportsnet.ca,thedrinknation.com,theserverside.com,vacations.info###leaderboard
-131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
-131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/next/"]
+131400.best,vikacg.com,vikacg.icu,vikacg.xyz##.post-card-list > a
+131400.best,vikacg.com,vikacg.icu,vikacg.xyz##a[href^="http"] > img[src*="/assets/next/"]
 131458.com###header_gg
 131458.com##.divGuanggao
 131458.com##.ulfooter_top
@@ -16438,6 +16438,7 @@ hotmovs.tube##.app-banners__wrapper
 hotmovs.tube##.video-page > .block_label > div
 hotmovs.tube,upornia.tube##.video-right-top
 hotnewhiphop.com##.bg-ad-bg-color
+hotnewhiphop.com##.bg-ad-text
 hotnewhiphop.com##.wrapper-Desktop_Header
 hotnudedgirl.top,prettygirlpic.top##[class$="custom-spot"]
 hotstar.com##div[data-testid="bbtype-video"]
@@ -21404,6 +21405,11 @@ republicworld.com##.padtop20.txtcenter.minheight90
 researchgate.net##.global-leaderboard-ad-container
 researchgate.net##.lite-page__above
 reset-scans.co##.madara-ad-banner
+resourcepack.net##.ab-rpnet-archive-bottom
+resourcepack.net##.ab-rpnet-archive-header
+resourcepack.net##.ab-rpnet-archive-infeed
+resourcepack.net##.ab-rpnet-single-bottom
+resourcepack.net##.ab-rpnet-single-header
 restoro.com#@#[href^="https://www.restoro.com/"]
 retailgazette.co.uk##.boxzilla-overlay
 retailgazette.co.uk##.boxzilla-popup-advert
@@ -22066,6 +22072,7 @@ sinolub.com##div[style="float:left; padding-right:20px;"]
 sisixxb.com##.preflink
 site.baidu.com##.pstr.mt10
 sitelike.org###HeaderAdsenseCLSFix
+sitelike.org##.adCLS
 sitepoint.com##div.inline-content
 sitepoint.com##div[data-unit-code]
 siteslike.com##.rif
@@ -26873,6 +26880,7 @@ zzzyk.com###Tinfo
 ||ad-adapex.io^$third-party
 ||ad-adblock.com^$popup
 ||ad-addon.com^$popup
+||ad-arrow.com^$third-party
 ||ad-block-offer.com^$popup
 ||ad-fam.com^$third-party
 ||ad-free.info^$popup
@@ -30180,6 +30188,7 @@ zzzyk.com###Tinfo
 ||cdn.ghostmonitor.com^
 ||cdn.haokongbu1.com^*.js
 ||cdn.http.anno.channel4.com/m/1/$media,domain=uktvplay.co.uk
+||cdn.jp1media.com/js/v1/dmp.min.js
 ||cdn.jsdelivr.net/npm/@adshield/
 ||cdn.mcnn.pl^$third-party
 ||cdn.neighbourly.co.nz/widget/$subdocument
@@ -31760,6 +31769,7 @@ zzzyk.com###Tinfo
 ||deepintent.com^$third-party
 ||deepl.com/web/statistics
 ||deepnote.com/api/track
+||deeppink-caribou-696197.hostingersite.com^
 ||deepsathegoh.com^$document
 ||deepxtube.com/zips/
 ||deezer.com/ajax/gw-light.php?method=triton.pixelTracking&
@@ -32205,6 +32215,7 @@ zzzyk.com###Tinfo
 ||download-adblock-bear.com^$popup
 ||download-adblockgenius.com^$popup
 ||download-file.org^$popup
+||download-host.vercel.app^
 ||download-performance.com^$popup
 ||download.megaup.net/download
 ||download.uphost.click^
@@ -33529,7 +33540,6 @@ zzzyk.com###Tinfo
 ||forensics1000.com^$third-party
 ||foreseeresults.com^$third-party
 ||foreso8150-41869.portmap.host^
-||forestgreen-marten-359970.hostingersite.com^
 ||forethought.ai/workflow/tracking-event
 ||forex-affiliate.com^$third-party
 ||forex.com.cn/index.php/Invoking/tanchukuang
@@ -35225,6 +35235,7 @@ zzzyk.com###Tinfo
 ||hostipress.com^
 ||hostkiss.com^
 ||hostmanshipacademy.com^
+||hostmaster.attollo.com.au^
 ||hostmaster.richardhyettlawyernotary.com^
 ||hostmicro.com^
 ||hostmonster.com/src/js/$third-party
@@ -35248,7 +35259,6 @@ zzzyk.com###Tinfo
 ||hostteyahoo.ddns.net^
 ||hostujmy.pl^
 ||hosturbater.com^
-||hostvita.com^
 ||hostvy.com^
 ||hostwpe.com^
 ||hostxxxinquiries.creatorlink.net^
@@ -35456,7 +35466,6 @@ zzzyk.com###Tinfo
 ||hy5.com.cn/admin/
 ||hybbs.com/i/$image,object
 ||hybrid.ai^$third-party
-||hydra.hostseba.com^
 ||hye87lws0.localto.net^
 ||hyenadata.com^$popup
 ||hyfntrak.com^$third-party
@@ -36594,6 +36603,7 @@ zzzyk.com###Tinfo
 ||js-check.com^$document
 ||js-check.com^$popup
 ||js-delivr.com^$third-party
+||js.dsp.bance.jp/bncdmp.js
 ||js.ea3w.com/pv.js
 ||js.letvcdn.com/js/*/stats/
 ||js.mumayi.net/9495.gif
@@ -39693,7 +39703,6 @@ zzzyk.com###Tinfo
 ||olelive.com/v1/pub/index/anchor/check/pc/e?
 ||olgame.tw/home/attachment/
 ||olimp.bet/analytics/
-||olive-finch-472834.hostingersite.com^
 ||olmsoneenh.info^$domain=avgle.com
 ||olopruy.com^$document
 ||olx.com.br^*/lurker.
@@ -40005,7 +40014,6 @@ zzzyk.com###Tinfo
 ||ovdimin.buzz^$popup
 ||overcasthosting.com^
 ||overcrowdsillyturret.com^$popup
-||overfixhater.top/cuid/
 ||overninetalesor.com^$popup
 ||oversolosisor.com^$document
 ||oversolosisor.com^$popup
@@ -40830,6 +40838,7 @@ zzzyk.com###Tinfo
 ||potsdamer-stadtplan.com/t.gif
 ||potskolu.net^$popup
 ||pourmajeurs.com^$third-party
+||powderblue-raccoon-976623.hostingersite.com^
 ||powercount.com^$third-party
 ||poweredbyeden.com/widget/tracker/
 ||poweredbyliquidfire.mobi^$popup
@@ -42699,6 +42708,7 @@ zzzyk.com###Tinfo
 ||sexyno1.com/mk-banner/
 ||sexystat.com^$third-party
 ||seznam.cz^$ping
+||sezonem.freesite.host^
 ||sezzle.com/v1/event/log
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
 ||sf14g.com^$third-party
@@ -43522,7 +43532,6 @@ zzzyk.com###Tinfo
 ||srpx.net^$third-party
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
-||srv237601.hoster-test.ru^
 ||srv238176.hoster-test.ru^
 ||srv238251.hoster-test.ru^
 ||srv238376.hoster-test.ru^
@@ -43878,7 +43887,6 @@ zzzyk.com###Tinfo
 ||stt6.cfd^$popup
 ||stubhub.com/a/icph
 ||studeersnel.nl/27m703Hm/init.js
-||studio--new-prototype-xwdnb.us-central1.hosted.app^
 ||studiocustomers.com^$popup
 ||studiostack.com^$third-party
 ||studocu.com/27m703Hm/init.js
@@ -44712,6 +44720,7 @@ zzzyk.com###Tinfo
 ||tomonline-inc.com^$third-party
 ||toms.com/*/FacebookCAPI-Event
 ||toms.com/*/PinterestCAPI-Event
+||tonedoc641-58670.portmap.host^
 ||tonefuse.com^$popup
 ||tonefuse.com^$third-party
 ||tongabonga.com/nudegirls
