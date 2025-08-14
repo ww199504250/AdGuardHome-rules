@@ -8491,9 +8491,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||g.doubleclick.net/pagead/ads$subdocument,domain=sudokugame.org
 @@||g.doubleclick.net/pagead/ads?*&description_url=https%3A%2F%2Fgames.wkb.jp$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=adamtheautomator.com|allestoringen.be|allestoringen.nl|aussieoutages.com|canadianoutages.com|downdetector.ae|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.br|downdetector.dk|downdetector.es|downdetector.fi|downdetector.fr|downdetector.hk|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.no|downdetector.pl|downdetector.pt|downdetector.ru|downdetector.se|downdetector.sg|downdetector.tw|downdetector.web.tr|euronews.com|filmweb.pl|hoyme.jp|ictnews.org|journaldequebec.com|kino.de|mediaite.com|spiegel.de|thestar.co.uk|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de|yorkshirepost.co.uk
-@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=blog.nicovideo.jp|laurelberninteriors.com
+@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=blog.nicovideo.jp|laurelberninteriors.com|metropcs.mobi
 @@||g.doubleclick.net/pagead/ppub_config$domain=bloomberg.com|independent.co.uk|repretel.com|telsu.fi|weather.com
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|adamtheautomator.com|bestiefy.com|blastingnews.com|blog.nicovideo.jp|bloomberg.com|chromatographyonline.com|cornwalllive.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|euronews.com|filmweb.pl|formularywatch.com|games.coolgames.com|gearpatrol.com|hoyme.jp|journaldequebec.com|kino.de|laurelberninteriors.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nycgo.com|olx.pl|physicianspractice.com|repretel.com|spiegel.de|standard.co.uk|telsu.fi|theta.tv|weather.com|wralsportsfan.com
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|adamtheautomator.com|bestiefy.com|blastingnews.com|blog.nicovideo.jp|bloomberg.com|chromatographyonline.com|cornwalllive.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|euronews.com|filmweb.pl|formularywatch.com|games.coolgames.com|gearpatrol.com|hoyme.jp|journaldequebec.com|kino.de|laurelberninteriors.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|metropcs.mobi|nycgo.com|olx.pl|physicianspractice.com|repretel.com|spiegel.de|standard.co.uk|telsu.fi|theta.tv|weather.com|wralsportsfan.com
 @@||g2crowd.com/uploads/product/image/$image,domain=g2.com
 @@||gakushuin.ac.jp/ad/common/$~third-party
 @@||game735.com^$generichide
@@ -18885,6 +18885,7 @@ metric-conversions.org##.exists
 metro.co.uk##.ads__index__adWrapper--cz7QL
 metro.co.uk##.metro-discounts
 metro.co.uk##.metro-ow-modules
+metropcs.mobi##div[title="Advertisement"]
 metservice.com##.Header
 metservice.com##.Mrec-min-height
 mg.co.za###partner-content
@@ -26366,6 +26367,7 @@ zzzyk.com###Tinfo
 ||5axxw.com/extends/ad/
 ||5cc3ac02.xyz^$document,popup
 ||5dimes.com^$popup
+||5dm.link/ablgld/
 ||5dm.link/ancblmszmd/
 ||5dmail.net/image/$object
 ||5dmail.net/image/ORF_1000.gif
@@ -31770,7 +31772,6 @@ zzzyk.com###Tinfo
 ||deepintent.com^$third-party
 ||deepl.com/web/statistics
 ||deepnote.com/api/track
-||deeppink-caribou-696197.hostingersite.com^
 ||deepsathegoh.com^$document
 ||deepxtube.com/zips/
 ||deezer.com/ajax/gw-light.php?method=triton.pixelTracking&
@@ -32005,6 +32006,7 @@ zzzyk.com###Tinfo
 ||dishleyinsite.shop^$popup
 ||disneyadvertising.com^$third-party
 ||dispatchfeed.com^$popup
+||display-local-manage-main7305182964.vercel.app^
 ||displaymarketplace.com^$third-party
 ||displayvertising.com^$document
 ||displayvertising.com^$popup
@@ -32216,7 +32218,6 @@ zzzyk.com###Tinfo
 ||download-adblock-bear.com^$popup
 ||download-adblockgenius.com^$popup
 ||download-file.org^$popup
-||download-host.vercel.app^
 ||download-performance.com^$popup
 ||download.megaup.net/download
 ||download.uphost.click^
@@ -32406,7 +32407,6 @@ zzzyk.com###Tinfo
 ||dytt8.com/js1y/
 ||dytt8.net/js3/
 ||dytt8.net/jsd
-||dywebhosting.com^
 ||dyxs39.com/statics/js/jquery.
 ||dyzyhj.com/Jk/
 ||dz19.net/addimg/
@@ -35092,6 +35092,7 @@ zzzyk.com###Tinfo
 ||hoes.tube/ai/
 ||hoglinsu.com^$document
 ||hoglinsu.com^$popup
+||hoksha-41399.portmap.host^
 ||hoktrips.com^$document
 ||hoktrips.com^$popup
 ||holahupa.com^$popup
@@ -40837,7 +40838,6 @@ zzzyk.com###Tinfo
 ||potsdamer-stadtplan.com/t.gif
 ||potskolu.net^$popup
 ||pourmajeurs.com^$third-party
-||powderblue-raccoon-976623.hostingersite.com^
 ||powercount.com^$third-party
 ||poweredbyeden.com/widget/tracker/
 ||poweredbyliquidfire.mobi^$popup
@@ -42729,6 +42729,7 @@ zzzyk.com###Tinfo
 ||sgtreport.com/wp-content/uploads/*Banner
 ||sh.sina.com.cn/iframe/522/
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
+||shadow32434-42879.portmap.host^
 ||shakingtacklingunpeeled.com^$document
 ||shakingtacklingunpeeled.com^$popup
 ||shandian.biz/wp-content/themes/inove/js/comment.js
@@ -43532,7 +43533,6 @@ zzzyk.com###Tinfo
 ||srpx.net^$third-party
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
-||srv238176.hoster-test.ru^
 ||srv238251.hoster-test.ru^
 ||srv238376.hoster-test.ru^
 ||srv2trking.com^$popup
@@ -45556,6 +45556,7 @@ zzzyk.com###Tinfo
 ||upaiyun.com/wp-content/uploads/2016/12/wenzhangyouce
 ||upapi.net^$third-party
 ||update-apple.com.betawihosting.net^
+||update-host-one.top^
 ||update.myiphost.com^
 ||updatecompletelyfreetheproduct.vip^$popup
 ||updateenow.com^$popup
@@ -47368,6 +47369,7 @@ zzzyk.com###Tinfo
 ||yzpsb.net/js/system.js
 ||yzs.com/d/file/2020/06/21/5358e14b4556663a91f145f0635f95de.jpg
 ||yzz.cn/global_gg/
+||z10nx711111111-61801.portmap.host^
 ||z3x-team.com/wp-content/*-banner-
 ||z444o.com^$third-party
 ||z4a.net/images/*/960-60.
