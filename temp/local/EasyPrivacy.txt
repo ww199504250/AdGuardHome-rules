@@ -3223,6 +3223,7 @@ _WebVitalsReporter_
 ://links.flickr.com/s/eo/$image
 ://links.paypal.*/eos/$image
 ://parcel-api.delivery-status.*/open/$image
+://t.*/open^$image
 ://t.order.*/r/?id=$image
 ^endpoint=track^$image
 _ad_impression.
@@ -10140,6 +10141,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ws.sharethis.com^$script
 ||wsmcdn.audioeye.com^
 ||wspisp.net/logger.php
+||wstats.ageverif.com^
 ||wstats.slashed.cloud^
 ||wt.viagogo.net^
 ||wtb-tag.swaven.com^
@@ -10552,6 +10554,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sheego.de/ar/$third-party
 ||sim-technik.de/dvs.gif?
 ||sim-technik.de^*&uniqueTrackId=
+||simetra.tracking.ringieraxelspringer.tech^
 ||skoom.de/gratis-counter/
 ||somquery.sqrt-5041.de/tv/tracking-event
 ||sp.data.funkedigital.de^
