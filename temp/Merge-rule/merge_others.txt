@@ -7304,6 +7304,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://r.reklam*.com^
 ://rou*/_next/static/chunks/pages/home-
 ://rs-stripe.wsj.com/stripe/image?
+://rum.collector.
 ://s.htkk*.top:$script,third-party
 ://say.ac^
 ://seai*/ads/float.js
@@ -8211,7 +8212,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||collector.leaddyno.com/shopify.js$script,domain=s4l.us
 @@||collusion.com/static/newrelic.js$script,~third-party
 @@||commons.wikimedia.org/w/api.php?$~third-party,xmlhttprequest
-@@||community.brave.com/t/$xmlhttprequest
+@@||community.brave.app/t/$xmlhttprequest
 @@||connatix.com*/connatix.player.$script,domain=ebaumsworld.com|funker530.com|tvinsider.com|washingtonexaminer.com
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
 @@||connect.facebook.net^*/fbevents.js$domain=elinoi.com
@@ -18938,6 +18939,7 @@ miloserdov.org,playstore.pw,reneweconomy.com.au,winaero.com,wpneon.com###custom_
 mindbodygreen.com##.bftiFX
 mindbodygreen.com##.sc-10p0iao-0
 minecraft-schematics.com##a[href^="https://www.pingperfect.com/aff.php?"]
+minecraft-servers.gg##.adp-native-responsive
 minecraftforum.net##.server-forum-after-comment-ad
 minecraftlist.org##.stickywrapper
 minecraftservers.org##.second-banner
@@ -21793,7 +21795,9 @@ securenetsystems.net##.bannerPrerollArea
 security.org##.banner-img-container
 securityaffairs.com##.add-banner
 securityonline.info###block-59
+securityweek.com##.sw-bulletin
 securityweek.com##.sw-home-ads
+securityweek.com##.zox-post-ad-wrap
 see.xxx,tuberel.com##.vda-item
 seechamonix.com###ads-inner
 seehd.so##.header_wrap + .tac + table[align="center"]
@@ -24495,6 +24499,7 @@ whatismybrowser.com##.fun-inner
 whatismyip.com###hp-ad-banner-top
 whatismyip.com###tool-what-is-my-ip-ad
 whatismyip.net##.container > .panel[id]
+whatismyipaddress.com###whatismyipaddress_320x50_Mobile_ATF
 whatismyipaddress.com###whatismyipaddress_728x90_Desktop_ATF
 whatismyipaddress.com##.fbx-player-wrapper
 whatismyipaddress.com##.fl-module-wipa-concerns
@@ -31153,7 +31158,6 @@ zzzyk.com###Tinfo
 ||coolpc.com.tw/img/topweb.html
 ||coolserving.com^$document
 ||coolserving.com^$popup
-||coomer.st/api/v1/creators|
 ||coop-host.com^
 ||coosync.com^$document
 ||coosync.com^$popup
@@ -36855,7 +36859,6 @@ zzzyk.com###Tinfo
 ||kelehut.cc/js/m.
 ||kelkoogroup.net/st?
 ||kellymary9742.activehosted.com^
-||kemono.cr/api/v1/creators|
 ||kendralust266.activehosted.com^
 ||kendrickcoleman.com/images/banners/
 ||kenny-glenn.net^*/longbanner_$third-party
@@ -42095,7 +42098,6 @@ zzzyk.com###Tinfo
 ||rs0.co.uk^$third-party
 ||rs6.net^$image,script,third-party
 ||rsaltsjt.com^$popup
-||rsc-host.com^
 ||rsj36.rhostjh.com^
 ||rsppartners.com^$popup
 ||rss-loader.com/track/
@@ -43262,6 +43264,7 @@ zzzyk.com###Tinfo
 ||sokrati.com^$third-party
 ||sol-data.com^$third-party
 ||solaranalytics.org^$popup
+||solarwinds.com/ra-$script
 ||soldierreproduceadmiration.com^$popup
 ||solidcams.com/api/metrics
 ||solispartner.com^$popup
@@ -43464,7 +43467,6 @@ zzzyk.com###Tinfo
 ||srv238251.hoster-test.ru^
 ||srv238326.hoster-test.ru^
 ||srv238376.hoster-test.ru^
-||srv238514.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
