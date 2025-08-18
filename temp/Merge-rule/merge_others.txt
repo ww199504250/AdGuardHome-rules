@@ -1670,7 +1670,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /api/front/v2/observability$ping
 /api/goods/v1/get.script.core?
 /api/internal/pixel?
-/api/ipv4check?
 /api/log-visit
 /api/metrics/collect
 /api/metrics/event
@@ -30048,7 +30047,6 @@ zzzyk.com###Tinfo
 ||camcrush.com^$third-party
 ||camdough.com^$third-party
 ||camduty.com^$third-party
-||camerwamper-64923.portmap.host^
 ||camghosts.com^
 ||camghosts.com^$third-party
 ||camgirls.casa/p.php
@@ -34199,7 +34197,6 @@ zzzyk.com###Tinfo
 ||ggwcash.com^$third-party
 ||ggxt.net^$third-party
 ||ghacks.net/statics/px.gif
-||ghastlyghost.com^
 ||ghjie.com/JS/youcegg.js
 ||ghjie.com/images/2012/images/bg
 ||ghost-name.pages.dev^
@@ -37334,6 +37331,7 @@ zzzyk.com###Tinfo
 ||lewdspot.com/img/aff_
 ||lexity.com^$third-party
 ||lexology.com/pd.js
+||lexpress.fr/pf/resources/js/piano-analytics-
 ||lfeeder.com^$third-party
 ||lfov.net^$third-party
 ||lftce.clearstem.com/load
@@ -41366,6 +41364,7 @@ zzzyk.com###Tinfo
 ||qingsedhh.com/images/gg.gif
 ||qinxue100.com/qinxue/pc/js/add_js.js
 ||qiota.com/api/event
+||qiota.com/assets/qiotasession.gif?
 ||qishula.com/css/wap.
 ||qiuw.com/static/xin-ad.js
 ||qiuyi.cn/Baojian/
@@ -41780,7 +41779,7 @@ zzzyk.com###Tinfo
 ||redirect-ads.com^$popup
 ||redirect-ads.com^$~subdocument,third-party
 ||redirect-path1.com^$popup
-||redirectify.app^$third-party
+||redirectify.app/script_tags/tracking.js
 ||redirectingat.com^$document
 ||redirectingat.com^$popup
 ||redirectvoluum.com^$popup
@@ -46036,7 +46035,6 @@ zzzyk.com###Tinfo
 ||voqally.com/hub/app/
 ||votistics.com^$third-party
 ||vowpairmax.live^$popup
-||voxenil647-38077.portmap.host^
 ||voxmedia.com/beacon-min.js
 ||voxus.com.br^$third-party
 ||voyeur-house.tv/js/track.js
