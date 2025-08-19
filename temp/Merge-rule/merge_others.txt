@@ -21638,7 +21638,7 @@ salon.com##.advertise_text
 salon.com##.outer_ad_container
 saltwire.com##.sw-banner
 saltwire.com##.youtube_article_ad
-sameday.costco.com##li:has([aria-label="Product"] [data-dfp-eligible])
+sameday.costco.*##li:has([aria-label="Product"] [data-dfp-eligible])
 samfw.com##[name="chimera_b"]
 sammobile.com###snack-ad-cont
 sammobile.com###venatus-hybrid-banner
@@ -23490,7 +23490,7 @@ tmall.com###J_Recommend
 tmall.com##.app-download-popup
 tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
 tmall.com##.mui-mbarp-qrcode
-tmioe.com##.ekxxhn
+tmioe.com##.gorand
 tmioe.com##.widget_image_img
 tmioe.com##a[href*=".zps.im"]
 tmo.report###directad
@@ -33719,6 +33719,8 @@ zzzyk.com###Tinfo
 ||freighter-prod01.narvar.com^$image
 ||freihit.de^$third-party
 ||fremaks.net^$third-party
+||frequentjam.com^$document
+||frequentjam.com^$popup
 ||fresh.inlinkz.com^$third-party
 ||freshbooks.com/images/banners/
 ||freshclip.tv/tracking/
@@ -39460,6 +39462,8 @@ zzzyk.com###Tinfo
 ||nordicresearch.com^$third-party
 ||nordstrom.com/api/cake/
 ||nordstrom.com/api/cupcake/
+||north-verification.com^$document
+||north-verification.com^$popup
 ||northauthority.xyz^$document
 ||northbeam.io^$third-party
 ||northdownload.com^$document
@@ -40047,6 +40051,8 @@ zzzyk.com###Tinfo
 ||outputter.io/uploads/$subdocument
 ||outster.com^$third-party
 ||outwingullom.com^$popup
+||ouzalruksengung.com^$document
+||ouzalruksengung.com^$popup
 ||oval.id/tracker/
 ||ovardu.com^$document
 ||ovardu.com^$popup
@@ -40638,6 +40644,8 @@ zzzyk.com###Tinfo
 ||playmatic.video^$third-party
 ||playmmogames.com^$document
 ||playoncenter.com^$third-party
+||playonlinegames.space^$document
+||playonlinegames.space^$popup
 ||playstretch.host^
 ||playstretch.host^$document
 ||playstretch.host^$popup
