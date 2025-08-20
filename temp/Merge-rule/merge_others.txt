@@ -5346,7 +5346,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /~cdn/ads/*
 /~shared/do/~/count/?$image
 0.0.0.0 0.0.0.0
-0.0.0.0 0022a601.pphost.net
 0.0.0.0 403.hqhost.net
 0.0.0.0 404.hqhost.net
 0.0.0.0 53.localytics.com
@@ -5426,7 +5425,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 de.hosting.adjug.com
 0.0.0.0 devhostx42launch.online
 0.0.0.0 dhost92884jjbncje6cw.blob.core.windows.net
-0.0.0.0 dhosting1040e04sazr.blob.core.windows.net
 0.0.0.0 dioseslahostia.com
 0.0.0.0 donewellhosting.com
 0.0.0.0 dopf.uthost.net
@@ -5458,7 +5456,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 gcirm.idahostatesman.com
 0.0.0.0 gcounter.hosting4u.net
 0.0.0.0 geekhostingsolutions.com
-0.0.0.0 ghastlyghost.com
 0.0.0.0 ghost-ship.com
 0.0.0.0 ghostbringer.com
 0.0.0.0 ghostbyte.monster
@@ -5531,7 +5528,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 itsourlocal.com
 0.0.0.0 izm.utb.mybluehost.me
 0.0.0.0 kad.xdt.mybluehost.me
-0.0.0.0 kreatorhostplt.pl
 0.0.0.0 lckhost.help
 0.0.0.0 local-analytics.uberinternal.com
 0.0.0.0 local-download.com
@@ -5588,6 +5584,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 origami.secure.ownlocal.com
 0.0.0.0 otodom.pl.web153.s316.goserver.host
 0.0.0.0 overslocal.pro
+0.0.0.0 oyshostore.com
 0.0.0.0 pafiilate.byethost32.com
 0.0.0.0 page-host.net
 0.0.0.0 pagead-googlehosted.l.google.com
@@ -5667,7 +5664,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 tracking.hostgator.com
 0.0.0.0 trd.ghostglobaltd.com
 0.0.0.0 unitedghostwriters.com
-0.0.0.0 update-host-one.top
 0.0.0.0 update-skype.freehostia.com
 0.0.0.0 url-hoster.com
 0.0.0.0 us-east-1.local.emxdgt.com
@@ -5730,7 +5726,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.daspol-eu.s10.hostcreators.sk
 0.0.0.0 www.devhostx42launch.online
 0.0.0.0 www.dhost92884jjbncje6cw.blob.core.windows.net
-0.0.0.0 www.dhosting1040e04sazr.blob.core.windows.net
 0.0.0.0 www.dioseslahostia.com
 0.0.0.0 www.donewellhosting.com
 0.0.0.0 www.dopf.uthost.net
@@ -5751,7 +5746,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.freehostservers.com
 0.0.0.0 www.g3host.com
 0.0.0.0 www.geekhostingsolutions.com
-0.0.0.0 www.ghastlyghost.com
 0.0.0.0 www.ghost-ship.com
 0.0.0.0 www.ghostbringer.com
 0.0.0.0 www.ghostbyte.monster
@@ -5776,6 +5770,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hosterchecker.com
 0.0.0.0 www.hosterroundcubz.s3.cubbit.eu
 0.0.0.0 www.hosting-config.com
+0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hostingconsortium.com
 0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hostingoutlook.com
@@ -5796,7 +5791,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.itsourlocal.com
 0.0.0.0 www.izm.utb.mybluehost.me
 0.0.0.0 www.kad.xdt.mybluehost.me
-0.0.0.0 www.kreatorhostplt.pl
 0.0.0.0 www.lckhost.help
 0.0.0.0 www.localauctioninfo.com
 0.0.0.0 www.localcabnearme.com
@@ -5835,6 +5829,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.ops.ghostglbl.com
 0.0.0.0 www.otodom.pl.web153.s316.goserver.host
 0.0.0.0 www.overslocal.pro
+0.0.0.0 www.oyshostore.com
 0.0.0.0 www.pafiilate.byethost32.com
 0.0.0.0 www.palegoldenrod-whale-304468.hostingersite.com
 0.0.0.0 www.pgeepolskaweb.sviluppo.host
@@ -18946,8 +18941,8 @@ milffox.com###advertising
 milffox.com##.signup
 milfporn8.com,ymlporn7.net##.vid-ave-pl
 miliav.com##.b300
-military.com##.brightcove-video-wrapper
 military.com##.page__top
+military.com##article.embedded-entity
 militaryleak.com##.gmr-floatbanner
 militarywatchmagazine.com##.v-size--x-small.theme--light
 miloserdov.org,playstore.pw###custom_html-11
@@ -40640,7 +40635,7 @@ zzzyk.com###Tinfo
 ||player.javboys.cam/cdn-cgi/trace
 ||player.ooyala.com/errors/report?
 ||player.sendtonews.com^$third-party
-||players.brightcove.net^$script,domain=military.com|pedestrian.tv
+||players.brightcove.net^$script,domain=pedestrian.tv
 ||players.radioonlinehd.net^$domain=flamecomics.xyz
 ||playerswhisper.com^$popup
 ||playgirl.com^$popup
