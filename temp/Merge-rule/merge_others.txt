@@ -20935,6 +20935,7 @@ proprivacy.com##.sidebar-top-vpn
 proprivacy.com##.summary-footer-cta
 proprofs.com##.firstadd
 propublica.org##.bb-ad
+proreader.io###offerModal
 prosettings.net##.pro-placement
 protocol.com##.tag-sponsored
 protrumpnews.com##.enhanced-text-widget:has(span.pre-announcement)
@@ -33344,6 +33345,7 @@ zzzyk.com###Tinfo
 ||filehippo.com/best-recommended-apps^
 ||filehippo.com/revamp.js
 ||filehost-efn.pages.dev^
+||filehosting-6rc.pages.dev^
 ||filehostingz.com^
 ||filemoon-*/js/baf.js
 ||filemoon.*/js/baf.js
@@ -38861,6 +38863,7 @@ zzzyk.com###Tinfo
 ||mxcdn.net^$domain=spiegel.de
 ||mxcdn.net^$third-party
 ||mxmfb.com/rsps/img/
+||mxmkitchen.com/in/pcl/track.php
 ||mxpnl.com^$third-party
 ||mxpopad.com^$third-party
 ||mxzmz.com/js/
