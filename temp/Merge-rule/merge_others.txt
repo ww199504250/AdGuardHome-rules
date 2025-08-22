@@ -7190,7 +7190,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 9ht.com##a[href*=".360.cn/"]
 9ht.com,cesafe.com,downcc.com,downyi.com,paopaoche.net,pc0359.cn,pc6.com###gaosuxiazai
 9ht.com,pc0359.cn,pc6.com##.downnow
-9jaflaver.com,alaskapublic.org,allkeyshop.com,analyticsinsight.net,ancient-origins.net,animeidhentai.com,arabtimesonline.com,biblestudytools.com,bitcoinworld.co.in,christianity.com,cnx-software.com,coingolive.com,csstats.gg,digitallydownloaded.net,digitbin.com,domaingang.com,downturk.net,flickeringmyth.com,fresherslive.com,gizmochina.com,glitched.online,glodls.to,guidedhacking.com,hackernoon.com,indishare.org,katfile.com,khmertimeskh.com,litecoin-faucet.com,mbauniverse.com,mediaite.com,mgnetu.com,myreadingmanga.info,newsfirst.lk,owaahh.com,parkablogs.com,premiumtimesng.com,railcolornews.com,resultuniraj.co.in,ripplesnigeria.com,rtvonline.com,ryuugames.com,sashares.co.za,sofascore.com,timesuganda.com,totemtattoo.com,trancentral.tv,vumafm.co.za,yugatech.com,zmescience.com##[href*="bit.ly/"]
+9jaflaver.com,alaskapublic.org,allkeyshop.com,analyticsinsight.net,ancient-origins.net,animeidhentai.com,arabtimesonline.com,biblestudytools.com,bitcoinworld.co.in,christianity.com,cnx-software.com,coingolive.com,csstats.gg,digitallydownloaded.net,digitbin.com,domaingang.com,downturk.net,flickeringmyth.com,fresherslive.com,gizmochina.com,glitched.online,glodls.to,guidedhacking.com,hackernoon.com,indishare.org,katfile.com,khmertimeskh.com,litecoin-faucet.com,mbauniverse.com,mediaite.com,mgnetu.com,myreadingmanga.info,newsfirst.lk,owaahh.com,parkablogs.com,premiumtimesng.com,railcolornews.com,resultuniraj.co.in,ripplesnigeria.com,rtvonline.com,ryuugames.com,sashares.co.za,sofascore.com,timesuganda.com,totemtattoo.com,trancentral.tv,unboxdiaries.com,vumafm.co.za,yugatech.com,zmescience.com##[href*="bit.ly/"]
 9ku.com##.youFix
 9l.pl#@#.boxAds
 9miao.com###deanrlc22
@@ -16820,9 +16820,9 @@ ifsp.tv##.video-page-right
 ifxtx.com##.ppsy_content758
 igberetvnews.com,mediaweek.com.au,nextnewssource.com###wallpaper
 igeeksblog.com###ig_header
-igg-games.com##.taxonomy-description
-igg-games.com##.uk-panel.widget-text
-igg-games.com,pcgamestorrents.com##a[href][aria-label=""], [width="300"][height^="25"], [width="660"][height^="8"], [width="660"][height^="7"]
+igg-games.co,igg-games.com,pcgamestorrents.com##[width="300"][height^="25"]
+igg-games.co,igg-games.com,pcgamestorrents.com##a[href^="/"][href*="?"]
+igg-games.co,igg-games.com,pcgamestorrents.com##img:not([class]):not([decoding])
 ign.com##.background-image.content-block
 ign.com##.wiki-bobble
 ign.com,mashable.com,pcmag.com##.zad
@@ -23104,6 +23104,16 @@ thefastmode.com##.channel_long
 thefastmode.com##.channel_small
 thefastmode.com##.side_ads
 thefastmode.com##.takeover_message
+thefederal.com###after_first_top_news_ad
+thefederal.com###after_header_ad_2
+thefederal.com###after_top_news_ad_1
+thefederal.com###header_mid_level_1
+thefederal.com###left_level_2
+thefederal.com###right_section_1
+thefederal.com##.inside-post-ad
+thefederal.com##.level_1_ad_1
+thefederal.com##.pb-3 > .col-xl-3.col-lg-6.col-md-6:has(> [id^="ad_slot"])
+thefederal.com##.top_level_1_before_after_header
 thefederalist.com##.general-callout
 thefetishistas.com##div[id^="thefe-"]
 thefinancialexpress.com.bd###innerAds
@@ -35690,7 +35700,8 @@ zzzyk.com###Tinfo
 ||igaming.biz^$third-party
 ||igao17.com/need/h5.js
 ||igen.fr/modules/statistics/statistics.php
-||igg-games.com/maven/
+||igg-games.*/maven/
+||igg-games.co/sw.js
 ||ignals.com^$document
 ||ignals.com^$popup
 ||ignitorkneecap.shop^$popup
@@ -43797,6 +43808,7 @@ zzzyk.com###Tinfo
 ||stormiq.com^$third-party
 ||storygize.net^$third-party
 ||storyren.top/imgg/
+||storyunicornupper.com^$popup
 ||straitstimes.com/_web2/betterads_head.js
 ||stratascratch.com/monitoring?
 ||strategic-host.vercel.app^
@@ -46691,6 +46703,7 @@ zzzyk.com###Tinfo
 ||wowanalytics.co.uk^$third-party
 ||wowfan.net/static/js/index.
 ||wowow.co.jp/API/new_prg/get_tracking_url.php
+||wowroms.com/images/Banner*.gif
 ||wowshortvideos.com^$popup
 ||wowtcgloot.com/share/?d=$third-party
 ||woyaoq.com/201904100958_5cad4dbac9c5f.png
