@@ -38,7 +38,7 @@ $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.go
 $csp=script-src 'self' * 'unsafe-inline',domain=efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
 $csp=script-src 'self' * 'unsafe-inline',domain=pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
-$csp=script-src 'self' *,domain=hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
+$csp=script-src 'self' *,domain=90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' pic1.mangapicgallery.com www.google.com,domain=mangago.me
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' www.gstatic.com cdn.jsdelivr.net maxcdn.bootstrapcdn.com,domain=bigwarp.io
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=thumbs.pro
@@ -701,6 +701,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /.netlify/scripts/rum
 /.webscale/rum?
 /.well-known/shopify/monorail
+//cdn.*/uni-ggs.js$third-party
 /0.gif?
 /0c.gif?
 /0mbjs/2800av*.js
@@ -4965,7 +4966,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /umt.gif?
 /unagi.amazon.
 /unbxdAnalytics.js
-/uni-ggs.js
 /uniclick.js?attribution=
 /uniontgm.cmb.
 /updatestats.js
@@ -25839,6 +25839,7 @@ zzzyk.com###Tinfo
 ||1905.com/data/js/*.json
 ||1909.me/upload/ad/
 ||19199675.xyz^$document,popup
+||192ly.com/wp-content/cache/*.js
 ||193.197.158.209^$third-party,domain=~statistik.lubw.baden-wuerttemberg.de.ip
 ||19706903.xyz^$document,popup
 ||199.116.177.156^$domain=~fc2.jp.ip
@@ -27128,7 +27129,6 @@ zzzyk.com###Tinfo
 ||adhoc2.net^$popup
 ||adhost.in^
 ||adhost.se^
-||adhostcenter.com^
 ||adhostingsolutions.com^
 ||adhostingsolutions.com^$third-party
 ||adhouse.pro^$third-party
@@ -27228,6 +27228,7 @@ zzzyk.com###Tinfo
 ||admetricspro.com^$third-party
 ||admile.ru^$third-party
 ||admin.blog.fc2.com/dctanalyzer.php
+||admin.managehosting-aruba-it.workers.dev^
 ||admin25.com/ad/
 ||adminbuy.cn/images/
 ||admitad.com^$popup
@@ -32671,6 +32672,7 @@ zzzyk.com###Tinfo
 ||ednprinkle55348.activehosted.com^
 ||edococounter.de^$third-party
 ||edonhisdhi.com^$popup
+||edpisblacklmfao-38234.portmap.host^
 ||edpl9v.pro^$document
 ||edpl9v.pro^$popup
 ||edrone.me/trace?
@@ -33366,6 +33368,7 @@ zzzyk.com###Tinfo
 ||filehippo.com/best-recommended-apps^
 ||filehippo.com/revamp.js
 ||filehost-efn.pages.dev^
+||filehostfree.netlify.app^
 ||filehosting-6rc.pages.dev^
 ||filehostingz.com^
 ||filemoon-*/js/baf.js
@@ -34074,7 +34077,6 @@ zzzyk.com###Tinfo
 ||geegleshoaph.com^$popup
 ||geejetag.com^$popup
 ||geekbang.org/public/serving/
-||geekhostingsolutions.com^
 ||geekpark.net/api/v1/ads
 ||gegenstimme.tv/tracker/
 ||gegeyingshi.com/template/*/images/g_js/
@@ -35216,7 +35218,6 @@ zzzyk.com###Tinfo
 ||host*.polaroid.com^
 ||host*.rigbyandpeller.com^
 ||host*.rvshare.com^
-||host-185-193-126-20.njalla.net^
 ||host-195-103-203-106.business.telecomitalia.it^
 ||host-5-58-172-98.bitternet.ua^
 ||host-95-230-215-65.business.telecomitalia.it^
@@ -35227,7 +35228,6 @@ zzzyk.com###Tinfo
 ||host-most.gl.at.ply.gg^
 ||host-tracker.com^$third-party
 ||host-vc-fone-dx-wiem-qa.weebly.com^
-||host.attollo.com.au^
 ||host.dailys.wiki^
 ||host.gamerg.gg^
 ||host.gsslcloud.com^
@@ -35275,6 +35275,7 @@ zzzyk.com###Tinfo
 ||hostgrater.com^
 ||hostify.fr^
 ||hostiger.fr^
+||hostigner.fr^
 ||hostileconductive.com^
 ||hostiner.fr^
 ||hosting.sproutbuilder.com^
@@ -35284,10 +35285,12 @@ zzzyk.com###Tinfo
 ||hostingcloud.*.wasm^
 ||hostingcloud.party
 ||hostingcloud.racing^
+||hostinge.fr^
 ||hostinger.com/api-proxy/api/sentry/
 ||hostingfile.live^
 ||hostingjo.com^
 ||hostingoutlook.com^
+||hostingr.fr^
 ||hostingservicefl.com^
 ||hostip.info^
 ||hostip.info^$third-party
@@ -36297,6 +36300,7 @@ zzzyk.com###Tinfo
 ||istlnkcl.com^$popup
 ||istrack.com^$third-party
 ||istripper.com^$third-party,domain=~istripper.eu
+||isz.bqv.mybluehost.me^
 ||it165.net/index.php?m=poster&
 ||it168.com/pv.js
 ||it610.com/views/front/js/special/
@@ -37708,7 +37712,6 @@ zzzyk.com###Tinfo
 ||localsnaughty.com^
 ||localso.com^
 ||localstockservicefr.firebaseapp.com^
-||localtreasure.net^
 ||localytics.com^
 ||localytics.com^$third-party
 ||location3.com/analytics/
@@ -38013,7 +38016,6 @@ zzzyk.com###Tinfo
 ||mail.ru/grstat?
 ||mail.ru/k?
 ||mail.yahoo.com/f/track/
-||mailhost.attollo.com.au^
 ||mailhost.mysynology.net^
 ||mailstat.us^$third-party
 ||mainadcenter.com^$document
@@ -38829,7 +38831,6 @@ zzzyk.com###Tinfo
 ||mstrlytcs.com^$third-party
 ||msv53-sh-mortar.mschosting.com^
 ||mtb-news.de/metric/
-||mtesthost.dynu.com^
 ||mtime.cn/library/*/ECommerce/GoodsAndFeatureCtrl.js
 ||mtime.cn/tg/
 ||mtm.rnz.mybluehost.me^
@@ -43534,6 +43535,7 @@ zzzyk.com###Tinfo
 ||spylog.ru^$third-party
 ||spys.one/fpe.png
 ||spywords.com^$third-party
+||sqcorporation-40357.portmap.host^
 ||squarecdn.com/square-marketplace-js/chunk-analytics-vendors.js
 ||squarecdn.com/square-marketplace-js/chunk-analytics.js
 ||squaremouth.com/affiliates/$third-party
@@ -43552,10 +43554,10 @@ zzzyk.com###Tinfo
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srtrak.com^$popup
-||srv238251.hoster-test.ru^
 ||srv238326.hoster-test.ru^
 ||srv238777.hoster-test.ru^
 ||srv238803.hoster-test.ru^
+||srv239085.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
