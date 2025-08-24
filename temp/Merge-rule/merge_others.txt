@@ -10209,6 +10209,7 @@ advfn.com##.plus500
 advfn.com##.primis-container
 advfn.com##.recent-stocks-sibling
 advfn.com##.top-ban-wrapper
+advisorperspectives.com###dfp-ap-2016-interstitial
 advocate.com##.ad_tag
 advocate.com##.bigbox_top_ad-wrap
 advocate.com##.partners__container
@@ -13705,7 +13706,7 @@ discuss.com.hk###gamepage_banner
 discuss.com.hk###gid_group_restricted > .gid_group_title
 discuss.com.hk##div[id^="div-gpt-ad"] + div[id]
 discuss.com.hk,uwants.com###right_column
-discussingfilm.net,goonhammer.com,joemygod.com,ryxy.online,shtfplan.com,thestrongtraveller.com,usmagazine.com,wiki-topia.com##.widget_block
+discussingfilm.net,goonhammer.com,joemygod.com,ryxy.online,shtfplan.com,thestrongtraveller.com,topcartoons.tv,usmagazine.com,wiki-topia.com##.widget_block
 disk.yandex.by,disk.yandex.com,disk.yandex.kz,disk.yandex.ru,disk.yandex.uz,freevoipdeal.com,voipstunt.com,yadi.sk#@#.content_ads
 disk.yandex.com,disk.yandex.ru##.direct-public__sticky-box
 diskingdom.com##div[id="diski-"]
@@ -15648,6 +15649,7 @@ givemesport.com##.gms-videos-container
 gizbot.com###oi-custom-camp
 gizbot.com##.oiadv
 gizbot.com,goodreturns.in,inc.com##div[style^="min-height: 250px"]
+gizchina.com##[id^="slot"]
 gizmodo.com##.lg\:min-h-\[300px\]
 gizmodo.com##.min-h-\[1000px\]
 gizmodo.com##.related-posts > li.py-4.border-b
@@ -23723,7 +23725,7 @@ tsdm.live###ts_sidebar_base
 tsmodelstube.com##.spot-regular
 tsmodelstube.com##a[href="https://tsmodelstube.com/a/tangels"]
 tsumino.com##.erogames_container
-tsx.is##.VPDocAside
+tsx.is##.VPDocAside > .mb-8
 tsx.is##.VPDocAsideCarbonAds
 ttdm.me##.dds_w
 ttmeiju.me##DIV[style="float:left;margin-bottom:27px;margin-top:27px;"]
@@ -31333,7 +31335,6 @@ zzzyk.com###Tinfo
 ||cpu.baidu.com^$third-party
 ||cpvadvertise.com^$popup
 ||cpvlabtrk.online^$popup
-||cpx-research.com^$third-party
 ||cpxdeliv.com^$popup
 ||cqcounter.com^$third-party
 ||cqloud.com/measurements/
@@ -34234,7 +34235,6 @@ zzzyk.com###Tinfo
 ||ghost-ship.com^
 ||ghost580.com/js/nei4.js
 ||ghostbringer.com^
-||ghostentry.openhous.com^
 ||ghostgenie.com^
 ||ghostnewz.com^
 ||ghostnewz.com^$popup
@@ -35270,7 +35270,6 @@ zzzyk.com###Tinfo
 ||hostelsarrivaportalchecksguestsup.com^
 ||hostelworld.world^
 ||hoster.bobbylevin.com^
-||hosterchecker.com^
 ||hosterroundcubz.s3.cubbit.eu^
 ||hostgrater.com^
 ||hostify.fr^
@@ -37678,7 +37677,6 @@ zzzyk.com###Tinfo
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
 ||localcabnearme.com^
-||localclasses.net^
 ||localconservatives.com^
 ||localedgemedia.com^
 ||localelover.com^$popup
@@ -43206,7 +43204,6 @@ zzzyk.com###Tinfo
 ||smassets.net/assets/anonweb/anonweb-click-
 ||smct.co^$third-party
 ||smentbrads.info^$popup
-||smerttb-40118.portmap.host^
 ||smetrics.echostar.com^
 ||smileycentral.com^$third-party
 ||smileyhost.net^
@@ -43557,7 +43554,6 @@ zzzyk.com###Tinfo
 ||srv238326.hoster-test.ru^
 ||srv238777.hoster-test.ru^
 ||srv238803.hoster-test.ru^
-||srv239085.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
@@ -46106,6 +46102,7 @@ zzzyk.com###Tinfo
 ||voohostokipy.com^
 ||vooxe.com/analytics.js
 ||voqally.com/hub/app/
+||vorynthostech.com^
 ||votistics.com^$third-party
 ||vowpairmax.live^$popup
 ||voxmedia.com/beacon-min.js
