@@ -11464,6 +11464,7 @@ bestbuy.ca##div[data-automation^="criteo-sponsored-products-carousel-"]
 bestbuy.ca,bestbuy.com##[id^="atwb-ninja-carousel"]
 bestbuy.com###sponsored-carousel-na
 bestbuy.com##.atwb-display-ad
+bestbuy.com##.display-ad-wrapper
 bestbuy.com##.generic-morpher:has(.spns-label)
 bestbuy.com##.product-list-sponsored-wrapper-grid-view
 bestbuy.com##.shop-dedicated-sponsored-carousel
@@ -11877,6 +11878,7 @@ bootyheroes.com##.cross-promo-bnr
 boredbro.com###AdBox728
 bossip.com##.fsb-desktop
 bossip.com##.fsb-toggle
+bossip.com##.ione-ve__player-wrapper
 bossip.com##.player-wrapper-inner
 bostonagentmagazine.com##.prm1_w
 bostonglobe.com###sticky_container.width_full
@@ -12973,6 +12975,9 @@ complaintsingapore.com##[href*="/adv.php"]
 complaintsingapore.com##[href="https://thechillipadi.com/"]
 compleatgolfer.com,sacricketmag.com###slidein
 complex.com##.AdWrapper__AdPlaceholderContainer-sc-15idjh1-0
+complex.com##.base__header-ad
+complex.com##.latest-stories__ad
+complex.com##.suitcase-ad
 compoundsemiconductor.net##.mega-bar
 compoundsemiconductor.net##.popular__section-newsx
 computerweekly.com##.content-continues
@@ -13589,6 +13594,8 @@ delish.com##.css-3oqygl
 deluxemusic.tv#@#.article_ad
 demap.info###pcad
 demaxiya.com##.tp_box
+demonicscans.org###teaser3
+demonicscans.org##div[id^="pf-"]
 demonslayermanga.com,readjujutsukaisen.com,readneverland.com##.js-a-container
 deployhappiness.com,dmitrysotnikov.wordpress.com,faravirusi.com,freedom-shift.net,lovepanky.com,markekaizen.jp,netafull.net,photopoint.com.ua,posh-samples.com#@#.category-ad:not(html):not(body)
 depositfiles.com##.banner1
@@ -15106,6 +15113,7 @@ freebdsmxxx.org###right
 freebdsmxxx.org##.adv315
 freebdsmxxx.org##[href^="https://t.me/joinchat/"]
 freebeacon.com##.inline-campaign-wrapper
+freebusinessapps.net##.sp-res
 freecodecamp.cn,freecodecamp.one#@#.btn-social
 freecomiconline.me,mangahentai.me,manytoon.com,readfreecomics.com##.c-top-sidebar
 freeconvert.com##.ads-in-page
@@ -21648,6 +21656,7 @@ salife.com.au##.salife-slot
 salixos.org##.sponsors-container
 salon.com##.advertise_text
 salon.com##.outer_ad_container
+salon.com##.title:has-text(Advertisement)
 saltwire.com##.sw-banner
 saltwire.com##.youtube_article_ad
 sameday.costco.*##li:has([aria-label="Product"]):has([data-dfp-eligible]):not(:has(h2))
@@ -24409,6 +24418,7 @@ weatherpro.com##.large-leaderboard
 weatherpro.com##.list-city-ad
 weatherpro.com##.medium-rectangle-wrapper-2
 weatherwx.com#@#.adbutton
+weatherzone.com.au##.publift-ad-wrapper
 web-dev-qa-db-fra.com##.adn-ar
 web.telegram.org##.SponsoredMessage
 web.telegram.org##div.bubbles > div.scrollable > div.bubbles-inner > div.is-sponsored
@@ -24559,6 +24569,7 @@ whatitismyip.net##.p-hza6800
 whatmobile.com.pk##div[style^="background-color:#EBEBEB;"]
 whatmobile.com.pk##div[style^="height:610px"]
 whatsgabycooking.com##.manual-adthrive-sidebar
+whatsmyip.com##.holidAds
 whatsmyreferer.com##[href="http://fakereferer.com"]
 whatsmyreferer.com##[href="http://fakethereferer.com"]
 whatsondisneyplus.com###sidebar > .widget_text.amy-widget
@@ -28401,6 +28412,7 @@ zzzyk.com###Tinfo
 ||apple-mapkit.com/mw/v1/reportAnalytics
 ||apple.com/hvr/mw/v1/spile
 ||apple.com/mw/v1/reportAnalytics
+||apple.s-host.net^
 ||apple.www.letv.com/env/?
 ||apple886.com/subs/*.js
 ||appledaily.hk/banners/subscription/
@@ -31323,7 +31335,6 @@ zzzyk.com###Tinfo
 ||cpcalendars.hostbesttech.website^
 ||cpcalendars.hostsportstoto9.com^
 ||cpcmanager.com^$third-party
-||cpcontacts.businesshostz.xyz^
 ||cpcontacts.hostbesttech.website^
 ||cpcontacts.hostsportstoto9.com^
 ||cpfclassifieds.com^$third-party
@@ -31435,6 +31446,7 @@ zzzyk.com###Tinfo
 ||crunchbase.com/rw7M6iAV/init.js
 ||crunchyroll.com/awidget/
 ||crunchyroll.com/tracker?
+||crxcr1.com^$third-party
 ||crxs.me/plugins/jquery.modal/
 ||crxs.me/scripts/my_
 ||crxs.me/upload/ad/
@@ -32198,7 +32210,6 @@ zzzyk.com###Tinfo
 ||doko.moe^$domain=pantsu.cat
 ||dolatiaschan.com^$popup
 ||dollartree.com/ccstoreui/*/analytics/
-||dollarxone-26572.portmap.host^
 ||dolohen.com^$popup
 ||domainadvertising.com^$third-party
 ||domainit.com/scripts/track.js
@@ -34124,6 +34135,7 @@ zzzyk.com###Tinfo
 ||gentent.stre4mplay.one^$popup
 ||gentwoleads.top^$document
 ||gentwoleads.top^$popup
+||genxwhosting.com^
 ||geo-targetly.com^$third-party
 ||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph|philstarlife.com
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
@@ -34256,6 +34268,7 @@ zzzyk.com###Tinfo
 ||ghostssquadpoints.dlcodes.com^
 ||ghostteamone.com^
 ||ghostwoodalbum.com^
+||ghostwritingsinc.com^
 ||gianteagle.com/webevents/
 ||giaoji.com/Runtime/Js/
 ||gias.jd.com/js/td.js
@@ -34599,6 +34612,7 @@ zzzyk.com###Tinfo
 ||greygrid.net^$popup
 ||grfpr.com^$document
 ||grfz.de^$third-party
+||grhostl.com^
 ||gridsum.com^$third-party
 ||gridsumdissector.cn/gs.gif?
 ||gridsumdissector.com^$third-party
@@ -34861,7 +34875,6 @@ zzzyk.com###Tinfo
 ||haymarketstat.de^$third-party
 ||hayqua123.byethost7.com^
 ||hazoopso.net^$popup
-||hb.collectiveaudience.co^third-party
 ||hb8g86k.mom/mz.js
 ||hbloveinfo.com^$popup
 ||hboav.com/guga/
@@ -35007,6 +35020,7 @@ zzzyk.com###Tinfo
 ||hexun.com^*/appDplus
 ||heyday.io/idx/
 ||heyflow.co/pixel/
+||heyguyswelcomebacktoanotheryoutubevideo-23337.portmap.host^
 ||heylink.com^$third-party
 ||heymatic.com^$third-party
 ||heyserves.com^$popup
@@ -35286,6 +35300,7 @@ zzzyk.com###Tinfo
 ||hostelsarrivaportalchecksguestsup.com^
 ||hostelworld.world^
 ||hoster.bobbylevin.com^
+||hostermasterplug.duckdns.org^
 ||hosterroundcubz.s3.cubbit.eu^
 ||hostgrater.com^
 ||hostify.fr^
@@ -39385,6 +39400,7 @@ zzzyk.com###Tinfo
 ||nexusbloom.xyz^$document
 ||nexvelar.b-cdn.net/videoplayback_.mp4
 ||nexx.cloud/play/beacon.
+||nexx360-static.io^$third-party
 ||nexx360.io^$third-party
 ||nexxxt.biz^$third-party
 ||nfcube.com/assets/img/pixel.gif
@@ -42290,7 +42306,6 @@ zzzyk.com###Tinfo
 ||s.axon.ai/s/pixel.js
 ||s.cdin.me/i.php
 ||s.click.aliexpress.com^$popup,domain=dzapk.com|up-4ever.net
-||s.collectiveaudience.co^third-party
 ||s.go.sohu.com^*/?callback=
 ||s.holm.ru/stat/
 ||s.pinimg.com/ct/core.js
@@ -45169,6 +45184,7 @@ zzzyk.com###Tinfo
 ||trilema.com^$popup
 ||trilogyed.com^$third-party
 ||trinitymedia.ai/api/collect?
+||trip.com/bee/collect
 ||trip.com/partners/ad/
 ||tripadvisor.*/BALinkImpressionTracking/
 ||tripadvisor.*/CookiePingback?
@@ -45343,6 +45359,7 @@ zzzyk.com###Tinfo
 ||turn.com^$third-party
 ||turndynamicforbes.com^$popup
 ||turnhub.net^$popup
+||turnkeyhosting.com^
 ||turnsocial.com^$third-party
 ||turnstileunavailablesite.com^$popup
 ||turnto.com/event
@@ -47069,6 +47086,7 @@ zzzyk.com###Tinfo
 ||xvideos.es/zoneload/
 ||xvideos.name/istripper.jpg
 ||xwbxsw.com/js/app_wap.
+||xwormlover69-40917.portmap.host^
 ||xxdm.in/js/union/
 ||xxf.mobi/hit
 ||xxffo.com^*_slett.php
@@ -47657,7 +47675,6 @@ zzzyk.com###Tinfo
 ||zxcv112.byethost4.com^
 ||zxw51.com^$third-party
 ||zybrdr.com^$popup
-||zyh.qgd.mybluehost.me^
 ||zynga.com/track/
 ||zype.com^$third-party,domain=bossip.com|hiphopwired.com|madamenoire.com
 ||zzad.com^$third-party
