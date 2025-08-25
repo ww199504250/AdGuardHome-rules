@@ -14966,7 +14966,9 @@ font-generator.com##.container-home-int > .text-center
 fontawesome.com##.wrap-ad
 fontspace.com,skyrimcommands.com#@#.container-ads
 fontsquirrel.com##.pgAdWrapper
-foobar2000.org##.db_link
+foobar2000.org##.db_linkstyle[onclick]
+foobar2000.org##.navad
+foobar2000.org##caption:has-text(advertisement)
 food.com##.ad__ad
 food.com##.smart-aside-inner
 food.com##.smart-rail-inner
@@ -21542,6 +21544,7 @@ rottentomatoes.com#@#.page_ad
 rouman5.com,roum20.xyz###headlessui-portal-root
 rouman5.com,roum20.xyz##div[style^="display: flex;"]
 rouman5.com,roum20.xyz##ins
+royale-games.com##.stream-item
 royalroad.com###HomePage_Top
 royalroad.com##.dKKumhSnWiFq75vPUVtmTanQ
 royalroad.com##.light.margin-bottom-20
@@ -27363,7 +27366,6 @@ zzzyk.com###Tinfo
 ||adsenix.com^$third-party
 ||adsensedetective.com^$third-party
 ||adserve.com^$third-party
-||adserver.webhostlist.de^
 ||adserver1.
 ||adserverplus.com^$popup
 ||adservice.google.
@@ -27562,6 +27564,7 @@ zzzyk.com###Tinfo
 ||adyoulike.com^$third-party
 ||adysis.com^$third-party
 ||adyun.com^$third-party
+||adz2you.xyz^$third-party
 ||adzbazar.com^$third-party
 ||adzblockersentinel.net^$popup
 ||adzerk.net^$popup
@@ -32294,7 +32297,6 @@ zzzyk.com###Tinfo
 ||dpbolvw.net/image-
 ||dpbolvw.net/placeholder-
 ||dpbolvw.net^$third-party
-||dpdgroup-polska.tracking-public-nkaeg-tyo2-database-hosting.net^
 ||dpfantasy.org/k2s.gif
 ||dpg.danawa.com/*/rest/*getStampEvent
 ||dphunters.com^$third-party
@@ -37810,7 +37812,6 @@ zzzyk.com###Tinfo
 ||loverevenue.com^$popup
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lovesparkle.space^$popup
-||lowcost-website-hosting.com^
 ||lowes.com/gauge/
 ||lowes.com/pharos/api/webTelemetry?
 ||lowfuelmotorsport.com/assets/img/partners/$image
@@ -39478,7 +39479,6 @@ zzzyk.com###Tinfo
 ||nomadsfit.com^$popup
 ||nominalclck.name^$popup
 ||non.li^$third-party
-||nonameartie-27276.portmap.host^
 ||nonculifus.com^$popup
 ||nongjitong.com/adm/
 ||nonsynchronous.yachts^$popup
@@ -44037,7 +44037,6 @@ zzzyk.com###Tinfo
 ||svc.dynamics.com/t/v/$third-party
 ||svc.dynamics.com/t/w$third-party
 ||svchost.iqiyia.top^
-||svchost.iqiyid.icu^
 ||svhost2.linkpc.net^
 ||svhost56.duckdns.org^
 ||svhosted.duckdns.org^
@@ -44918,7 +44917,6 @@ zzzyk.com###Tinfo
 ||track.byzon.swelen.net^$third-party
 ||track.cam4tracking.com^$popup
 ||track.effiliation.com^$image,script
-||track.freexxxhost.net^
 ||track.hostemax.com.br^
 ||track.kinetiksoft.com^$popup
 ||track.laredoute.fr^$image
