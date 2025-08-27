@@ -8637,6 +8637,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||gtimg.cn/images/nz/cp/*/adimg.png$domain=qq.com
 @@||gtimg.cn/qz-proj/wy-pc-v3/static/img/svg/icon-share-
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
+@@||gtm.idealo.*/gtm.js?$domain=idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it
 @@||guahao.cn/common/js/plugins/fingerprint.js
 @@||guancha.cn/ad/m_
 @@||guce.advertising.com/collectIdentifiers$~third-party
@@ -8726,7 +8727,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||ikea.com^*/analyticsEvent.$script,~third-party
 @@||image.shutterstock.com^$image,domain=icons8.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|asianctv.upns.pro|asianembed.cam|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|jilliandescribecompany.com|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|airtelxstream.in|antena3.ro|api.screen9.com|asianctv.upns.pro|asianembed.cam|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|digi24.ro|distro.tv|doubtnut.com|einthusan.tv|etonline.com|farfeshplus.com|filmweb.pl|france24.com|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|haberler.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|jilliandescribecompany.com|klix.ba|ktla.com|kxan.com|laurelberninteriors.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|stirr.com|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.abcnyheter.no|tv.finansavisen.no|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|utsports.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|ha365.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|4029tv.com|bet.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|cc.com|clickorlando.com|digi24.ro|gbnews.com|history.com|kcci.com|kcra.com|ketv.com|kmbc.com|koat.com|koco.com|ksbw.com|mynbc5.com|paramountplus.com|s.yimg.jp|sbs.com.au|tv.rakuten.co.jp|vk.sportsbull.jp|wapt.com|wbaltv.com|wcvb.com|wdsu.com|wesh.com|wgal.com|wisn.com|wjcl.com|wlky.com|wlwt.com|wmtw.com|wmur.com|worldsurfleague.com|wpbf.com|wtae.com|wvtm13.com|wxii12.com|wyff4.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|cbsnews.com|embed.sportsline.com|insideedition.com|pch.com|utsports.com
@@ -10762,6 +10763,8 @@ argos.co.uk##[data-testid="citrus_products-carousel"]
 argos.co.uk#?#[data-test^="component-slider-slide-"]:-abp-contains(SPONSORED)
 arizonasports.com,ktar.com##.sponsorBy
 arkadium.com##div[class^="Ad-adContainer"]
+arkadiumhosted.com##.arena-ad-col
+arkadiumhosted.com##ark-top-ad
 armenpress.am###topbnnr
 armenpress.am##.bnrcontainer
 arras.io##.bannerHolder
@@ -10960,6 +10963,7 @@ avclub.com,splinter.com##.htlad-above_logo
 avclub.com,splinter.com##.htlad-bottom_rectangle
 avclub.com,splinter.com##.htlad-middle_rectangle
 avclub.com,splinter.com##.htlad-top_rectangle
+avforums.com##.m2n-ads-slot
 avgle.com###avyc
 avgle.com###nft
 avgle.com##a[href*="/redirect"]
@@ -12308,6 +12312,7 @@ challonge.com##.cake-unit
 championmastery.gg##.responsiveAd
 channel4.com###c4ad-Top
 channelnewsasia.com##.fast-ads-wrapper
+channelnewsasia.com##.programtic-ads
 chanpindashi.com##.personal-information > a[href^="http"]:not([href*="chanpindashi."])
 chaomi.cc##.cm-ads
 chaomi.cc,cpnn.com.cn,cs.com.cn,dyhjw.com,kkj.cn,my0538.com,mydrivers.com,ofweek.com,silver.org.cn,wendu.cn,y1118.com##.duilian
@@ -18165,9 +18170,9 @@ laurelberninteriors.com,mediaite.com,packhacker.com,packinsider.com#@#.adthrive-
 law.com,topcultured.com##h3
 law.cornell.edu##.gfs
 law360.com##[style="width:100%;display:flex;justify-content:center;background-color:rgb(247, 247, 247);flex-direction:column;"]
+lawandcrime.com##.promo-unit
 lawandcrime.com,mediaite.com##.o-promo-unit
 lawandcrime.com,mediaite.com##.sidebar-hook
-lawandcrime.com,themarysue.com##.promo-unit
 laweekly.com##.law_center_ad
 lawinsider.com##.section-inline-partner-ad
 lawtv.com.cn##div[style=" width:664px; height:260px;  margin-top:10px;"]
@@ -19343,6 +19348,7 @@ musescore.com###ad_cs_12219747_728_90
 musescore.com##.js-musescore-hb-728--wrapper
 music-news.com###buy-tickets
 music-news.com##.amazon
+musicbusinessworldwide.com##.mb-advert
 musicbusinessworldwide.com##[href^="https://wynstarks.lnk.to/"]
 musictimes.com,sciencetimes.com,techtimes.com##.ad_wrapper_video
 muslimobserver.com##.add2
@@ -22436,6 +22442,7 @@ songbpm.com##.mb-6:has(> section > div[id^="ad--searches"])
 songbpm.com##div.mb-6:has-text(Advertisement)
 songfacts.com##.songfacts-song-inline-ads
 songkick.com##.video-ad-wrapper
+songlyrics.com##.lyrics-inner-ad-wrap
 songlyrics.com##div[id^="ad-absolute-160"]
 songlyrics.com#@#.footer-ad
 songmeanings.com##.Container_ATFR_300
@@ -23255,10 +23262,8 @@ theloadout.com##.venatus_ad
 thelocal.at,thelocal.ch,thelocal.de,thelocal.es,thelocal.fr,thelocal.it,thelocal.no##.article--sponsored
 thelocal.com,thelocal.dk,thelocal.se##.article-sponsored
 themainewire.com##a[aria-label^="The Maine Wire Banner Ad"]
-themarysue.com##.htlad-themarysuecom_incontent
+themarysue.com###right-rail-atf
 themarysue.com##.primis-player-container
-themarysue.com##.wp-block-gamurs-ad__creative
-themarysue.com##.wp-block-gamurs-article-group__sidebar__wrapper:has-text(related content)
 themeforest.net###market-banner
 themeforest.net##.shared-global_footer-cross_sell_component__root
 themighty.com##.tm-ads
@@ -30195,6 +30200,7 @@ zzzyk.com###Tinfo
 ||caramel.press^$third-party
 ||caranddriver.com/inventory/
 ||carbon38.com/A44kxi5a/init.js
+||carbonads.com^$third-party
 ||cardinalcommerce.com/prod/log
 ||cards.thriftytraveler.com/widget/
 ||careerjournalonline.com^$popup
@@ -31781,6 +31787,8 @@ zzzyk.com###Tinfo
 ||dateguys.online^$popup
 ||datesassistant.com^$document
 ||datessuppressed.com^$popup
+||dateyou2024.com^$document
+||dateyou2024.com^$popup
 ||dating-service.net^$third-party
 ||datingamateurs.com^$third-party
 ||datingcensored.com^$third-party
@@ -33058,6 +33066,8 @@ zzzyk.com###Tinfo
 ||everywatch.com/ingest/
 ||evidon.com/pub/
 ||eviesays.com/js/analytics/
+||evil-candle.pro^$document
+||evil-candle.pro^$popup
 ||evisitanalyst.com^$third-party
 ||evolvemediallc.com^$third-party
 ||evolvenation.com^$third-party
@@ -41390,6 +41400,7 @@ zzzyk.com###Tinfo
 ||pushwelcome.com^$popup
 ||pushwize.com^$third-party
 ||pushwoosh.com^$third-party
+||pushy.ai^$third-party
 ||pussl3.com^$popup
 ||pussl48.com^$popup
 ||pussy-pics.net^$third-party
@@ -41832,6 +41843,8 @@ zzzyk.com###Tinfo
 ||realitytraffic.com^$third-party
 ||realitytvworld.com/images/pixel.gif
 ||reallyfreegeoip.org^$third-party
+||reallyzills.top^$document
+||reallyzills.top^$popup
 ||realperson.de/system/third-party/rpfp/rpfp.min.js
 ||realsh.xyz^$document
 ||realsh.xyz^$popup
@@ -42932,6 +42945,7 @@ zzzyk.com###Tinfo
 ||shoppinglifestyle.biz^$document
 ||shoptarget.com.br^$third-party
 ||shoptimally.com^$third-party
+||short-wave.info/html/adsense-728.html
 ||short.bitchute.com^$popup
 ||shorthand.com/analytics/
 ||shortpixel.ai^$popup
@@ -45996,6 +46010,8 @@ zzzyk.com###Tinfo
 ||vikiporn.com/js/customscript.js
 ||villayuhh-59194.portmap.host^
 ||vilynx.com^$third-party
+||vilytaku.com^$document
+||vilytaku.com^$popup
 ||vimeo.com/ablincoln/
 ||vimeo.com/add/
 ||vimeocdn.com/add/player-stats?
@@ -46515,6 +46531,7 @@ zzzyk.com###Tinfo
 ||wee.dk/modules/$third-party
 ||weedmaps.com/pixel?
 ||weekhost.com^
+||weephostessscissors.com^
 ||weescorts.com/html5banners/
 ||weezoptez.net^$popup
 ||weglot.com/pageviews?
