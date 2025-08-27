@@ -11798,6 +11798,7 @@ bnonews.com##.bnone-widget
 bo3.gg##.c-baner-custom
 bo3.gg##.c-baner-partner-branding
 bo3.gg##.c-banner-partner-top-manager
+boardgamegeek.com##.advertisement-leaderboard-lg
 boardgameoracle.com##.MuiContainer-root > .jss232
 boatsonline.com.au,yachthub.com##.js-sticky
 bobvila.com##.bv-unit-wrapper
@@ -22918,6 +22919,7 @@ technical.city##div[class^="banner_"]
 technical.city##div[style="padding-bottom: 20px"] > div[style="min-height: 250px"]
 technicalarp.com##.Arpian-ads
 technology.org##.techorg-banner
+technologynetworks.com##.adverts_footer_scrolling_advert
 technologynetworks.com##.inner_content_olp_on_site_landing_page
 technologyreview.com##div[class^="headerTemplate__leaderboardRow-"]
 techonthenet.com##.c79ee2c9
@@ -24056,7 +24058,9 @@ usmagazine.com###nativeAdMosaicBreakingNews
 usmagazine.com##.ami-video-wrapper
 usmagazine.com##.content-card-footer
 usmagazine.com##.cy-storyblock
+usmagazine.com##.inline-firework-shopping
 usmagazine.com##.module-storyme
+usmagazine.com##.shopping-button__simple
 usmagazine.com##.storifyme-inline-widget
 usnews.com###ac-lre-player-ph
 usnews.com###bfad-slot
@@ -24846,6 +24850,7 @@ www.wangjing.cn##.content > div[style*="980px;"]
 www.wenxuecity.com###leftside
 www.wenxuecity.com###rightside
 www.wenxuecity.com##.col > ul:not([id]) > li > a[href^="http"]:not([href*=".wenxuecity."])
+www.yahoo.com##.uppercase.text-xs:has-text(Advertisement)
 www.yahoo.com##[id^="mid-center-ad"]
 www.yahoo.com##body#news-content-app li:has(.inset-0)
 www.yahoo.com##body.font-yahoobeta > div.items-center:has(style)
@@ -33563,6 +33568,7 @@ zzzyk.com###Tinfo
 ||flowworksfivesphere.com^$popup
 ||flrdra.com^$popup
 ||fluencymedia.com^$third-party
+||fluffy-host.com^
 ||fluidsurveys.com^$third-party
 ||flurry.com^$third-party
 ||flushedheartedcollect.com^$popup
@@ -40498,7 +40504,6 @@ zzzyk.com###Tinfo
 ||peterrivers1067.activehosted.com^
 ||peterrivers106719186.activehosted.com^
 ||peterrivers106719434.activehosted.com^
-||petrjanicek.savana-hosting.cz^
 ||petrolplaza.net/AdServer/
 ||pewyophic.top^$popup
 ||pexels.com^*/sponsored-media/
@@ -44714,7 +44719,6 @@ zzzyk.com###Tinfo
 ||tio.ch/ext/u.php?
 ||tio.ch/lib/videojs/video-js-tiostats.js
 ||tipsport.sk/c/1x1.php?
-||tirat1ck-28292.portmap.host^
 ||tiscali.it/banner-tiscali/stats.html?
 ||tiser.com.au^$third-party
 ||tisoomi-services.com^$third-party
