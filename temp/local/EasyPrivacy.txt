@@ -7407,6 +7407,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cunda.ai^$third-party
 ||elmasistatistik.com.tr^$third-party
 ||onlinewebstat.com^$third-party
+||pixad.com.tr^$third-party
 ||realist.gen.tr^$third-party
 ||sayac.net.tr^$third-party
 ||sayyac.com^$third-party
@@ -8763,6 +8764,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||klickly.com/track
 ||kmib.co.kr/ref/
 ||kochava.com/track/$third-party
+||kumo.network-n.com/configs/sites/
 ||kununu.com^*/tracking/
 ||kxcdn.com/actor/$third-party
 ||kxcdn.com/assets/js/script.js
@@ -11369,6 +11371,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||awaps.yandex.ru^
 ||banstat.nadavi.net^
 ||bigday.ru/counter.php?
+||bitcdp.ru/tracker/
 ||bitrix.info/bx_stat
 ||browser-updater.yandex.net^
 ||c.bigmir.net^
@@ -11873,6 +11876,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||butterfly-api.masterworks.com/v1/
 ||butterly.com/node_modules/detect.js/detect.min.js
 ||buzzfeed.com/destination-sync.html
+||bwapi.bikerumor.com^
 ||bwbx.io/s3/javelin/public/hub/js/abba/$script,domain=bloomberg.co.jp|bloomberg.com
 ||byteoversea.com/monitor_web/
 ||c.arstechnica.com^
