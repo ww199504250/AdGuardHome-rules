@@ -5350,7 +5350,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /~cdn/ads/*
 /~shared/do/~/count/?$image
 0.0.0.0 0.0.0.0
-0.0.0.0 178.17.58.0x31
 0.0.0.0 403.hqhost.net
 0.0.0.0 404.hqhost.net
 0.0.0.0 53.localytics.com
@@ -5428,7 +5427,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 ddbca.localmeets.link
 0.0.0.0 de.hosting.adjug.com
 0.0.0.0 devhostx42launch.online
-0.0.0.0 dioseslahostia.com
 0.0.0.0 donewellhosting.com
 0.0.0.0 dopf.uthost.net
 0.0.0.0 dpd-polland.dreamhosters.com
@@ -5469,6 +5467,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 ghostlayer.site
 0.0.0.0 ghostpioneer.online
 0.0.0.0 ghoststep.monster
+0.0.0.0 ghostwritingsinc.com
+0.0.0.0 grhostl.com
 0.0.0.0 gsehost.com
 0.0.0.0 h8hostel7santi.com
 0.0.0.0 hmw42.host-my-website.com
@@ -5482,6 +5482,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 host207.ewtn.com
 0.0.0.0 host579678.stronawcal.pl
 0.0.0.0 host6.hitbox.com
+0.0.0.0 host647309.stronawcal.pl
 0.0.0.0 host81-138-7-108.in-addr.btopenworld.com
 0.0.0.0 hostalesdelperu.com
 0.0.0.0 hostbiznesstrateg.click
@@ -5546,6 +5547,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 localclasses.net
 0.0.0.0 localcoffeeguide.net
 0.0.0.0 localcratic.com
+0.0.0.0 localflooringcontractors.com
 0.0.0.0 localfp.com
 0.0.0.0 localh0st.info
 0.0.0.0 locallystocked.com
@@ -5614,10 +5616,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 pub.local.emxdgt.com
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 rankghost.com
-0.0.0.0 reparacionhosteleriavalencia.net
 0.0.0.0 riselocalmedia.com
 0.0.0.0 riselocalracing.com
 0.0.0.0 rkp.jhy.mybluehost.me
+0.0.0.0 romanian-node-2.sushihosting.xyz
 0.0.0.0 sapalocaltrekking.com
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 sdk-assets.localytics.com
@@ -5625,7 +5627,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 server190.web-hosting.com.cont003.xyz
 0.0.0.0 server359.web-hosting.com.cont002.xyz
 0.0.0.0 server44.dubhosting.co.uk
-0.0.0.0 serviciotecnicohosteleria.net
 0.0.0.0 sleeper-sofa.dreamhoster.com
 0.0.0.0 slhk23.0101host.com
 0.0.0.0 snowplow.ownlocal.com
@@ -5688,6 +5689,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 webanalytics.localytics.com
 0.0.0.0 webhosting-ads.home.pl
 0.0.0.0 webhosting.hut1.ru
+0.0.0.0 webhostingpage2025.sbs
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 website-47bd7fff.tfd.qhd.mybluehost.me
 0.0.0.0 website-dfec9a4c.ssi.meb.mybluehost.me
@@ -5730,7 +5732,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.cuv.kkq.mybluehost.me
 0.0.0.0 www.daspol-eu.s10.hostcreators.sk
 0.0.0.0 www.devhostx42launch.online
-0.0.0.0 www.dioseslahostia.com
 0.0.0.0 www.donewellhosting.com
 0.0.0.0 www.dopf.uthost.net
 0.0.0.0 www.dpd-polland.dreamhosters.com
@@ -5738,7 +5739,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.dublinportalhostregistryarriveschecks.com
 0.0.0.0 www.dywebhosting.com
 0.0.0.0 www.echostreamnews.com
-0.0.0.0 www.evoribusiness.com4
 0.0.0.0 www.exogenous-local-main-id29000297851.vercel.app
 0.0.0.0 www.farrarhost.com
 0.0.0.0 www.filehost1.cfd
@@ -5761,6 +5761,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.ghostlayer.site
 0.0.0.0 www.ghostpioneer.online
 0.0.0.0 www.ghoststep.monster
+0.0.0.0 www.ghostwritingsinc.com
+0.0.0.0 www.grhostl.com
 0.0.0.0 www.gsehost.com
 0.0.0.0 www.h8hostel7santi.com
 0.0.0.0 www.hospital-local-manage-239584671852.vercel.app
@@ -5768,6 +5770,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.host-pesce.xyz
 0.0.0.0 www.host.dailys.wiki
 0.0.0.0 www.host579678.stronawcal.pl
+0.0.0.0 www.host647309.stronawcal.pl
 0.0.0.0 www.hostalesdelperu.com
 0.0.0.0 www.hostbiznesstrateg.click
 0.0.0.0 www.hostedfiles.net
@@ -5803,6 +5806,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.localclasses.net
 0.0.0.0 www.localcoffeeguide.net
 0.0.0.0 www.localcratic.com
+0.0.0.0 www.localflooringcontractors.com
 0.0.0.0 www.localfp.com
 0.0.0.0 www.localh0st.info
 0.0.0.0 www.locallystocked.com
@@ -5849,15 +5853,14 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.promote1local.com
 0.0.0.0 www.promotealocal.com
 0.0.0.0 www.promoteonelocal.com
+0.0.0.0 www.qhost.ro
 0.0.0.0 www.rankghost.com
-0.0.0.0 www.reparacionhosteleriavalencia.net
 0.0.0.0 www.riselocalmedia.com
 0.0.0.0 www.riselocalracing.com
 0.0.0.0 www.rkp.jhy.mybluehost.me
 0.0.0.0 www.sapalocaltrekking.com
 0.0.0.0 www.server190.web-hosting.com.cont003.xyz
 0.0.0.0 www.server359.web-hosting.com.cont002.xyz
-0.0.0.0 www.serviciotecnicohosteleria.net
 0.0.0.0 www.spotprem.cloudaccess.host
 0.0.0.0 www.springgreen-hamster-116809.hostingersite.com
 0.0.0.0 www.sptylu.freesite.host
@@ -5895,6 +5898,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.vorynthostech.com
 0.0.0.0 www.web.ghostglobaltd.com
 0.0.0.0 www.webhostingcounter.com
+0.0.0.0 www.webhostingpage2025.sbs
 0.0.0.0 www.website-47bd7fff.tfd.qhd.mybluehost.me
 0.0.0.0 www.website-dfec9a4c.ssi.meb.mybluehost.me
 0.0.0.0 www.wphwyhosting.com
@@ -5902,12 +5906,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.xohostels.com
 0.0.0.0 www.zaphosted.com
 0.0.0.0 www.zoovu-host.com
-0.0.0.0 www.zyh.qgd.mybluehost.me
 0.0.0.0 www3.webhostingtalk.com
 0.0.0.0 xohostels.com
 0.0.0.0 zaphosted.com
 0.0.0.0 zoovu-host.com
-0.0.0.0 zyh.qgd.mybluehost.me
 012.tw#@#.ad728
 020job.com##A[href^="/Click.aspx?AdPageID="]
 0439.com###kanfang
@@ -10120,9 +10122,7 @@ accuradio.com###pageSidebarWrapper
 accuradio.com###pl_leaderboard
 accuradio.com###slot2Wrapper
 accuradio.com##.MobileSquareAd__Container-sc-1p4cjdt-0
-accuweather.com##.connatix-player
 accuweather.com##.feature-tag
-accuweather.com#@#.connatix-player
 accuweather.com,cheddar.tv,deadline.com,elnuevoherald.com,heraldsun.com,olhardigital.com.br,tvinsider.com#@#.cnx-player-wrapper
 accuweather.com,phonescoop.com###top
 aceshowbiz.com##div[style="display:inline-block;min-height:300px"]
@@ -10444,6 +10444,7 @@ alternativeto.net##.bannerLink
 alternativeto.net##.min-w-ad-300
 alternet.org###leaderboard-placeholder
 alternet.org##.sidebar_sticky_container
+alternet.org##[id^="story_page_incontent_"]
 altfi.com##.alert
 alu.cn###sanjia
 alu.cn###xxxhuangjinzhanwei
@@ -15113,7 +15114,6 @@ forums.space.com,forums.tomshardware.com###rightcol_bottom
 forums.sufficientvelocity.com,m.economictimes.com,someecards.com,trailspace.com,wabetainfo.com##.adContainer
 forums.tomsguide.com###video_ad
 forums.ventoy.net##.wwads-cn
-forums.whathifi.com###jwplayer-container-div
 forward.com###middle-of-page
 forward.com###wp_piano_top_wrapper
 forward.com##div.sticky-container:first-child
@@ -16272,6 +16272,7 @@ hellenicshippingnews.com##.bigbanner
 hellocare.com.au##.post-wrapper__portrait-ads
 hellogiggles.com##.karma_unit
 hellomagazine.com##.-variation-robainferior
+hellomagazine.com##.-variation-robamid
 hellomagazine.com##.-variation-robapaginas
 hellomagazine.com##.adContainerClass_acvudum
 hellomagazine.com,hola.com##.-variation-bannerinferior
@@ -18737,6 +18738,8 @@ mangabz.com###cc1
 mangabz.com###cc2
 mangagun.net,nicomanga.com,rawinu.com,weloma.art,welovemanga.one##[href^="https://www.polybuzz.ai/"]
 mangakakalot.com##.container-chapter-reader > div
+mangaplus.shueisha.tv,shueisharaw.tv###ads_mobile
+mangaplus.shueisha.tv,shueisharaw.tv###left-banner
 mangaread.org###custom_html-48
 mangarockteam.com##.c-top-second-sidebar
 mangasect.com,manhuaplus.com##.OUTBRAIN
@@ -19540,6 +19543,8 @@ nagpurtoday.in##[class^="sgpb-"]
 naifei.im##.tg_w
 naifei.im##div[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
 nakedpornpics.com##.sponsor-wrapper
+nameberry.com##.FullWidthAd_FullWidthAd__J1ZM1
+nameberry.com##.LeaderboardAtfAd
 nameberry.com##.Pagination-ad
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
@@ -19801,8 +19806,6 @@ newsmth.net###ban_ner
 newsmth.net##.Smthtwenty_float
 newsmth.net##.b-content >
 newsmth.net##.ns-ad
-newsnationnow.com##.nxs-player-wrapper
-newsnationnow.com#@#.nxs-player-wrapper
 newsner.com##div[id^="ad-"]
 newsnext.live##.size-large
 newsnow.co.uk##.grid-column__container
@@ -21337,6 +21340,7 @@ radiocity.in##.advertisement-horizontal-small
 radiocity.in##.horiozontal-add
 radiocity.in##.vertical-big-add
 radiocity.in##.vertical-small-add
+radioinsight.com##div[id^="radio-"]
 radiome.*##.min-h-\[250px\].mx-auto.w-full.hidden.my-1.lg\:flex.center-children
 radiome.ar,radiome.at,radiome.bo,radiome.ch,radiome.cl,radiome.com.do,radiome.com.ec,radiome.com.gr,radiome.com.ni,radiome.com.pa,radiome.com.py,radiome.com.sv,radiome.com.ua,radiome.com.uy,radiome.cz,radiome.de,radiome.fr,radiome.gt,radiome.hn,radiome.ht,radiome.lu,radiome.ml,radiome.org,radiome.pe,radiome.si,radiome.sk,radiome.sn,radyome.com###topbanner-container
 radiomixer.net##.ai-placement
@@ -21566,6 +21570,7 @@ rlsbb.cc##[href^="https://rlsbb.cc/link.php"]
 rlsbb.ru##[href^="https://rlsbb.ru/link.php"]
 road.cc###Top-Billboard
 road.cc###roadcc_Footer-Billboard
+road.cc##.region-leaderboard
 roadtester.com.au##table[cellpadding="9"][border="0"]
 roadtovr.com##.ad-height-sidebar
 roadtovr.com##.rtvr_under_feature_ad
@@ -23896,6 +23901,7 @@ tweaktown.com###toppbnf
 tweaktown.com##.DesktopRightBA
 tweaktown.com##.adcon
 tweaktown.com##.center-tag-rightad
+tweaktown.com##.tldrad
 twiman.net##div[class*="my-"][class*="px\]"]
 twinfinite.net###mvp-main-content-wrap
 twistedsifter.com###mm-player
@@ -35911,6 +35917,7 @@ zzzyk.com###Tinfo
 ||imctransfer.com^*/promo/
 ||imdb.com/_json/getads/
 ||imdb.com/api/_ajax/metrics/
+||imdbtv.amazon.dev/2021-01-01/ads?$domain=imdb.com
 ||imediaaudiences.com^$third-party
 ||imedown.info/03.jpg
 ||imedown.info^*.gif
