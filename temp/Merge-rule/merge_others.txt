@@ -65,7 +65,6 @@ $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkit
 $script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
 $script,third-party,websocket,domain=52codes.net
 $script,third-party,xmlhttprequest,domain=abcvideo.cc
-$script,third-party,xmlhttprequest,domain=ouo.io|ouo.press
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fyi|kinox.gratis|kinox.io|kinox.lat|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to
 $third-party,xmlhttprequest,domain=opensubtitles.org
@@ -1237,7 +1236,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ad_counter.aspx$ping
 /ad_display.php?ad_pos=
 /ad_header.js$script
-/ad_home.js$script
 /ad_images/*$image,domain=~5nd.com|~dietnavi.com
 /ad_img/*$image
 /ad_manager/*$image,script
@@ -1665,6 +1663,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /api/bfb_write_log
 /api/click/*?c=
 /api/cmp_tracker|
+/api/collect|$ping,xmlhttprequest
 /api/direct/*?s1=$script
 /api/drpStats
 /api/event-rfkj/*
@@ -3584,6 +3583,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /nxst-advertising/dist/htlbid-advertising.min.js
 /o.gif?
 /o.js$domain=tptoon.com
+/o/o.gif
 /o_code.js
 /o_tealium.js
 /oa-tracking?
@@ -7436,6 +7436,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ?event=performance&
 ?event=performancelogger:
 ?frm=*&ct=*&dit=$third-party
+?groupType=engagement&eventType=CLICK&
 ?key=$popup,domain=verystream.com
 ?key=*&uuid=$subdocument,third-party
 ?local_ga_js=
@@ -8590,6 +8591,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||google.com/images/integrations/$image,~third-party
 @@||google.com/recaptcha/$csp,subdocument
 @@||google.com/recaptcha/api.js
+@@||google.com/recaptcha/api2/
 @@||google.com/recaptcha/enterprise.js
 @@||google.com/recaptcha/enterprise/
 @@||google.com/translate_$media,third-party,xmlhttprequest
@@ -10576,7 +10578,6 @@ androidauthority.com##.d_3i:has-text(Latest deals)
 androidauthority.com##.d_um
 androidauthority.com##.e_4j:has-text(See all deals)
 androidauthority.com##div[class]:has(> .pw-incontent)
-androidauthority.com##div[class]:has(> [data-ad-type="leaderboard_atf"])
 androidauthority.com,soundguys.com##[data-ad-type]
 androidcommunity.com,euro-sd.com,sfbg.com,techworm.net##.td-header-rec-wrap
 androiddevtools.cn###auto-scroll-ad-box
@@ -12417,6 +12418,7 @@ chess.com###medium-rectangle-atf-ad
 chess.com##.game-over-ad-component
 chess.com##.leaderboard-atf-ad-wrapper
 chess.com##.leaderboard-btf-ad-wrapper
+chess.com##.medium-rectangle-ad-component
 chess.com##.medium-rectangle-ad-slot
 chess.com##.medium-rectangle-btf-ad-wrapper
 chess.com##.short-sidebar-ad-component
@@ -25685,6 +25687,7 @@ zzzyk.com###Tinfo
 ||0sxs.com/js/all.
 ||0xtracker.com/assets/advertising/
 ||1.1.1.1/cdn-cgi/trace
+||1.1.1.1/dns-query$xmlhttprequest,domain=catbirdnyc.com|gametime.co|ladym.com|libertylondon.com|mediamarkt.de|nobullproject.com|paynow.pmnts.io|theathletesfoot.co.nz|theathletesfoot.com.au
 ||10000xing.cn/images/we
 ||100669.com^$third-party
 ||10086.cn/together/s?func=together:getAdvertInfos&
@@ -29971,6 +29974,7 @@ zzzyk.com###Tinfo
 ||bubblestat.com^$third-party
 ||bucketsofbanners.com^$third-party
 ||bucklemail.com/a/$image
+||bucksmein.com^$document
 ||budurl.com^$third-party
 ||buffooncountabletreble.com^$popup
 ||bugherd.com^$third-party
@@ -31172,6 +31176,7 @@ zzzyk.com###Tinfo
 ||commissionfactory.com.au^$third-party
 ||commissionmonster.com^$third-party
 ||commondisplay-a.akamaihd.net/cri/*.htm?cat=
+||commoninja.com/api/v1/event/report/
 ||comms.thewhiskyexchange.com^$image
 ||communicatorcorp.com^*/conversiontracking.js
 ||company-target.com^$third-party
@@ -31411,7 +31416,6 @@ zzzyk.com###Tinfo
 ||cpagrip.com^$third-party
 ||cpalabtracking.com^$popup
 ||cpalead.com^$third-party
-||cpanel.businesshostz.xyz^
 ||cpanel.hostsportstoto9.com^
 ||cpaoffers.network^$popup
 ||cpb.esprit.*/91405.js
@@ -31420,7 +31424,6 @@ zzzyk.com###Tinfo
 ||cpcalendars.hostbesttech.website^
 ||cpcalendars.hostsportstoto9.com^
 ||cpcmanager.com^$third-party
-||cpcontacts.hostbesttech.website^
 ||cpfclassifieds.com^$third-party
 ||cpkshop.com/campaign/$third-party
 ||cpm.media^$third-party
@@ -32506,6 +32509,7 @@ zzzyk.com###Tinfo
 ||duckdns.org^$third-party,websocket
 ||duckduckgo.com/t/
 ||ducubchooa.com^$popup
+||dudididididsadas-47367.portmap.host^
 ||dufile.com/jsa/
 ||dugothitachan.com^$popup
 ||dugout.co/das2.js
@@ -36957,6 +36961,7 @@ zzzyk.com###Tinfo
 ||kamazcentr.nichost.ru^
 ||kameleoon.com^$third-party
 ||kameleoon.eu^$third-party
+||kameleoon.io/visit/events?
 ||kaminari.click^$third-party
 ||kaminari.systems^$document
 ||kaminari.systems^$popup
@@ -41121,6 +41126,7 @@ zzzyk.com###Tinfo
 ||pregchan.com/.static/pages/dlsite.html
 ||prelanding3.cuntempire.com/?utm_$popup
 ||premium-members.com^$popup
+||premium36.web-hosting.com^
 ||premium4kflix.top^$popup
 ||premium4kflix.website^$popup
 ||premiumaffi.com^$popup
@@ -42038,6 +42044,7 @@ zzzyk.com###Tinfo
 ||reichelt.com/setsid.php?
 ||reiclub.com/templates/interviews/exit_popup/
 ||reinvigorate.net^$third-party
+||reisetelectric.activehosted.com^
 ||reitingi.lv^$third-party
 ||rejestr.org^$third-party
 ||rejoiner.com/tracker/
@@ -43060,6 +43067,9 @@ zzzyk.com###Tinfo
 ||shumilou.co/style/html5.js
 ||shuowan.com/Public/shuo/20160119/569dafddd13be.jpg
 ||shussausach.com^$popup
+||shutterstock.com/blog/wp-content/mu-plugins/wp-parsely-
+||shutterstock.com/blog/wp-content/themes/sstk/assets/js/analytics.min.js
+||shutterstock.com/blog/wp-content/themes/sstk/assets/js/parsely-tracking.min.js
 ||sibautomation.com^$third-party
 ||siberiantimes.com/counter/
 ||sibnet.ru/counter.php?
@@ -44597,7 +44607,6 @@ zzzyk.com###Tinfo
 ||tgtag.io^$third-party
 ||tgtmedia.com^$third-party
 ||th.bing.com/th/*&riu=$image,third-party
-||th8q3wj9w.localto.net^
 ||thairath.co.th/event/
 ||thairoob.com^$popup
 ||thank-you.io^$third-party
@@ -44635,6 +44644,7 @@ zzzyk.com###Tinfo
 ||theeverydaygame.com/lg/$popup,third-party
 ||theextensionexpert.com^$popup
 ||thefacux.com^$popup
+||thefasthorse.com^$document
 ||thefinancialexpress.com.bd/images/rocket-250-250.png
 ||thefreedictionary.com/_/tr.ashx?
 ||thefreesite.com/nov99bannov.gif
