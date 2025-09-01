@@ -710,7 +710,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /1.js?ssfrid=$script,third-party
 /120-600-
 /120-600.
-/120_600/*
 /120_600_
 /120x600-
 /120x600.
@@ -15237,6 +15236,7 @@ funkypotato.com###ads_header_home_970px
 funkypotato.com###bottom_banner_wrapper
 fuqer.com##.area
 fuqer.com##.spot-thumbs > .right
+furaffinity.net###c-videoAd--outer
 fuse-box.info#@#.ads-row
 futbin.com##.fb-ad-placement
 futbol24.com##.adv2
@@ -22414,6 +22414,9 @@ softarchive.is##.c-un-link
 softarchive.is##.feature-usnt
 softarchive.is##.un-link
 softblog.tw#@#.dshare
+softexia.com###top-line
+softexia.com##.a1g2023w
+softexia.com##.head-discount
 softexia.com##.offer
 softicons.com##.bottom_125_block
 softicons.com##.bottom_600_250_block
@@ -23439,7 +23442,7 @@ theyarehuge.com##.yellow
 theyarehuge.com##div[data-nosnippet]
 thinbug.com###inktokad
 thingiverse.com##.AdBanner__adBanner--GpB5d
-thingiverse.com##.item-card-container:has-text(Advertisement)
+thingiverse.com##.item-card-container:has-text(/^Ad$/)
 thingstodovalencia.com##.get-your-guide
 thinkphp.cn##.a6
 this.org##.Wrap-leaderboard
@@ -36191,6 +36194,7 @@ zzzyk.com###Tinfo
 ||inspectlet.com^$third-party
 ||instadia.net^$third-party
 ||instagram.com/ajax/bz
+||instagram.com/ajax/qm/?
 ||instagram.com/api/v1/injected_story_units/
 ||instagram.com/logging/
 ||instagram.com/logging_client_events
@@ -39605,7 +39609,6 @@ zzzyk.com###Tinfo
 ||nitmus.com^$third-party
 ||nitroflare.com/img/banners/
 ||nitropay.com^$third-party
-||nitroscripts.com^$script,domain=pcguide.com
 ||nitroscripts.com^$third-party
 ||niuacc.com/static/common/js/145.js
 ||niubixxx.com/seo/
@@ -39852,6 +39855,7 @@ zzzyk.com###Tinfo
 ||ocoaksib.com^$popup
 ||oconner.biz^$third-party
 ||oct8ne.com/Visitor/
+||octaneai.com/api/v1/beacon
 ||octaneai.com^*/utrk
 ||octavius.rocks^$third-party
 ||octomarket.com^$third-party
@@ -44237,6 +44241,7 @@ zzzyk.com###Tinfo
 ||sweetstudents.com^$third-party
 ||sweetwater.com/p2TBVNJZ/init.js
 ||sweeva.com/images/banner250.gif
+||swetrix.com^$third-party
 ||swetrix.org^$third-party
 ||swiftmining.win^$third-party
 ||swiftypecdn.com/cc.js$third-party
