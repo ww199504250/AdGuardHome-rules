@@ -935,6 +935,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /Events/Impression?
 /FacebookEvent/PageView$xmlhttprequest
 /FduttjAlivqpo/*
+/Fingerprintjs2/fpt2.js
 /GTag/general_tracker.js
 /GlanceCobrowseLoader_
 /GlancePresenceVisitor_
@@ -33736,6 +33737,7 @@ zzzyk.com###Tinfo
 ||forflygonom.com^$popup
 ||forgood.co.za/api/tracking/
 ||forkcdn.com^$third-party
+||form.typeform.com/forms/*/insights/
 ||formalyzer.com^$third-party
 ||formisimo.com^$third-party
 ||forms.aweber.com^*/displays.htm?id=
@@ -42116,6 +42118,7 @@ zzzyk.com###Tinfo
 ||reroplittrewheck.pro^$popup
 ||res-x.com^$third-party
 ||res.cngoldres.com/web/index/img/*_ad_
+||res.sooplive.co.kr/script/player/service-maintenance.js
 ||resadkhibktm.activehosted.com^
 ||research-artisan.com^$third-party
 ||research-int.se^$third-party
