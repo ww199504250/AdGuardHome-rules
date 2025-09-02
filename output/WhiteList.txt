@@ -1,5 +1,5 @@
-! 规则更新时间 2025年09月02日 00:38:25
-! 本规则数量 184条
+! 规则更新时间 2025年09月02日 08:01:05
+! 本规则数量 185条
 ! 更新频率 12小时
 ! 白名单规则
 
@@ -125,6 +125,7 @@
 @@||ms.bdstatic.com^
 @@||my.tealiumiq.com^
 @@||netatmo.commander1.com^
+@@||news.warhammer.com^
 @@||nineto5mac-d.openx.net^
 @@||oa.tr.line.me^
 @@||obituaries.therecord.com^
