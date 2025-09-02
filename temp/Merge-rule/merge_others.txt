@@ -4103,6 +4103,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /render-ad.php?ad_id=
 /render-sidebar-ad.php?ad_id=
 /renderTimingPixel.
+/replay?ddsource=
 /reportData/nm.gif?
 /report_ga_events/*
 /report_visit.php
@@ -7292,7 +7293,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://links.paypal.*/eos/$image
 ://load.*.js?st=$~third-party
 ://loader.*.com/loader.min.js|$script,~third-party
-://matomo.$domain=~matomo.org
+://matomo.$domain=~matomo.dhjensen.dk|~matomo.org
 ://metrics-collector.
 ://mine.torrent.pw^
 ://mint.*/?js
@@ -15908,12 +15909,10 @@ groovypost.com##div[class^="groov-adsense-"]
 groupon.com##[data-bhc$="sponsored_carousel"]
 groupon.com##figure[data-clickurl^="https://api.groupon.com/sponsored/"]
 gs.chinanews.com.cn##.div1000_2 + .div980
-gsmarena.com###subHeader2
 gsmarena.com###subHeader3:has([href="deals.php3"])
+gsmarena.com###subHeader3:has-text(daily deals)
 gsmarena.com###subHeader:has(>
 gsmarena.com##.justify-center:has(.ad-c-label)
-gsmarena.com##.pt-10
-gsmarena.com##div[style*="padding-bottom: 24px;"]
 gsmarena.com##div[style="margin-left: -10px; margin-top: 30px; height: 145px;"]
 gsmserver.com##.widget_banner-container_three-horizontal
 gsprating.com##.banner2
@@ -18392,6 +18391,7 @@ lingojam.com###adsense-area-label
 linguisticsociety.org##.component-3
 linkedin.com##article[data-is-sponsored]
 linkedin.com##iframe[title="Advertisement"]
+linkedin.com##iframe[title="advertisement"]
 linkedin.com##li[data-is-sponsored="true"]
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
@@ -28394,6 +28394,7 @@ zzzyk.com###Tinfo
 ||aorpum.com^$third-party
 ||aoshi.com/rbc.jpg
 ||apache21.hostbasket.com^
+||apapuacauthong.com^$popup
 ||aparat.com/gogol/
 ||apartments.com/clientvisit/al.gif?
 ||apartmenttherapy.com/jAYekY18/init.js
@@ -31658,6 +31659,7 @@ zzzyk.com###Tinfo
 ||cwn0drtrk.com^$popup
 ||cww.net.cn/include/show.asp?boardID=
 ||cww.net.cn/js/urdev.js
+||cxgpt1.goindigo.in/forward/v2/track
 ||cxvrtbvbngtfb.gearhostpreview.com^
 ||cya1t.net^$third-party
 ||cya2.net^$third-party
@@ -32777,6 +32779,7 @@ zzzyk.com###Tinfo
 ||ecpoc.com/style/ad
 ||ecranlarge.com/stat
 ||ecrwqu.com^$popup
+||ectozoaquagga.top^$popup
 ||ecufiles.com/advertising/
 ||ecusemis.com^$popup
 ||ecustomeropinions.com^$third-party
@@ -33908,6 +33911,7 @@ zzzyk.com###Tinfo
 ||froomle.com^$third-party
 ||frostykitten.com^$document
 ||frprn.com/even/ok.js
+||frs2c.com^$popup
 ||frtya.com^$popup
 ||frtyb.com^$popup
 ||frtye.com^$popup
@@ -35339,6 +35343,7 @@ zzzyk.com###Tinfo
 ||hop.clickbank.net^$script
 ||hopelessrolling.com^$popup
 ||hopghpfa.com^$popup
+||hopper.com/api/v0/tracking/event
 ||horairesdouverture24.fr/ar.js
 ||horizonsunlimited.com/alogos/
 ||hornygamer.com/includes/gamefile/sw3d_hornygamer.gif
@@ -39319,6 +39324,7 @@ zzzyk.com###Tinfo
 ||ndmais.com.br/tracking-parceiros-ndmais/
 ||neatorama.com/story/view/
 ||neatstats.com^$third-party
+||nectsideaments.com^$popup
 ||nedstatbasic.net^$third-party
 ||neeceeglogu.net^$popup
 ||needle.com/pageload?
@@ -42384,6 +42390,7 @@ zzzyk.com###Tinfo
 ||rtoaster.jp^$third-party
 ||rtoukfareputfe.info^$popup
 ||rtox.net^$third-party
+||rtp.pt/common/js/convivaAppTracker.js
 ||rtrk.co.nz^$third-party
 ||rtrk.com^$third-party
 ||rts.ch^*/boreas_b01.js
@@ -44212,6 +44219,7 @@ zzzyk.com###Tinfo
 ||surfmusic.de/anz
 ||surfside.io/event/
 ||surge.systems^$popup
+||surrogateausteritywhence.com^$popup
 ||surveymonkey.com/jspop.aspx?
 ||surveymonkey.com/resp/api/metrics
 ||surveyonline.top^$popup
@@ -45291,6 +45299,7 @@ zzzyk.com###Tinfo
 ||traktor.ru^*/counter.php?
 ||traktortds.com^$popup
 ||traktrafficflow.com^$popup
+||trakzon.com^$popup
 ||trandlife.info^$popup
 ||tranny.one/bhb.php
 ||tranny.one/trannystatic/ads/
@@ -45513,6 +45522,8 @@ zzzyk.com###Tinfo
 ||tunnl.com^$third-party
 ||tunshixingkong2.com/config/v7.js
 ||turb.cc/fd1/img/promo/
+||turbobit.net/fd1/js/brinpopup.js
+||turbobit.net/js/analytics/
 ||turbobit.net/pus/
 ||turboviplay.com/ads_gala.js
 ||turkmenportal.com/images/uploads/banners/
@@ -45677,6 +45688,7 @@ zzzyk.com###Tinfo
 ||ui-portal.de/pos-cdn/tracklib/
 ||uiadmin.net/uview-plus/assets/js/3.1b3a95a0.
 ||uidhealth.com^$popup
+||uilts.com^$popup
 ||uitopadxdy.com^$popup
 ||uitvconnect.com/wp-content/uploads/2023/01/2-2
 ||uitvconnect.com/wp-content/uploads/2023/01/3-2
