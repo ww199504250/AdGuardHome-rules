@@ -60,6 +60,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=imgbox.com
+$script,third-party,domain=ouo.io|ouo.press
 $script,third-party,domain=rule34hentai.net
 $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.se|torrentkitty.tv|torrkitty.com
 $script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
@@ -8295,7 +8296,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||dashboard.mgid.com^$popup
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||data.tm-awx.com^$script,domain=birminghammail.co.uk|bristolpost.co.uk|dailyrecord.co.uk|hulldailymail.co.uk|liverpoolecho.co.uk|manchestereveningnews.co.uk|stokesentinel.co.uk
-@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|hungryroot.com|usa.experian.com
+@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||daxiaamu.com^$generichide
 @@||daziba.cn/Images/share.css
@@ -17123,9 +17124,9 @@ insauga.com##.proper-content-dynamic
 insidebitcoins.com##.banner-cta-wrapper
 insideevs.com##.m1-apb
 insideevs.com##.minutely_video_wrap
-insideevs.com##.outstream_partner
 insideevs.com#@#.m1-header-ad
 insideevs.com,motor1.com##.apb
+insideevs.com,motor1.com##.outstream_partner
 insidehighered.com###block-dfptagarticle-sidebar-bottom
 insidehighered.com###block-dfptagarticle-sidebar-top
 insidehighered.com##.adslot-top-container
@@ -43675,6 +43676,7 @@ zzzyk.com###Tinfo
 ||sportshub.to/player-source/images/banners/
 ||sportsmansguide.com/scripts/vendor/at_
 ||spot.im/v1.0.0/conversation/realtime/read
+||spotidownloader.com/ad-test.html
 ||spotifycdn.com/cdn/js/retargeting-pixels.
 ||spotlesscomplaint.com^$popup
 ||spotofspawn.com^$popup
