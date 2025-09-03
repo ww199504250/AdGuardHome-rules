@@ -36,9 +36,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.google.com *.addthis.com *.addthisedge.com *.facebook.net *.twitter.com *.jquery.com *.x.com,domain=kinox.lat|kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fyi|kinox.gratis|kinox.io|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to,~third-party
 $csp=script-src 'self' * 'unsafe-inline',domain=biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
-$csp=script-src 'self' * 'unsafe-inline',domain=guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+$csp=script-src 'self' * 'unsafe-inline',domain=bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 $csp=script-src 'self' * 'unsafe-inline',domain=nodejs.cn|smsonline.cloud
-$csp=script-src 'self' *,domain=90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
+$csp=script-src 'self' *,domain=52niuyanks.cc|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' pic1.mangapicgallery.com www.google.com,domain=mangago.me
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' www.gstatic.com cdn.jsdelivr.net maxcdn.bootstrapcdn.com,domain=bigwarp.io
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=thumbs.pro
@@ -1078,7 +1078,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
-/\.[a-z]+[\:\/]/$~image,third-party,domain=guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+/\.[a-z]+[\:\/]/$~image,third-party,domain=bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 /\.[a-z]cinma[a-z].top\//$script,third-party
 /\.[a-z]dinma[a-z].top\//$script,third-party
 /\.[a-z]dinmi[a-z].top\//$script,third-party
@@ -8688,6 +8688,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||hiveworkscomics.com/frontboxes/300x250_$image,~third-party
 @@||hk.on.cc/js/v4/oncc-adbanner.js
 @@||hk.on.cc/js/v4/urchin.js
+@@||hk.on.cc^$generichide
 @@||hk01.com^*/ga_trace.js
 @@||hk01.com^*/scripts/ga.js
 @@||hkjc.com/bannerad/
@@ -10472,6 +10473,7 @@ amateurphotographer.com,cryptoslate.com,techspot.com##.cta
 amateurporn.me,eachporn.com##.item[style]
 amateurvoyeurforum.com##.tborder[width="99%"][cellpadding="6"]
 amazingfoodmadeeasy.com##a[href^="http://www.amazon.com/gp/product"]
+amazon.*###faceoutContainer:has(> [class$="sponsored-label"])
 amazon.*###nav-swmslot
 amazon.*###sc-rec-bottom
 amazon.*###sc-rec-right
@@ -10510,7 +10512,6 @@ amazon.*##div[cel_widget_id^="sp-desktop-carousel_handsfree-browse"]
 amazon.*##div[class*="SponsoredProducts"]
 amazon.*##div[class*="_dpNoOverflow_"][data-idt]
 amazon.*##div[data-a-carousel-options*="\\\"isSponsoredProduct\\\":\\\"true\\\""]
-amazon.*##div[data-ad-id]
 amazon.*##div[data-cel-widget="sp-rhf-desktop-carousel_desktop-rhf_1"]
 amazon.*##div[data-cel-widget="sp-shiptrack-desktop-carousel_desktop-yo-shiptrack_0"]
 amazon.*##div[data-cel-widget^="multi-brand-video-mobile_DPSims_"]
@@ -21428,6 +21429,10 @@ realgfporn.com##.btn-info
 realgfporn.com#@#.large-right-ad
 realityblurb.com##.Desktop-Sticky
 realitytea.com##.roadblock
+realitytvshrine.com,thedailymash.co.uk,thetab.com###ad-sidebar-1
+realitytvshrine.com,thedailymash.co.uk,thetab.com###ad-sidebar-2
+realitytvshrine.com,thedailymash.co.uk,thetab.com###ad-sidebar-3
+realitytvshrine.com,thedailymash.co.uk,thetab.com###ad-sidebar-4
 realitytvworld.com##[style="background-color: white; background: white"]
 realitytvworld.com##[style="margin: 5px 0px 5px; display: inline-block; text-align: center; height: 250;"]
 realitytvworld.com##font[size="1"][color="gray"]
@@ -23177,10 +23182,6 @@ thedailybeast.com##.mobiledoc-sizer
 thedailybeast.com##.tdb-ads-block
 thedailydigest.com##.promocion_celda
 thedailymash.co.uk##.border-brand
-thedailymash.co.uk,thetab.com###ad-sidebar-1
-thedailymash.co.uk,thetab.com###ad-sidebar-2
-thedailymash.co.uk,thetab.com###ad-sidebar-3
-thedailymash.co.uk,thetab.com###ad-sidebar-4
 thedailystar.net###dsspHS
 thedailystar.net##.top-leaderboard
 thedailywtf.com##.article-body > div:has-text([Advertisement])
@@ -31689,6 +31690,7 @@ zzzyk.com###Tinfo
 ||d.rcmd.jp^$image
 ||d1.sina.com.cn^$object,script
 ||d14pdm1b7fi5kh.cloudfront.net/script.js
+||d1bz.xyz/static/book/static.
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.
 ||d1net.com/index.php?m=poster&
 ||d1snv67wdds0p2.cloudfront.net/tracker/
@@ -33428,7 +33430,6 @@ zzzyk.com###Tinfo
 ||fbsbx.com/paid_ads_pixel/
 ||fc.lc/CustomTheme/img/ref$third-party
 ||fc.webmasterpro.de^$third-party
-||fc2.com/counter_img.php?
 ||fc2fan.net/js/check_focus.js
 ||fcs.ovh^$third-party
 ||fd.nl/pixel/
