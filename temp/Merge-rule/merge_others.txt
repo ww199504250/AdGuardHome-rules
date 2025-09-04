@@ -5350,6 +5350,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /zz/zuoxia2.txt
 /zzzz/assets/js/common/discor_list.js
 /~cdn/ads/*
+/~shared/do/api/plausible/?id=$xmlhttprequest
+/~shared/do/~/click/?$image
 /~shared/do/~/count/?$image
 0.0.0.0 0.0.0.0
 0.0.0.0 403.hqhost.net
@@ -8414,6 +8416,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||entitlements.jwplayer.com^$xmlhttprequest,domain=iheart.com
 @@||eolinker.com^$generichide
 @@||epubit.com/static/epubit/share/js/share.min.js
+@@||esko.cloud^*_300x600_$~third-party
 @@||eslite.com^*/ad
 @@||etsy.com/api/v3/ajax/bespoke/*log_performance_metrics=$~third-party
 @@||ettoday.net^$generichide
@@ -10767,6 +10770,7 @@ arenaev.com###subHeader
 argos.co.uk##[class^="styles__LazyHydrateCard"]:has([class*="ProductCardstyles__FlyoutBadge"])
 argos.co.uk##[class^="styles__LazyHydrateCard-sc"]:has([class*="SponsoredBadge"])
 argos.co.uk##[data-testid="citrus_products-carousel"]
+argos.co.uk##[data-testid="monetisation-product-carousel"]
 argos.co.uk#?#[data-test^="component-slider-slide-"]:-abp-contains(SPONSORED)
 arizonasports.com,ktar.com##.sponsorBy
 arkadium.com##div[class^="Ad-adContainer"]
@@ -18417,6 +18421,7 @@ linuxblog.io##.hayden-inpost_top
 linuxblog.io##.hayden-widget
 linuxblog.io##.hayden-widget_top_1
 linuxcareers.com##[href="/jobs/alert/"]
+linuxcommandlibrary.com##[href^="/"]:has([src*=".webp"])
 linuxde.net##.ad360x500
 linuxidc.com##.linux801
 linuxinsider.com###cboxOverlay
@@ -21054,6 +21059,7 @@ ptonline.com##.adBlock--right-column
 ptonline.com##.large-horizontal-banner
 publicbooks.org##.pb_ads_widget
 publicflashing.me##div.hentry
+publichealthpolicyjournal.com##.custom-slider
 publish0x.com##.d-md-none.text-center
 publishedreporter.com##.no-bg-box-model
 pubs.rsc.org###journal-info > .text--centered
@@ -27109,6 +27115,7 @@ zzzyk.com###Tinfo
 ||adalyser.com^$third-party
 ||adalytics.io/api/view
 ||adamatic.co^$third-party
+||adamblackie12312312-62714.portmap.host^
 ||adaos-ads.net^$third-party
 ||adapd.com^$third-party
 ||adapex.io^$third-party
@@ -27937,6 +27944,7 @@ zzzyk.com###Tinfo
 ||akamaized.net/mr/popunder.js
 ||akanoo.com^$third-party
 ||akavita.com^$third-party
+||akexuzax.myhostpoint.ch^
 ||akiba-online.com/data/siropu/
 ||aklamator.com^$third-party
 ||akmxts.com^$popup
@@ -28124,6 +28132,7 @@ zzzyk.com###Tinfo
 ||allsporttv.com^$popup
 ||alltracked.com^$third-party
 ||almamedia.fi^*/scroll-monitor.min.js
+||almiighty-47767.portmap.host^
 ||almstda.tv^$popup
 ||aloatchuraimti.net^$popup
 ||alocdn.com^$third-party
@@ -28305,6 +28314,7 @@ zzzyk.com###Tinfo
 ||andcomemunicateth.info^$popup
 ||andersenit.dk^$third-party
 ||andrefelipedonascime1753562407700.0461178.meusitehostgator.com.br^
+||andrefelipedonascime1756166725866.0531865.meusitehostgator.com.br^
 ||androidauth.wpengine.com/wp-json/api/advanced_placement/api-$domain=androidauthority.com
 ||androidfilehost.cfd^
 ||androidfilehost.cfd^$popup
@@ -28322,6 +28332,8 @@ zzzyk.com###Tinfo
 ||aniltramps.top^$popup
 ||animationmagazine.net/wordpress/wp-content/uploads/TWR_AM_
 ||animeland.tv/zenny/
+||animeloundry.com^$document
+||animeloundry.com^$popup
 ||animemeat.com^$popup
 ||anisearch.com/amazon
 ||anitaboozer.activehosted.com^
@@ -28430,6 +28442,7 @@ zzzyk.com###Tinfo
 ||api.bo3.gg/api/v1/ad_baners
 ||api.bo3.gg/api/v1/ad_banners
 ||api.channel.io/*/events
+||api.chimera-hosting.zip^
 ||api.collarity.com/cws/*http
 ||api.country.is^$third-party
 ||api.cupid.qiyi.com/etx?
@@ -28573,7 +28586,6 @@ zzzyk.com###Tinfo
 ||aquete.com^$popup
 ||aqy103.com/js/aqy/
 ||ar-x.site^$third-party
-||ar.pagamentositegoodhostpro.icu^
 ||aralego.net^$third-party
 ||aramuz.net/frontapi/*/analyticsEvent?
 ||arbiscan.io/images/gen/*_StylusBlitz_Arbiscan_Ad.png
@@ -30047,6 +30059,7 @@ zzzyk.com###Tinfo
 ||businessclick.com^$third-party
 ||businessinsider.nl^*/tr.php
 ||businesskorea.co.kr/bannerpop/
+||businesstimes.com.sg/_web2/betterads_head2.js
 ||busterry.com^$popup
 ||bustle.com^*/prebid-
 ||busuanzi.ibruce.info^$third-party
@@ -30397,6 +30410,7 @@ zzzyk.com###Tinfo
 ||cdn.shdsp.net/ad
 ||cdn.shopify.com^*/assets/spreadrwidget.js$domain=jolinne.com
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
+||cdn.sphlabs.com/suid/
 ||cdn.stamped.io/cdn/images/pixel.png
 ||cdn.statically.io/gh/opcdn/analytics/main/script.js
 ||cdn.streambeast.io/angular.js
@@ -31141,6 +31155,7 @@ zzzyk.com###Tinfo
 ||coguan.com^$third-party
 ||coherentpath.com/tracker/
 ||cohesionapps.com^$third-party
+||cohostsguilfat.com^
 ||coin-have.com^$third-party
 ||coinad.network^$third-party
 ||coinads.io^$third-party
@@ -31446,7 +31461,6 @@ zzzyk.com###Tinfo
 ||cpb.esprit.*/91405.js
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
 ||cpcalendars.businesshostz.xyz^
-||cpcalendars.hostbesttech.website^
 ||cpcalendars.hostsportstoto9.com^
 ||cpcmanager.com^$third-party
 ||cpfclassifieds.com^$third-party
@@ -31736,6 +31750,7 @@ zzzyk.com###Tinfo
 ||dable.io^$third-party
 ||dacounter.com^$third-party
 ||dada8828.com/js/aaa/
+||daddadasd-29521.portmap.host^
 ||dadi.technology^$third-party
 ||dads-banging-teens.com/polished-
 ||dadsats.com^$popup
@@ -31794,6 +31809,7 @@ zzzyk.com###Tinfo
 ||dapxl.com^$third-party
 ||daqiso.com/ggbl/
 ||dark-reader.com^$popup
+||darkcyan-okapi-164112.hostingersite.com^
 ||darknessporn.com/prrls/
 ||darkreader.org/data/top-backers.json
 ||darkreader.org/elements/backers-
@@ -32672,6 +32688,7 @@ zzzyk.com###Tinfo
 ||earn-bitcoins.net/banner_
 ||earnbeginnerdocument.com^$document
 ||earnbeginnerdocument.com^$popup
+||eartab66754032ghostfish.blob.core.windows.net^
 ||earthlink000.hostingsiteforfree.com^
 ||eas696r.xyz^$popup
 ||easelegbike.com^$document
@@ -33085,6 +33102,7 @@ zzzyk.com###Tinfo
 ||ethereumads.com^$third-party
 ||etherscan.io/images/gen/cons_gt_
 ||ethicalads.io^$third-party
+||ethiopialocal.site^
 ||ethn.io^$third-party
 ||ethnio.com^$third-party
 ||ethyca.com^$third-party
@@ -34265,7 +34283,6 @@ zzzyk.com###Tinfo
 ||gentent.stre4mplay.one^$popup
 ||gentwoleads.top^$document
 ||gentwoleads.top^$popup
-||genxwhosting.com^
 ||geo-targetly.com^$third-party
 ||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph|philstarlife.com
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
@@ -35224,6 +35241,7 @@ zzzyk.com###Tinfo
 ||hipersushiads.com^$popup
 ||hira-meki.jp^$third-party
 ||hirmatrix.hu^$third-party
+||hirox81444-21878.portmap.host^
 ||hirtv.hu/ajaxx/_stat/
 ||hirtv.hu/nx_general_stat.jpg?
 ||hisense.com/ta.js
@@ -35309,7 +35327,6 @@ zzzyk.com###Tinfo
 ||hoes.tube/ai/
 ||hoglinsu.com^$document
 ||hoglinsu.com^$popup
-||hoksha-41399.portmap.host^
 ||hoktrips.com^$document
 ||hoktrips.com^$popup
 ||holahupa.com^$popup
@@ -35480,7 +35497,6 @@ zzzyk.com###Tinfo
 ||hostsq.com^
 ||hostssp.com^
 ||hostsu.com^
-||hostsyc1.weebly.com^
 ||hostt.link^
 ||hostteyahoo.ddns.net^
 ||hostujmy.pl^
@@ -35918,6 +35934,7 @@ zzzyk.com###Tinfo
 ||ikuailian.com^$third-party
 ||ilaterdeallyig.info^$popup
 ||ilcdn.fi^*/Bootstrap.js
+||iliclaw.yunethosting.rs^
 ||iljmp.com^$third-party
 ||illicium.web.money^$subdocument
 ||illicium.wmtransfer.com^$subdocument
@@ -36351,7 +36368,6 @@ zzzyk.com###Tinfo
 ||iopiopiop.net^$popup
 ||iotechnologies.com^$third-party
 ||iovation.com^$third-party
-||ip-157-20-182-57.hosted-by-hosterdaddy.com^
 ||ip-89-40-31-203.hosted-by-hosterdaddy.com^
 ||ip-93-115-21-186-122360.vps.hosted-by-mvps.net^
 ||ip-adress.com^$third-party
@@ -36592,7 +36608,6 @@ zzzyk.com###Tinfo
 ||izooto.com^$third-party
 ||iztwp.com/images/
 ||j4gn7dcux.localto.net^
-||j4ttb0gxg.localto.net^
 ||j8jp.com/fhfjfj.js
 ||ja2n2u30a6rgyd.com^$popup
 ||jaavnacsdw.com^$popup
@@ -36973,6 +36988,7 @@ zzzyk.com###Tinfo
 ||k-analytix.com^$third-party
 ||k-crm.jp/tracking.js
 ||k.p-n.io/event-stream
+||k24cwchgd.localto.net^
 ||k3on.com^$document
 ||k50.ru/tracker/
 ||k5a.io/?i=
@@ -37620,7 +37636,6 @@ zzzyk.com###Tinfo
 ||lifterpopup.com^$third-party
 ||ligatus.com^$popup
 ||lightboxcdn.com/static/identity.html
-||lighthost.lovestoblog.com^
 ||lightminer.co^$third-party
 ||lightning.ncaa.com/launch/$script
 ||lightstep.medium.systems^*/reports
@@ -37869,6 +37884,7 @@ zzzyk.com###Tinfo
 ||localiser-services.fr^
 ||localiser-verifier.fr^
 ||localiserservice.fr^
+||localisuivpylpip.fr^
 ||locallycompare.com^
 ||locallystocked.com^
 ||localmais.com.br^
@@ -37960,6 +37976,7 @@ zzzyk.com###Tinfo
 ||lookmy.info^$third-party
 ||looksmart.com^$popup
 ||looksmart.com^$third-party
+||lookup2-42134.portmap.host^
 ||loom.com/metrics/graphql
 ||loomi-prod.xyz^$third-party
 ||loomia.com^*/setcookie.html
@@ -38645,6 +38662,7 @@ zzzyk.com###Tinfo
 ||mhiiopll.net^$popup
 ||mhtr.be/public/tr/tracker.min.js
 ||mhxk.com^*/main/entry.common.$script
+||mhzlhhhh378-43006.portmap.host^
 ||mi.academy.com/p/js/1.js
 ||mi.com/stat/
 ||mi.dickssportinggoods.com/p/js/1.js
@@ -39147,7 +39165,6 @@ zzzyk.com###Tinfo
 ||myhaitang.cc/assets/public/*.js
 ||myhost.misecure.com^
 ||myhost.servepics.com^
-||myhost001.myddns.me^
 ||myhost228228.ddns.net^
 ||myhost5.ddns.net^
 ||myhostisstillgood.hopto.org^
@@ -39611,6 +39628,7 @@ zzzyk.com###Tinfo
 ||nigged.com/tools/get_banner.php
 ||nightbesties.com^$document
 ||nightbesties.com^$popup
+||nignig12344-54127.portmap.host^
 ||nigroopheert.com^$popup
 ||nik.io^$third-party
 ||nike.com/assets/measure/data-capture/
@@ -41333,7 +41351,6 @@ zzzyk.com###Tinfo
 ||provesrc.com^$third-party
 ||providesupport.com/cmd/$image
 ||provify.io^$third-party
-||prox.zematic.host^
 ||proxy6.net/static/img/b/
 ||proxysolutions.net/affiliates/
 ||prpops.com^$popup
@@ -42343,6 +42360,7 @@ zzzyk.com###Tinfo
 ||roobetaffiliates.com^$popup
 ||roomvo.com/services/event/
 ||roosterfirework.com^$third-party
+||root123454321-24953.portmap.host^
 ||roots.baby^$document
 ||roots.baby^$popup
 ||rootzaffiliates.com^$popup
@@ -43757,13 +43775,12 @@ zzzyk.com###Tinfo
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
 ||srv238326.hoster-test.ru^
-||srv238777.hoster-test.ru^
 ||srv238803.hoster-test.ru^
 ||srv238853.hoster-test.ru^
-||srv238859.hoster-test.ru^
 ||srv238887.hoster-test.ru^
 ||srv239076.hoster-test.ru^
-||srv239516.hoster-test.ru^
+||srv239401.hoster-test.ru^
+||srv239553.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
@@ -43813,6 +43830,7 @@ zzzyk.com###Tinfo
 ||sstats.hostelworld.com^
 ||sstats.hostplus.com.au^
 ||ssteeraa.net^$popup
+||sswad-48767.portmap.host^
 ||ssyy881.com/zz/
 ||st.ipornia.com^$third-party
 ||st.ozone.ru/s3/ozon-tag-manager/
@@ -43858,6 +43876,7 @@ zzzyk.com###Tinfo
 ||start.ru/logger/
 ||startd0wnload22x.com^$popup
 ||starti.pl^$third-party
+||startmenuexperiencehostw.ydns.eu^
 ||startpage.com/sp/$ping
 ||startpage.com/sp/dplpxs?
 ||startpage.com/sp/jst
@@ -44538,6 +44557,7 @@ zzzyk.com###Tinfo
 ||team-rec.jp^$third-party
 ||teamskeetimages.com/st/banners/$third-party
 ||teamsoutspoken.com^$popup
+||teamtailor.com/pageview
 ||teasernet.com^$third-party
 ||teasernet.ru^$third-party
 ||tech426.com/pub/
@@ -47490,6 +47510,7 @@ zzzyk.com###Tinfo
 ||yottaa.net/log-jh
 ||you-porn.com/_xa/ads
 ||you.com/api/recordEvent
+||you.europa-hosting.com^
 ||youaima.com/rest/
 ||youaima.com/zz/
 ||youdao.com/ctlog?
