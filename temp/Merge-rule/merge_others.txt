@@ -28140,7 +28140,6 @@ zzzyk.com###Tinfo
 ||allsporttv.com^$popup
 ||alltracked.com^$third-party
 ||almamedia.fi^*/scroll-monitor.min.js
-||almiighty-47767.portmap.host^
 ||almstda.tv^$popup
 ||aloatchuraimti.net^$popup
 ||alocdn.com^$third-party
@@ -30917,6 +30916,7 @@ zzzyk.com###Tinfo
 ||cloudapp.net/l/
 ||cloudbet.com/ad/
 ||clouddn.com/960x60.gif
+||cloudfilt.com/analyz.js
 ||cloudflare-quic.com/cdn-cgi/trace
 ||cloudflare.com/_cf/analytics.js
 ||cloudflare.com/ajax/libs/jBox/$domain=localmv1.com
@@ -33120,7 +33120,6 @@ zzzyk.com###Tinfo
 ||etrust.eu^$third-party
 ||etsy.com/bcn/beacon
 ||etsy.com/clientlog
-||etsy.com/include/tags.js
 ||ettoday.net/ad/*_action.js
 ||ettoday.net/banners/
 ||ettoday.net/events/ad-tab/
@@ -33217,6 +33216,7 @@ zzzyk.com###Tinfo
 ||excnn.com/templates/anime/sexybookmark/js/popup.js
 ||exdynsrv.com^$popup
 ||exe.bid^$third-party
+||execute-api.*.amazonaws.com/forms-impressions
 ||exelator.com^$domain=disqus.com
 ||exelator.com^$third-party
 ||exgirl.net/wp-content/themes/retrotube/assets/img/banners/
@@ -34386,6 +34386,7 @@ zzzyk.com###Tinfo
 ||gfstrck.com^$popup
 ||gft2.de^$third-party
 ||gg-led.com/uploadFile/uploadCompanyLogo/*.gif
+||gg-unleash-prod.azurewebsites.net/proxy/client/metrics
 ||gg.*.com/tonglan/tonglan.js
 ||gg.asuracomic.net/api/views/collect
 ||gg.bet^$popup,domain=cq-esports.com
@@ -36862,6 +36863,7 @@ zzzyk.com###Tinfo
 ||js-delivr.com^$third-party
 ||js.dsp.bance.jp/bncdmp.js
 ||js.ea3w.com/pv.js
+||js.go2sdk.com/v2/tune.js
 ||js.letvcdn.com/js/*/stats/
 ||js.monitor.azure.com/scripts/c/ms.shared.analytics.mectrl-3.gbl.min.js$domain=microsoft.com
 ||js.mumayi.net/9495.gif
@@ -36985,7 +36987,6 @@ zzzyk.com###Tinfo
 ||jy135.com^$third-party
 ||jyfw.cn/gonggong/jiayu/cf_
 ||jyfw.cn/nav/cf_
-||jynx404-53109.portmap.host^
 ||jyrd.com/statics/*/js/baizhu/
 ||jz5u.com/public/js/t$script
 ||jz5u.com/public/new/
@@ -37252,6 +37253,8 @@ zzzyk.com###Tinfo
 ||kontera.com/javascript/lib/KonaLibInline.js
 ||kontoappflugen.tempurl.host^
 ||kontrollportalen.no/kontroll/javascript/eventlog.js
+||kontur.ru/abtests/
+||kontur.ru/stats/
 ||konturnovosti.com/packs/js/opm.js
 ||koogreep.com^$popup
 ||koolearn.com/v2/js/*AD.js
@@ -40332,7 +40335,6 @@ zzzyk.com###Tinfo
 ||oyi9f1kbaj.com^$popup
 ||oyksoft.com/assets/images/*.gif
 ||oyksoft.com/show/b.
-||oyshostore.com^
 ||ozcarcupboard.com^$popup
 ||ozelmedikal.com^$third-party
 ||ozenneimmobilier46226.activehosted.com^
@@ -40653,6 +40655,7 @@ zzzyk.com###Tinfo
 ||peterrivers1067.activehosted.com^
 ||peterrivers106719186.activehosted.com^
 ||peterrivers106719434.activehosted.com^
+||petrjanicek.savana-hosting.cz^
 ||petrolplaza.net/AdServer/
 ||pewyophic.top^$popup
 ||pexels.com^*/sponsored-media/
@@ -42448,6 +42451,7 @@ zzzyk.com###Tinfo
 ||rtoukfareputfe.info^$popup
 ||rtox.net^$third-party
 ||rtp.pt/common/js/convivaAppTracker.js
+||rtp.pt/rtp-sensor/
 ||rtrk.co.nz^$third-party
 ||rtrk.com^$third-party
 ||rts.ch^*/boreas_b01.js
@@ -42494,7 +42498,6 @@ zzzyk.com###Tinfo
 ||rusrestbest.
 ||russianlovematch.com^$third-party
 ||rutarget.ru^$third-party
-||rutchecker4765-63091.portmap.host^
 ||ruten.com.tw/js/gads_
 ||ruten.com.tw/search/imp_ad_
 ||ruten.com.tw^*/ahd_
@@ -43839,8 +43842,6 @@ zzzyk.com###Tinfo
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srtrak.com^$popup
-||srv155384.hoster-test.ru^
-||srv238326.hoster-test.ru^
 ||srv239076.hoster-test.ru^
 ||srv239401.hoster-test.ru^
 ||srv239553.hoster-test.ru^
@@ -44333,7 +44334,6 @@ zzzyk.com###Tinfo
 ||svc.dynamics.com/f/m/$third-party
 ||svc.dynamics.com/t/v/$third-party
 ||svc.dynamics.com/t/w$third-party
-||svchost.iqiyia.top^
 ||svhost2.linkpc.net^
 ||svhost56.duckdns.org^
 ||svhosted.duckdns.org^
@@ -46294,6 +46294,7 @@ zzzyk.com###Tinfo
 ||visit-website.com^$popup
 ||visit-x.net/promo/$third-party
 ||visit.webhosting.yahoo.com^
+||visithunter.io^$third-party
 ||visitor-analytics.io^$third-party
 ||visitor-analytics.net^$third-party
 ||visitor-stats.de^$third-party
@@ -47669,6 +47670,7 @@ zzzyk.com###Tinfo
 ||ytmp3.cc/js/inner.js
 ||ytmp3.plus/ba
 ||ytmp4converter.com/wp-content/uploads$popup
+||ytn.co.kr/_comm/yct.js
 ||ytn.co.kr/_comm/ylog.php?
 ||ytse*.top/Static/Home/GongGao/img/
 ||ytumamatambien.host^
