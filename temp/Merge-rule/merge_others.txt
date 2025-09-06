@@ -62,7 +62,7 @@ $script,third-party,domain=colamanga.com
 $script,third-party,domain=imgbox.com
 $script,third-party,domain=ouo.io|ouo.press
 $script,third-party,domain=rule34hentai.net
-$script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
 $script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
 $script,third-party,websocket,domain=52codes.net
 $script,third-party,xmlhttprequest,domain=abcvideo.cc
@@ -5362,6 +5362,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 ad.bannerhost.ru
 0.0.0.0 ad.reachlocal.com
 0.0.0.0 ad2.bannerhost.ru
+0.0.0.0 adlhosting.com
 0.0.0.0 administratielocala.com
 0.0.0.0 adpartnershosting.com
 0.0.0.0 ads.adhostingsolutions.com
@@ -5379,6 +5380,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 affiliates.ultrahosting.com
 0.0.0.0 ahostmail.com
 0.0.0.0 ak-cdn.placelocal.com
+0.0.0.0 akexuzax.myhostpoint.ch
 0.0.0.0 akureyri-hostel-2025.com
 0.0.0.0 alocalserver.com
 0.0.0.0 analytics.hostyour.video
@@ -5624,7 +5626,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 riselocalmedia.com
 0.0.0.0 riselocalracing.com
 0.0.0.0 rkp.jhy.mybluehost.me
-0.0.0.0 romanian-node-2.sushihosting.xyz
 0.0.0.0 sapalocaltrekking.com
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 sdk-assets.localytics.com
@@ -5646,6 +5647,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 srv235887.hoster-test.ru
 0.0.0.0 srv236386.hoster-test.ru
 0.0.0.0 srv236863.hoster-test.ru
+0.0.0.0 srv239401.hoster-test.ru
 0.0.0.0 srv85202.seohost.com.pl
 0.0.0.0 srv88723.seohost.com.pl
 0.0.0.0 static.locallogic.co
@@ -5702,10 +5704,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 widget.secure.ownlocal.com
 0.0.0.0 wphwyhosting.com
 0.0.0.0 wpv.lop.mybluehost.me
+0.0.0.0 www.adlhosting.com
 0.0.0.0 www.administratielocala.com
 0.0.0.0 www.adpartnershosting.com
 0.0.0.0 www.adpeepshosted.com
 0.0.0.0 www.ahostmail.com
+0.0.0.0 www.akexuzax.myhostpoint.ch
 0.0.0.0 www.akureyri-hostel-2025.com
 0.0.0.0 www.alocalserver.com
 0.0.0.0 www.aspnetwebhost.com
@@ -5858,7 +5862,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.promote1local.com
 0.0.0.0 www.promotealocal.com
 0.0.0.0 www.promoteonelocal.com
-0.0.0.0 www.qhost.ro
 0.0.0.0 www.rankghost.com
 0.0.0.0 www.riselocalmedia.com
 0.0.0.0 www.riselocalracing.com
@@ -5877,6 +5880,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.srv235887.hoster-test.ru
 0.0.0.0 www.srv236386.hoster-test.ru
 0.0.0.0 www.srv236863.hoster-test.ru
+0.0.0.0 www.srv239401.hoster-test.ru
 0.0.0.0 www.srv85202.seohost.com.pl
 0.0.0.0 www.srv88723.seohost.com.pl
 0.0.0.0 www.stayaslocal.com
@@ -5909,12 +5913,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.wphwyhosting.com
 0.0.0.0 www.wpv.lop.mybluehost.me
 0.0.0.0 www.xohostels.com
+0.0.0.0 www.you.europa-hosting.com
 0.0.0.0 www.zaphosted.com
-0.0.0.0 www.zoovu-host.com
 0.0.0.0 www3.webhostingtalk.com
 0.0.0.0 xohostels.com
+0.0.0.0 you.europa-hosting.com
 0.0.0.0 zaphosted.com
-0.0.0.0 zoovu-host.com
 012.tw#@#.ad728
 020job.com##A[href^="/Click.aspx?AdPageID="]
 0439.com###kanfang
@@ -8300,7 +8304,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||daoju.qq.com/time/*/js/ad/
 @@||dashboard.mgid.com^$popup
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
-@@||data.tm-awx.com^$script,domain=birminghammail.co.uk|bristolpost.co.uk|dailyrecord.co.uk|hulldailymail.co.uk|liverpoolecho.co.uk|manchestereveningnews.co.uk|stokesentinel.co.uk
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||daxiaamu.com^$generichide
@@ -31845,8 +31848,6 @@ zzzyk.com###Tinfo
 ||data.debugbear.com^$third-party
 ||data.email.hostplus.com.au^
 ||data.hicloud.com^$third-party
-||data.tm-awx.com/smile-web-v2/
-||data.tm-awx.com/smile-web.min.js
 ||data.webullfintech.com/event/
 ||data.whop.com/api/v1/track/
 ||data.wiris.cloud/telemetry/
@@ -47636,15 +47637,13 @@ zzzyk.com###Tinfo
 ||youth.cn/images/public_
 ||youth.cn/qwtf2015/
 ||youtube-nocookie.com/api/stats/atr?ns=
-||youtube-nocookie.com/api/stats/delayplay?
 ||youtube-nocookie.com/api/stats/qoe?
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
 ||youtube.com/api/stats/atr?ns=
-||youtube.com/api/stats/delayplay?
-||youtube.com/api/stats/qoe?
+||youtube.com/api/stats/qoe?fmt=
 ||youtube.com/embed/C-iDzdvIg1Y$domain=biznews.com
 ||youtube.com/embed/wqLWTeNBEEQ?
 ||youtube.com/get_video?
@@ -47652,7 +47651,7 @@ zzzyk.com###Tinfo
 ||youtube.com/iframe_api$domain=nownews.com
 ||youtube.com/pagead/
 ||youtube.com/pcs/activeview?
-||youtube.com/ptracking?
+||youtube.com/ptracking?html5=1&
 ||youtube.com/set_awesome?
 ||youtube.com/youtubei/v1/log_event?
 ||youtube.com/youtubei/v1/player/ad_break
