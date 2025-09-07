@@ -594,7 +594,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .recolution.de/tools/emails/open/$image
 .redsift.com/e/o/$image
 .revolut.com/q/$image
-.ru/ads/$~xmlhttprequest
+.ru/ads/$~xmlhttprequest,domain=~limehd.tv|~litehd.tv|~pervyi-tv.online|~russia-tv.online|~shadowcore.ru|~tvzvezda.ru
 .salesforce.com/servlet/servlet.ImageServer?$image
 .secureserver.net/bbimage.aspx?
 .sendcloud.net/track/$image
@@ -33121,7 +33121,6 @@ zzzyk.com###Tinfo
 ||ethereumads.com^$third-party
 ||etherscan.io/images/gen/cons_gt_
 ||ethicalads.io^$third-party
-||ethiopialocal.site^
 ||ethn.io^$third-party
 ||ethnio.com^$third-party
 ||ethyca.com^$third-party
@@ -34183,7 +34182,6 @@ zzzyk.com###Tinfo
 ||gamonalsmadevel.com^$popup
 ||ganardineroreal.com^$third-party
 ||gandmotivatin.info^$popup
-||gandoebmanda-32810.portmap.host^
 ||ganggang300182312-32221.portmap.host^
 ||gangjuw.com/style/lmjs/
 ||gangwaynumberprivacy.com^$popup
@@ -43092,7 +43090,6 @@ zzzyk.com###Tinfo
 ||sheego.de/ar/$third-party
 ||shejiben.com/common/libs/layer.js
 ||shejiben.com/common/widgets/ui/*zb.js
-||shellexperiencehost.ydns.eu^
 ||shemale.com/api/metrics
 ||shemalenova.com/smn/banners/
 ||shemsfm.net/ar/setStats/
