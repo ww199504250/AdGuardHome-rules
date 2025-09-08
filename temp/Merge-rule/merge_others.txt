@@ -1409,7 +1409,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /adserv.$script
 /adserve/*$script
 /adserver.$popup
-/adserver.$~stylesheet,~xmlhttprequest,domain=~adserver.flytant.com
+/adserver.$~stylesheet,~xmlhttprequest
 /adserver3.$image,script
 /adsfactor_ab
 /adsforwp-front.min.css$stylesheet
@@ -7007,6 +7007,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 58pic.com##.activitySettings-fixedBottom
 58pic.com##.xyyh
 591hx.com##.banner_w
+5dariyanews.com##h2:has(a[href*="sponsored-ads"])
 5dm.link##div[id^="player_p"]
 5dm.link#@#.tm-share-this
 5eplay.com##img[width="1240"]
@@ -7250,7 +7251,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://adsbb.
 ://adserving.
 ://adsrv.
-://adsserver.$~xmlhttprequest
+://adsserver.$~xmlhttprequest,domain=~adsserver.flytant.com
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
 ://adv.$third-party,domain=~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.cryptonetlabs.it|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.sciconnect.unsw.edu.au|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~farapp.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://aff-ads.
@@ -10182,7 +10183,7 @@ adblock-tester.com##embed[width="240"]
 adblock-tester.com##object[width="240"]
 adbug.cn#@#.google_ads
 addictivetips.com###at_popup_modal
-addictivetips.com,argonauts.ca,automotive-fleet.com,businessfleet.com,cfl.ca,developer.mozilla.org,fleetfinancials.com,forbesindia.com,government-fleet.com,howsecureismypassword.net,ncaa.com,rigzone.com,schoolbusfleet.com,seekvectorlogo.net,snipercentral.com,wltreport.com##.top-banner
+addictivetips.com,argonauts.ca,automotive-fleet.com,businessfleet.com,cfl.ca,developer.mozilla.org,fleetfinancials.com,forbesindia.com,government-fleet.com,howsecureismypassword.net,mdn.allizom.net,ncaa.com,rigzone.com,schoolbusfleet.com,seekvectorlogo.net,snipercentral.com,wltreport.com##.top-banner
 addictivetips.com,coinweek.com,flashbak.com,lmanime.com,news365.co.za,simscommunity.info##.custom-html-widget
 additivemanufacturing.media,compositesworld.com,ptonline.com##.DisplayBar
 additudemag.com,organicfacts.net,vinepair.com##.header-ad
@@ -11681,6 +11682,7 @@ bizasialive.com##.nipl-top-sony-banr
 bizasialive.com##.nipl_add_banners_inner
 bizasialive.com##.td-all-devices
 bizcommunity.com##.b-topbanner
+bizjournals.com##.h-\[900px\]
 biznetvigator.com#@##container_ad
 biznews.com##.arr--story-card:has([data-test-id="sponsored-tag-cards"])
 biznews.com##.wp-image-1055350
@@ -13682,6 +13684,7 @@ dev.to#?#div[data-display-unit]:-abp-has(span:-abp-contains(Promoted))
 devast.io###trevda
 devdiscourse.com##.advertisement-area
 devdiscourse.com##.carousel
+developer.mozilla.org,mdn.allizom.net##.page-layout__banner
 developers.google.com#@##google-ads
 devhints.io##.pubbox
 deviants.com###_iframe_content
@@ -17181,6 +17184,8 @@ instrument.com.cn###leftFlash
 instrument.com.cn,tool.lu##.swiper-container
 insurancebusinessmag.com##.ad-wrapper-billboard-v2
 insurancejournal.com##.bzn
+intechopen.com##.ad-wraper
+intechopen.com##.ads-link
 interest.co.nz###banner-ad-wrapper
 interest.co.nz##.homepage-billboard
 interest.co.nz##.story-tag-wrapper
@@ -18918,6 +18923,8 @@ mcdulll.com,mcdulll.pixnet.net###box1290930
 mcdulll.com,mcdulll.pixnet.net###box1989082
 mcmod.cn###McmodDonate
 mcpmag.com##.xContent
+mdn.allizom.net##mdn-placement-bottom
+mdn.allizom.net##mdn-placement-sidebar
 mdpi.com###adBannerContent
 me-gay.com,redporn.porn##.b-uvb-spot
 me360.com##.footer-booking-open
@@ -19058,6 +19065,7 @@ miloserdov.org,playstore.pw###custom_html-11
 miloserdov.org,playstore.pw,reneweconomy.com.au,winaero.com,wpneon.com###custom_html-10
 mindbodygreen.com##.bftiFX
 mindbodygreen.com##.sc-10p0iao-0
+minecraft-mp.com###topadspot
 minecraft-schematics.com##a[href^="https://www.pingperfect.com/aff.php?"]
 minecraft-servers.gg##.adp-native-responsive
 minecraftforum.net##.server-forum-after-comment-ad
@@ -19801,6 +19809,8 @@ news.stv.tv##.stv-article-gam-slot
 news.yahoo.com###sda-mid-right-2-iframe
 news.yahoo.com###sda-mid-right-iframe
 news.yahoo.com###sda-top-right-iframe
+news.yahoo.com##div.md\:block:has-text(Advertisement)
+news.yahoo.com##li.lg\:min-h-\[9\.141rem\]
 news12.com##.kBEazG
 news12.com##[template="leaderboard"]
 news12.com##div[alignitems="normal"]:has(> div[sizes*="object"])
@@ -21383,6 +21393,7 @@ radaris.com##.adsense-responsive-bottom
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se###headerTopBar ~ div > div:has(div#RAD_D_station_top)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se##.my-\[5px\].mx-auto.w-full.hidden.md\:flex.md\:min-h-\[90px\].lg\:min-h-\[250px\].items-center.justify-center
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se##div[class] > div[class]:has(> div[class] > div[id^="RAD_D_"])
+radio.net##.lg\:h-\[270px\]
 radiocaroline.co.uk###photographsforeverDiv
 radiocaroline.co.uk,wishesh.com##.home-banner
 radiocity.in##.advertisement-horizontal-small
@@ -21559,6 +21570,7 @@ republicworld.com##.pad3010.txtcenter
 republicworld.com##.padtop10.padright10.padleft10.minheight90
 republicworld.com##.padtop20.txtcenter.minheight90
 researchgate.net##.global-leaderboard-ad-container
+researchgate.net##.lite-page-ad--layout-header
 researchgate.net##.lite-page__above
 reset-scans.co##.madara-ad-banner
 resourcepack.net##.ab-rpnet-archive-bottom
@@ -22021,6 +22033,7 @@ sexseeimage.com,thisav.me,thisav.video##.happy-player-beside
 sexseeimage.com,thisav.me,thisav.video##.happy-player-under
 sexseeimage.com,thisav.me,thisav.video##.happy-section
 sextb.date##.sextb_300
+sextb.date##div[style^="width: 305px; height: 255px;"]
 sextb.net##.asg-overlay
 sextvx.com###porntube_hor_bottom_ads
 sexu.com##.player__side
@@ -22800,6 +22813,7 @@ streetinsider.com###bottom_ad_fixed
 streetinsider.com##.im-ad
 streetinsider.com#@##ad_space
 streetsblog.org##.Sponsorship_articleBannerWrapper__wV_1S
+stremio-addons.net##[aria-label*="sponsored"]
 stripes.com###FeatureAd
 stripes.com###MidPageAd
 stripes.com##.ahm-rotd
@@ -26573,6 +26587,7 @@ zzzyk.com###Tinfo
 ||59768910.xyz^$document,popup
 ||5axxw.com/extends/ad/
 ||5cc3ac02.xyz^$document,popup
+||5dariyanews.com/images/adherecolads.jpg
 ||5dimes.com^$popup
 ||5dm.link/a$image
 ||5dmail.net/image/$object
@@ -30463,6 +30478,7 @@ zzzyk.com###Tinfo
 ||cdndm.com/3/2015/$domain=1kkk.com|dm5.com
 ||cdndm.com^*/js/newtc.js
 ||cdndm5.com^*/ad_360_
+||cdnintech.com/web/frontend/www/assets/*/js/adsLoader.js
 ||cdnjs.work/metrics.js
 ||cdnlibjs.com^$third-party
 ||cdnma.com/apps/capture.js
@@ -42216,6 +42232,7 @@ zzzyk.com###Tinfo
 ||research-int.se^$third-party
 ||research-tool.com^$third-party
 ||researchgate.net/beacon/
+||researchgate.net/delivery/manager.js
 ||researchgate.net/track/
 ||researchintel.com^$third-party
 ||researchnow.co.uk^$third-party,domain=~dynata.com
@@ -42301,6 +42318,7 @@ zzzyk.com###Tinfo
 ||rgfftupf.
 ||rgshows.me/js/logger.js
 ||rgshows.me/js/statistics.js
+||rgstatic.net/javascript/delivery-manager/delivery-impl.$domain=researchgate.net
 ||rhinoaffiliates.com^$document
 ||rhinoaffiliates.com^$popup
 ||rhinoseo.com^$third-party
