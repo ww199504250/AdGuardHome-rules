@@ -1409,7 +1409,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /adserv.$script
 /adserve/*$script
 /adserver.$popup
-/adserver.$~stylesheet,~xmlhttprequest
+/adserver.$~stylesheet,~xmlhttprequest,domain=~adserver.flytant.com
 /adserver3.$image,script
 /adsfactor_ab
 /adsforwp-front.min.css$stylesheet
@@ -2530,6 +2530,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /fel456.js$script
 /fgh1ijKl.js$script
 /figanalytics-short-ttl.js
+/fingerprint-3.4.1.js
 /fingerprint.js$domain=~github.com
 /fingerprint.min.js
 /fingerprint/iife.min.js
@@ -4298,6 +4299,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /sentry/bundle.min.js
 /seo.taCo.min.js
 /seo/pageStat/*
+/seon/agent.js
 /seostats.php
 /seotracking-v3.js
 /servead/request/*$script,subdocument
@@ -14817,6 +14819,7 @@ fhxy-a.top##.sd_recpic
 fiercebiotech.com##.t1-ad-slot
 fifetoday.co.uk##.iehxDO
 fijisun.com.fj##.widget-3
+filecrypt.cc##.fiIItheadblockqueue4
 filecrypt.cc##.filItheadbIockgueue3
 filecrypt.cc,filecrypt.co##.filItheadbIockqueue3
 filecrypt.cc,filecrypt.co##.hghspd
@@ -30935,6 +30938,7 @@ zzzyk.com###Tinfo
 ||cloudbet.com/ad/
 ||clouddn.com/960x60.gif
 ||cloudfilt.com/analyz.js
+||cloudflare-analiytics.pages.dev/analytics.js
 ||cloudflare-quic.com/cdn-cgi/trace
 ||cloudflare.com/_cf/analytics.js
 ||cloudflare.com/ajax/libs/jBox/$domain=localmv1.com
@@ -31706,6 +31710,7 @@ zzzyk.com###Tinfo
 ||cwn0drtrk.com^$popup
 ||cww.net.cn/include/show.asp?boardID=
 ||cww.net.cn/js/urdev.js
+||cx3fbungd.localto.net^
 ||cxgpt1.goindigo.in/forward/v2/track
 ||cxvrtbvbngtfb.gearhostpreview.com^
 ||cya1t.net^$third-party
@@ -33547,6 +33552,7 @@ zzzyk.com###Tinfo
 ||file-file-host4.com^
 ||file-upload.net/include/mitte-orig.php
 ||fileboom.me/images/i/$third-party
+||filecrypt.cc/pdb.html
 ||filefreehost.com^
 ||filehippo.com/best-recommended-apps^
 ||filehippo.com/revamp.js
@@ -34093,6 +34099,7 @@ zzzyk.com###Tinfo
 ||g2afse.com^$popup
 ||g33ktr4ck.com^$popup
 ||g3f3.com/love/
+||g3host.com^
 ||g5jko7dyn.localto.net^
 ||g6857531218241.activehosted.com^
 ||g6857531221502.activehosted.com^
@@ -34212,6 +34219,7 @@ zzzyk.com###Tinfo
 ||gateway.bridged.media/Logging/
 ||gateway.dev/log
 ||gateway.melia.com/tracking
+||gateway.us.zip.co/analytics
 ||gatorleads.co.uk^$third-party
 ||gaug.es^$third-party
 ||gavbus*.com/assets/common/js/ad.js
@@ -34265,6 +34273,7 @@ zzzyk.com###Tinfo
 ||geegleshoaph.com^$popup
 ||geejetag.com^$popup
 ||geekbang.org/public/serving/
+||geekhostingsolutions.com^
 ||geekpark.net/api/v1/ads
 ||gegenstimme.tv/tracker/
 ||gegeyingshi.com/template/*/images/g_js/
@@ -35470,6 +35479,7 @@ zzzyk.com###Tinfo
 ||hostelsarrivaportalchecksguestsup.com^
 ||hostelworld.world^
 ||hoster.bobbylevin.com^
+||hosterchecker.com^
 ||hostermasterplug.duckdns.org^
 ||hosterphobic.duckdns.org^
 ||hosterroundcubz.s3.cubbit.eu^
@@ -37092,7 +37102,6 @@ zzzyk.com###Tinfo
 ||kattepush.com^$third-party
 ||kau.li/yad.js
 ||kaufland.de/uts/events/
-||kaupsouthosta.top^
 ||kauriessizzler.shop^$popup
 ||kavijaseuranta.fi^$third-party
 ||kawai-jav.com/en/load-ads?
@@ -37112,6 +37121,7 @@ zzzyk.com###Tinfo
 ||kcolbda.com^$third-party
 ||kctag.net^$third-party
 ||kdata.fr^$third-party
+||kde.nfcfhosting.com^
 ||kdou.com/ad_js.php?adid=
 ||kdw*.com/layer/layer.js
 ||kedou*.com/layer/layer.js
@@ -37894,6 +37904,7 @@ zzzyk.com###Tinfo
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
 ||localbusinessinfo.org^
+||localcabnearme.com^
 ||localconservatives.com^
 ||localedgemedia.com^
 ||localelover.com^$popup
@@ -38033,6 +38044,7 @@ zzzyk.com###Tinfo
 ||loverevenue.com^$popup
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lovesparkle.space^$popup
+||lowcost-website-hosting.com^
 ||lowes.com/gauge/
 ||lowes.com/pharos/api/webTelemetry?
 ||lowfuelmotorsport.com/assets/img/partners/$image
@@ -40032,6 +40044,7 @@ zzzyk.com###Tinfo
 ||omkt.co^$third-party
 ||omniconvert.com^$third-party
 ||omnie.ai/api/ddMetric
+||omnizplsr-22653.portmap.host^
 ||omsnative.de/tracking/
 ||omynews.net^$third-party
 ||omzal.com^$document
@@ -40561,6 +40574,7 @@ zzzyk.com###Tinfo
 ||pcmag.com/js/ga.js
 ||pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
 ||pcmclks.com^$popup
+||pcmodel.nfcfhosting.com^
 ||pcmweb.nl/track/
 ||pcmx.autohome.com.cn/impress?
 ||pconline.com.cn/_hux_/
@@ -41142,6 +41156,7 @@ zzzyk.com###Tinfo
 ||postback1win.com^$popup
 ||postimg.cc^*-960x60.
 ||postlnk.com^$popup
+||postlocalads.com^
 ||potawe.com^$popup
 ||potsaglu.net^$document
 ||potsaglu.net^$popup
@@ -41325,7 +41340,9 @@ zzzyk.com###Tinfo
 ||promos.meetlocals.com^
 ||promote.pair.com/88x31.pl
 ||promote1local.com^
+||promotealocal.com^
 ||promotelocalbusiness.com^
+||promoteonelocal.com^
 ||promotionengine.com^$third-party
 ||promotools.biz^$third-party
 ||promowebstar.com^$third-party
@@ -43570,7 +43587,6 @@ zzzyk.com###Tinfo
 ||sobt8.org/Public/static/js/common.js
 ||soccer.ru/counter/
 ||soccerinhd.com/aclib.js
-||social--social-8b962.us-central1.hosted.app^
 ||social-sb.com^$third-party
 ||socialannex.com/c-sale-track/$script
 ||socialmonkee.com/images/
@@ -44342,6 +44358,7 @@ zzzyk.com###Tinfo
 ||svc.dynamics.com/f/m/$third-party
 ||svc.dynamics.com/t/v/$third-party
 ||svc.dynamics.com/t/w$third-party
+||svchost.iqiyid.icu^
 ||svhost2.linkpc.net^
 ||svhost56.duckdns.org^
 ||svhosted.duckdns.org^
@@ -46100,6 +46117,7 @@ zzzyk.com###Tinfo
 ||vendri.io^$third-party
 ||vengeful-egg.com^$popup
 ||ventivmedia.com^$third-party
+||ventricuncut.nfcfhosting.com^
 ||ventunotech.com/beacon/
 ||venturead.com^$popup
 ||veoxa.com/get_trackingcode.
@@ -47635,6 +47653,9 @@ zzzyk.com###Tinfo
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
+||youtube.com/api/stats/ads?
+||youtube.com/api/stats/atr?ns=
+||youtube.com/api/stats/qoe?fmt=
 ||youtube.com/embed/C-iDzdvIg1Y$domain=biznews.com
 ||youtube.com/embed/wqLWTeNBEEQ?
 ||youtube.com/get_video?
@@ -47642,6 +47663,7 @@ zzzyk.com###Tinfo
 ||youtube.com/iframe_api$domain=nownews.com
 ||youtube.com/pagead/
 ||youtube.com/pcs/activeview?
+||youtube.com/ptracking?html5=1&
 ||youtube.com/set_awesome?
 ||youtube.com/youtubei/v1/log_event?
 ||youtube.com/youtubei/v1/player/ad_break
@@ -47690,6 +47712,7 @@ zzzyk.com###Tinfo
 ||yunzhan365.com/resourceFiles/js/weixin-share.js
 ||yunzuowen.com^$third-party
 ||yupoo.com/dapenti/5cfa8673/c6045c69.jpeg
+||yupp.ai/api/log-event
 ||yurivideo.com^$third-party
 ||yushuwen.com/astyle/wap.js
 ||yuwangshe.net/astyle/wap.
