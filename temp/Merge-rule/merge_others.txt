@@ -35,7 +35,7 @@ $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|t
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.cloudflare.com *.google.com *.addthis.com *.addthisedge.com *.facebook.net *.twitter.com *.jquery.com *.x.com,domain=kinox.lat|kinos.to|kinox.am|kinox.click|kinox.cloud|kinox.club|kinox.digital|kinox.direct|kinox.express|kinox.fyi|kinox.gratis|kinox.io|kinox.lol|kinox.me|kinox.mobi|kinox.pub|kinox.sh|kinox.to|kinox.tube|kinox.tv|kinox.wtf|kinoz.to,~third-party
-$csp=script-src 'self' * 'unsafe-inline',domain=biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
+$csp=script-src 'self' * 'unsafe-inline',domain=8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
 $csp=script-src 'self' * 'unsafe-inline',domain=bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 $csp=script-src 'self' * 'unsafe-inline',domain=nodejs.cn|smsonline.cloud
 $csp=script-src 'self' *,domain=52niuyanks.cc|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
@@ -5436,6 +5436,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 daspol-eu.s10.hostcreators.sk
 0.0.0.0 ddbca.localmeets.link
 0.0.0.0 de.hosting.adjug.com
+0.0.0.0 ded5092.inmotionhosting.com
 0.0.0.0 devhostx42launch.online
 0.0.0.0 donewellhosting.com
 0.0.0.0 dopf.uthost.net
@@ -5529,10 +5530,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hostqfix.rospasalon.com
 0.0.0.0 hostslave.com
 0.0.0.0 hostujmy.pl
-0.0.0.0 hosturbater.com
 0.0.0.0 hostwpe.com
 0.0.0.0 hpanelhostrenew.de
-0.0.0.0 huglocally.com
 0.0.0.0 hydrocodone.irondel.swisshost.by
 0.0.0.0 images.host.bannerflow.com
 0.0.0.0 imbarghost.pro
@@ -5572,6 +5571,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 localreporting.pro
 0.0.0.0 localtreasure.net
 0.0.0.0 localtucsonpuppies.com
+0.0.0.0 localwomensports.com
 0.0.0.0 localxpert.com
 0.0.0.0 localytics.com
 0.0.0.0 lowcost-website-hosting.com
@@ -5678,7 +5678,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 tracking.hostgator.com
 0.0.0.0 trd.ghostglobaltd.com
-0.0.0.0 ttswebhosting.com
 0.0.0.0 unitedghostwriters.com
 0.0.0.0 update-skype.freehostia.com
 0.0.0.0 url-hoster.com
@@ -5743,6 +5742,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.crykasterxsergf.cloudaccess.host
 0.0.0.0 www.cuv.kkq.mybluehost.me
 0.0.0.0 www.daspol-eu.s10.hostcreators.sk
+0.0.0.0 www.ded5092.inmotionhosting.com
 0.0.0.0 www.devhostx42launch.online
 0.0.0.0 www.donewellhosting.com
 0.0.0.0 www.dopf.uthost.net
@@ -5802,10 +5802,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostqfix.rospasalon.com
 0.0.0.0 www.hostslave.com
 0.0.0.0 www.hostujmy.pl
-0.0.0.0 www.hosturbater.com
 0.0.0.0 www.hostwpe.com
 0.0.0.0 www.hpanelhostrenew.de
-0.0.0.0 www.huglocally.com
 0.0.0.0 www.imbarghost.pro
 0.0.0.0 www.inhostnetservice.com
 0.0.0.0 www.ipromotelocal.com
@@ -5832,6 +5830,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.localreporting.pro
 0.0.0.0 www.localtreasure.net
 0.0.0.0 www.localtucsonpuppies.com
+0.0.0.0 www.localwomensports.com
 0.0.0.0 www.localxpert.com
 0.0.0.0 www.localytics.com
 0.0.0.0 www.lowcost-website-hosting.com
@@ -5901,7 +5900,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.tinyfilehost.com
 0.0.0.0 www.tinyfileshost.com
 0.0.0.0 www.trd.ghostglobaltd.com
-0.0.0.0 www.ttswebhosting.com
 0.0.0.0 www.unitedghostwriters.com
 0.0.0.0 www.user0127398123.sviluppo.host
 0.0.0.0 www.validation-local-ads-manage-id82140.vercel.app
@@ -6802,6 +6800,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 423down.com##span > a > b
 423down.com#?#.post-related > ul > li:-abp-has(> a[href^="http"]:not([href*="423down."]))
 423down.com#?#li:-abp-has(> .pic[href^="http"]:not([href*="423down."]))
+423down.com#?#li:-abp-has(>.info>.cat>a[rel="category tag"]:-abp-contains(推广))
+423down.com#?#li:-abp-has(>.item-thumb>.item-category:-abp-contains(推广))
 42xz.com##.xzbox-lf > ul:not(:last-child)
 42xz.com##[onclick*="godownload"]
 42xz.com,aiweibk.com,kuhou.com,pcsoft.com.cn##.gsxz
@@ -7247,7 +7247,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://adn.*/zone/$popup
 ://adn.*/zone/$subdocument
 ://ads.$popup,domain=~ad.olx.pl|~smartnews.com
-://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
+://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.palmettostatearmory.com|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
 ://ads2.
 ://adsbb.
 ://adserving.
@@ -10590,9 +10590,7 @@ androidadult.com##.adswait
 androidadult.com##.headerlinks
 androidadult.com##.navitem.color-3
 androidadult.com,homemoviestube.com##[href^="https://aoflix.com/Home"]
-androidauthority.com##.d_3i:has-text(Latest deals)
-androidauthority.com##.d_um
-androidauthority.com##.e_4j:has-text(See all deals)
+androidauthority.com##[class] > [class] > [class]:has(div[data-ad-type="leaderboard_atf"])
 androidauthority.com##div[class]:has(> .pw-incontent)
 androidauthority.com,soundguys.com##[data-ad-type]
 androidcommunity.com,euro-sd.com,sfbg.com,techworm.net##.td-header-rec-wrap
@@ -22662,6 +22660,8 @@ sports.yahoo.com##.sda-ins
 sportscardforum.com###wgo_affiliates
 sportscardforum.com##a[href^="https://www.sportscardforum.com/rbs_banner.php?"]
 sportskeeda.com###video-player-container--
+sportskeeda.com##.sk-ads-taboola-container
+sportskeeda.com##.sk-promotional-banner
 sportskeeda.com##.vidazoo-player-container
 sportsnet.ca###leaderboardMaster
 sportsnet.ca###leaderboard_master
@@ -34480,9 +34480,7 @@ zzzyk.com###Tinfo
 ||giraff.io^$third-party
 ||girls.xyz^$popup
 ||girls.xyz^$third-party
-||girlsofdesire.org/blr3.php
-||girlsofdesire.org/flr2.js
-||girlsofdesire.org/flr6.js
+||girlsofdesire.org/blr8
 ||girlsofdesire.org/images/girlsofdesire.org/analytics.js
 ||girlstaste.life^$popup
 ||gitam.1host.co.il^
@@ -38218,6 +38216,7 @@ zzzyk.com###Tinfo
 ||macd.cn/macd-topads.html
 ||macfans.org/vip/
 ||machieved.com^$third-party
+||machinery-local-manage-0839142732.vercel.app^
 ||machineseeker.com/data/ofni/
 ||mackeeperaffiliates.com^$popup
 ||macpisa.activehosted.com^
@@ -42719,6 +42718,8 @@ zzzyk.com###Tinfo
 ||sbitany.com^*/affiliate/$third-party
 ||sbo8.com/static/theme/js/bottom.
 ||sc-specialhost.com^
+||sc.g-cdn.net/tracker-i/main.js
+||sc.g-cdn.net/tracker/gsms.js
 ||scaledb.com^$third-party
 ||scambaiting001-34039.portmap.host^
 ||scanalert.com/meter/
