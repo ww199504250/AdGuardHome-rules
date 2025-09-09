@@ -93,6 +93,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 &ga_blocked=$image
 &hitType=pageview&
 &http_referer=$script,xmlhttprequest,domain=~biletomat.pl|~facebook.com|~jobscore.com
+&ii=fingerprintjs-pro-react
 &l=dataLayer&cx=c
 &pagegroup=*&url=$script
 &popunder=$popup
@@ -31505,7 +31506,6 @@ zzzyk.com###Tinfo
 ||cpaoffers.network^$popup
 ||cpb.esprit.*/91405.js
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
-||cpcalendars.hostsportstoto9.com^
 ||cpcmanager.com^$third-party
 ||cpfclassifieds.com^$third-party
 ||cpkshop.com/campaign/$third-party
@@ -32011,6 +32011,7 @@ zzzyk.com###Tinfo
 ||decibelinsight.net^$third-party
 ||decideinteractive.com^$third-party
 ||deckedsi.com^$popup
+||ded5092.inmotionhosting.com^
 ||dedating.online^$popup
 ||dedicatednetworks.com^$third-party
 ||deebcards-themier.com^$popup
@@ -33349,7 +33350,6 @@ zzzyk.com###Tinfo
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f92j5.com^$third-party
-||f930dc1b3c.byethost11.com^
 ||fabricww.com^$third-party
 ||fabuye.vip/zhuanfa/
 ||faceb00k-free00.hostingerapp.com^
@@ -34326,6 +34326,7 @@ zzzyk.com###Tinfo
 ||gentent.stre4mplay.one^$popup
 ||gentwoleads.top^$document
 ||gentwoleads.top^$popup
+||genxwhosting.com^
 ||geo-targetly.com^$third-party
 ||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph|philstarlife.com
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
@@ -34659,6 +34660,7 @@ zzzyk.com###Tinfo
 ||goobakocaup.com^$popup
 ||good8866.com/js/*.js
 ||goodadvert.
+||goodcar.com/js/parts/fp.js
 ||goodcome.com.tw/block/ad/rndtopad.php
 ||goodcounter.org^$third-party
 ||goodfon.com/stat/
@@ -35444,7 +35446,6 @@ zzzyk.com###Tinfo
 ||host-5-58-172-98.bitternet.ua^
 ||host-95-230-215-65.business.telecomitalia.it^
 ||host-95-255-114-11.business.telecomitalia.it^
-||host-conviction.gl.at.ply.gg^
 ||host-file-host6.com^
 ||host-host-file8.com^
 ||host-most.gl.at.ply.gg^
@@ -35525,6 +35526,7 @@ zzzyk.com###Tinfo
 ||hostipress.com^
 ||hostkiss.com^
 ||hostmanshipacademy.com^
+||hostmaster.4tica.com^
 ||hostmaster.richardhyettlawyernotary.com^
 ||hostmicro.com^
 ||hostmonster.com/src/js/$third-party
@@ -36232,6 +36234,7 @@ zzzyk.com###Tinfo
 ||inhostnetservice.com^
 ||inimbus.com.au^$third-party
 ||inistrack.net^$third-party
+||init.voz.party/info_hex.js
 ||inlead.digital/js/script.js
 ||inlishui.com/index.php?m=poster&
 ||inmobi.com/?log
@@ -36714,6 +36717,7 @@ zzzyk.com###Tinfo
 ||javslon.com/clacunder.js
 ||javynow.com/ajax/access.php
 ||javynow.com/images/caribian.jpg
+||jayw8724-39348.portmap.host^
 ||jazper-21519.portmap.host^
 ||jb51.net/imgby/logo_
 ||jbzyw.com/Application/M/adv/
@@ -36751,6 +36755,7 @@ zzzyk.com###Tinfo
 ||jeu.net/hits.js
 ||jewishcontentnetwork.com^$third-party
 ||jfjle4g5l.com^$popup
+||jfl4kvbv6.localto.net^
 ||jggegj-rtbix.top^$popup
 ||jhsnshueyt.click^$popup
 ||jia.com/js/common/article_home_adv.js
@@ -37353,6 +37358,7 @@ zzzyk.com###Tinfo
 ||kuke99.com/static/home/js/index/index.js
 ||kuku99.com^$third-party
 ||kumo.network-n.com/configs/sites/
+||kunden-ppl-authflow-de.tempurl.host^
 ||kunduz.com/kunduzlytics.min.js
 ||kununu.com^*/tracking/
 ||kunvertads.com^$popup
@@ -38489,6 +38495,7 @@ zzzyk.com###Tinfo
 ||mddsp.info^$document
 ||mddsp.info^$popup
 ||mdmexclusives.com^$popup
+||mdn.allizom.net/pong/
 ||mdrew7967.activehosted.com^
 ||mdstrm.com/js/lib/streammetrics.js
 ||mdws.local183cu.ca^
@@ -41680,7 +41687,7 @@ zzzyk.com###Tinfo
 ||qingkai.com/2009/html/top.htm
 ||qingkai.com/gg_img/
 ||qingkong.net/skin/htcs/images/980.jpg
-||qingqingxs.top/static/xbiquge/wap.js
+||qingqingxs.*/static/xbiquge/wap.js
 ||qingsedhh.com/images/gg.gif
 ||qinxue100.com/qinxue/pc/js/add_js.js
 ||qiota.com/api/event
@@ -44869,7 +44876,6 @@ zzzyk.com###Tinfo
 ||thesun.co.uk/assets/client/newrelicExperimentTracking~
 ||thesun.ie/track?
 ||thesurferprotector.com^$popup,domain=piratebay.live
-||thetest.selfhost.co^
 ||thetimes.co.uk/track?
 ||thetoptrust.com^$popup
 ||thetruth.com/pd.js
@@ -45001,6 +45007,7 @@ zzzyk.com###Tinfo
 ||tinyurl.com/pixel.gif/
 ||tio.ch/ext/u.php?
 ||tio.ch/lib/videojs/video-js-tiostats.js
+||tiplink.io/fp-agent.js
 ||tipsport.sk/c/1x1.php?
 ||tiscali.it/banner-tiscali/stats.html?
 ||tiser.com.au^$third-party
@@ -45811,6 +45818,7 @@ zzzyk.com###Tinfo
 ||ucoz.net/stat/
 ||ucweb.com/collect/
 ||uczfl.com/data/content
+||udc.yahoo.com/v2/public/yql?
 ||udemy.com/api-2.0/ecl
 ||udkcrj.com^$third-party
 ||udn.com.tw/upf/*_banners/BD/
@@ -46959,6 +46967,7 @@ zzzyk.com###Tinfo
 ||windadblocker.com^$popup
 ||windows.net/732d.js
 ||windows.net/banners/$domain=hortidaily.com
+||windowshost.click^
 ||windowszj.net/d/js/list/click
 ||windy.com/sedlina/ga/
 ||wine-searcher.com/K6S8okp3/init.js

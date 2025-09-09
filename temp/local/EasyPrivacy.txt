@@ -7,6 +7,7 @@
 &EventType=Impression&
 &hitType=pageview&
 &http_referer=$script,xmlhttprequest,domain=~biletomat.pl|~facebook.com|~jobscore.com
+&ii=fingerprintjs-pro-react
 &refer=http$script
 &t=pageview&
 -adobe-analytics/
@@ -3356,6 +3357,7 @@ omni.soundestlink.com$image
 ||dataofpages.com^
 ||datas3ntinel.com^
 ||demdex.net^
+||deviceinf.com^
 ||digi-ping.com^
 ||directavenue.tech^
 ||dispatchunique.com^
@@ -3406,6 +3408,7 @@ omni.soundestlink.com$image
 ||fptls.com^
 ||fptls2.com^
 ||fptls3.com^
+||fptls4.com^
 ||funnelserv.systems^
 ||fzlnk.com^
 ||g10102301085.co^
@@ -9138,6 +9141,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||opinary.com/v1/events
 ||oply.hearstapps.com^
 ||optimeeze.appspot.com^
+||optimizer.poxo.com^
 ||optmn.cloud/hb/
 ||ora.tv/j/ora_evttracking.js
 ||orb.ee/collect
@@ -9426,6 +9430,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rum.azion.com^
 ||rum.azioncdn.net^
 ||rum.corewebvitals.io^
+||rum.cronitor.io^
 ||rum.hlx.page^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
@@ -10619,6 +10624,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plista.com/getuid?
 ||plista.com/iframeShowItem.php
 ||px.staticfiles.at^
+||qa-events-schema.viacom.tech^
 ||quiz.stroeermediabrands.de/pub/$image
 ||retrack.q-divisioncdn.de^
 ||retresco.de^*/stats/$third-party
@@ -11634,6 +11640,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.yomedia.vn^
 ||f-emc.ngsp.gov.vn^
 ||fpt.shop/fa_tracking.js
+||init.voz.party/info_hex.js
 ||px.dmp.zaloapp.com^
 ||st-a.cdp.asia^
 ||tracking.aita.gov.vn^
@@ -12302,6 +12309,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fortune.com/comscore-json/
 ||foursquare.com/v2/private/logactions
 ||foxsports.com.au/akam/
+||fp.bizjournals.com^
 ||fp.measure.office.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
@@ -12372,6 +12380,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gofundme.com/track
 ||gog-statics.com/js/frontpagelogintracking-$script,domain=gog.com
 ||gog-statics.com/js/loginTracking-$script,domain=gog.com
+||goodcar.com/js/parts/fp.js
 ||goodfon.com/stat/
 ||goodreads.com/logging
 ||goodreads.com/metrics_logging_batched
@@ -12642,6 +12651,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mcs.tiktokv.us^
 ||mcs.tiktokw.us^
 ||mcs.us.tiktokv.com^
+||mdn.allizom.net/pong/
 ||mdt.crateandbarrel.com^
 ||medal.tv^$ping
 ||media.io/trk
@@ -13301,6 +13311,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tiktokv.us/monitor_browser/
 ||tilanalytics.timesinternet.in^
 ||time.is/img/nod.png
+||tiplink.io/fp-agent.js
 ||tms.abconsent.com^
 ||tms.delta.com/privacy/$image
 ||tms.eharmony.ca^
@@ -13417,6 +13428,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ubuyanalytics.ubuy.com^
 ||ucoz.com/stat/
 ||ucweb.com/collect/
+||udc.yahoo.com/v2/public/yql?
 ||udemy.com/api-2.0/ecl
 ||ugprod.geeksforgeeks.org/post/api/usertracking/
 ||ukdevilz.com/api/stats?
