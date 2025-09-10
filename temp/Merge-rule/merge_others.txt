@@ -3756,6 +3756,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /phpbb_ads/*$~xmlhttprequest
 /phpmyvisites.js
 /piNctTracking.js
+/piano-analytics-$script
 /piano-analytics.js
 /piaofu.js
 /pic.jsp?uid=$script,third-party
@@ -12179,9 +12180,9 @@ camfuze.com##.banner_inner
 camporn.to,camseek.tv,camstreams.tv,eurogirlsescort.com,hdtube.porn,sexu.com##.banners
 camsoda.com##div[class^="AdsRight-"]
 camvideos.tv,exoav.com,jizzoncam.com##.place
+camwhores.*,txxx.com##.fh-line
 camwhores.tv##.tdn
 camwhores.tv##.topad
-camwhores.tv,txxx.com##.fh-line
 canada411.ca##.c411TopBanner
 canadianbusiness.com,macleans.ca,vidio.com,yardbarker.com###leaderboard_container
 canadianbusiness.com,torontolife.com##.sjm-dfp-wrapper
@@ -14382,6 +14383,7 @@ empireonline.com,graziadaily.co.uk##.advertWrapper_billboard__npTvz
 emptycharacter.com##.video-js
 emulatorgames.net##.site-label
 emulatorgames.net##.site-unit-lg
+en.namu.wiki,ja.namu.wiki##div[id][class]:empty
 en.numista.com###fiche_buy_links
 en8848.com.cn##.list_adv
 en8848.com.cn#@#.adcenter
@@ -18184,6 +18186,7 @@ kyivpost.com##.b-title
 kyivpost.com##.widget-300-250
 kzs1w.com,sehuatang.org##div[class^="show-text"]
 labartt.com#@#.advert-detail
+lagruyere.ch#@##adv-top
 lahoo.ca###diyrighttop
 lahoo.ca##.a_af
 lahoo.ca##.right_multi_banner
@@ -19129,6 +19132,10 @@ mnw.cn##.mnw_top_ads
 mo.fish##.list-item-content-ad
 mobafire.com##.venatus-responsive-ad
 mobafire.com##.vid-wrap
+mobalytics.gg##.m-17psdf9
+mobalytics.gg##.m-1hsuptt
+mobalytics.gg##.m-bz6vl
+mobalytics.gg##aside > [class]:has-text(Advertisement)
 mobanwang.com##.box960x90
 mobanwang.com##.g960
 mobanwang.com##.teagg
@@ -19607,7 +19614,6 @@ namethatporn.com###fab_blacko
 namethatporn.com##.a_br_b
 namethatporn.com##.aaaabr
 namethatpornad.com,vxxx.com##a[href^="https://www.g2fame.com/"]
-namu.wiki##div[id][class]:empty
 nanfengyl.com##.index-top-ad1
 nanfengyl.com##.top-ad-txt
 nangaspace.com###header
@@ -20908,6 +20914,7 @@ pornlulu.com,pornbest.org,ptt.sex###fullPageModal
 pornmd.com##.suggestions-box
 pornmeka.com##.spot_wrapper
 pornogratisdiario.com,xcafe.com##.bnr
+pornohans.net##aside:has(.adsbyexoclick)
 pornone.com##.video-add
 pornone.com##.warp
 pornone.com##a[class^="listing"]
@@ -23058,6 +23065,7 @@ techradar.com##.hawk-main-editorialized
 techradar.com##.hawk-merchant-link-widget-container
 techradar.com##.hawk-nest
 techradar.com#@#[href^="https://www.hostg.xyz/aff_c"]
+techradar.com,toimitilat.kauppalehti.fi#@#.sponsored-article
 techraptor.net###nn_lb3
 techraptor.net###nn_lb4
 techraptor.net##.m-lg-70
@@ -23687,7 +23695,6 @@ todaygirls.co.uk##.addspace
 todayheadline.co,wavepublication.com###wpgtr_stickyads_textcss_container
 todayonline.com##.tw-flex-shrink-2
 todayuknews.com##.stream-item-top-wrapper
-toimitilat.kauppalehti.fi#@#.sponsored-article
 tokder.org###aaaa
 tokder.org###ssss
 tokopedia.com##[href$="src=topads"]
@@ -24807,9 +24814,6 @@ wmzhe.com##.aibyte_ad
 wmzhe.com##.downloader
 wn789.com##.sidebar > .widget:not(:first-child):not(.widget_ui_posts)
 wn789.com##a[href^="http"]:not([href*="://www.wn789."]) > img
-wnacg.com##a[href^="http"]:not([href*="wnacg."]) img
-wnacg.com##img[width="399"][height*="6"]
-wnacg.com##script + div > a > img
 wnacg.com#@##adsbox
 wnacg.com#@#.Flagrow-Ads-under-header
 wnacg.com#@#.RMss1
@@ -36103,7 +36107,8 @@ zzzyk.com###Tinfo
 ||imlive.com/wmaster.ashx?$popup,third-party
 ||imlive.com^$script,third-party,domain=~imnude.com
 ||immanalytics.com^$third-party
-||immovlan.be/*/widget/cbc/
+||immovlan.be/*/widget/
+||immovlan.be/js/dist/pub/
 ||immoweb.be/*/dpg/
 ||immoweb.be/*/track/
 ||imonomy.com^$third-party
@@ -37628,7 +37633,6 @@ zzzyk.com###Tinfo
 ||lewdspot.com/img/aff_
 ||lexity.com^$third-party
 ||lexology.com/pd.js
-||lexpress.fr/pf/resources/js/piano-analytics-
 ||lfeeder.com^$third-party
 ||lfov.net^$third-party
 ||lftce.clearstem.com/load
@@ -41144,6 +41148,7 @@ zzzyk.com###Tinfo
 ||porno666.com/code/script/
 ||pornogramxxx.com/out/
 ||pornogramxxx.com/out/$popup
+||pornohans.net/static/exo
 ||pornorips.com/4e6d8469754a.js
 ||pornorips.com/9fe1a47dbd42.js
 ||pornpapa.com/extension/
@@ -44025,6 +44030,7 @@ zzzyk.com###Tinfo
 ||static-host210-2-169-213.link.net.pk^
 ||static-od.com/setup/$third-party
 ||static-sb.com^$third-party
+||static.cloud.sbs.co.kr/common/js/*/sbs_log_module.min.js
 ||static.doyouhike.net/partner/
 ||static.fastpic.org^$subdocument
 ||static.funshion.com/*/common/log/
@@ -44280,6 +44286,7 @@ zzzyk.com###Tinfo
 ||suaurl.com/adblock/js/smarttag.js
 ||sub.shosty.co^
 ||sub2tech.com^$third-party
+||subhd.*/kaiyad.
 ||subjectsfaintly.com^$popup
 ||submitnet.net^$third-party
 ||subscribe.ru/1.gif/$image
@@ -46696,7 +46703,6 @@ zzzyk.com###Tinfo
 ||webcounter.co.za^$third-party
 ||webcounter.ws^$third-party
 ||webd-assets.cdn4dd.com/s.js$domain=doordash.com
-||webdisk.hostbesttech.website^
 ||webdisk.hostsportstoto9.com^
 ||webdissector.com^$third-party
 ||webedia.fr/js/gs.js
@@ -47021,17 +47027,6 @@ zzzyk.com###Tinfo
 ||wmtools.it/wmtcounter.php?
 ||wmtten.com^$popup
 ||wn.com/count.js
-||wnacg.*/1605524662751.gif
-||wnacg.*/1sdfdc1/
-||wnacg.*/58s/
-||wnacg.*/5eg/
-||wnacg.*/data/game/
-||wnacg.*/sd
-||wnacg.*/themes/mo/images/*.gif
-||wnacg.*/themes/weitu/images/0
-||wnacg.*/w7z/
-||wnacg.*/w8z/
-||wnacg.*/zec/
 ||wnoz.de/nieyohh8.js
 ||wnt-s0me-push.net^$popup
 ||wnyc.org/analytics/
@@ -47126,6 +47121,8 @@ zzzyk.com###Tinfo
 ||ws.sharethis.com^$script
 ||wshufa.com^$third-party
 ||wsimg.com/parking-lander/
+||wsimg.com/signals/$script,third-party
+||wsimg.com/traffic-assets/$script,third-party
 ||wsj.com/asset/ace/ace.min.js
 ||wsj.com/cookies/pixel.gif
 ||wsj.net/pb/pb.js
