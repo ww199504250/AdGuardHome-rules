@@ -3744,6 +3744,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /permutiveIdGenerator.js
 /pfe/current/*$third-party
 /pge/?s=$third-party
+/pgout.js
 /ph-tracking-1.2.js
 /phenomtrack.min.js
 /php-stats.js
@@ -8825,8 +8826,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||js-agent.newrelic.com^$script,domain=abema.tv
 @@||js.adsrvr.org/up_loader.1.1.0.js$domain=sterkinekor.com
 @@||js.appboycdn.com/web-sdk/$domain=kfc.co.jp
-@@||js.assemblyexchange.com/videojs-skip-$domain=worldstar.com
-@@||js.assemblyexchange.com/wana.$domain=worldstar.com
 @@||js.datadome.co/tags.js$script,domain=monster.ca|sso.garena.com|thefork.at|thefork.be|thefork.ch|thefork.co.uk|thefork.com|thefork.de|thefork.es|thefork.fr|thefork.it|thefork.nl|thefork.pt|thefork.se
 @@||js.sentry-cdn.com^$script,domain=app.homebinder.com|bolt.new|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||jsdelivr.net/combine/npm/$domain=ulifestyle.com.hk
@@ -12340,6 +12339,7 @@ chaicp.com,qiuyi.cn##.Advertisement
 chajia123.com###dy2
 chajia123.com##.foot_dybox
 chajiaotong.com##div[id^="cjtad_"]
+chalkbeat.org,irishnews.com##.b-ads-block
 challonge.com##.cake-unit
 championmastery.gg##.responsiveAd
 channel4.com###c4ad-Top
@@ -12451,6 +12451,7 @@ chexun.com##.ad1100
 chexun.com##.ad794
 chexun.com##.attr-outside-ad
 chexun.com##a[attr-outside-ad]
+chicago.suntimes.com,mangasect.com,manhuaplus.com##.OUTBRAIN
 chicagoprowrestling.com###Chicagoprowrestling_com_Top
 chicagoprowrestling.com##a[href*="//thecmf.com/"] > img
 chicagoprowrestling.com##a[href*="//www.aliciashouse.org/"] > img
@@ -17415,7 +17416,6 @@ iqiyi.com,~mall.iqiyi.com,~so.iqiyi.com##a[href*="http://mall.iqiyi.com/item/"]
 iqshv.com#?#.post-list-item:-abp-has(.thumb-link[href^="http"]:not([href*=".iqshv."]))
 iqshw.com##.iqshwad-comm
 irishnews.com###lbtop
-irishnews.com##.b-ads-block
 irishpost.com,theweekendsun.co.nz##.add-block
 irishtimes.com##.cs-teaser
 ishangman.com#@#.bottom_ad
@@ -18803,7 +18803,6 @@ mangaplus.shueisha.tv,shueisharaw.tv###ads_mobile
 mangaplus.shueisha.tv,shueisharaw.tv###left-banner
 mangaread.org###custom_html-48
 mangarockteam.com##.c-top-second-sidebar
-mangasect.com,manhuaplus.com##.OUTBRAIN
 manhua.weibo.com###p-nav-fix + .p-area.w980
 manhuadb.com##.d-flex.px-2
 manhuadb.com#?#.comicbook-index:-abp-has(>a[href^="http"])
@@ -19838,6 +19837,7 @@ news18.com##.article_mad
 news18.com##.desktopadh
 news18.com##.desktopflex
 news18.com##.mc-ad
+news18.com##.taboolaWrap
 news18.com##div[style*="min-height"][style*="background"]
 news18.com##div[style*="min-height: 250px"]
 news18.com##div[style*="min-height:250px"]
@@ -20996,6 +20996,7 @@ power987.co.za##.power-leader-board-center
 poweroutage.us##.cta-inline
 powerpyx.com##.code-block-14
 powvideo.net,streamplay.to,uxstyle.com###overlay
+poynter.org###above-the-brands
 pp.ua###id_ad_image
 ppsport.com##.slide-img[href^="http"]
 pptjia.com##.alert2_wrap
@@ -22305,7 +22306,10 @@ slashdot.org##.fhitem-story.fhitem:has-text(Sponsored Content)
 slashfilm.com###primis-container
 slashgear.com##.recommended-heading
 slaynews.com##[href="https://slaynews.com/ads/"]
+sleazyneasy.com###next-tv1
+sleazyneasy.com###next-tv2
 sleazyneasy.com###pre-spots
+sleazyneasy.com##.bottom-content
 sleazyneasy.com##.cams-videos
 sleazyneasy.com##.pre-spots
 slickdeals.net###afscontainer
@@ -26471,7 +26475,6 @@ zzzyk.com###Tinfo
 ||5.45.79.15^$popup
 ||5.61.55.143^$popup
 ||500xxxx.com/go.js
-||504ec1c95.host.njalla.net^
 ||5054399.com/js/rice/m.js
 ||5068.com/*gg
 ||5068.com/websleft.js
@@ -28740,7 +28743,7 @@ zzzyk.com###Tinfo
 ||aspku.com/z/
 ||aspservice.jp^$third-party
 ||asqconn.com^$popup
-||assemblyexchange.com^$third-party
+||assemblyexchange.com/ana-sentry.js
 ||asset.d5techs.com/script/track.min.js
 ||asset.d5techs.com/script/utm.min.js
 ||assets.adobedtm.com/extensions/*/AppMeasurement$script,domain=medscape.com
@@ -34747,6 +34750,7 @@ zzzyk.com###Tinfo
 ||goproxy.cc/api.php
 ||gorclck.com^$document
 ||gorclck.com^$popup
+||gorockhost.com^
 ||gositego.live^$popup
 ||gosoftwarenow.com^$popup
 ||gostats.cn^$third-party
@@ -43930,7 +43934,6 @@ zzzyk.com###Tinfo
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srtrak.com^$popup
-||srv239076.hoster-test.ru^
 ||srv239401.hoster-test.ru^
 ||srv239553.hoster-test.ru^
 ||srv240005.hoster-test.ru^
