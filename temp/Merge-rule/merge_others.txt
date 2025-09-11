@@ -716,7 +716,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /120_600_
 /120x600-
 /120x600.
-/120x600/*
 /120x600_
 /121sdw/*$script,third-party
 /125x600-
@@ -1399,7 +1398,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ads_iframe.$subdocument
 /ads_image/*$image
 /ads_images/*$image,domain=~wildlifeauctions.co.za
-/ads_prebid_async.js$script
 /adsbanner-$image
 /adsbanner/*$image
 /adscontroller.js$script
@@ -7988,7 +7986,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||att.com/ui/services_co_myatt_common/$script,~third-party
 @@||att.tv^*/VisitorAPI.js$script,~third-party
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
-@@||audience.io/api/v3/app/fetchPromo/$domain=campaign.aptivada.com
 @@||ausha.tsbluebox.com^$media,domain=podcast.ausha.co
 @@||auth2.picpay.com^*/event-tracking.js$script,~third-party
 @@||autocomplete.clearbit.com^$xmlhttprequest
@@ -8493,6 +8490,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||fotor.com.cn/static/web/share/js/
 @@||fplay.online/log_event$~third-party,xmlhttprequest
 @@||fpyf8.com/88/tag.min.js$domain=wxredian.com
+@@||franceinfo.fr/assets/*/piano-analytics/piano-analytics-$script,~third-party
 @@||franklymedia.com/*/300x150_WBNQ_TEXT.png$image,domain=wbnq.com
 @@||freecodecamp.org^$generichide
 @@||freedidi.com^$generichide
@@ -11699,6 +11697,7 @@ bjs.com##.banner-cta-wrap:has([src="//retailmedia-static.criteo.com/"])
 bjs.com##.banner-cta-wrap:has(img[src*="criteo.com"])
 bjs.com##.lazyload-wrapper:has(>
 bjs.com##[data-cnstrc-recommendations="true"]:has(.sponsored-products)
+bjs.com##div[data-index]:has(.sponsored-badge)
 bjs.com#?#[data-cnstrc-recommendations]:-abp-contains(Sponsored Products)
 bjx.com.cn##.layer_right2
 bjxfqc.net##script ~ ul[style]
@@ -17014,6 +17013,10 @@ imdb.com##.cornerstone_slot
 imdb.com##.promoted-provider
 imdb.com##[data-testid="media-sheet__attr-banner"]
 imeee.cn##.DA336
+img2go.com##.advertising-leaderboard
+img2go.com##.advertising-wrapper
+img2go.com,online-convert.com##.banner-ad-size
+img2go.com,vuejs.org##.text-ad
 imgbabes.com##div[style^="width:604px;"]
 imgbb.com##.abnr
 imgbox.com###full-page-redirect
@@ -20192,7 +20195,6 @@ oneinstack.com##.sidebar > .widget:last-child
 oneinstack.com##.w-ad
 oneplusbbs.com,wstx.com,xiaot.com###diy4
 online-calculator.org##div[style^="min-height:90px"]
-online-convert.com##.banner-ad-size
 online-image-editor.com,thehindu.com,watcher.guru##.add
 online-stopwatch.com##.publift-div
 online-stopwatch.com##.publift-unfixed
@@ -21139,6 +21141,8 @@ puzzle-aquarium.com,puzzle-battleships.com,puzzle-binairo.com,puzzle-bridges.com
 puzzle-aquarium.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-skyscrapers.com###Skyscraper
 puzzle-aquarium.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-skyscrapers.com###btIn
 puzzlegarage.com##.banner--inside
+puzzles.usatoday.com##.RO1uio__RO1uio
+puzzles.usatoday.com##.cw_banner_wrapper_container
 pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-1
 pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-2
 pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-3
@@ -24384,7 +24388,6 @@ vsping.com##.cell > span > a[href]:not([href*=".vsping.com"])
 vsping.com##div[style^="border-radius: 10px; box-shadow"]
 vuejs.org###special-sponsor
 vuejs.org##.sponsors-aside-text
-vuejs.org##.text-ad
 vuetifyjs.com##.v-sponsors
 vukajlija.com#@#.large-advert
 vx666.com##.async[href^="http"]
@@ -26468,6 +26471,7 @@ zzzyk.com###Tinfo
 ||5.45.79.15^$popup
 ||5.61.55.143^$popup
 ||500xxxx.com/go.js
+||504ec1c95.host.njalla.net^
 ||5054399.com/js/rice/m.js
 ||5068.com/*gg
 ||5068.com/websleft.js
@@ -28673,6 +28677,7 @@ zzzyk.com###Tinfo
 ||ark.le.com/s?vid=
 ||ark.letv.com/s?
 ||ark.letv.com/t?
+||arkadiumhosted.com/advertisement/
 ||arkayne.com^$third-party
 ||arkdcz.com^$popup
 ||arkoselabs.com/metrics/
@@ -28828,7 +28833,6 @@ zzzyk.com###Tinfo
 ||auctiva.com/Default.aspx?query
 ||audacy.com/data-events/
 ||audiblereflectionsenterprising.com^$popup
-||audience.io^$third-party
 ||audience.systems^$third-party
 ||audience2media.com^$third-party
 ||audienceinsights.net^$third-party
@@ -30385,6 +30389,7 @@ zzzyk.com###Tinfo
 ||cashthat.com^$third-party
 ||casino-zilla.com^$third-party
 ||casino.betsson.com^$popup
+||casinobonusdeals.io^$document
 ||casiyouaffiliates.com^$popup
 ||casualstat.com^$third-party
 ||casumoaffiliates.com^$popup
@@ -32946,6 +32951,8 @@ zzzyk.com###Tinfo
 ||eighten-bloc-party.thebrowser.company/script.js
 ||eiteribesshaints.com^$popup
 ||ejuiashsateampl.info^$popup
+||ekitan.com/*-tracker.js
+||ekitan.com/cmn/js/ekitan.log.js
 ||ekmpinpoint.co.uk^$third-party
 ||ekmpinpoint.com^$third-party
 ||eksiup.com^$third-party
@@ -34234,6 +34241,7 @@ zzzyk.com###Tinfo
 ||ganjingworld.com/pbjsDisplay.js
 ||ganjingworld.com/v1s/adsserver/
 ||ganjistatic1.com^*/adm/
+||gannett-cdn.com/partner/vendor/gntx-pbjs.js
 ||gannettdigital.com/capture_logger/
 ||gansudaily.com.cn/2017zt/images/*gg
 ||gaofen.com/source/plugin/gaofen_ad/
@@ -38668,6 +38676,7 @@ zzzyk.com###Tinfo
 ||mepirtedic.com^$third-party
 ||mercadoclics.com^$third-party
 ||mercadolibre.com/tracks^
+||mercdn.net/assets/scripts/raphaelp
 ||mercedes-benz.com/datadog-
 ||mercent.com^$third-party
 ||merchant-center-analytics.goog^$third-party
@@ -41865,6 +41874,8 @@ zzzyk.com###Tinfo
 ||quintelligence.com^$third-party
 ||quisma.com/tracking/
 ||quitsnap-blue.com^$third-party
+||quixoticzest.com^$document
+||quixoticzest.com^$popup
 ||quiz.stroeermediabrands.de/pub/$image
 ||qunale888.com/files/h5/
 ||qunar.com/js/ga.min.js
@@ -46031,6 +46042,7 @@ zzzyk.com###Tinfo
 ||usabilitytools.com^$third-party
 ||usabilla.com^$third-party
 ||usage.seibert-media.io^$third-party
+||usatoday.com/gcdn/ads/
 ||useblackbox.io/telemetry
 ||useinsider.com^$third-party
 ||useitbetter.com^$third-party
@@ -46722,7 +46734,6 @@ zzzyk.com###Tinfo
 ||webcounter.co.za^$third-party
 ||webcounter.ws^$third-party
 ||webd-assets.cdn4dd.com/s.js$domain=doordash.com
-||webdisk.hostsportstoto9.com^
 ||webdissector.com^$third-party
 ||webedia.fr/js/gs.js
 ||webengage.co^$third-party
@@ -47108,6 +47119,7 @@ zzzyk.com###Tinfo
 ||wowfan.net/static/js/index.
 ||wowow.co.jp/API/new_prg/get_tracking_url.php
 ||wowroms.com/images/Banner*.gif
+||wowroms.com/images/iptvsmarters.app.jpg
 ||wowshortvideos.com^$popup
 ||wowtcgloot.com/share/?d=$third-party
 ||woyaoq.com/201904100958_5cad4dbac9c5f.png
