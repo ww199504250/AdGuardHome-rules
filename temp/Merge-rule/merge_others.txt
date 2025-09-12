@@ -10139,7 +10139,9 @@ accuradio.com###pageSidebarWrapper
 accuradio.com###pl_leaderboard
 accuradio.com###slot2Wrapper
 accuradio.com##.MobileSquareAd__Container-sc-1p4cjdt-0
+accuweather.com##.connatix-player
 accuweather.com##.feature-tag
+accuweather.com#@#.connatix-player
 accuweather.com,cheddar.tv,deadline.com,elnuevoherald.com,heraldsun.com,olhardigital.com.br,tvinsider.com#@#.cnx-player-wrapper
 accuweather.com,phonescoop.com###top
 aceshowbiz.com##div[style="display:inline-block;min-height:300px"]
@@ -10253,10 +10255,6 @@ afar.com##.Page-header-hat
 afflift.com,audi-sport.net,beermoneyforum.com,birdforum.net,clubsearay.com,forums.sailinganarchy.com,rawdogsports.com,skitalk.com,sportfishingbc.com,studentdoctor.net##.samBannerUnit
 affyun.com##.text
 affyun.com##.text ~ a
-afkgaming.com###venatus-takeover
-afkgaming.com##._2-COY
-afkgaming.com##.o-yqC
-afkgaming.com##.ozw5N
 afr.com###stickyLeaderboard
 aframnews.com,afro.com,animationmagazine.net,aurn.com,aviacionline.com,blackvoicenews.com,borneobulletin.com.bn,brewmasterly.com,businessday.ng,businessofapps.com,carstopia.net,chargedevs.com,chicagodefender.com,chimpreports.com,coinweek.com,collive.com,coralspringstalk.com,dailynews.co.zw,dailysport.co.uk,dallasvoice.com,defence-industry.eu,dieworkwear.com,draxe.com,gadgetbuzz.net,gatewaynews.co.za,gayexpress.co.nz,gematsu.com,hamodia.com,illustrationmaster.com,islandecho.co.uk,jacksonvillefreepress.com,kbla1580.com,marionmugshots.com,marshallradio.net,mediaplaynews.com,moviemaker.com,newpittsburghcourier.com,nondoc.com,placenorthwest.co.uk,postnewsgroup.com,richmondshiretoday.co.uk,sammobile.com,savannahtribune.com,spaceref.com,swling.com,talkers.com,talkradioeurope.com,thegolfnewsnet.com,travelandtourworld.com,utdmercury.com,virtualrealitieshub.com,waamradio.com,webpokie.com,womensagenda.com.au##.g
 africam.com##[style="min-height: 250px;"]
@@ -11755,12 +11753,7 @@ blissfuldomestication.com###custom_html-22
 blitz.gg##.aside-content-column:has(.display-ad)
 blix.gg##a[href^="https://partnerbcgame.com/"]
 bljiex.com###player_pause
-blockchair.com##.\|.ᴏkane-top
-blockchair.com##.bottom--buttons-container
-blockchair.com##.d-block
-blockchair.com##.native-sentence
-blockchair.com##.okane-top
-blockchair.com##.top-buttons-wrap
+blockchair.com##.fs-sm.flow:has-text(Sponsored)
 blog.163.com###blog-163-com-toptips
 blog.163.com###loftertextlinkad
 blog.163.com###r_m163news
@@ -12219,6 +12212,7 @@ carcomplaints.com,dolldivine.com,entrepreneur.com,interglot.com,news18.com,price
 cardealermagazine.co.uk##.desktop
 careerindia.com##.cmscontent-top
 careerindia.com,oneindia.com##.inhouse-content
+carexpert.com.au##._26wjo85
 cargurus.co.uk##.leaderboardWrapper
 cargurus.com###leaderboardWrapper
 cargurus.com##.ranxnv:has(.leaderboard_inline)
@@ -15207,8 +15201,6 @@ freeones.com##.banner-placeholder
 freeones.com##.js-track-event
 freeonlineapps.net##.sp
 freepik.com###adobe-pagination-mkt-copy
-freepik.com##._1286nb18b
-freepik.com##._1286nb1rx
 freepik.com##.adobe-coupon-container
 freepik.com##.adobe-detail
 freepik.com##.adobe-grid-design
@@ -15355,10 +15347,6 @@ gadgets360.com##._ad
 gadgets360.com##.advertisment
 gadgets360.com##.lhs_top_banner
 gadgets360.com##.pagepusheradATF
-gadgetsnow.com##._1edxh
-gadgetsnow.com##._1pjMr
-gadgetsnow.com##._2slKI
-gadgetsnow.com,iamgujarat.com,indiatimes.com,samayam.com,vijaykarnataka.com##.colombia
 gaiaonline.com###gaiaonline_leaderboard_atf
 gaiaonline.com###iframeDisplay
 galacg.me##.sidebar-top
@@ -16741,6 +16729,7 @@ i24news.tv##div[class^="Advert_"]
 iai.tv##.article-sidebar-adimage
 iai.tv##.auw--container
 iai.tv##.iai-article--footer-image
+iamgujarat.com,indiatimes.com,samayam.com,vijaykarnataka.com##.colombia
 ians.in##.add-inner
 iask.sina.com.cn###daily_topic_flnr
 iask.sina.com.cn###topic_ylzz_new
@@ -22903,8 +22892,6 @@ sussexexpress.co.uk##.cIffkq
 suxzp.com##.full-screen-cover
 svgrepo.com##[class^="style_native"]:has([href*="buysellads.com"])
 svscomics.com##.regi
-swarajyamag.com##.CrIrA
-swarajyamag.com##._1eNH8
 sweetdeals.com#@#a[href*="https://www.sweetdeals.com/"] img
 sweethentai.com##[href^="https://gadlt.nl/"]
 swfchan.com###aaaa
@@ -23317,8 +23304,6 @@ thegay.com##.video-slider-container
 thegay.com,upornia.com,upornia.tube##.video-page__content > .right
 thegazette.com###billboard-wrap
 thegazette.com###high-impact
-thegearpage.net##.VSForumList
-thegearpage.net##.VSForumView
 thegearpage.net##.VSPostbit
 thegearpage.net##.vsBB
 thegearpage.net##.vsBBAdhesion
@@ -28673,7 +28658,6 @@ zzzyk.com###Tinfo
 ||area51.to^$third-party
 ||arena-quantum.co.uk^$third-party
 ||arena.im/v2/collect
-||argenta-be.cloudaccess.host^
 ||argrowlitheor.com^$document
 ||argrowlitheor.com^$popup
 ||argtesa.com/cdn-cgi/trace
@@ -31332,7 +31316,7 @@ zzzyk.com###Tinfo
 ||connatix.com/scripts/$~third-party
 ||connatix.com/tr/
 ||connatix.com/us/google/
-||connatix.com^$third-party,domain=~cheddar.tv|~deadline.com|~elnuevoherald.com|~heraldsun.com|~huffpost.com|~lmaoden.tv|~loot.tv|~miamiherald.com|~olhardigital.com.br|~sacbee.com
+||connatix.com^$third-party,domain=~accuweather.com|~cheddar.tv|~deadline.com|~elnuevoherald.com|~heraldsun.com|~hollywoodreporter.com|~huffpost.com|~lmaoden.tv|~loot.tv|~miamiherald.com|~olhardigital.com.br|~sacbee.com
 ||connect.airfrance.com/ach/api/event^
 ||connect.bolt.com/v1/log
 ||connect.facebook.net/signals/$third-party
@@ -34449,6 +34433,7 @@ zzzyk.com###Tinfo
 ||gettubetv.com^$third-party
 ||gettyimages.*/pulse$ping
 ||getviously.com^$third-party
+||getwarmly.com^$third-party
 ||gexing.com/i/*960x
 ||gexing.com/j/??zmask.js,easing.js?
 ||gez.io^$third-party
@@ -39685,7 +39670,6 @@ zzzyk.com###Tinfo
 ||ngbn.net^$third-party
 ||ngdgbedgtw-61717.portmap.host^
 ||ngfruitiesmatc.info^$popup
-||nglocalhost.com^
 ||ngmco.net^$third-party
 ||ngplansforourco.com^$popup
 ||ngpvan.com/v1/Track/
@@ -42514,6 +42498,7 @@ zzzyk.com###Tinfo
 ||royalcams.com/tools/track.php?
 ||royalcount.de^$third-party
 ||rozamimo9za10.com^$popup
+||rozm12345678-28404.portmap.host^
 ||rrjc.com/home/seo/ad/
 ||rryy99.com/statics/js/stat.js
 ||rs0.co.uk^$third-party
@@ -43275,6 +43260,7 @@ zzzyk.com###Tinfo
 ||shulihua.net/js/topcen.js
 ||shulihua.net/js/yegonggao.js
 ||shulugoo.net^$document
+||shulugoo.net^$popup
 ||shumilou.co/style/html5.js
 ||shuowan.com/Public/shuo/20160119/569dafddd13be.jpg
 ||shussausach.com^$popup
@@ -48028,7 +48014,7 @@ zzzyk.com###Tinfo
 ||zp365.com/newhousered/hb-index-pop-
 ||zpiyi.com/public/js/global.js
 ||zprk.io^$third-party
-||zrblog.net/gg/
+||zrblog.net*/gg/
 ||zrlqm.com^$document
 ||zrlqm.com^$popup
 ||zryydi.com^$popup
