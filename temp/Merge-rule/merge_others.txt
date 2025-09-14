@@ -7310,6 +7310,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://links.paypal.*/eos/$image
 ://load.*.js?st=$~third-party
 ://loader.*.com/loader.min.js|$script,~third-party
+://mailmag.hhcross.hankyu-hanshin.jp/c/*.gif
 ://matomo.$domain=~matomo.dhjensen.dk|~matomo.org
 ://metrics-collector.
 ://mine.torrent.pw^
@@ -7477,6 +7478,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ?usid=*&utid=
 ?v=2&tid=G-$~third-party
 ?whichAd=freestar&
+?wmcAction=wmcTrack&
 ?wppaszoneid=
 ?wpstealthadsjs=
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
@@ -28583,6 +28585,7 @@ zzzyk.com###Tinfo
 ||apolloprogram.io^$third-party
 ||app-bnkr.b-cdn.net/js/lv.js
 ||app-g.39.net/NNN/
+||app.abralytics.com/assets/tracker/index.js
 ||app.adjust.com^$third-party
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
@@ -29072,6 +29075,7 @@ zzzyk.com###Tinfo
 ||backend.academy.cs.cmu.edu/api/v0/event/
 ||backend.alia-cloudflare.com/launcher/events/
 ||backend.alia-cloudflare.com/user/events
+||backend.leadconnectorhq.com/attribution_service/user_session_v3/update_session/
 ||backend.leadconnectorhq.com/forms/form-survey-event
 ||backend.verbolia.com/content/js/velw.min.js
 ||backgroundrunway.com^$popup
@@ -29925,6 +29929,9 @@ zzzyk.com###Tinfo
 ||books.com.tw/exep/ap/$third-party
 ||books.com.tw/web/apActivityStick?
 ||booktopia.com.au/Ns7aBMIv/init.js
+||bookwalker.jp/custom/unitag/
+||bookwalker.jp/ex/browser-viewer/unitag_bv.js
+||bookwalker.jp/v/louis/*/tracks.js
 ||boom-bb.com^$popup
 ||boomerang.com.au^$third-party
 ||boomtrain.com/identify/resolve?
@@ -30488,6 +30495,7 @@ zzzyk.com###Tinfo
 ||cdn.galacg.me/img/*.gif
 ||cdn.galacg.me/img/*.jpg
 ||cdn.ghostmonitor.com^
+||cdn.gov.cfigroup.com/webmon/s/source/webmon/$domain=weather.gov
 ||cdn.haokongbu1.com^*.js
 ||cdn.http.anno.channel4.com/m/1/$media,domain=uktvplay.co.uk
 ||cdn.jp1media.com/js/v1/dmp.min.js
@@ -30504,6 +30512,7 @@ zzzyk.com###Tinfo
 ||cdn.stamped.io/cdn/images/pixel.png
 ||cdn.statically.io/gh/opcdn/analytics/main/script.js
 ||cdn.streambeast.io/angular.js
+||cdn.super.com/remote-event-registry.json
 ||cdn.thejournal.ie/media/hpto/$image
 ||cdn.turboviplay.com/ads.js
 ||cdn.vaughnsoft.net/abvs/
@@ -31899,6 +31908,7 @@ zzzyk.com###Tinfo
 ||danlan.org/KFC/
 ||danmeixsw.com/js/mwap.js
 ||danorenius.com^$third-party
+||dap.digitalgov.gov/Universal-Federated-Analytics-Min.js
 ||dapxl.com^$third-party
 ||daqiso.com/ggbl/
 ||dark-reader.com^$popup
@@ -40862,6 +40872,7 @@ zzzyk.com###Tinfo
 ||pictureturn.com^$third-party
 ||picyq.com/index.php/Home/run/get_ad/
 ||pie.org/g/collect?
+||pie.org/v1/experiments/view
 ||pierisrapgae.com^$popup
 ||pierrebotton.com/global/
 ||pigeonside.com^$popup
@@ -42318,6 +42329,7 @@ zzzyk.com###Tinfo
 ||resellerratings.com/popup/include/popup.js
 ||resentreaccotia.com^$document
 ||resentreaccotia.com^$popup
+||reservationday.com/metrics/
 ||resetdigital.co^$third-party
 ||reshin.de^$third-party
 ||residenceseeingstanding.com^$popup
@@ -42647,6 +42659,7 @@ zzzyk.com###Tinfo
 ||s.click.aliexpress.com^$popup,domain=dzapk.com|up-4ever.net
 ||s.go.sohu.com^*/?callback=
 ||s.holm.ru/stat/
+||s.joinhoney.com/evs
 ||s.pinimg.com/ct/core.js
 ||s.pixfs.net/js/pixlogger.min.js
 ||s.pixfs.net/visitor.pixplug.in/
@@ -42848,6 +42861,7 @@ zzzyk.com###Tinfo
 ||scribol.com/traffix/widget_tracker/
 ||scrippscontroller.com^$third-party
 ||script-api.kinja.com/script?
+||script.claspo.io/forms/v1/event
 ||script.idgentertainment.de/gt.js
 ||script.mixi.net/static/js/build/mixi-analysis-.production.js
 ||scriptil.com^$third-party
@@ -44014,7 +44028,9 @@ zzzyk.com###Tinfo
 ||ssl-images-amazon.com/images/*/MAsf-
 ||ssl-images-amazon.com/images/I/31YXrY93hfL.js$domain=imdb.com
 ||ssl-images-amazon.com/images/S/apesafeframe/ape/sf/$script
+||ssl.pstatic.net/static.news/*/js/generated/aside.statistics.js$domain=media.naver.com|news.naver.com
 ||ssl.pstatic.net/static/coreplayer/mclog/media-capable-log.js$domain=naver.com
+||ssl.pstatic.net/tveta/libs/glad/*/gfp-display-sentry-logger.js$domain=news.naver.com
 ||sslproxy.dk^*/analytics.js
 ||ssnn.net^*-200-250.jpg
 ||sspai.com/api/v1/recommend*=article_
