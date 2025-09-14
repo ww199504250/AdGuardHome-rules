@@ -4761,6 +4761,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /trace/record?
 /trace?sessionid=
 /traces.php?
+/tracifyv2.js
 /track-event.js
 /track-focus.min.js
 /track-imp?
@@ -5016,6 +5017,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /v1/log/web-vitals$xmlhttprequest
 /v1/pixel.js
 /v1/pixel?
+/v1/rgstr|
 /v1/stats/track
 /v1/tracker.js
 /v1/viewport_events
@@ -10810,7 +10812,7 @@ asda.com##.cms-modules:has([data-module*="Sponsored Products"])
 asda.com##.co-item:has(.co-item__sponsored-label)
 asda.com##.co-product-list[data-module-type="HookLogic"]
 asheville.com##.injected-ads
-asiangay.tv,asiangaysex.net,gaysex.tv,gayxx.net,japangaysex.com##.float-ck
+asiangay.tv,asiangaysex.net,gaysex.tv,gayxx.net,japangaysex.com,jav.com.co##.float-ck
 asianjournal.com###fancybox-overlay
 asianjournal.com###fancybox-wrap
 asianjournal.com##.ad_before_title
@@ -10969,6 +10971,7 @@ autotrader.co.uk##li[class]:has(span[data-testid="FEATURED_LISTING"])
 autotrader.co.uk#?#[data-testid="desktop-search"] li:has(span:has-text(Ad))
 autotrader.com##.col-xs-12.col-sm-4:has([data-cmp="inventorySpotlightListing"])
 autotrader.com##[data-cmp="alphaShowcase"]
+autotrader.com.au##.resultsGrid--halfpage-0
 av.movie##.adss-160x600
 av.movie##.pop-up-a
 av.movie##.video-banner
@@ -15569,6 +15572,8 @@ gearjunkie.com##.video-jwplayer
 gearlive.com##.double
 gearlive.com##.wellvert
 gearlive.com,mediamass.net###google
+gearnews.com##.widget_adtag_rectangle
+gearnews.com##.wp-affiliate-wrapper
 gearpatrol.com##.gearpatrol-ad
 gearpatrol.com##.wp-block-gearpatrol-ad-slot
 gearpatrol.com##.wp-block-gearpatrol-from-our-partners
@@ -15992,9 +15997,13 @@ gumtree.com###bing-text-ad-1
 gumtree.com###bing-text-ad-2
 gumtree.com###bing-text-ad-3
 gumtree.com###tBanner
-gumtree.com##[data-q="section-middle"] > div[style^="display:grid;margin"]
-gumtree.com#@#.postad
+gumtree.com.au###FUSE_VIP_BOTTOM1_DWEB_24
+gumtree.com.au###FUSE_VIP_DESCRIPTION_DWEB_24
+gumtree.com.au###FUSE_VIP_SIDE1_DWEB_24
+gumtree.com.au###FUSE_VIP_SIDE2_DWEB_24
+gumtree.com.au###sticky-top-container
 gumtree.com.au###view-item-page__leaderboard-wrapper
+gumtree.com.au##.css-vdy5ot-Box
 gumtree.com.au##.homepage-gallery__mrec-placeholder
 gumtree.com.au,s.tabelog.com#@#[data-ad-name]
 gunbroker.com###home-ad-a-wrapper
@@ -20415,6 +20424,7 @@ pcgamebenchmark.com,pcgamesn.com,pockettactics.com,thedigitalfix.com,wargamer.co
 pcgamebenchmark.com,soccerway.com,streetcheck.co.uk##.placement
 pcgamer.com###coupons
 pcgamer.com##.listingResult:has(> .sponsored-post)
+pcgamer.com##.sponsored-card
 pcgamer.com,techcrunch.com,tomsguide.com,tomshardware.com##div[class*="ad-unit"]
 pcgames.com.cn##.aFollowb
 pcgamesn.com##.constellation_promoted_iframe
@@ -24157,6 +24167,7 @@ upjoke.com##div[style="margin-bottom:0.5rem; min-height:250px;"]
 upload.ee##[href^="https://www.upload.ee/click.php"]
 uploader.link##[class^="ads"]
 uploadrar.com##a[href*="?"][target="_blank"]
+uploadvr.com##.force-load-ad
 upornia.com##.aa_label
 upornia.com,upornia.tube##.eveeecsvsecwvscceee
 upornia.com,upornia.tube##.underplayer > section
@@ -32763,7 +32774,6 @@ zzzyk.com###Tinfo
 ||earn-bitcoins.net/banner_
 ||earnbeginnerdocument.com^$document
 ||earnbeginnerdocument.com^$popup
-||eartab66754032ghostfish.blob.core.windows.net^
 ||earthlink000.hostingsiteforfree.com^
 ||eas696r.xyz^$popup
 ||easelegbike.com^$document
@@ -33537,6 +33547,7 @@ zzzyk.com###Tinfo
 ||fc.webmasterpro.de^$third-party
 ||fc2.com/counter_img.php?
 ||fc2fan.net/js/check_focus.js
+||fcprghostmaster.lectec.com.au^
 ||fcs.ovh^$third-party
 ||fd.nl/pixel/
 ||fd80s.com/static/m.
@@ -35388,6 +35399,7 @@ zzzyk.com###Tinfo
 ||hkomv94te.localto.net^
 ||hktvmall.com/api/event
 ||hktvmall.com/api/preroll/getList?
+||hlstatus.com^$third-party
 ||hltoon.com/hanman/static/dist/ppm/js/foot
 ||hltv.org/partnerimage/$image
 ||hltv.org/scripts/hltv-tracking.js
@@ -35508,7 +35520,6 @@ zzzyk.com###Tinfo
 ||host579678.stronawcal.pl^
 ||host647309.stronawcal.pl^
 ||hostadsmarkets.com^
-||hostalalberdi.cl^
 ||hostalloscisnes.cl^
 ||hostave.net^
 ||hostave2.net^
@@ -37958,6 +37969,7 @@ zzzyk.com###Tinfo
 ||loazuptaice.net^$popup
 ||loc.kr^$third-party
 ||local-bang.com^
+||local-eng-cnbasepro.pages.dev^
 ||local-prime.fr^
 ||local-shares.ri.la^
 ||local-subsidiary.gl.at.ply.gg^
@@ -38647,6 +38659,7 @@ zzzyk.com###Tinfo
 ||megpxs.com^$third-party
 ||meherdewogoud.com^$popup
 ||mehrwertdienstekompetenz.de/cp/$third-party
+||meijersa.bighosted.com^
 ||meiju22.com/new/Public/gg.js
 ||meiju8.cc/js/jquery.p.min.js
 ||meiju8.cc/js/m_ban_
@@ -40062,6 +40075,7 @@ zzzyk.com###Tinfo
 ||ohmystats.com^$third-party
 ||ohnorobot.com/verify.pl?
 ||ohrdsplu.com^$popup
+||oib.kek.mybluehostin.me^
 ||oilofasia.com/images/banners/
 ||oita-press.co.jp/js2020/analytics.js
 ||ojrq.net^$document
@@ -42207,6 +42221,7 @@ zzzyk.com###Tinfo
 ||refersion.com^$third-party
 ||refinedads.com^$third-party
 ||refinery89.com/performance/
+||refix.ai^$third-party
 ||reflow.tv/pixels/
 ||refpa.top^$popup
 ||refpa4293501.top^$popup
@@ -43046,7 +43061,6 @@ zzzyk.com###Tinfo
 ||services.haaretz.com/ds/impression
 ||services.haaretz.com/ms-gstat-campaign/
 ||services.radio-canada.ca/metrik/
-||serving-refor.com^$document
 ||serving-refor.com^$popup
 ||servizi.unionesarda.it/controlli/
 ||servo-report.dvdfab.
@@ -43133,7 +43147,6 @@ zzzyk.com###Tinfo
 ||sfnmt.com/dq/
 ||sfstatic.net/build/js/basicMetricsTracking.
 ||sfswannn.activehosted.com^
-||sgad.site^$document
 ||sgben.com^$document
 ||sgk.xyz/static/js/pc.js
 ||sgsmtp12.sgcloudhosting.com^
@@ -44021,7 +44034,6 @@ zzzyk.com###Tinfo
 ||stackoverflow.com/_/client-timings
 ||stackshare.io/analytics.
 ||staggersuggestedupbrining.com^$popup
-||staid-host.pro^
 ||stainedhost.pro^
 ||stainlesssteel.ru/counter.php?
 ||stake.com/*&clickId=$document
@@ -45331,6 +45343,7 @@ zzzyk.com###Tinfo
 ||traceparts.com/logs
 ||traceslocallynotable.com^
 ||traceworks.com^$third-party
+||tracify.ai^$third-party
 ||track-campaing.club^$popup
 ||track-re01.com^$third-party
 ||track-victoriadates.com^$popup
