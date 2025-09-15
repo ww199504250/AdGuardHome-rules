@@ -7336,6 +7336,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://seai*/ads/float.js
 ://segment-api.
 ://segment-cdn.
+://sg1.wizrocketmail.net/r?e=$image
 ://sgtm.*.js?
 ://signal.*/hardal
 ://signals.*/hardal
@@ -8525,6 +8526,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||g.doubleclick.net/gampad/ads?*RakutenShowtime$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?env=$xmlhttprequest,domain=wunderground.com
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=v.ifeng.com
+@@||g.doubleclick.net/gampad/live/ads?*%2Flemino_instr%$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/live/ads?*tver.$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=accuweather.com|blastingnews.com|bloomberg.com|chelseafc.com|chromatographyonline.com|cornwalllive.com|digitaltrends.com|downdetector.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|game.anymanager.io|games.coolgames.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nationalreview.com|nationalworld.com|nbcsports.com|nycgo.com|physicianspractice.com|scotsman.com|telsu.fi|voici.fr|weather.com
 @@||g.doubleclick.net/pagead/ads$subdocument,domain=sudokugame.org
@@ -10411,7 +10413,6 @@ allaboutcookies.org###offer-review-widget-container
 allafrica.com###div-clickio-ad-superleaderboard-a
 allbusiness.com##.ad--tag
 allclassical.org##.underwriting-container
-alldeepfake.ink,hentaimama.io,underhentai.net,watchhentai.net###overlay
 allevents.in##.ads_place_right
 allevents.in##.advt-text
 alliedwindow.com,isewanferry.co.jp,jreu-h.jp,junkmail.co.za,nexco-hoken.co.jp,version2.dk#@#.ad-text
@@ -12307,7 +12308,6 @@ cdmediaworld.com,cryptofeeds.news,fxempire.com,gametarget.net,lnkworld.com,power
 cdmediaworld.com,flashx.cc,flashx.co,forum.gsmhosting.com,gametarget.net,jeepforum.com,lnkworld.com,themediaonline.co.za,topprepperwebsites.com,transdict.com##[width="468"]
 cdmediaworld.com,gametarget.net,lnkworld.com##.chk
 cdn.ampproject.org,linguee.com,thesuburban.com###banner_top
-cdnm4m.nl###directAds
 cdrab.com,offerinfo.net##.adslr
 ce.cn,chenjiayu.cn,chinabidding.com.cn,eastmoney.com,ieforex.com,laod.cn,likefont.com,shangyexinzhi.com,zp365.com##.advert
 ceiea.com##.adclass2019
@@ -14356,8 +14356,8 @@ element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
 element-plus.org##.doc-content-zosdsoycx
 elephanttube.world##.bottom-block
-elephanttube.world##.spots-bottom
-elephanttube.world,pornid.xxx##.rsidebar-spots-holder
+elephanttube.world##.rsidebar-spots-holder
+elephanttube.world,pornid.name,pornid.xxx##.spots-bottom
 elevationmap.net###publift_home_billboard
 elevenforum.com,html-code-generator.com##.gads
 elfaro.net###layout-ad-header
@@ -14820,9 +14820,10 @@ ferrarichat.com##.funzone
 ferrarichat.com##.node_sponsor
 fetish-games.com###text-6
 fetishshrine.com###mobile-under-player
-fetishshrine.com,pornwhite.com,sleazyneasy.com##.container-aside
-fetishshrine.com,pornwhite.com,sleazyneasy.com##.items-holder
-fetishshrine.com,sleazyneasy.com##.bottom-container
+fetishshrine.com##.container > .heading:has(+ .bottom-content)
+fetishshrine.com##.container-side
+fetishshrine.com##.item-holder
+fetishshrine.com,sleazyneasy.com##.bottom-content
 fextralife.com###content-add-a
 ff00::0 ip6-localnet
 ff02::3 ip6-allhosts
@@ -14971,6 +14972,7 @@ firstpost.com##.top-addd
 fishpi.cn##a[href*="guangdianhong.com"]
 fishpi.cn#?#.module:-abp-has(>.ad)
 fitacg.com##a[href*="ifift.com"]
+fitandwell.com,homesandgardens.com,idealhome.co.uk,marieclaire.com##.sponsored-post--placeholder
 fivebooks.com,varsity.co.uk##.Leaderboard-container
 fiverr.com#?#.gig-card-layout:-abp-contains(Ad by)
 fixya.com###footerBanner
@@ -15450,6 +15452,7 @@ gameslol.net,yabiladi.com##.pub_header
 gamesofdesire.com###chat
 gamesofdesire.com##[id^="skin_"]
 gamesradar.com##.in-article
+gamesradar.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com##.sponsored-card
 gamesradar.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
 gamesradar.com,tomsguide.com,tomshardware.com,whathifi.com##.vid-present
 gamesystemrequirements.com##.act_eng
@@ -16264,7 +16267,7 @@ hdtube.porn##.footer__banners
 hdtube.porn##.g-col-banners
 hdtube.porn##.player-top-line
 hdtube.porn##.under-player-link
-hdtube.porn,pornid.xxx,rat.xxx##.cs-under-player
+hdtube.porn,rat.xxx##.cs-under-player
 hdzog.com,xcafe.com##a[href*="/cs/"]
 hdzone.org##a[style*="fixed"]
 he-games.com###he_banner_ad
@@ -16327,8 +16330,8 @@ helpnetsecurity.com##a[href^="https://helpnet.link/"] > img
 helpnetsecurity.com##aside[style="position:relative;display:block;box-sizing:border-box;margin:auto;padding:0;text-align:center;"]
 helpnetsecurity.com##div[style*="max-height: 250px; max-width: 300px;"]
 helpwithwindows.com###desc
-hentai-cosplays.com,hentai-img.com###display_image_detail > span
 hentai-gamer.com##[src^="https://www.hentai-gamer.com/pics/"]
+hentai-img.com###display_image_detail > span
 hentai-imperia.org##a[href^="http://www.adult-empire.com/rs.php?"]
 hentai-sharing.net###text-9
 hentai.com##div[style="cursor: pointer;"]
@@ -16364,6 +16367,7 @@ hentaihaven.xxx##.vrav_a_pc
 hentaimama.io###text-3
 hentaimama.io###text-5
 hentaimama.io##div[class^="in-between-ad"]
+hentaimama.io,underhentai.net,watchhentai.net###overlay
 hentaipaw.com##.max-w-\[720px\]
 hentaiplay.net###video_overlays
 hentaiprn.com###block-27
@@ -16483,6 +16487,7 @@ hl.cn###xf_right
 hlgnet.com##.co_ad
 hlgnet.com##.co_ad3
 hlgnet.com,sina.com##.tad
+hlsloader.com##.text-center > span[style="opacity:0.7;font-size:x-small"]
 hltv.org##.gen-firstcol-box
 hltv.org##.kgN8P9bvyb2EqDJR
 hltv.org##.mid-container
@@ -17195,8 +17200,6 @@ instacart.com##.shoppable-list-a-las2t7
 instacart.com##li[data-testid="compact-item-list-header"]
 instagram.com#?#div[style="max-height: inherit; max-width: inherit; display: none
 instagram.com#?#div[style="max-height: inherit; max-width: inherit;"]:-abp-has(span:-abp-contains(Paid partnership with ))
-instantfap.com###af
-instantfap.com##a[href^="https://go.redgifcams.com/"]
 instapundit.com###adspace_top > .widget-ad__content
 instrument.com.cn###leftFlash
 instrument.com.cn,tool.lu##.swiper-container
@@ -17875,7 +17878,7 @@ justetf.com##div[id^="shadow-teaser-"]:has(div[class="disclaimer mb-1"])
 justfullporn.net,onlyxxxporn.com##.order-1:has(> .video-block-happy)
 justinweather.com##.top-ad-banner-wrapper
 justjared.com,justjaredjr.com##.top_rail_shell
-justpicsplease.com,xfantasy.su##.ba
+justpicsplease.com##.ba
 justthegays.tv###ad-banner
 justthegays.tv##.zd-slot
 justthenews.com##.video
@@ -18501,7 +18504,6 @@ live.bilibili.com##.container-wrapper[style="height:180px;min-width:1280px"]
 live.bilibili.com##.container-wrapper[style="height:446px;min-width:1280px"]
 live365.com#@#.adshome
 live94today.com##.js-demo-avd
-livecamrips.com###live-cam
 livecharts.co.uk##.banner_long
 livedoorblogstyle.jp#@#.ad-center
 livejournal.com##.allbanners
@@ -19595,7 +19597,7 @@ myreadingmanga.info,yaoimangaonline.com##a[href^="https://www.gaming-adult.com/"
 myrealgames.com##.block_adv_mix_top2
 myrgv.com##.td_block_wrap:has(a[href*="/ask-the-expert/"])
 mysexgames.com##table[height="630"]
-mysexgames.com##table[height="640"]
+mysexgames.com##table[style^="background-color:#eeeeee; width:1020px;"]
 mysexgames.com,xnxxxhd.com##body > div[style*="z-index:"]
 myslavegirl.org##.signature
 mystore.com#@#[href^="https://mystore.com/"] > img
@@ -20426,7 +20428,6 @@ pcgamebenchmark.com,pcgamesn.com,pockettactics.com,thedigitalfix.com,wargamer.co
 pcgamebenchmark.com,soccerway.com,streetcheck.co.uk##.placement
 pcgamer.com###coupons
 pcgamer.com##.listingResult:has(> .sponsored-post)
-pcgamer.com##.sponsored-card
 pcgamer.com,techcrunch.com,tomsguide.com,tomshardware.com##div[class*="ad-unit"]
 pcgames.com.cn##.aFollowb
 pcgamesn.com##.constellation_promoted_iframe
@@ -20922,8 +20923,8 @@ pornhub.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com##img[src*="blob:
 pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width: 50%;)
 pornicom.com##.pre-ad
 pornicom.com##.spot-after
-pornid.name##.sidebar-holder
-pornid.xxx##.under-player-holder
+pornid.name,pornid.xxx##.aside-box
+pornid.name,pornid.xxx##.cs-under-player-link
 pornlib.com###lcams2
 pornlib.com##a[href*="/linkout/"]
 pornlizer.com##a[href^="https://tezfiles.com/store/"]
@@ -20979,6 +20980,8 @@ pornvalleymedia.net###media_image-87
 pornvalleymedia.net###media_image-88
 pornvalleymedia.net###media_image-90
 pornwhite.com,sheshaft.com,sleazyneasy.com##.native-holder
+pornwhite.com,sleazyneasy.com##.container-aside
+pornwhite.com,sleazyneasy.com##.items-holder
 pornwhite.com,sleazyneasy.com##div[data-banner]
 pornwhite.com,teenpornvideo.xxx##.bottom-spots
 pornx.to###player-api-over
@@ -22324,7 +22327,7 @@ slaynews.com##[href="https://slaynews.com/ads/"]
 sleazyneasy.com###next-tv1
 sleazyneasy.com###next-tv2
 sleazyneasy.com###pre-spots
-sleazyneasy.com##.bottom-content
+sleazyneasy.com##.bottom-container
 sleazyneasy.com##.cams-videos
 sleazyneasy.com##.pre-spots
 slickdeals.net###afscontainer
@@ -23779,8 +23782,6 @@ tophub.today##.ax
 topic.com##.pages-Article-adContainer
 topinsearch.com##.TelkiTeasersBlock
 topminecraftservers.org##.grey-section
-toppixxx.com###bottom
-toppixxx.com##.thumbad
 topservers.com##.long_wrap
 topsmerch.com##.advertisement--6
 topsmerch.com##.advertisement-2-box
@@ -25052,7 +25053,6 @@ xdf.cn##.middleadv
 xdf.cn##.popup-wrap
 xdf.cn##div[style="position:fixed;top:120px;left:4px;width:210px;height:298px;isplay:block;background-position:initial initial;background-repeat:no-repeat no-repeat;"]
 xdpedia.com#@#div[id^="ezoic-pub-ad-"]
-xfantasy.su###listing-ba
 xfantazy.com##.partwidg1
 xgrb.cn##.d_2016_ggw
 xgroovy.com##.fluid-b
@@ -37982,7 +37982,6 @@ zzzyk.com###Tinfo
 ||loazuptaice.net^$popup
 ||loc.kr^$third-party
 ||local-bang.com^
-||local-eng-cnbasepro.pages.dev^
 ||local-prime.fr^
 ||local-shares.ri.la^
 ||local-subsidiary.gl.at.ply.gg^
@@ -39339,6 +39338,7 @@ zzzyk.com###Tinfo
 ||myscoop-tracking.googlecode.com^$third-party
 ||mysdcc.sdccd.edu^*/.log/
 ||myseostats.com^$third-party
+||mysexgames.com/pix/ads/
 ||mysexgames.com/pix/best-sex-games/
 ||mysexgames.com/plop.js
 ||mysexjourney.com/revenue/
@@ -39754,7 +39754,6 @@ zzzyk.com###Tinfo
 ||nicovideo.jp/analyze/
 ||nicovideo.jp/api/counter/
 ||niftymaps.com^$third-party
-||nigged.com/tools/get_banner.php
 ||nightbesties.com^$document
 ||nightbesties.com^$popup
 ||nigroopheert.com^$popup
@@ -41204,10 +41203,8 @@ zzzyk.com###Tinfo
 ||pornhb.me^$popup
 ||pornhub.*/_xa/ads
 ||pornicom.com/jsb/
-||pornid.name/ffg/
-||pornid.name/polstr/
-||pornid.xxx/azone/
-||pornid.xxx/pid/
+||pornid.*/mintor/
+||pornid.*/srt/
 ||pornj.com/wimtvggp/
 ||pornjam.com/assets/js/renderer.
 ||pornjv.com/doe/
@@ -41219,8 +41216,6 @@ zzzyk.com###Tinfo
 ||pornogramxxx.com/out/
 ||pornogramxxx.com/out/$popup
 ||pornohans.net/static/exo
-||pornorips.com/4e6d8469754a.js
-||pornorips.com/9fe1a47dbd42.js
 ||pornpapa.com/extension/
 ||pornpics.com^$subdocument
 ||pornpics.de/api/banner/
@@ -42012,6 +42007,7 @@ zzzyk.com###Tinfo
 ||rakuten.co.jp/com/js/omniture/
 ||rakuten.co.jp/gw.js
 ||rakuten.com/rmsgjs/soj2.js
+||rakutenadvertising.io^$third-party
 ||rakuya.com.tw/position?task=
 ||rallantynethebra.com^$popup
 ||ralphlauren.com^*/init.js
@@ -43994,6 +43990,7 @@ zzzyk.com###Tinfo
 ||srv240040.hoster-test.ru^
 ||srv240249.hoster-test.ru^
 ||srv240380.hoster-test.ru^
+||srv240393.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
