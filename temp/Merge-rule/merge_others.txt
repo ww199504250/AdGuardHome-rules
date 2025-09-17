@@ -86,7 +86,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 &ga_blocked=$image
 &hitType=pageview&
 &http_referer=$script,xmlhttprequest,domain=~biletomat.pl|~facebook.com|~jobscore.com
-&ii=fingerprintjs-pro-react
 &l=dataLayer&cx=c
 &pagegroup=*&url=$script
 &popunder=$popup
@@ -28600,6 +28599,8 @@ zzzyk.com###Tinfo
 ||app.posthog.com/e/?ip=
 ||app.posthog.com/static/array.js
 ||app.posthog.com/static/recorder-v2.js
+||app.qualified.com/*/sentry/
+||app.qualified.com/*/visitor_events
 ||app.revenuehero.io/logs/ingest
 ||app.tag-plus.com/ja/api/v1/unison_planet/heat_map
 ||app.trytada.com/addImpression
@@ -43913,6 +43914,7 @@ zzzyk.com###Tinfo
 ||sponsorcounter.de^$third-party
 ||sponsored.com^$third-party
 ||sport.ua/pixel/
+||sporthostel.org^
 ||sportlemon24.com/img/301.jpg
 ||sportnews.bz/pcookie?
 ||sportrecs.com/redirect/embed/
