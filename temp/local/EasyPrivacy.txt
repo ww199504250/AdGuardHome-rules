@@ -3032,6 +3032,7 @@ _WebVitalsReporter_
 .hilton.com/subscription/watermark.gif?
 .hootsuite.com/trk?
 .imgur.com/lumbar.gif
+.info.kansaimiraibank.co.jp/c/*.gif
 .informz.net/z/$image
 .innologica.com/t/
 .intercom-mail.com/q/
@@ -3252,6 +3253,7 @@ _WebVitalsReporter_
 ://sg1.wizrocketmail.net/r?e=$image
 ://t.*/open^$image
 ://t.order.*/r/?id=$image
+://willap.jp/t?r=$image
 ^endpoint=track^$image
 _ad_impression.
 _adobe_analytics.js
@@ -11196,7 +11198,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||codemarketing.cloud/rest/
 ||collector.t-idr.com^
 ||cookie.sync.usonar.jp^
-||counter2.blog.livedoor.com^
+||counter1.fc2.com^$third-party
+||counter2.blog.livedoor.com^$image
 ||crossees.com^
 ||cs.nakanohito.jp^
 ||cv-tracker.stanby.com^
@@ -51020,7 +51023,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||contx.net/collect.js
 ||count.upc.rakuten.co.jp^
 ||counter.asobeans.jp^
-||counter1.fc2.com^
 ||crank-in.net/assets/common/js/sendpv.js
 ||ctr.po-kaki-to.com^
 ||d-log.asahi.co.jp^

@@ -451,6 +451,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .icu/ads/
 .imgur.com/lumbar.gif
 .in/js/ads/
+.info.kansaimiraibank.co.jp/c/*.gif
 .info/ad.js
 .info/ad/
 .info/js/ads/
@@ -7367,6 +7368,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://tracking.*/event
 ://tru.am^
 ://uads.$third-party,xmlhttprequest
+://willap.jp/t?r=$image
 ://www.*.com/*/-1/327/$script,subdocument,third-party,xmlhttprequest
 ://www.*.com/*/-1/70/$script,subdocument,third-party,xmlhttprequest
 ://www.*.com/players/*/-1/$script,subdocument,third-party,xmlhttprequest
@@ -30264,7 +30266,6 @@ zzzyk.com###Tinfo
 ||caffeine.tv/embed/$third-party
 ||cafonline.com/image/upload/*/sponsors/
 ||cagothie.net^$popup
-||cahol33666-24962.portmap.host^
 ||cai110.com/js/2
 ||caibaojian.com/d/uploads/*/atop-
 ||caibaojian.com/d/uploads/*0-
@@ -31501,6 +31502,8 @@ zzzyk.com###Tinfo
 ||counter.nope.dk^$third-party
 ||counter.ok.ee^$third-party
 ||counter.pixplug.in^$third-party
+||counter1.fc2.com^$third-party
+||counter2.blog.livedoor.com^$image
 ||counter27.ch^$third-party
 ||counterapi.dev^$third-party
 ||counterbot.com^$third-party
@@ -47336,7 +47339,6 @@ zzzyk.com###Tinfo
 ||xhcdn.com/site/*/ntvb.gif
 ||xhd.cn/topic/leyu-piaofu/
 ||xhit.com^$third-party
-||xhost-27542.portmap.host^
 ||xhymsq.com/data/attachment/portal/
 ||xiacaidd.com/xiacai/ad/
 ||xianshuabao.com/ashx/pt.ashx?cmd=record&filter=&order=all&
