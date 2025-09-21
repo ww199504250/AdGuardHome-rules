@@ -1203,7 +1203,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ad.cgi?$~xmlhttprequest
 /ad.css?$stylesheet
 /ad.html?$~xmlhttprequest
-/ad.min.js$script
 /ad.php?tag=$popup
 /ad.php?zone$popup
 /ad/ad?p=$popup
@@ -22436,6 +22435,7 @@ smzy.com###showa
 smzy.com##.u-gs-btn2
 snaptik.app##.btn-download-hd[data-ad="true"]
 snazzymaps.com##.container-gas
+snbforums.com##.leaderboard_snbad
 sneakernews.com##.active-footer-ad
 sneakernews.com##.adv-parent
 sneakernews.com##.advertisement-section
@@ -38016,6 +38016,7 @@ zzzyk.com###Tinfo
 ||localmantra.com^
 ||localmediabuying.com^
 ||localo.fr^
+||localofflinepro.com^
 ||localpoint.ch^
 ||localreche.pro^
 ||localreporting.pro^
@@ -43146,7 +43147,6 @@ zzzyk.com###Tinfo
 ||sexyno1.com/mk-banner/
 ||sexystat.com^$third-party
 ||seznam.cz^$ping
-||sezonem.freesite.host^
 ||sezzle.com/v1/event/log
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
 ||sf14g.com^$third-party
@@ -44585,6 +44585,7 @@ zzzyk.com###Tinfo
 ||t.pzc.nl^$image
 ||t.tubantia.nl^$image
 ||t1.daumcdn.net/*/static/kp.js
+||t1.daumcdn.net/adfit/static/ad.min.js
 ||t13.cl/hit/
 ||t2.profityi.com/api/visit/
 ||t2lgo.com^$popup
@@ -47592,7 +47593,6 @@ zzzyk.com###Tinfo
 ||yarpp.org/pixels/
 ||yaseok.com//static/src/images/loading.gif
 ||yaseok.com/uploads/20*.gif
-||yassinea2-47754.portmap.host^
 ||yastatic.net/pcode/adfox/header-bidding.js
 ||yaudience.com^$third-party
 ||yavli.com^$popup
