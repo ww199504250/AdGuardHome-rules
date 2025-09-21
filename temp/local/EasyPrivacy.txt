@@ -3288,6 +3288,7 @@ omni.soundestlink.com$image
 ||adnext.co^
 ||adrtx.net^
 ||adscore.com^
+||adsmeasurement.com^
 ||adspsp.com^
 ||adstk.io^
 ||adultium.com^
@@ -7536,6 +7537,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||akamaized.net/cookie_check/
 ||akatracking.esearchvision.com^
 ||aktion.esprit-club.com^$image
+||alby.net/tracking-service/
 ||alex.leonard.ie/misc-images/transparent.png
 ||alexa.com/minisiteinfo/$third-party
 ||alexa.com/traffic/
@@ -9481,7 +9483,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rw.marchex.io^
 ||s-microsoft.com/mscc/$~stylesheet
 ||s.autopilotapp.com^
-||s.axon.ai/s/pixel.js
+||s.axon.ai^
 ||s.beop.io^
 ||s.logsss.com^
 ||s.pinimg.com/ct/core.js
@@ -10074,7 +10076,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustcommander.net/iab-tcfapi/
-||trustedform.com/trustedform.js?provide_referrer
+||trustedform.com/trustedform.js
 ||trustmary.io/agg-event
 ||trustpilot.com/stats/
 ||trx-cdn.zip.co^
@@ -10325,6 +10327,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d11bdev7tcn7wh.cloudfront.net^
 ||d169bbxks24g2u.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
+||d16hi2v1mh7lg7.cloudfront.net^
 ||d1733r3id7jrw5.cloudfront.net^
 ||d18p8z0ptb8qab.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
