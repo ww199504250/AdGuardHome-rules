@@ -10920,8 +10920,10 @@ auto.ifeng.com##.acquire_1
 auto.qq.com###tips
 auto.sina.com.cn###bottomInquryBar
 autoaction.com.au,royalroad.com,snokido.com##.square
-autoblog.com##.btf-native
-autoblog.com##.gemini-native
+autoblog.com##.styles_container__C9F6R
+autoblog.com##[data-widget-id="AR_1"]
+autoblog.com##div[style="min-height: 250px;"]
+autoblog.com##div[style="min-height:250px"]
 autocar.co.uk##.block-autocar-ads-lazyloaded-mpu2
 autocar.co.uk##.block-autocar-ads-mpu-flexible1
 autocar.co.uk##.block-autocar-ads-mpu-flexible2
@@ -12758,7 +12760,6 @@ cnet.com##.stickySkyboxSpacing
 cnet.com,filehippo.*##[data-meta="placeholder-slot"]
 cnet.com,healthline.com##.myFinance-ad-unit
 cnet.com,medicalnewstoday.com###MyFiAd
-cnet.com,zdnet.com##.c-avStickyVideo
 cnfol.com###CjAdvBt
 cnfol.com##.Ad1000
 cnfol.com##.Ad310
@@ -15040,6 +15041,7 @@ flyingjizz.com###adv_inplayer
 flyingjizz.com##.sidebar-banner
 flyordie.com###asf
 flyordie.com###dgad
+flysat-live.com##.kayanyazi
 flysat.com###aswift_9_expand
 flysat.com##.orta
 flyzy2005.com##.baidu_ad
@@ -17094,6 +17096,7 @@ independent.ie##.slot4
 india.com##.ad5
 india.com##.ads-in-content
 india.com##.iwplhdbanner-wrap
+india.com##.taboola-bottom
 india.com##.top-ads-expend
 india.com##.top-horizontal-banner
 indiabusinessjournal.com##.cus-ad-img
@@ -18819,6 +18822,8 @@ mangabz.com###cc1
 mangabz.com###cc2
 mangagun.net,nicomanga.com,rawinu.com,weloma.art,welovemanga.one##[href^="https://www.polybuzz.ai/"]
 mangakakalot.com##.container-chapter-reader > div
+mangakakalot.gg###fly_chapter_01
+mangaplus.shueisha.tv##[style$="height: 260px; position: relative; width: 680px;"]
 mangaplus.shueisha.tv,shueisharaw.tv###ads_mobile
 mangaplus.shueisha.tv,shueisharaw.tv###left-banner
 mangaread.org###custom_html-48
@@ -22844,9 +22849,11 @@ stockstar.com##.much_ad
 stockstar.com##.siteAd_l
 stockstar.com##.siteAd_r
 stockstar.com##.ss-ad-icon2
+stocktwits.com###bottom-nav-content
 stocktwits.com###st-bottom-content
 stocktwits.com##.Primis_container__KwtjV
 stocktwits.com##.is-visible:has-text(Remove ads)
+stocktwits.com##.sticky-inner-wrapper
 stocktwits.com##.w-\[300px\]
 stokesentinel.co.uk##.shop-window[data-impr-tracking="true"]
 stoneip.info###text-57
@@ -24988,7 +24995,6 @@ wweek.com##.pb-f-phanzu-phanzu-ad-code
 www.163.com##.float-bar
 www.17173.com##.pn-tg
 www.duba.com##.tiyan_a
-www.flysat-live.com##.kayanyazi
 www.google.*###google-s-ad
 www.google.*###tads[aria-label]
 www.google.*###tadsb[aria-label]
@@ -26604,7 +26610,6 @@ zzzyk.com###Tinfo
 ||54admin.net/images/ad_
 ||54kefu.net^$third-party
 ||54new.com*/da/
-||554koaylwga7.top^$document
 ||554koaylwga7.top^$popup
 ||555host.ddns.net^
 ||55766925.xyz^$document,popup
@@ -27521,7 +27526,6 @@ zzzyk.com###Tinfo
 ||adpredictive.com^$third-party
 ||adprime.com^$third-party
 ||adpushup.com^$third-party
-||adqit.com^$document
 ||adquality.ch^$third-party
 ||adquire.com^$third-party
 ||adqva.com^$third-party
@@ -27970,7 +27974,6 @@ zzzyk.com###Tinfo
 ||airav.cc/iframe/
 ||airav.cc/static/js/*_ad.js
 ||airbrake.io^$third-party
-||airbuslocale.cyou^
 ||airfind.com^$third-party
 ||airgreenland.com/tracking/
 ||airlogak.com^$third-party
@@ -28467,7 +28470,6 @@ zzzyk.com###Tinfo
 ||antiblock.info^$third-party
 ||antillephone.com^$third-party
 ||antivirussprotection.com^$popup
-||antjgr.com^$document
 ||antjgr.com^$popup
 ||antpedia.com/antad/
 ||antpedia.com/images/advimages/
@@ -29211,10 +29213,8 @@ zzzyk.com###Tinfo
 ||baizhan.net/coop/hezuo/
 ||baizhan.net/js/136/jingyun_righttop.
 ||baizhu.cc^$third-party
-||bakabok.com^$document
 ||bakabok.com^$popup
 ||bakjaqa.net^$popup
-||baldo-toj.com^$document
 ||baldo-toj.com^$popup
 ||balldollars.com^$popup
 ||ballive.*/addm/
@@ -35509,6 +35509,7 @@ zzzyk.com###Tinfo
 ||host-195-103-203-106.business.telecomitalia.it^
 ||host-5-58-172-98.bitternet.ua^
 ||host-95-230-215-65.business.telecomitalia.it^
+||host-95-255-114-11.business.telecomitalia.it^
 ||host-file-host6.com^
 ||host-host-file8.com^
 ||host-most.gl.at.ply.gg^
@@ -38375,6 +38376,7 @@ zzzyk.com###Tinfo
 ||mangahax.com/images/ima_
 ||mangahub.io/iframe/
 ||mangakoma.net/ajax/manga/view
+||mangaplus.shueisha.tv/page/upload/banner/
 ||mangaraw.to/api/v1/view/
 ||mango-office.ru/calltracking/
 ||mango-office.ru/track/
@@ -43981,7 +43983,6 @@ zzzyk.com###Tinfo
 ||srpx.net^$third-party
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
-||srv239401.hoster-test.ru^
 ||srv239553.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
