@@ -13641,6 +13641,7 @@ decrypt.co#?#span:-abp-contains(AD)
 decrypt.co,metabattle.com##div[style^="min-width: 300px;"]
 deep-edge.net,forums.digitalspy.com,marketwatch.com#@#.has-ad
 deepai.org###primis-ads
+deeperdive.ai##.response__promoted
 deepfake-porn.com,deepfucks.com,hdpornflix.com,hentaisexclub.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
 deepfucks.com###block-88
 deepfucks.com###block-92
@@ -31311,6 +31312,7 @@ zzzyk.com###Tinfo
 ||colossalanswer.com^$popup
 ||colossusssp.com^$third-party
 ||com-host.info^
+||com-local.edgekey.net.easyjet.com^
 ||com-localiser.fr^
 ||comagic.ru^$third-party
 ||come-get-s0me.com^$popup
@@ -34964,7 +34966,6 @@ zzzyk.com###Tinfo
 ||gtm.ghoster.com.br^
 ||gtm.ghostwriterbrasil.com.br^
 ||gtm.hostedbyjenny.com^
-||gtm.localcarros.com^
 ||gtmdev.jabra.
 ||gtop.ro^$third-party
 ||gtopstats.com^$third-party
@@ -40048,6 +40049,7 @@ zzzyk.com###Tinfo
 ||odysee.com/api/v1/metric/
 ||odysee.com/log/
 ||odysee.com/reports/
+||odyzli.localiza.com.br^
 ||oe-static.de^*/wws.js
 ||oevery.com^$third-party
 ||oewabox.at^$third-party
@@ -41524,6 +41526,7 @@ zzzyk.com###Tinfo
 ||pstatp.com^*/raven.js
 ||pstatp.com^*/ttstatistics.
 ||pstats.com^$third-party
+||pstats.hostels.com^
 ||psumpupsauket.com^$popup
 ||pswec.com/px/$third-party
 ||psyzg.com/Public/Home/images/tuhe_240_236.gif
@@ -45362,7 +45365,6 @@ zzzyk.com###Tinfo
 ||track.byzon.swelen.net^$third-party
 ||track.cam4tracking.com^$popup
 ||track.effiliation.com^$image,script
-||track.hostemax.com.br^
 ||track.kinetiksoft.com^$popup
 ||track.laredoute.fr^$image
 ||track.livesportnet.com^$popup
