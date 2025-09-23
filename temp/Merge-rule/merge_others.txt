@@ -15485,9 +15485,9 @@ gamicsoft.com##A[onclick*="'Advertisement"]
 gamicsoft.com##A[onclick*="'Advertisement"] + .absolute
 gamingbible.com##.css-1z9hhh
 gamingbible.com##div[class^="floating-video-player_container"]:has(>
+gamingbible.com,ladbible.com,sportbible.com,unilad.com,uniladtech.com##.floating-video-player_container__u4D9_
 gamingbible.com,ladbible.com,tyla.com,unilad.com##div[class^="advert-placeholder_"]
 gamingbible.com,ladbible.com,unilad.com##div[class*="margin-Advert"]
-gamingbible.com,sportbible.com,unilad.com,uniladtech.com##.floating-video-player_container__u4D9_
 gamingbible.com,unilad.com##div[data-cypress^="sticky-header"]
 gamingcools.com#@#.Adsense
 gamingdeputy.com##.ad-wrapper-parent-video
@@ -24163,6 +24163,7 @@ underhentai.net##.hp-float-skb
 underhentai.net##div[class*="afi-"]
 unikoshardware.com##.elementor-image > a[href^="https://bit.ly/"]
 unikoshardware.com##.elementor-popup-modal
+unilad.com##.jw-player_container__wuaGn
 uniladtech.com##[class^="advert-placeholder_advertPlaceholder"]
 union.58.com#@##advertise
 unionpedia.org##div[style^="margin-top: 15px; min-width: 300px"]
@@ -26440,6 +26441,7 @@ zzzyk.com###Tinfo
 ||3movs.xxx/2ff/
 ||3ng6p6m0.de^$third-party
 ||3prn.com/even/ok.js
+||3vetz.com^$document
 ||3wk.cc/images/*.gif
 ||3xplanetimg2.com/promo/iIRT8d.gif
 ||3xtraffic.com/ads/
@@ -29304,6 +29306,7 @@ zzzyk.com###Tinfo
 ||bbelements.com^$third-party
 ||bbl.k.dk/tracking/
 ||bbmoe.com^$document
+||bboy1.com^$document
 ||bbrdbr.com^$popup
 ||bbs.a9vg.com/showit/img_show.php
 ||bbs.gmbbk.com^*.js
@@ -30410,7 +30413,6 @@ zzzyk.com###Tinfo
 ||cargurus.com/cars/cganalyticspageview.action
 ||cargurus.com/tr/
 ||carhost-e6d05c1c-875b-44a8-8308-f83eef7f99be.myportfolio.com^
-||carlsberg-13.w2.bluehosting.cz^
 ||carlymilli2000.activehosted.com^
 ||carnoc.com/noticejs/
 ||caroda.io^$third-party
@@ -31014,6 +31016,7 @@ zzzyk.com###Tinfo
 ||closercopy.cfd^$popup
 ||cloud-exploration.com^$third-party
 ||cloud-iq.com^$third-party
+||cloud.cloudaccess.host^
 ||cloud.hentai-moon.com/contents/hdd337st/$media
 ||cloud.locallogic.co^
 ||cloud102.hostgator.com^
@@ -33819,6 +33822,7 @@ zzzyk.com###Tinfo
 ||fmhua.com/template/*/images/g_js/*.html
 ||fml-x.com^$third-party
 ||fmnetwork.nl/tracking/
+||fmvgtfsjh.localto.net^
 ||fncash.com^$third-party
 ||fncnet1.com^$third-party
 ||fndrsp.net^$third-party
@@ -34184,7 +34188,6 @@ zzzyk.com###Tinfo
 ||g2afse.com^$popup
 ||g33ktr4ck.com^$popup
 ||g3f3.com/love/
-||g5jko7dyn.localto.net^
 ||g6857531218241.activehosted.com^
 ||g6857531221502.activehosted.com^
 ||g6857531263715.activehosted.com^
@@ -35038,7 +35041,6 @@ zzzyk.com###Tinfo
 ||hackhw.com/ckjs/
 ||hackp.com/im/
 ||hacksplaining.com/track
-||hadipotonpoton.cloudaccess.host^
 ||hadrianpaywall.com/views
 ||hadronid.net^$third-party
 ||haes.tech/js/script_
@@ -35517,7 +35519,6 @@ zzzyk.com###Tinfo
 ||host-most.gl.at.ply.gg^
 ||host-tracker.com^$third-party
 ||host-vc-fone-dx-wiem-qa.weebly.com^
-||host.dailys.wiki^
 ||host.gamerg.gg^
 ||host.gsslcloud.com^
 ||host.k12insight.org^
@@ -37502,6 +37503,7 @@ zzzyk.com###Tinfo
 ||landing.candynetwork.ai^$popup
 ||landing.hostmerchantservices.com^
 ||landing1.brazzersnetwork.com^$popup
+||landingpagedesign.tempurl.host^
 ||landingpg.com^$third-party
 ||lanesusanne.com^$popup
 ||langxi.org/langxi/*900$image,object
@@ -37992,7 +37994,6 @@ zzzyk.com###Tinfo
 ||local-bang.com^
 ||local-prime.fr^
 ||local-shares.ri.la^
-||local-subsidiary.gl.at.ply.gg^
 ||local-suivi-colis.com^
 ||local-update.com^
 ||localau.vip/plugin/ad_
@@ -38524,6 +38525,7 @@ zzzyk.com###Tinfo
 ||maxymiser.com^$third-party
 ||maxymiser.net^$third-party
 ||maybejanuarycosmetics.com^$popup
+||maygopppp.freehost.io^
 ||mayla.jp/TRACKING/
 ||maymooth-stopic.com^$popup
 ||mazefoam.com^$document
@@ -40145,6 +40147,7 @@ zzzyk.com###Tinfo
 ||omkt.co^$third-party
 ||omniconvert.com^$third-party
 ||omnie.ai/api/ddMetric
+||omniz-57501.portmap.host^
 ||omsnative.de/tracking/
 ||omynews.net^$third-party
 ||omzal.com^$document
@@ -40482,6 +40485,7 @@ zzzyk.com###Tinfo
 ||p0y.cn^$image,domain=~ipinyou.com.cn
 ||p0y.cn^$third-party
 ||p12acx.com^$popup
+||p1streetsira-36072.portmap.host^
 ||p24.hu^$third-party
 ||p2p.v.yyclouds.com/crossdomain.xml
 ||p2peye.com/ajax.php?mod=ad&
@@ -40778,6 +40782,7 @@ zzzyk.com###Tinfo
 ||peterrivers1067.activehosted.com^
 ||peterrivers106719186.activehosted.com^
 ||peterrivers106719434.activehosted.com^
+||petrjanicek.savana-hosting.cz^
 ||petrolplaza.net/AdServer/
 ||pewyophic.top^$popup
 ||pexels.com^*/sponsored-media/
@@ -42203,7 +42208,6 @@ zzzyk.com###Tinfo
 ||redistats.com^$third-party
 ||redlightcenter.com^$third-party
 ||redmx.cn^$third-party
-||redonerdwan1754145844029.0361579.meusitehostgator.com.br^
 ||redotpayy.cloudaccess.host^
 ||redpineapplemedia.com^$third-party
 ||redretarget.com^$third-party
@@ -43830,6 +43834,7 @@ zzzyk.com###Tinfo
 ||sourceforge.net/tracker/$~xmlhttprequest
 ||sourcesync.io/analytics
 ||sousefulhead.com^$popup
+||southern201-28469.portmap.host^
 ||southfloridagaynews.com/images/banners/
 ||southmoney.com/page/pc/
 ||southmoney.com/page/top
@@ -43988,6 +43993,7 @@ zzzyk.com###Tinfo
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
 ||srv239553.hoster-test.ru^
+||srv240859.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
@@ -44210,6 +44216,7 @@ zzzyk.com###Tinfo
 ||sterlingwoods.com^$third-party
 ||steroidbazaarbalance.com^$popup
 ||sterra.web.id/stera2/
+||sterra.web.id/stera4/
 ||stethepsartopo.com^$popup
 ||stetic.com^$third-party
 ||steuertipps.de/scripts/tracking/
@@ -47929,6 +47936,7 @@ zzzyk.com###Tinfo
 ||zeepartners.com^$popup
 ||zeerat.com^$third-party
 ||zemanta.com^$third-party
+||zen1thblkhat-48437.portmap.host^
 ||zenaps.com^$popup
 ||zendesk.com/frontendevents/$xmlhttprequest
 ||zendplace.pro^$popup
