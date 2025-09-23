@@ -7250,6 +7250,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://*:*/yeyue.html?k=$csp=script-src
 ://*btbtt.*/imgs.js
 ://*btbtt.*/view/image/QT_
+://0.www.*/players/*/-1/$script,third-party,xmlhttprequest
 ://2ip.*/member_photo/$third-party
 ://a.*/ad-provider.js$third-party
 ://a.ads.
@@ -7374,8 +7375,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://www.*.com/*/-1/70/$script,subdocument,third-party,xmlhttprequest
 ://www.*.com/players/*/-1/$script,subdocument,third-party,xmlhttprequest
 ://www.*.com/players/*/a/$subdocument,third-party,domain=~edu|~gov
-://www.*.com/script/*.com.js|$script,third-party
-://www.*.com/script/*.org.js|$script,third-party
 ://www.*.js|$script,third-party,domain=159i.com|r3sub.com|thisav.com
 ://www.*.xyz/players/*/-1/$script,subdocument,third-party,xmlhttprequest
 ://www.*.xyz/players/*/a/$subdocument,third-party
@@ -17543,7 +17542,7 @@ itmunch.com##.vc_slide
 itnews.com.au###whitepapers-container
 itnews.com.au##.paid-content
 itnewsonline.com##td[width="120"]
-itpro.com##.hawk-base
+itpro.com,tomsguide.com##.hawk-base
 itsatechworld.com##.topd
 itsfoss.com,linuxhandbook.com##.kg-bookmark-card
 itsfoss.com,linuxhandbook.com##a[href^="https://www.warp.dev"]
@@ -24567,6 +24566,7 @@ wayfair.*##[data-hb-id="Card"]:has([data-node-id^="ListingCardSponsored"])
 wayfair.*##a[data-enzyme-id="WssBannerContainer"]
 wayfair.*##div[data-enzyme-id="WssBannerContainer"]
 wayfair.*##div[data-hb-id="Grid.Item"]:has(a[href*="&sponsoredid="])
+wayfair.*##div[data-name="DisplayAd"]
 wayfair.*##div[data-node-id^="SponsoredListingCollectionItem"]
 wbal.com##.wbal-banner
 wbiao.cn###popupImgCorner
@@ -28759,6 +28759,7 @@ zzzyk.com###Tinfo
 ||asgorebysschan.com^$popup
 ||ashleyfurniture.com/ouqLB4fq/init.js
 ||ashoupsu.com^$popup
+||asia-northeast1-co-comix.cloudfunctions.net/trackView
 ||asiafriendfinder.com^$third-party
 ||asianbutterflies.com/potd/
 ||asiandolls.co.uk/images/banners/
