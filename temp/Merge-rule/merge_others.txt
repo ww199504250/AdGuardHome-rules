@@ -6852,7 +6852,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 4runnerforum.com,acuraforums.com,blazerforum.com,buickforum.com,cadillacforum.com,camaroforums.com,cbrforum.com,chryslerforum.com,civicforums.com,corvetteforums.com,fordforum.com,germanautoforums.com,hondaaccordforum.com,hondacivicforum.com,hondaforum.com,hummerforums.com,isuzuforums.com,kawasakiforums.com,landroverforums.com,lexusforum.com,mazdaforum.com,mercuryforum.com,minicooperforums.com,mitsubishiforum.com,montecarloforum.com,mustangboards.com,nissanforum.com,oldsmobileforum.com,pontiactalk.com,saabforums.com,saturnforum.com,truckforums.com,volkswagenforum.com,volvoforums.com##aside > center
 4shared.com##.remove-rekl
 4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,uliba.net,ypojie.com##.widget_ui_orbui
-4sysops.com,9to5linux.com,activistpost.com,aftvnews.com,arcadepunks.com,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,fastestvpns.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,iwatchsouthparks.com,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
+4sysops.com,9to5linux.com,activistpost.com,aftvnews.com,arcadepunks.com,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,fastestvpns.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,iwatchsouthparks.com,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
 4teachers.org###banner-wrapper
 4tube.com###main-jessy-grid
 4tube.com##.cpp
@@ -12666,8 +12666,8 @@ clevelandclinic.org##[data-identity*="billboard-ad"]
 clevelandclinic.org##[data-identity="leaderboard-ad"]
 click108.com.tw##.AD_300250
 click108.com.tw##.AD_730280
-click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,local10.com,news4jax.com##.floatingWrapper
 click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,local10.com,news4jax.com##.topWrapper
+click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,local10.com,news4jax.com,wsls.com##.floatingWrapper
 click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com#@#.ac-widget-placeholder
 click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com#@#.anyClipWrapper
 clien.net,mediafire.com#@#.ad_banner
@@ -13120,6 +13120,7 @@ countdown.co.nz##cdx-card:has(product-badge-list)
 countdown.co.nz,jns.org,nscreenmedia.com,op.gg,rawinu.com,welovemanga.one,whoscored.com##.banner-container
 counter.dev,lindaikejisblog.com##.da
 counterpunch.org##.header-center
+countrylife.co.uk,whowhatwear.com###highline-leaderboard
 couplesinternational.com##a[href^="https://www.redhotpie.com"]
 coveteur.com###native_1
 coveteur.com###native_2
@@ -18115,10 +18116,7 @@ komando.com##[id^="leaderboardAdDiv"]
 komikcast.site###bannerhomefooter
 komikindo.info,manga18fx.com,manhwa18.cc,motherless.com##iframe[style]
 komikindo.tv##.gambar_pemanis
-komonews.com###js-Sponsored-Container
-komonews.com###taboolaContainerWrapper_0
 komonews.com##.index-module_featuredVideosWhiteWrapper__kfND
-komonews.com##.teaserList-module_nativeAdWrapper__uBhF
 kompass.com##.megaBanner
 kompass.com##.prodListBanner
 komplett.dk,komplett.no,komplett.se,komplettbedrift.no,komplettforetag.se,newegg.com#@#.product-ad
@@ -20335,7 +20333,6 @@ otakuusamagazine.com##.otaku_big_ad
 otomi-games.com##.clean-grid-grid-post:has(> [id^="otomi-"] + .clean-grid-grid-post-details-full) {remove:true;}
 otomi-games.com##[href^="https://t.trcktr.com/"]
 otomi-games.com,ryuugames.com##[href^="https://aichattings.com/"]
-ottawacitizen.com##.ad__container
 ottverse.com##.livevideostack-ad
 ourworldofenergy.com###sponsors_container
 out.com#@#div[id^="dfp-ad-"]
@@ -21091,6 +21088,7 @@ printweek.in##[class^="ad-section-"]
 privacywall.org###topse
 privacywall.org##[data-bingads-suffix]
 privateinternetaccess.com#@#a[href^="https://www.privateinternetaccess.com/"]
+privateinternetaccess.com#@#a[href^="https://www.privateinternetaccess.com/"] > img
 privateproperty.co.za##.listingResultPremiumCampaign
 probuilds.net##.welcome-bnr
 probuilds.net##a[class^="dl-blitz-"]
@@ -21961,6 +21959,7 @@ scribd.com###sidebar > div:has(> div > [data-e2e^="dismissible-ad-header"])
 scribd.com##.between_page_portal_root
 scribd.com##div[class]:has(> [data-e2e="dismissible-ad-header-scribd_adhesion"])
 scribd.vpdfs.com##[href^="https://accounts.binance.com"]
+scrippsnews.com,wmar2news.com###outstream_connatix_container
 scriptinghelpers.org##.shvertise-skyscraper
 scrolller.com###object_container
 scrolller.com##.vertical-view__column > .vertical-view__item:has(> div[style$="overflow: hidden;"])
@@ -31618,6 +31617,7 @@ zzzyk.com###Tinfo
 ||crall.io/beacon/
 ||crambidnonutilitybayadeer.com^$popup
 ||crank-in.net/assets/common/js/sendpv.js
+||craser-36950.portmap.host^
 ||crashlytics.com^$third-party
 ||crazyclickstats.com^$third-party
 ||crazyegg.com^$third-party
@@ -32847,6 +32847,7 @@ zzzyk.com###Tinfo
 ||easy-hit-counters.com^$third-party
 ||easy.lv^$third-party
 ||easyads28.mobi^$popup
+||easyadsapp.com^$third-party
 ||easyai.tech/wp-content/uploads/*-576x1024.
 ||easyconverts.com^$document
 ||easyconverts.com^$popup
@@ -33522,6 +33523,7 @@ zzzyk.com###Tinfo
 ||faquanya.com/weixin/
 ||fardasub.xyz^$popup
 ||farfetch.net/v1/marketing/trackings
+||faris552-36484.portmap.host^
 ||farrarhost.com^
 ||fascespro.com^$document
 ||faspox.com^$third-party
@@ -35503,6 +35505,7 @@ zzzyk.com###Tinfo
 ||horse-racing-affiliate-program.co.uk^$third-party
 ||hortidaily.com/b/
 ||horzrb.com^$third-party
+||hos.pagamentohostarftturaithost.sbs^
 ||hospital-local-manage-239584671852.vercel.app^
 ||hospitality-optimizer.com^$third-party
 ||host*.carl-ras.dk^
@@ -38006,6 +38009,7 @@ zzzyk.com###Tinfo
 ||localelover.com^$popup
 ||localenter.com^
 ||localfarmerj.today^
+||localfloristflowers.com^
 ||localfocuswidgets.net/stats/
 ||localfuneraldirectors.co.uk^
 ||localglobaldates.com^
@@ -38525,7 +38529,6 @@ zzzyk.com###Tinfo
 ||maxymiser.com^$third-party
 ||maxymiser.net^$third-party
 ||maybejanuarycosmetics.com^$popup
-||maygopppp.freehost.io^
 ||mayla.jp/TRACKING/
 ||maymooth-stopic.com^$popup
 ||mazefoam.com^$document
@@ -40907,7 +40910,6 @@ zzzyk.com###Tinfo
 ||pingpang.info/themes/v1.0/images/temp/ad/
 ||pingwest.com/api/news_ad
 ||pingwest.com/wp-content/uploads/*/ad.jpg
-||pinkghost.blog^
 ||pinkmonkey.com/includes/right-ad-columns.html
 ||pinkoi.com/_log/
 ||pinkvilla.com/comscore_response.php
@@ -42030,7 +42032,6 @@ zzzyk.com###Tinfo
 ||ranker.com/api/px
 ||ranker.com/api/tr?
 ||ranker.com/api/tracking/comscore
-||rankghost.com^
 ||ranking-charts.de^$third-party
 ||ranking-counter.de^$third-party
 ||ranking-hits.de^$third-party
@@ -43993,6 +43994,7 @@ zzzyk.com###Tinfo
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
 ||srv240859.hoster-test.ru^
+||srv241101.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
@@ -47483,7 +47485,6 @@ zzzyk.com###Tinfo
 ||xpics.me/everyone.
 ||xplosion.de^$domain=spiegel.de
 ||xplosion.de^$third-party
-||xptmue1si.localto.net^
 ||xpvv0rkn.fun^$popup
 ||xrares.com/xopind.js
 ||xs8.cn/qreport?
@@ -48099,7 +48100,6 @@ zzzyk.com###Tinfo
 ||zwqzxh.com^$popup
 ||zx-adnet.com^$third-party
 ||zx123.cn/templates/zx123cs/theme-2015/js/right_xh.js
-||zxcmisha5963-26454.portmap.host^
 ||zxcv112.byethost4.com^
 ||zxw51.com^$third-party
 ||zybrdr.com^$popup
