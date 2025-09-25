@@ -14733,6 +14733,8 @@ fanqiangzhe.com###mobile-bottom-ads
 fanqiangzhe.com###news-include + .text-center
 fanqiangzhe.com###popupModal
 fans-here.com##a[href^="https://satoshidisk.com/"]
+fansided.com,si.com###static-top-ad-placeholder_1
+fansided.com,thenewdaily.com.au##.min-h-\[280px\]
 fansshare.com##[width="300"]
 fantasyalarm.com##.scoreboard
 fantasygames.nascar.com##.larger-banner-wrapper
@@ -19847,6 +19849,7 @@ news.ifeng.com##.right1
 news.itsfoss.com##[href^="https://www.pikapods.com/"]
 news.lyd.com.cn##table[cellspacing="5"]:nth-child(3)
 news.lyd.com.cn##td[width="300px"] > table[width="300"] > tbody > tr:nth-last-child(n+2)
+news.mydramalist.com###content > .app-body > div:has(.htlad-header_top)
 news.net##.banner-wr
 news.net##.right-banner-wr > .right
 news.qq.com###focus-bar
@@ -22195,7 +22198,6 @@ shtfplan.com##.overlay-container
 shulink.com##.er_g
 shuowan.com##.side_flash
 si.com###mmvid
-si.com###static-top-ad-placeholder_1
 si.com##.style_hfl21i-o_O-style_uhlm2
 si.com##[data-target="ad"]
 si.com##[id^="static-ad-placeholder_"]
@@ -23466,7 +23468,6 @@ thenationonlineng.net##.featured__advert__desktop_res
 thenationonlineng.net##.sticky-advert
 thenewdaily.com.au##.border-grey-300:has(> [data-ad-id])
 thenewdaily.com.au##.h-home-ad-height-stop
-thenewdaily.com.au##.min-h-\[280px\]
 theneworleanstribune.com###block-15
 thenewslens.com##div[class^="help-tnl-container-"]
 thenewspaper.gr##.header-promo
@@ -25926,7 +25927,6 @@ zzzyk.com###Tinfo
 ||127.net/external/js6public163_
 ||127.net/m/*/promPic.jpg
 ||12img.com/ad/
-||12r123df-29575.portmap.host^
 ||130.211.$popup,third-party,domain=~in-addr.arpa
 ||131458.com/union/
 ||1328f.com/js/jquery.js
@@ -27745,6 +27745,7 @@ zzzyk.com###Tinfo
 ||advertisespace.com^$third-party
 ||advertising.com^$third-party
 ||advertising365.com^$third-party
+||advertisoo.com^$document
 ||advertizmenttoyou.com^$popup
 ||advertnative.com^$third-party
 ||advertone.ru^$third-party
@@ -30190,6 +30191,7 @@ zzzyk.com###Tinfo
 ||buyadvupfor24.com^$popup
 ||buyeasy.by^$popup
 ||buyflood.com^$third-party
+||buylocalday.org^
 ||buyorselltnhomes.com^$third-party
 ||buysellads.com^$third-party
 ||buysellads.net^$third-party
@@ -30960,6 +30962,7 @@ zzzyk.com###Tinfo
 ||clickmatic.pl^$third-party
 ||clickmeter.com^$third-party
 ||clickmetertracking.com^$popup
+||clickmintads.site^$document
 ||clickmobad.net^$popup
 ||clickmon.co.kr^$third-party
 ||clicknplay.to/api/$popup
@@ -35605,13 +35608,16 @@ zzzyk.com###Tinfo
 ||hostingservicefl.com^
 ||hostip.info^
 ||hostip.info^$third-party
+||hostipress.com^
 ||hostkiss.com^
+||hostmanshipacademy.com^
 ||hostmaster.richardhyettlawyernotary.com^
 ||hostmonster.com/src/js/$third-party
 ||hostname.biz^
 ||hostnet-online-x-1.s3.us-east-005.backblazeb2.com^
 ||hostolhg.com^
 ||hostpdf.co^
+||hostphpwindowsapp.duckdns.org^
 ||hostpowermedium.112.2o7.net^
 ||hostrubs.com^
 ||hostryscrip.click^
@@ -38012,6 +38018,7 @@ zzzyk.com###Tinfo
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
 ||localbusinessinfo.org^
+||localclasses.net^
 ||localconservatives.com^
 ||localedgemedia.com^
 ||localelover.com^$popup
@@ -38048,6 +38055,7 @@ zzzyk.com###Tinfo
 ||localstockservicefr.firebaseapp.com^
 ||localtalent.ph^
 ||localtreasure.net^
+||localwomensports.com^
 ||localytics.com^
 ||localytics.com^$third-party
 ||location3.com/analytics/
