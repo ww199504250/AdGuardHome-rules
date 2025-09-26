@@ -1781,6 +1781,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /b/ss/*/JS-
 /b/ss?AQB=
 /b/stats?
+/b4b8.js$domain=homeporn.cc|pornenot.com|pornocase.net
 /ba_tracking.js
 /baha/*$subdocument,domain=gamer.com.tw
 /baichuan/*$subdocument
@@ -7496,7 +7497,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ?v=2&tid=G-$~third-party
 ?whichAd=freestar&
 ?wmcAction=wmcTrack&
-?wppaszoneid=
+?wppaszoneid=$subdocument
 ?wpstealthadsjs=
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@&http_referer=$domain=chaopx.com
@@ -11538,7 +11539,7 @@ bgwp.cc###blk1
 bh.sb##.large
 bhamnow.com##.bhamn-adlabel
 bhamnow.com##.bhamn-story
-bhg.com,eatingwell.com,foodandwine.com,realsimple.com,southernliving.com##.mntl-notification-banner
+bhg.com,eatingwell.com,realsimple.com,southernliving.com##.mntl-notification-banner
 bibgame.com##.topicContent > font[color="red"]:last-child
 bibliaon.com#@#.top-banner-ad
 bicycleretailer.com###brain-leader-slot
@@ -11628,11 +11629,14 @@ bing.com##.mapsTextAds
 bing.com##.mma_il
 bing.com##.pa_sb
 bing.com##.productAd
+bing.com##.ra_car_block
 bing.com##.slide:has(.rtb_ad_caritem_mvtr)
 bing.com##.text-ads-container
 bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
 bing.com##cs-native-ad-card
+bing.com##cs-responsive-card[ad][data-t*="nativead"]
+bing.com##cs-responsive-card[ad][id^="nativead-"]
 bing.com##div[aria-label$="ProductAds"]
 bing.com##div[class="ins_exp tds"]
 bing.com##div[class="ins_exp vsp"]
@@ -11815,6 +11819,8 @@ bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation
 bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation.com,theleafsnation.com##bam-inline-promotion
 bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation.com,theleafsnation.com##bam-inline-promotion-block
 bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation.com,theleafsnation.com##bam-promotion-list
+bluelockread.com,dbsmanga.com,demonslayermanga.com,lilymanga.com,orschlurch.net,photorumors.com,read7deadlysins.com,readblackclover.com,readbleachmanga.com,readchainsawman.com,readdrstone.com,readfairytail.com,readhaikyuu.com,readhxh.com,readichithewitch.com,readjojos.com,readjujutsukaisen.com,readkagurabachimanga.com,readkaguyasama.com,readkingdom.com,readmha.com,readnaruto.com,readneverland.com,readonepiece.com,readsakadays.com,readsnk.com,readsololeveling.org,readtokyorevengers.net,readvinlandsaga.com,shenisha.substack.com,tokyoghoulre.com##[href^="https://amzn.to/"]
+bluelockread.com,dbsmanga.com,demonslayermanga.com,read7deadlysins.com,readblackclover.com,readbleachmanga.com,readchainsawman.com,readdrstone.com,readfairytail.com,readhaikyuu.com,readhxh.com,readichithewitch.com,readjojos.com,readjujutsukaisen.com,readkagurabachimanga.com,readkaguyasama.com,readkingdom.com,readmha.com,readnaruto.com,readneverland.com,readonepiece.com,readsakadays.com,readsnk.com,readsololeveling.org,readtokyorevengers.net,readvinlandsaga.com,tokyoghoulre.com##.border-b-0.border-border-primary.overflow-hidden
 bluesnews.com##.leaderboard-gutter
 bluewin.ch##.ads-group
 bmcx.com##div[id^="ggwz"]
@@ -12197,6 +12203,7 @@ canadianbusiness.com,macleans.ca,vidio.com,yardbarker.com###leaderboard_containe
 canadianbusiness.com,torontolife.com##.sjm-dfp-wrapper
 canadianlisted.com###adcsacl
 canadianlisted.com##.pageclwideadv
+canadiantire.ca##.sponsoredproductcarousel
 canarymedia.com##.inset-x-0
 canberratimes.com.au##.h-\[50px\]
 canberratimes.com.au##.top-20
@@ -15083,6 +15090,7 @@ food.com##.smart-aside-inner
 food.com##.smart-rail-inner
 food52.com###jw_iframe
 foodandwine.com##.lrs__wrapper
+foodandwine.com##section[id*="mntl-four-post--sponsored"]
 foodbeast.com##.fdbst-ad-placement
 foodlion.com##[aria-label="Sponsored Ad"]
 foodlion.com#?#.product-grid-cell:-abp-contains(Sponsored)
@@ -18457,7 +18465,6 @@ lihkg.com#?#div[class^="_"]:-abp-has(>div>div>.adsbygoogle)
 liisex.com###apDiv22
 likr.tw###avivid_waterfall_wp_product_area
 lilo.org##.lilo-ad-result
-lilymanga.com,orschlurch.net,photorumors.com,shenisha.substack.com##[href^="https://amzn.to/"]
 limetorrents.lol##.downloadareabig:has([title^="Anâ€Œonâ€Œymous Download"])
 limetorrents.lol##a[href^="/leet/"]
 limetorrents.ninjaproxy1.com##[href^="https://gamestoday.org/"]
@@ -21520,6 +21527,7 @@ rawstory.com###rawstory_front_2_container
 rawstory.com###story-top-ad
 rawstory.com##.connatix-hodler
 rawstory.com##.container_proper-ad-unit
+rawstory.com##.rm-sticky-parent
 rawstory.com#@#.full-ad
 rd.com,tasteofhome.com##.cnx-inline-player-wrapper
 read.amazon.*###readerChromeOverlayBottom.readerChromeOverlayBottom-banner-desktop {bottom:0
@@ -24648,6 +24656,7 @@ web.telegram.org##.SponsoredMessage
 web.telegram.org##div.bubbles > div.scrollable > div.bubbles-inner > div.is-sponsored
 webbikeworld.com##.block-da
 webcamtests.com##[src^="/MyShowroom/view.php?medium="]
+webcric.com###sticky-728x90-ad
 weberblog.net##[href^="https://www.neox-networks.com/"]
 webextension.org###adb
 webextension.org##.adb
@@ -29642,7 +29651,7 @@ zzzyk.com###Tinfo
 ||bigtracker.com^$third-party
 ||bigw.com.au/api/event/
 ||bigw.com.au/events/
-||bigwarp.cc/js/bgwp.js
+||bigwarp.*/js/bgwp.js
 ||bigwarp.io/js/big.js
 ||biketo.com/d/file/p/
 ||bildirim.eu^$third-party
@@ -31428,6 +31437,7 @@ zzzyk.com###Tinfo
 ||contaxe.com^$third-party
 ||content-cooperation.com^$third-party
 ||content-garden.com^$third-party
+||content-hoster.xyz^
 ||content-loader.com^$document,popup
 ||content-loader.com^$popup
 ||content-square.net^$third-party
@@ -32371,6 +32381,7 @@ zzzyk.com###Tinfo
 ||divcss5.com*/liping/
 ||dive77kt.com^$popup
 ||divolution.com^$third-party
+||dixiewebhosting.com^
 ||dixyporn.com/include/
 ||diyibanzhu*.com/js/cdn.
 ||diyibanzhu*.com/js/html
@@ -34798,6 +34809,7 @@ zzzyk.com###Tinfo
 ||googleusercontent.com/*/wf/open?upn=$image
 ||googleusercontent.com/tracker/
 ||googlevideo.com/videoplayback?$rewrite=abp-resource:blank-mp4,domain=laurelberninteriors.com|safeframe.googlesyndication.com
+||goonsupper.com^$popup
 ||gooo.al^$third-party
 ||goosebomb.com^$popup
 ||gophykopta.com^$popup
