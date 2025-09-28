@@ -5409,9 +5409,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 counter.advancewebhosting.com
 0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.mirohost.net
+0.0.0.0 csiimxhosting.com
 0.0.0.0 ddbca.localmeets.link
 0.0.0.0 de.hosting.adjug.com
 0.0.0.0 ded5092.inmotionhosting.com
+0.0.0.0 dixiewebhosting.com
 0.0.0.0 e-hosting.hut1.ru
 0.0.0.0 e.freewebhostingarea.com
 0.0.0.0 ema.hostvn.net
@@ -5480,6 +5482,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 localytics.com
 0.0.0.0 machinery-local-manage-0839142732.vercel.app
 0.0.0.0 mail.atn.ndh.mybluehost.me
+0.0.0.0 majestywebhost.com
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 merciless.localstars.com
@@ -5516,6 +5519,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 srv239401.hoster-test.ru
 0.0.0.0 static.locallogic.co
 0.0.0.0 static.omnilocal.ai
+0.0.0.0 swanvalleyhosting.com
 0.0.0.0 swfhostltd.com
 0.0.0.0 tag.placelocal.com
 0.0.0.0 theadhost.com
@@ -5554,7 +5558,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.celulahost.online
 0.0.0.0 www.cloud.cloudaccess.host
 0.0.0.0 www.coolfreehost.com
+0.0.0.0 www.csiimxhosting.com
 0.0.0.0 www.ded5092.inmotionhosting.com
+0.0.0.0 www.dixiewebhosting.com
 0.0.0.0 www.ethostrips.com
 0.0.0.0 www.flyhost.org
 0.0.0.0 www.freehostservers.com
@@ -5576,6 +5582,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.localytics.com
 0.0.0.0 www.machinery-local-manage-0839142732.vercel.app
 0.0.0.0 www.mail.atn.ndh.mybluehost.me
+0.0.0.0 www.majestywebhost.com
 0.0.0.0 www.pafiilate.byethost32.com
 0.0.0.0 www.pinkghost.blog
 0.0.0.0 www.placelocal.com
@@ -5584,6 +5591,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.shoplocaly.com
 0.0.0.0 www.sporthostel.org
 0.0.0.0 www.srv239401.hoster-test.ru
+0.0.0.0 www.swanvalleyhosting.com
 0.0.0.0 www.tinyfilehost.com
 0.0.0.0 www.tinyfileshost.com
 0.0.0.0 www.valuehost.co.uk
@@ -5591,9 +5599,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.webhostingpage2025.sbs
 0.0.0.0 www.worldhostgroup.org
 0.0.0.0 www.you.europa-hosting.com
+0.0.0.0 www.yourcanadahost.com
 0.0.0.0 www.zengohost.com
 0.0.0.0 www3.webhostingtalk.com
 0.0.0.0 you.europa-hosting.com
+0.0.0.0 yourcanadahost.com
 0.0.0.0 zengohost.com
 012.tw#@#.ad728
 020job.com##A[href^="/Click.aspx?AdPageID="]
@@ -19222,6 +19232,7 @@ mydramalist.com##.app-body > div:has(> div[class*="is-desktop-ads-"])
 mydramalist.com##.app-body > div[class]:has(> div[class] > .htlad-header_top)
 mydramalist.com##.col-lg-4 > .clear
 mydramalist.com##[style="min-height: 600px;"]
+mydramalist.com##[style="min-height:327px;"]
 mydramalist.com##[style="min-height:600px;"]
 mydrivers.com###a_showhotnews_list_dia
 mydrivers.com###div_newsyjgg
@@ -22901,6 +22912,8 @@ tennis.com##.tc-video-player-iframe
 tennisworldusa.org##.box_adv_primis
 tennisworldusa.org##[style="width:300px;min-height:250px;"]
 terminal.hackernoon.com##.right
+ternity.net###playerdavLayer
+ternity.net##.da
 terraria.wiki.gg##[href^="https://store.steampowered.com/app/"]
 tesco.com##[class^="styled__StyledLIProductItem"]:has([class^="styled__StyledOffers"])
 teslaoracle.com##.tdi_48
@@ -41100,6 +41113,7 @@ zzzyk.com###Tinfo
 ||privilegedmansfieldvaguely.com^$popup
 ||privymktg.com^$third-party
 ||prizefrenzy.top^$popup
+||prmtracking.com^$document
 ||prmtracking.com^$popup
 ||prnetwork.de^$third-party
 ||prnx.net^$third-party
