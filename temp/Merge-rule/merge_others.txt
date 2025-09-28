@@ -35297,7 +35297,6 @@ zzzyk.com###Tinfo
 ||hostingcloud.racing^
 ||hostingcloud.science^
 ||hostinge.fr^
-||hostinger-redesign.vercel.app^
 ||hostinger.com/api-proxy/api/sentry/
 ||hostingfile.live^
 ||hostingjo.com^
@@ -36035,6 +36034,7 @@ zzzyk.com###Tinfo
 ||innovid.com^$popup,third-party
 ||innovid.com^$third-party
 ||inoreader.com/adv/$domain=inoreader.com
+||inouva.com^$popup
 ||inovasitehost.com.br^
 ||inpagepush.com^$popup
 ||inphonic.com/tracking/
@@ -37009,6 +37009,7 @@ zzzyk.com###Tinfo
 ||kindredplc.com^$popup
 ||king3rsc7ol9e3ge.com^$popup
 ||kingadblock.com^$popup
+||kingstare-54289.portmap.host^
 ||kingtrck1.com^$popup
 ||kinguin.net/affiliatepluswidget/$third-party
 ||kinoprofi.org^$third-party
@@ -39479,6 +39480,7 @@ zzzyk.com###Tinfo
 ||nicelinks.site/ad-block-
 ||nicelocaldates.com^
 ||nicequest.com^$third-party
+||nicerisle.com^$popup
 ||nickles.de/ivw/
 ||nicoad.nicovideo.jp/*/instream/tracking/
 ||nicolive.cdn.nimg.jp/relive/sp/browser-logs.
@@ -39909,7 +39911,6 @@ zzzyk.com###Tinfo
 ||onecount.net/onecount/oc_track/
 ||onedala.tv/uploads/banner/
 ||onedollarstats.com^$third-party
-||onedrive-files-gleaming-thunder.statichost.eu^
 ||onefeed.co.uk^$third-party
 ||onegreen.net/MyFile/
 ||onehostserver.com^
@@ -43728,7 +43729,6 @@ zzzyk.com###Tinfo
 ||srpx.net^$third-party
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
-||srv241178.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
@@ -47520,6 +47520,8 @@ zzzyk.com###Tinfo
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
+||youtube.com/api/stats/atr?ns=*&ver=2&cmt=1.*&fs=0&*&euri&lact=
+||youtube.com/api/stats/qoe?*page&ns=yt&fexp=v1%*&event=streamingstats&
 ||youtube.com/embed/C-iDzdvIg1Y$domain=biznews.com
 ||youtube.com/embed/wqLWTeNBEEQ?
 ||youtube.com/get_video?
@@ -47527,6 +47529,7 @@ zzzyk.com###Tinfo
 ||youtube.com/iframe_api$domain=nownews.com
 ||youtube.com/pagead/
 ||youtube.com/pcs/activeview?
+||youtube.com/ptracking?html5=1&video_id=*&cpn=*&ei=*&ptk=youtube_*&pltype=content
 ||youtube.com/set_awesome?
 ||youtube.com/youtubei/v1/log_event?
 ||youtube.com/youtubei/v1/player/ad_break
