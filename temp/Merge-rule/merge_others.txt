@@ -10390,6 +10390,7 @@ apkmody.mobi###custom-container
 apkmody.mobi###flirtwith-modal
 apkmody.mobi##.body-fixed-footer
 apkpac.com##.layout-beyond-ads
+apkpure.com,apkpure.net##.aipure-button
 apksum.com##.ad-left
 apnews.com##.Page-header-leaderboardAd
 apnews.com,arabiaweather.com,atlasobscura.com,forum.audiogon.com,gamesindustry.biz,golfdigest.com,zerohedge.com##.leaderboard-container
@@ -26017,6 +26018,7 @@ zzzyk.com###Tinfo
 ||2smarttracker.com^$popup
 ||2track.info^$popup
 ||2watchmygf.com/spot/
+||2xclick.ru^$third-party
 ||2yjw.com/statics/js/jquery.min.
 ||2zzt.com/file/aliyun
 ||2zzt.com/images/
@@ -28138,7 +28140,6 @@ zzzyk.com###Tinfo
 ||andyhoppe.com/count/
 ||andyhoppe.com^$third-party
 ||aneorwd.com^$document
-||angcelfernandez116.activehosted.com^
 ||angege.com^$popup
 ||angelfishstats.com^$third-party
 ||angelweb.cn/Inc/AngelG.js
@@ -31650,8 +31651,6 @@ zzzyk.com###Tinfo
 ||daqiso.com/ggbl/
 ||dark-reader.com^$popup
 ||darknessporn.com/prrls/
-||darkreader.org/data/top-backers.json
-||darkreader.org/elements/backers-
 ||darkreader.org/elements/statistics.js
 ||dashboard.io^$third-party
 ||dashboard.iproyal.com/img/b/
@@ -31669,8 +31668,6 @@ zzzyk.com###Tinfo
 ||data.debugbear.com^$third-party
 ||data.email.hostplus.com.au^
 ||data.hicloud.com^$third-party
-||data.webullfintech.com/event/
-||data.whop.com/api/v1/track/
 ||data.wiris.cloud/telemetry/
 ||databrain.com^$third-party
 ||databreakers.com^$third-party
@@ -31816,7 +31813,6 @@ zzzyk.com###Tinfo
 ||deeperhundredpassion.com^$popup
 ||deepintent.com^$third-party
 ||deepl.com/web/statistics
-||deepnote.com/api/track
 ||deepsathegoh.com^$document
 ||deepxtube.com/zips/
 ||deezer.com/ajax/gw-light.php?method=triton.pixelTracking&
@@ -32140,7 +32136,6 @@ zzzyk.com###Tinfo
 ||dnpz123.com^$third-party
 ||dnscloud.github.io/js/waypoints.min.js
 ||dnsdelegation.io^$third-party
-||dnshost.no-ip.org^
 ||dnslytics.com/images/ads/
 ||dnvod.tv/listprovider/ajaxlist.async.ashx
 ||dnvodcdn.me/fast/*.mp4
@@ -34856,6 +34851,7 @@ zzzyk.com###Tinfo
 ||haveamint.com^$third-party
 ||havegrosho.com^$popup
 ||havetohave.com^$third-party
+||hawifo-43198.portmap.host^
 ||hayahost.com^
 ||hayghe12.byethost7.com^
 ||haymarket.com/injector/deliver/
@@ -41711,6 +41707,7 @@ zzzyk.com###Tinfo
 ||qzzr.com/_uid.gif
 ||r-ad.ne.jp^$script,third-party
 ||r-tb.com^$popup
+||r.cdnpure.com/webReport
 ||r.mail.ru^$image
 ||r.mail.ru^$script
 ||r.stripe.com^$ping,script,xmlhttprequest
