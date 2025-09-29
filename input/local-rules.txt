@@ -85,5 +85,12 @@
 ||*.wxqcloud.qq.com^$important
 !阿里云云dns官网
 @@||www.alidns.com^$important
+!其他
+||sq-device.apple.com^$important
+||check.engine.miui.com^$important
+||dispatch-api-online.vemarsdev.com^$important
+!哔哩哔哩误拦截放行
+@@||passport.biligame.com^$important
+@@||*.bilivideo.com^$important
 
 
