@@ -1,7 +1,9 @@
 ! 微信小程序广告
 !B站支付页面
 !heukms官网
+!其他
 !哔哩哔哩广告
+!哔哩哔哩误拦截放行
 !头条系部分app网页端下载
 !夸克浏览器登录
 !小米DoT提示弹窗无法访问私人DNS的问题
@@ -2246,6 +2248,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /d/*-*-*.ap|$script,third-party
 /data/attachment/ad/*
 /data/cache/myad-
+/data/stat.php?*&referer_host=
 /data_collect.js
 /datacollectionapi-client/index.js
 /dataunlocker-prod.js
@@ -11887,9 +11890,9 @@ canstar.com.au,designspiration.com,investors.com,propertyguru.com.sg,search.inst
 canstar.com.au,mail.yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 canyoublockit.com##.elementor-widget-container > center > p
 capetownmagazine.com###top-leader-wrapper
-capitalbrief.com##.ad-parent
 capitalbrief.com##.position1
 capitalbrief.com##.position2
+capitalbrief.com,perezhilton.com##.ad-parent
 capitalfm.com,capitalxtra.com,classicfm.com,goldradio.com,heart.co.uk,smoothradio.com##.dac__mpu-card
 capsulenz.com,ssbcrack.com,thecoinrise.com##.td_spot_img_all
 captainaltcoin.com,dailyboulder.com,freedesignresources.net,ripplecoinnews.com,utahgunexchange.com,webkinznewz.ganzworld.com,webpokie.com##.widget_text
@@ -14540,6 +14543,10 @@ filefleck.com,haxnode.net,sadeempc.com,upload4earn.org,usersdrive.com##a[href*="
 filehippo.com##.program-actions-header__promo
 filehippo.com##.program-description__slot
 filehippo.com#?#article.card-article:-abp-has(span.card-article__author:-abp-contains(Sponsored Content))
+filehorse.com##.dx-hp-2
+filehorse.com##.dx-hp-4
+filehorse.com##.dx-pr-3
+filehorse.com##.dx-pr-4
 filehorse.com##div[class^="dx-"][class$="-1"]
 filehorse.com##div[id^="td-"]
 fileproinfo.com###myNav
@@ -30475,6 +30482,8 @@ zzzyk.com###Tinfo
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
 ||choogeet.net^$document
 ||choogeet.net^$popup
+||choosingoffer.lol^$document
+||choosingoffer.lol^$popup
 ||chooxaur.com^$popup
 ||choseing.com^$popup
 ||chosun.com/hitlog/
@@ -31023,6 +31032,8 @@ zzzyk.com###Tinfo
 ||collserve.com^$third-party
 ||colonistnobilityheroic.com^$popup
 ||colorsealprosper.co^$document
+||colossal-pathway.life^$document
+||colossal-pathway.life^$popup
 ||colossalanswer.com^$popup
 ||colossusssp.com^$third-party
 ||com-host.info^
@@ -33102,6 +33113,8 @@ zzzyk.com###Tinfo
 ||extsoft.info^$popup
 ||exweme88490.activehosted.com^
 ||exweme95150.activehosted.com^
+||exxtended-access.com^$document
+||exxtended-access.com^$popup
 ||ey43.com^$popup
 ||eyauknalyticafra.info^$popup
 ||eyein.com^$third-party
@@ -34030,6 +34043,7 @@ zzzyk.com###Tinfo
 ||gayadnetwork.com^$third-party
 ||gayforfans.com^*.php|$script
 ||gaygo.tv/gtv/frms/
+||gayporntube.com/spots.php?
 ||gays-cruising.com/nb/
 ||gaystream.pw/juicy.js
 ||gaystream.pw/pemsrv.js
@@ -41089,6 +41103,7 @@ zzzyk.com###Tinfo
 ||prime-vpnet.com^$popup
 ||prime.rambler.ru^$~script
 ||primedia.co.za/analytics/
+||primeos.in/wp-content/uploads/*/Sidebar-Ad.png
 ||primer.typekit.net^$xmlhttprequest
 ||primis-amp.tech^$third-party
 ||princesinistervirus.com^$popup
@@ -41932,6 +41947,8 @@ zzzyk.com###Tinfo
 ||redirect-ads.com^$~subdocument,third-party
 ||redirect-path1.com^$popup
 ||redirectify.app/script_tags/tracking.js
+||redirecting.online^$document
+||redirecting.online^$popup
 ||redirectingat.com^$document
 ||redirectingat.com^$popup
 ||redirectvoluum.com^$popup

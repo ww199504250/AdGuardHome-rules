@@ -1,8 +1,9 @@
-! 规则更新时间 2025年09月29日 00:39:12
-! 本规则数量 187条
+! 规则更新时间 2025年09月29日 07:41:45
+! 本规则数量 189条
 ! 更新频率 12小时
 ! 白名单规则
 
+@@||*.bilivideo.com^
 @@||*.xmpush.xiaomi.com^
 @@||5471782.fls.doubleclick.net^
 @@||79423.analytics.edgekey.net^
@@ -135,6 +136,7 @@
 @@||oneline.nextday.media^
 @@||pagead.l.doubleclick.net^
 @@||partner.everydays.de^
+@@||passport.biligame.com^
 @@||pay.bilibili.com^
 @@||prod.impartner.live^
 @@||promo.gramedia.com^
