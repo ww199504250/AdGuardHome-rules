@@ -92,5 +92,7 @@
 !哔哩哔哩误拦截放行
 @@||passport.biligame.com^$important
 @@||*.bilivideo.com^$important
+!禁用小米系统更新
+||update.miui.com^$important
 
 
