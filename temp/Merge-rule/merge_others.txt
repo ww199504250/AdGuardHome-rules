@@ -9506,6 +9506,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||weiyun001.com/banner_ads.js
 @@||wenxuecity.com/include/editor/*/media/ad/
 @@||wenxuecity.com^$generichide
+@@||wf.typesquare.com^$font,domain=morisawafonts.com
 @@||wgun.net^$elemhide
 @@||whatsapp.com^$generichide
 @@||where2getit.com/traderjoes/rest/clicktrack?$domain=traderjoes.com
@@ -19424,13 +19425,15 @@ ndtv.com##.add-wrp
 ndtv.com##.add__txt
 ndtv.com##.add__wrp
 ndtv.com##.add_dxt-non
-ndtv.com##.ads-wrp
 ndtv.com##.hmpage_rhs
 ndtv.com##[class^="ads_"]
 ndtv.com##div:has(> [id^="adslot"])
 ndtv.com##div[class^="add_"]
 ndtv.com,ndtv.in##[class^="firework"]
 ndtv.com,ndtv.in##[id^="firework"]
+ndtv.com,ndtvgames.com##.ads-wrp
+ndtvgames.com###div-ad
+ndtvgames.com##.ad-art_dsk
 ndtvprofit.com##.ad-with-placeholder-m__place-holder-wrapper__--JIw
 neatorama.com###Neatorama_300x250_300x600_160x600_ATF
 neatorama.com###Neatorama_300x250_300x600_160x600_BTF
@@ -25090,7 +25093,6 @@ yandex.*##.search-business-snippet-view__direct
 yandex.*##.search-list-view__advert-offer-banner
 yandex.*##a[href^="https://yabs.yandex.ru/count/"]
 yandex.*##a[href^="https://yandex.ru/an/count/"]
-yandex.*##li[class*="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
 yandex.*##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
 yandex.com##.AdvOffers
 yandex.com##.DirectFeature
@@ -25122,6 +25124,11 @@ yd.baidu.com##.ui-distribution-bar
 ydss.cn###indexBlad
 ydss.cn##.bm.bml.pbn > table > tbody > tr > td:nth-child(-n+2)
 ydss.cn##.indexAd
+ydwgame.net###diy3
+ydwgame.net###float_mask
+ydwgame.net##.cl.wp[style="width:1200px;"]
+ydwgame.net##.pictextad
+ydwgame.net##a[href="http://www.discuz.net"]
 ye120.com##.fixed_bottom
 yeeyi.com##.js_handle_right
 yeggi.com##.desktop_content_ad
@@ -27341,6 +27348,8 @@ zzzyk.com###Tinfo
 ||adspruce.com^$third-party
 ||adspyglass.com^$popup
 ||adsquash.info^$popup
+||adsquasher.com^$document
+||adsquasher.com^$popup
 ||adsquirrel.ai^$third-party
 ||adsreference.com^$third-party
 ||adsring.com^$third-party
@@ -27995,6 +28004,7 @@ zzzyk.com###Tinfo
 ||amarotic.com/Banner/$third-party
 ||amateur.cash^$third-party
 ||amateur.tv/cacheableAjax/$subdocument
+||amateur.tv/cacheableContent/GetWContentV3/device/pc/target/normal/contentKey/affbmr/
 ||amateur.tv/freecam/$third-party
 ||amateur.tv/misc/mYcLBNp7fx.js
 ||amateurhub.cam^$third-party
@@ -29921,7 +29931,6 @@ zzzyk.com###Tinfo
 ||bwbx.io/s3/javelin/public/hub/js/abba/$script,domain=bloomberg.co.jp|bloomberg.com
 ||bwinpartypartners.com^$third-party
 ||bwredir.com^$popup
-||bxumze.wickedlocal.com^
 ||bxw666.com/storage/*.gif
 ||by4d.com/dh/
 ||by4d.com/love/
@@ -31039,7 +31048,6 @@ zzzyk.com###Tinfo
 ||colossalanswer.com^$popup
 ||colossusssp.com^$third-party
 ||com-host.info^
-||com-local.edgekey.net.easyjet.com^
 ||com-localiser.fr^
 ||comagic.ru^$third-party
 ||come-get-s0me.com^$popup
@@ -35299,7 +35307,6 @@ zzzyk.com###Tinfo
 ||hostigner.fr^
 ||hostileconductive.com^
 ||hostiner.fr^
-||hosting.scently.nl^
 ||hosting.sproutbuilder.com^
 ||hosting.tempors.com^
 ||hosting24.com/images/banners/$third-party
@@ -37713,6 +37720,7 @@ zzzyk.com###Tinfo
 ||lnstagramhelp346.byethost33.com^
 ||lntrigulngdates.com^$popup
 ||lnzqw.net/js/
+||load.gtm.ghostdemocracy.com^
 ||load.gtm.poplocal.com.au^
 ||load.hosted.evara.ie^
 ||load.tm.all3dp.com/rqlevydw.js
@@ -37884,6 +37892,7 @@ zzzyk.com###Tinfo
 ||lp247p.com^$popup
 ||lp4.io^$third-party
 ||lplimjxiyx.com^$popup
+||lpmediastorage.com^$popup
 ||lporirxe.com^$third-party
 ||lpquizzhubon.com^$popup
 ||lptrak.com^$popup
@@ -38310,7 +38319,6 @@ zzzyk.com###Tinfo
 ||mdn.allizom.net/pong/
 ||mdrew7967.activehosted.com^
 ||mdstrm.com/js/lib/streammetrics.js
-||mdws.local183cu.ca^
 ||mdxprod.io/analytics.js
 ||me360.com/swt/swt.js
 ||me4track.com^$document
@@ -41837,6 +41845,7 @@ zzzyk.com###Tinfo
 ||rd.rakuten.co.jp^$script
 ||rdcdn.com^$third-party
 ||rdiul.com^$third-party
+||rdr.wargaming.net^$subdocument,third-party
 ||rdrsec.com^$popup
 ||rdsa2012.com^$popup
 ||rdsig.yahoo.co.jp^$image
@@ -42568,7 +42577,6 @@ zzzyk.com###Tinfo
 ||scatec.io/collect
 ||scatxxxporn.com/static/images/banners/
 ||sccnn.com/SF/zt.jpg
-||scdn.hostfame.com^
 ||scenbe.com^$popup
 ||sceno.ru^$third-party
 ||schedulerationally.com^$document
@@ -42816,7 +42824,6 @@ zzzyk.com###Tinfo
 ||serveipqs.com^$third-party
 ||servemeads.com^$third-party
 ||server.localrank.so^
-||server.shostee.com^
 ||server.valuehost.com.br^
 ||serverkompetenz.net/cpx.php?
 ||servernews.ru/track?
@@ -42922,7 +42929,6 @@ zzzyk.com###Tinfo
 ||sgsmtp12.sgcloudhosting.com^
 ||sgtm.fairmont.
 ||sgtm.fashionunited.
-||sgtm.hostbun.com^
 ||sgtm.wimdu.
 ||sgtreport.com/wp-content/uploads/*Banner
 ||sh.sina.com.cn/iframe/522/
@@ -43819,7 +43825,6 @@ zzzyk.com###Tinfo
 ||stapadblockuser.xyz/stat/
 ||stape.fun/stat/
 ||stape.io^$third-party
-||stape.seguro.targethost.com.br^
 ||stapecdn.com^$third-party
 ||stapewithadblock.beauty/stat/
 ||stapewithadblock.monster/stat/
@@ -45136,6 +45141,7 @@ zzzyk.com###Tinfo
 ||trackboxx.info^$third-party
 ||trackcb.com^$third-party
 ||trackcherry.com^$popup
+||trackclicks00.com^$popup
 ||trackcmp.net^$third-party
 ||trackconsole.com^$third-party
 ||trackdesk.com/tracking.js
