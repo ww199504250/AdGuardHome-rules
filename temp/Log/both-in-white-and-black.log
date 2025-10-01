@@ -1,107 +1,107 @@
 79423.analytics.edgekey.net 存在于黑白名单
-WhiteLine#4 BlackLine#6330 父域: analytics.edgekey.net@BlackLine#29678
+WhiteLine#4 BlackLine#6334 父域: analytics.edgekey.net@BlackLine#29653
 
 action.metaffiliation.com 存在于黑白名单
-WhiteLine#12 BlackLine#15003 父域: metaffiliation.com@BlackLine#180555
+WhiteLine#12 BlackLine#15002 父域: metaffiliation.com@BlackLine#180411
 
 ad.ourgame.com 存在于黑白名单
-WhiteLine#16 BlackLine#16098
+WhiteLine#16 BlackLine#16096
 
 admin.dable.io 存在于黑白名单
-WhiteLine#18 BlackLine#18172 父域: dable.io@BlackLine#79421
+WhiteLine#18 BlackLine#18169 父域: dable.io@BlackLine#79401
 
 afi-b.com 存在于黑白名单
-WhiteLine#21 BlackLine#23801
+WhiteLine#21 BlackLine#23802
 
 api.sec.miui.com 存在于黑白名单
-WhiteLine#30 BlackLine#33596
+WhiteLine#30 BlackLine#33572
 
 app.adjust.com 存在于黑白名单
-WhiteLine#33 BlackLine#34319 父域: adjust.com@BlackLine#17892
+WhiteLine#33 BlackLine#34293 父域: adjust.com@BlackLine#17889
 
 app.appsflyer.com 存在于黑白名单
-WhiteLine#34 BlackLine#34350 父域: appsflyer.com@BlackLine#36128
+WhiteLine#34 BlackLine#34324 父域: appsflyer.com@BlackLine#36103
 
 awin1.com 存在于黑白名单
-WhiteLine#38 BlackLine#41441
+WhiteLine#38 BlackLine#41406
 
 content.ingbank.pl 存在于黑白名单
-WhiteLine#69 BlackLine#71802
+WhiteLine#69 BlackLine#71780
 
 data.digital.costco.ca 存在于黑白名单
-WhiteLine#76 BlackLine#83125
+WhiteLine#76 BlackLine#83104
 
 data.digital.costco.com 存在于黑白名单
-WhiteLine#77 BlackLine#83126
+WhiteLine#77 BlackLine#83105
 
 e.customeriomail.com 存在于黑白名单
-WhiteLine#78 BlackLine#95383
+WhiteLine#78 BlackLine#95353
 
 hb.afl.rakuten.co.jp 存在于黑白名单
-WhiteLine#101 BlackLine#130645
+WhiteLine#101 BlackLine#130550
 
 heukmsactivator.com 存在于黑白名单
-WhiteLine#103 BlackLine#132173
+WhiteLine#103 BlackLine#132074
 
 hot.browser.miui.com 存在于黑白名单
-WhiteLine#106 BlackLine#134584 父域: browser.miui.com@BlackLine#54198
+WhiteLine#106 BlackLine#134480 父域: browser.miui.com@BlackLine#54180
 
 log.mmstat.com 存在于黑白名单
-WhiteLine#126 BlackLine#168146 父域: mmstat.com@BlackLine#185260
+WhiteLine#126 BlackLine#168013 父域: mmstat.com@BlackLine#185111
 
 logentries.com 存在于黑白名单
-WhiteLine#127 BlackLine#168383
+WhiteLine#127 BlackLine#168251
 
 marketing.net.idealo-partner.com 存在于黑白名单
-WhiteLine#131 BlackLine#175926
+WhiteLine#131 BlackLine#175765
 
 mis.g.mi.com 存在于黑白名单
-WhiteLine#134 BlackLine#184424
+WhiteLine#134 BlackLine#184273
 
 omniture.walmart.com 存在于黑白名单
-WhiteLine#144 BlackLine#202424
+WhiteLine#144 BlackLine#202258
 
 omsc.kpn.com 存在于黑白名单
-WhiteLine#145 BlackLine#202536
+WhiteLine#145 BlackLine#202370
 
 pagead.l.doubleclick.net 存在于黑白名单
-WhiteLine#147 BlackLine#207430 父域: doubleclick.net@BlackLine#92526
+WhiteLine#147 BlackLine#207259 父域: doubleclick.net@BlackLine#92501
 
 proto2ad.durasite.net 存在于黑白名单
-WhiteLine#153 BlackLine#222347
+WhiteLine#153 BlackLine#222160
 
 px.a8.net 存在于黑白名单
-WhiteLine#156 BlackLine#226429 父域: a8.net@BlackLine#11108
+WhiteLine#156 BlackLine#226231 父域: a8.net@BlackLine#11109
 
 recommender.scarabresearch.com 存在于黑白名单
-WhiteLine#159 BlackLine#232694 父域: scarabresearch.com@BlackLine#245516
+WhiteLine#159 BlackLine#232487 父域: scarabresearch.com@BlackLine#245323
 
 sax.sina.com.cn 存在于黑白名单
-WhiteLine#168 BlackLine#244927
+WhiteLine#168 BlackLine#244725
 
 security.browser.miui.com 存在于黑白名单
-WhiteLine#172 BlackLine#248458 父域: browser.miui.com@BlackLine#54198
+WhiteLine#172 BlackLine#248259 父域: browser.miui.com@BlackLine#54180
 
 security.snssdk.com 存在于黑白名单
-WhiteLine#173 BlackLine#248558
+WhiteLine#173 BlackLine#248358
 
 str.hit.gemius.pl 存在于黑白名单
-WhiteLine#182 BlackLine#280858 父域: gemius.pl@BlackLine#118227
+WhiteLine#182 BlackLine#280625 父域: gemius.pl@BlackLine#118154
 
 tags.crwdcntrl.net 存在于黑白名单
-WhiteLine#187 BlackLine#287210 父域: crwdcntrl.net@BlackLine#75344
+WhiteLine#187 BlackLine#286984 父域: crwdcntrl.net@BlackLine#75319
 
 tms.capitalone.com 存在于黑白名单
-WhiteLine#193 BlackLine#296314
+WhiteLine#193 BlackLine#296094
 
 track.webgains.com 存在于黑白名单
-WhiteLine#197 BlackLine#300845 父域: webgains.com@BlackLine#323767
+WhiteLine#197 BlackLine#300624 父域: webgains.com@BlackLine#323530
 
 www.googleadservices.com 存在于黑白名单
-WhiteLine#205 BlackLine#337834 父域: googleadservices.com@BlackLine#123289
+WhiteLine#205 BlackLine#337614 父域: googleadservices.com@BlackLine#123200
 
 www.jdoqocy.com 存在于黑白名单
-WhiteLine#206 BlackLine#339687 父域: jdoqocy.com@BlackLine#149284
+WhiteLine#206 BlackLine#339467 父域: jdoqocy.com@BlackLine#149168
 
 www.statcounter.com 存在于黑白名单
-WhiteLine#207 BlackLine#348772 父域: statcounter.com@BlackLine#277237
+WhiteLine#207 BlackLine#348552 父域: statcounter.com@BlackLine#277009
