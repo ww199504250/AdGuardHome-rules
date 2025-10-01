@@ -8514,7 +8514,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||js-agent.newrelic.com^$script,domain=abema.tv
 @@||js.adsrvr.org/up_loader.1.1.0.js$domain=sterkinekor.com
 @@||js.appboycdn.com/web-sdk/$domain=kfc.co.jp
-@@||js.datadome.co/tags.js$script,domain=monster.ca|sso.garena.com|thefork.at|thefork.be|thefork.ch|thefork.co.uk|thefork.com|thefork.de|thefork.es|thefork.fr|thefork.it|thefork.nl|thefork.pt|thefork.se
+@@||js.datadome.co/tags.js$script,domain=monster.ca|sso.garena.com|thefork.at|thefork.be|thefork.ch|thefork.co.uk|thefork.com|thefork.de|thefork.es|thefork.fr|thefork.it|thefork.nl|thefork.pt|thefork.se|ugg.com
 @@||js.sentry-cdn.com^$script,domain=app.homebinder.com|bolt.new|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||jsdelivr.net/combine/npm/$domain=ulifestyle.com.hk
 @@||jsdelivr.net^*/keen-tracking.min.js$domain=nextquotidiano.it
@@ -40243,6 +40243,7 @@ zzzyk.com###Tinfo
 ||pa5ka.com^$popup
 ||paaeeets.net^$popup
 ||pabidding.io^$third-party
+||pac.talksport.com/track
 ||packethosting.net^
 ||paddle.com^*/analytics.js
 ||paeastei.net^$popup
@@ -47102,6 +47103,7 @@ zzzyk.com###Tinfo
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
 ||xdtraffic.com^$popup
+||xenohosting.com^
 ||xenquz-46850.portmap.host^
 ||xero.com/api/events/
 ||xfinity.com/event/
