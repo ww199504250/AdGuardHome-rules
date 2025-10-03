@@ -5375,11 +5375,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 affiliates.thinkhost.net
 0.0.0.0 affiliates.ultrahosting.com
 0.0.0.0 ak-cdn.placelocal.com
-0.0.0.0 akexuzax.myhostpoint.ch
 0.0.0.0 analytics.hostyour.video
 0.0.0.0 analytics.locallogic.co
 0.0.0.0 analytics.localytics.com
 0.0.0.0 api.53.localytics.com
+0.0.0.0 api.chimera-hosting.zip
 0.0.0.0 api.locallogic.co
 0.0.0.0 api.localytics.com
 0.0.0.0 api.omnilocal.ai
@@ -5413,6 +5413,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 err.000webhost.com
 0.0.0.0 ethostrips.com
 0.0.0.0 ext.host-tracker.com
+0.0.0.0 file785host927.cfd
 0.0.0.0 flyhost.org
 0.0.0.0 free-money.host.sk
 0.0.0.0 freehostservers.com
@@ -5454,6 +5455,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hostpowermedium.112.2o7.net
 0.0.0.0 hostujmy.pl
 0.0.0.0 hydrocodone.irondel.swisshost.by
+0.0.0.0 hypehost.store
 0.0.0.0 images.host.bannerflow.com
 0.0.0.0 imp-east.pub.local.emxdgt.com
 0.0.0.0 irondel.swisshost.by
@@ -5466,19 +5468,21 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 local.ownlocal.com
 0.0.0.0 localbestdating1.com
 0.0.0.0 localbusinesslicense.com
-0.0.0.0 localflooringcontractors.com
 0.0.0.0 localh0st.info
+0.0.0.0 localmissoula.com
 0.0.0.0 localo.fr
 0.0.0.0 localofflinepro.com
 0.0.0.0 localwomensports.com
 0.0.0.0 localytics.com
 0.0.0.0 machinery-local-manage-0839142732.vercel.app
 0.0.0.0 mail.atn.ndh.mybluehost.me
+0.0.0.0 mailacutaaschemicals.host
 0.0.0.0 majestywebhost.com
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 merciless.localstars.com
 0.0.0.0 murbil.hostei.com
+0.0.0.0 newshostingsupdate.com
 0.0.0.0 newyork.cbslocal.us.intellitxt.com
 0.0.0.0 nlocalhost.wordtheminer.com
 0.0.0.0 oascentral.abclocal.go.com
@@ -5487,6 +5491,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 pafiilate.byethost32.com
 0.0.0.0 page-host.net
 0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 paradisegirlshostels.com
 0.0.0.0 patio-furniture.dreamhoster.com
 0.0.0.0 pgl.example0101
 0.0.0.0 philadelphia_cbslocal.us.intellitxt.com
@@ -5506,9 +5511,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 shoplocaly.com
 0.0.0.0 sleeper-sofa.dreamhoster.com
 0.0.0.0 slhk23.0101host.com
+0.0.0.0 smartreachlocal.com
 0.0.0.0 snowplow.ownlocal.com
 0.0.0.0 sporthostel.org
-0.0.0.0 srv239401.hoster-test.ru
 0.0.0.0 static.locallogic.co
 0.0.0.0 static.omnilocal.ai
 0.0.0.0 swanvalleyhosting.com
@@ -5529,7 +5534,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 viphostindustries.info
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vistabet-affiliate.host.bannerflow.com
-0.0.0.0 vps19810.maxko-hosting.net
 0.0.0.0 web-analytics.mona.host
 0.0.0.0 web-hoster.co
 0.0.0.0 web.53.localytics.com
@@ -5537,14 +5541,13 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 webanalytics.localytics.com
 0.0.0.0 webhosting-ads.home.pl
 0.0.0.0 webhosting.hut1.ru
-0.0.0.0 webhostingpage2025.sbs
+0.0.0.0 webhostingtest9.net
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 wellnessmonitor.bravehost.com
 0.0.0.0 widget.secure.ownlocal.com
 0.0.0.0 worldhostgroup.org
 0.0.0.0 www.adlhosting.com
 0.0.0.0 www.adpeepshosted.com
-0.0.0.0 www.akexuzax.myhostpoint.ch
 0.0.0.0 www.bcloudhost.com
 0.0.0.0 www.bluecrabhosting.co.uk
 0.0.0.0 www.celulahost.online
@@ -5554,6 +5557,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.ded5092.inmotionhosting.com
 0.0.0.0 www.dixiewebhosting.com
 0.0.0.0 www.ethostrips.com
+0.0.0.0 www.file785host927.cfd
 0.0.0.0 www.flyhost.org
 0.0.0.0 www.freehostservers.com
 0.0.0.0 www.gorockhost.com
@@ -5566,35 +5570,39 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hostujmy.pl
+0.0.0.0 www.hypehost.store
 0.0.0.0 www.localbusinesslicense.com
-0.0.0.0 www.localflooringcontractors.com
 0.0.0.0 www.localh0st.info
+0.0.0.0 www.localmissoula.com
 0.0.0.0 www.localofflinepro.com
 0.0.0.0 www.localwomensports.com
 0.0.0.0 www.localytics.com
 0.0.0.0 www.machinery-local-manage-0839142732.vercel.app
 0.0.0.0 www.mail.atn.ndh.mybluehost.me
+0.0.0.0 www.mailacutaaschemicals.host
 0.0.0.0 www.majestywebhost.com
+0.0.0.0 www.newshostingsupdate.com
 0.0.0.0 www.pafiilate.byethost32.com
+0.0.0.0 www.paradisegirlshostels.com
 0.0.0.0 www.pinkghost.blog
 0.0.0.0 www.placelocal.com
 0.0.0.0 www.redelephanthosting.com
 0.0.0.0 www.rentingalocalfriend.com
 0.0.0.0 www.shoplocaly.com
+0.0.0.0 www.smartreachlocal.com
 0.0.0.0 www.sporthostel.org
-0.0.0.0 www.srv239401.hoster-test.ru
 0.0.0.0 www.swanvalleyhosting.com
 0.0.0.0 www.tinyfilehost.com
 0.0.0.0 www.tinyfileshost.com
 0.0.0.0 www.valuehost.co.uk
 0.0.0.0 www.webhostingcounter.com
-0.0.0.0 www.webhostingpage2025.sbs
+0.0.0.0 www.webhostingtest9.net
 0.0.0.0 www.worldhostgroup.org
-0.0.0.0 www.you.europa-hosting.com
+0.0.0.0 www.xenohosting.com
 0.0.0.0 www.yourcanadahost.com
 0.0.0.0 www.zengohost.com
 0.0.0.0 www3.webhostingtalk.com
-0.0.0.0 you.europa-hosting.com
+0.0.0.0 xenohosting.com
 0.0.0.0 yourcanadahost.com
 0.0.0.0 zengohost.com
 012.tw#@#.ad728
@@ -9943,6 +9951,8 @@ agar.io###agar-io_160x600
 agar.io###agar-io_160x600_2
 agar.io###agar-io_300x250
 agar.io###agar-io_970x90
+agar.live##.bottom-banner
+agar.live,news.am,viva.co.nz##.side-banner
 agcanada.com,allmusic.com,allrecipes.com,allthatsinteresting.com,autoaction.com.au,aviatorsmarket.com,ballstatedaily.com,bdonline.co.uk,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,cattime.com,chairmanlol.com,chemistryworld.com,citynews.ca,comingsoon.net,coolmathgames.com,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodandwine.com,foodista.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,gcaptain.com,gmanetwork.com,imedicalapps.com,itnews.asia,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,liveoutdoors.com,macleans.ca,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,newsonjapan.com,nfcw.com,objectiface.com,passedoutphotos.com,playstationlifestyle.net,precisionvaccinations.com,retail-week.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thestar.com.my,titantv.com,tutorialrepublic.com,uproxx.com,vax-before-travel.com,where.ca,yoimaletyoufinish.com##.leaderboard
 agedbeauty.net,data18.com,imgdrive.net,pornpics.com,pornpics.de,vipergirls.to##a[href*="/go/"]
 agegeek.com,free-codecs.com,investing.com,mtaeta.info,pimpandhost.com,proboards.com,realgearonline.com,repairalmostanything.com,timeanddate.com,wordhippo.com,wordreference.com###ad1
@@ -19511,7 +19521,6 @@ news.abs-cbn.com##.css-a5foyt
 news.abs-cbn.com##[style*="background-color: rgb(236, 237, 239)"]
 news.abs-cbn.com##[style*="width:100%;min-height:300px;"]
 news.am##.banner_click
-news.am,viva.co.nz##.side-banner
 news.artnet.com##.artnet-ads-ad
 news.artnet.com,powernationtv.com,worldsurfleague.com#@#div[data-ad-targeting]
 news.baidu.com###detail-HotScrollNews-wrapper
@@ -32184,7 +32193,6 @@ zzzyk.com###Tinfo
 ||dompeterapp.com^$popup
 ||donationobliged.com^$document
 ||donecperficiam.net^$popup
-||doneloby12131-39622.portmap.host^
 ||donewellhosting.com^
 ||dongchedi.com/motor/ad/
 ||dongfangtai.com/2018/
@@ -34180,6 +34188,7 @@ zzzyk.com###Tinfo
 ||getmatchedlocally.com^$popup
 ||getmetrical.com/storagesync
 ||getmyads.com^$popup
+||getnodejs.com/add-event/
 ||getnotix.co^$third-party
 ||getpocket.com/web-utilities/public/static/te.js
 ||getpos.de/ext/
@@ -38329,6 +38338,7 @@ zzzyk.com###Tinfo
 ||media.babylonbee.com/ads/
 ||media.eurolive.com^$third-party
 ||media.io/trk
+||media.max.com/*/dash.mpd^$domain=cnn.com
 ||media.mykodial.com^$third-party
 ||media.net^$object,script,third-party,xmlhttprequest
 ||media.notthebee.com/ads/
@@ -46279,7 +46289,6 @@ zzzyk.com###Tinfo
 ||vndevtop.com/lvcsm/abck-banners/
 ||vnet.cn^*.html
 ||vnet.cn^*.html?$popup,third-party
-||vnjxj-34736.portmap.host^
 ||vnte9urn.click^$popup
 ||vo.msecnd.net/api/beYableJSv2.js
 ||vobium.com/images/banners/
@@ -46917,6 +46926,7 @@ zzzyk.com###Tinfo
 ||worldssl.net/reporting.js
 ||worldtimes2.xyz^$popup
 ||worldztool.com^*/dotraceuser.php
+||wormhostels.com^
 ||wormleboss-48015.portmap.host^
 ||worthathousandwords.com^$third-party
 ||worthplaying.com/ad_left.html
