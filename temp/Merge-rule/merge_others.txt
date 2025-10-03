@@ -9024,6 +9024,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||redian.news^$generichide
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|zdnet.com
 @@||regapi.37.com/api/p_register.php?login_account=
+@@||registro.pse.com.co/PSENF/assets/js/fingerprint.min.js$script,domain=registro.pse.com.co
 @@||relevant-digital.com^$script,domain=20min.ch
 @@||renewcanceltv.com/porpoiseant/banger.js$script,~third-party
 @@||renfei.net^$generichide
@@ -13613,6 +13614,7 @@ douxie.com##.ndxBanner
 douxie.com##.ndxChdjBox
 douyin.com###videoSideBar iframe
 douyin.com#?##videoSideBar:-abp-has(div:-abp-contains(/商品|商家|退款|店铺/))
+douyin.com#?#.discover-video-card-item:-abp-has(>div>div>span:-abp-contains(广告))
 douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
 douyu.com###js-fix-download
 douyu.com###js-live-room-recommend
@@ -26863,7 +26865,6 @@ zzzyk.com###Tinfo
 ||actoys.net/js/beitou.js
 ||actoys.net/statics/js/index/ad.js
 ||actu.fr/assets/js/smarttag5280-1.js
-||actualizarsistemadeseguridadbbvcapowill.cloudaccess.host^
 ||aculturerpa.info^$popup
 ||acuxi43449.activehosted.com^
 ||acwifi.net/wp-content/uploads/2019/11/20191119.jpg
@@ -30832,7 +30833,6 @@ zzzyk.com###Tinfo
 ||cloudzilla.ai/ingest/
 ||cls.cn/v2/web/ad?
 ||clubcollector.com^$third-party
-||clubhostile.shop^
 ||clubic.com/tview
 ||cluep.com^$third-party
 ||clumsyshare.com^$popup
@@ -33655,7 +33655,6 @@ zzzyk.com###Tinfo
 ||fprnt.com^$third-party
 ||fpt.shop/fa_tracking.js
 ||fpukxcinlf.com^$popup
-||fpvxzvrzz-58282.portmap.host^
 ||fqsecure.com^$third-party
 ||fqtag.com^$third-party
 ||fr.shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
@@ -37112,7 +37111,6 @@ zzzyk.com###Tinfo
 ||koyi.pub/wp-content/plugins/dh-anti-adblocker/
 ||koyso.com/aclib.js
 ||koyso.com/static/js/abcd.
-||kplhostweb.com^
 ||kpnoq8eil.localto.net^
 ||kppt.cc/zb_system/script/common.js
 ||kppt.cc/zhifu.jpg
@@ -40590,7 +40588,6 @@ zzzyk.com###Tinfo
 ||pichost24.site^
 ||pichost24.stream^
 ||pichost24.website^
-||pichost64.icu^
 ||pichost64.site^
 ||pickaflick.co^$popup
 ||piclect.com^*.gif$third-party
@@ -42916,7 +42913,6 @@ zzzyk.com###Tinfo
 ||sgtreport.com/wp-content/uploads/*Banner
 ||sh.sina.com.cn/iframe/522/
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
-||shadow2sas-22639.portmap.host^
 ||shadow32434-42879.portmap.host^
 ||shakingtacklingunpeeled.com^$document
 ||shakingtacklingunpeeled.com^$popup
@@ -47528,7 +47524,6 @@ zzzyk.com###Tinfo
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
-||youtube.com/api/stats/atr?ns=*&ver=2&cmt=1.*&fs=0&*&euri&lact=
 ||youtube.com/api/stats/qoe?*page&ns=yt&fexp=v1%*&event=streamingstats&
 ||youtube.com/embed/C-iDzdvIg1Y$domain=biznews.com
 ||youtube.com/embed/wqLWTeNBEEQ?
