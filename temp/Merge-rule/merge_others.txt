@@ -25461,7 +25461,6 @@ zzzyk.com###Tinfo
 |about:$popup,domain=22pixx.xyz|adblockstrtape.link|bitporno.com|clipconverter.cc|dailyuploads.net|dood.la|dood.so|dood.to|dood.video|dood.watch|dood.ws|doodcdn.com|flashx.net|gospeljingle.com|hqq.tv|imagetwist.com|mixdrop.bz|mixdrop.sx|mp4upload.com|nextgencloudtools.com|playtube.ws|popads.net|powvideo.net|powvldeo.cc|putlocker.style|run-syndicate.com|soap2day.tf|spcdn.cc|strcloud.link|streamani.net|streamsb.net|streamtape.cc|streamtape.com|streamtape.site|strtape.cloud|strtape.tech|strtapeadblock.club|strtapeadblock.me|strtpe.link|supervideo.cc|tapecontent.net|turboimagehost.com|upstream.to|uptostream.com|uptostream.eu|uptostream.fr|uptostream.link|userload.co|vev.red|vevo.io|vidcloud.co|videobin.co|videowood.tv|vidoza.net|voe.sx|vortez.net|vshare.eu|watchserieshd.tv
 |blob:$popup,domain=hqq.tv|waaw.to|watchadsontape.com
 |data:text$popup,domain=~clker.com
-|getmodsapk.com/cloudflare/ads-images/
 |http*://*?$popup,third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 |http:$script,subdocument,third-party,domain=dlkoo.cc
 |http://*.cn/ad/
@@ -25615,7 +25614,6 @@ zzzyk.com###Tinfo
 ||123-stream.org^$document
 ||123-stream.org^$popup
 ||123.sogou.com/discover/?
-||123animehub.cc/final
 ||123av.*/assets/ad/
 ||123cha.com/counter.js
 ||123compteur.com^$third-party
@@ -25642,9 +25640,6 @@ zzzyk.com###Tinfo
 ||130.211.$popup,third-party,domain=~in-addr.arpa
 ||131458.com/union/
 ||1328f.com/js/jquery.js
-||1337x.*/images/x28.jpg
-||1337x.*/images/x2x8.jpg
-||1337x.to/js/vpn.js
 ||1342a.com/js/jquery.js
 ||135920.webhosting47.1blu.de^
 ||138vps.com/image/
@@ -25786,7 +25781,6 @@ zzzyk.com###Tinfo
 ||189.cn/dns/
 ||189.cn^*/push/$third-party
 ||189.gd^*.html$third-party
-||18adultgames.com/wp-content/litespeed/js/aa3f90c531904167b7dd98e25ff48b2b.js
 ||18avday.*/aa/
 ||18comic.*/media/albums/*?$media
 ||18naked.com^$third-party
@@ -26025,7 +26019,6 @@ zzzyk.com###Tinfo
 ||2mdn.net^$~media,third-party
 ||2merkato.com/images/banners/
 ||2o7.net^$third-party
-||2oceansvibe.com/?custom=takeover
 ||2parale.ro^$third-party
 ||2performant.com^$third-party
 ||2qj7mq3w4uxe.com^$popup
@@ -26215,7 +26208,6 @@ zzzyk.com###Tinfo
 ||4dsply.com^$popup
 ||4dsply.com^$third-party
 ||4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/sa7d76sa/
-||4f.to/spns/
 ||4gamers.com.tw/ads-
 ||4gamers.com.tw/site/api/aols/media?
 ||4gamers.com.tw/site/iframe-aols/
@@ -26774,7 +26766,6 @@ zzzyk.com###Tinfo
 ||abcache.com/tg/
 ||abcache.com/xc/image/
 ||abcache.com/youlaohu/
-||abcnews.com/assets/js/adCallOverride.js
 ||abcompteur.com^$third-party
 ||abcstats.com^$third-party
 ||abczxw.com/skin/bbb/pc/js/bd.js
@@ -26792,12 +26783,10 @@ zzzyk.com###Tinfo
 ||about.me/track?
 ||aboutads.quantcast.com^$third-party
 ||aboutharrypotter.fasthost.tv^
-||aboutmyarea.co.uk/images/imgstore/
 ||above.tw/blog/wp-content/plugins/popups/public/assets/js/public.js
 ||aboveredirect.top^$popup
 ||absolstats.co.za^$third-party
 ||absoluporn.com/code/script/
-||absoluteanime.com/!bin/skin3/ads/
 ||absoluteroute.com^$popup
 ||abtrcker.com^$popup
 ||abtshield.com^$third-party
@@ -27259,7 +27248,6 @@ zzzyk.com###Tinfo
 ||adquality.ch^$third-party
 ||adquire.com^$third-party
 ||adqva.com^$third-party
-||adrama.to/bbb.php
 ||adrange.net^$third-party
 ||adreactor.com^$popup
 ||adreactor.com^$third-party
@@ -27615,7 +27603,6 @@ zzzyk.com###Tinfo
 ||afodreet.net^$document
 ||afodreet.net^$popup
 ||afp.ai^$third-party
-||afr.com/assets/europa.
 ||afrikad.com^$third-party
 ||afront.io^$popup
 ||afront.io^$third-party
@@ -27689,7 +27676,6 @@ zzzyk.com###Tinfo
 ||aili.com^$third-party
 ||aim.cloudflare.com/__log
 ||aim4media.com^$third-party
-||aimclicks.com/layerad.js
 ||aimediagroup.com^$third-party
 ||aimging.com^$document
 ||aimging.com^$popup
@@ -27949,10 +27935,7 @@ zzzyk.com###Tinfo
 ||alljapanesepass.com/ascripts/gcu.js
 ||alljapanesepass.com/rstat
 ||allkeyshop.com/analytics/script.js
-||allkeyshop.com/blog/wp-content/uploads/*sale$image
-||allkeyshop.com/blog/wp-content/uploads/allkeyshop_background_
 ||allmediadesk.com^$third-party
-||allmonitors24.com/ads-
 ||allo-media.net^$third-party
 ||allocine.fr/_/geolocalize
 ||alloha.tv^$third-party
@@ -28063,21 +28046,18 @@ zzzyk.com###Tinfo
 ||amazonaws.com/storejs/a/JKRHRQG/ge.js
 ||amazonaws.com/v1/apps/*/events
 ||amazonaws.com/webengage-files/
-||amazonaws.com^$domain=downloadpirate.com|hexupload.net|krunkercentral.com|megaup.net|rexdlbox.com|uploadhaven.com
+||amazonaws.com^$domain=hexupload.net|megaup.net|uploadhaven.com
 ||amazonaws.com^*/prod_analytics
 ||amazononline.xyz/mp4/*.mp4$rewrite=abp-resource:blank-mp3,domain=iyingshi7.tv|localmv1.com
 ||amazonpay.com/customerInsight?
 ||ambercrow.com^$third-party
 ||ambiliarcarwin.com^$popup
 ||ambuizeler.com^$popup
-||amcdn.co.za/scripts/javascript/dfp.js
 ||amcdn.vn^$third-party
 ||ameba.jp/cookie/
 ||ameblo.jp/accesslog/
 ||amelatrina.com^$popup
 ||americanexpress.com/beacon
-||americanlookout.com////
-||americanlookout.com/29-wE/
 ||americascardroom.eu/ads/$popup,third-party
 ||amesgraduatel.xyz^$popup
 ||amikay.com^$third-party
@@ -28164,12 +28144,10 @@ zzzyk.com###Tinfo
 ||anhuinews.com/include/
 ||anhuinews.com/zhuyeguanli/*ad/
 ||aniltramps.top^$popup
-||animationmagazine.net/wordpress/wp-content/uploads/TWR_AM_
 ||animeland.tv/zenny/
 ||animeloundry.com^$document
 ||animeloundry.com^$popup
 ||animemeat.com^$popup
-||anisearch.com/amazon
 ||anitaboozer.activehosted.com^
 ||aniview.com^$third-party
 ||anixwallpaper.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -30828,7 +30806,7 @@ zzzyk.com###Tinfo
 ||cloudfront.net/vis_opt_no_jquery.js
 ||cloudfront.net/websites/sb.js
 ||cloudfront.net/zephyr.js
-||cloudfront.net^$domain=rexdlbox.com|titantv.com
+||cloudfront.net^$domain=buffsports.io|fbstreams.pm|megaup.net|rexdlbox.com|titantv.com
 ||cloudfront.net^$script,domain=gentside.com
 ||cloudfront.net^*.bmp?
 ||cloudfront.net^*/sponsors/$domain=pbs.org
@@ -30950,23 +30928,6 @@ zzzyk.com###Tinfo
 ||cnwnews.com/images/kgt
 ||cnwnews.com/templets/images/artpangu.gif
 ||cnwnews.com/templets/images/jccf
-||cnx-software.com/wp-content/uploads/*/EmbeddedTS-TS-7180-embedded-SBC.webp
-||cnx-software.com/wp-content/uploads/*/Forlinx-NXP-System-on-Modules.webp
-||cnx-software.com/wp-content/uploads/*/GrapeRain-Samsun-Rockchip-Qualcomm-System-on-Modules.webp
-||cnx-software.com/wp-content/uploads/*/I-Pi-SMARC-Amston-Lake-devkit.webp
-||cnx-software.com/wp-content/uploads/*/Jetway-JPIC-ADN1-N97-industrial-SBC.webp
-||cnx-software.com/wp-content/uploads/*/Mekotronics-R58.webp
-||cnx-software.com/wp-content/uploads/*/Orange-Pi-Single-Board-Computer.jpg
-||cnx-software.com/wp-content/uploads/*/Radxa-ROCK-5C-SBC.webp
-||cnx-software.com/wp-content/uploads/*/Radxa-ROCK5-ITX.webp
-||cnx-software.com/wp-content/uploads/*/Raspberry-Pi-4-alternative-2023-SBC.webp
-||cnx-software.com/wp-content/uploads/*/Rockchip-RK3576-SoM-Raspberry-Pi-CM4-alternative.webp
-||cnx-software.com/wp-content/uploads/*/Rockchip-RK3588S-8K-SBC-with-WIFI-6.webp
-||cnx-software.com/wp-content/uploads/*/UGOOS-2024-TV-box-remote-control.webp
-||cnx-software.com/wp-content/uploads/*/Youyeetoo-RK3568-RK3588S-SBC-Intel-X1-SBC-December-2024.webp
-||cnx-software.com/wp-content/uploads/*/cexpress-asl-COM-Express-Amston-Lake-module.webp
-||cnx-software.com/wp-content/uploads/*/gateworks-rugged-industrial-iot.webp
-||cnx-software.com/wp-content/uploads/*/rikomagic-android-digital-signage-player-2023.webp
 ||cnxweb.com^$third-party
 ||cnyw.net/autoloader.js
 ||cnzz.cn/badu.gif
@@ -33377,7 +33338,6 @@ zzzyk.com###Tinfo
 ||fiksu.com^$third-party
 ||file-file-host4.com^
 ||file-upload.net/include/mitte-orig.php
-||file785host927.cfd^
 ||fileboom.me/images/i/$third-party
 ||filecrypt.cc/pdb.html
 ||filehippo.com/best-recommended-apps^
@@ -35187,6 +35147,7 @@ zzzyk.com###Tinfo
 ||holdhostel.space^$popup
 ||holdonstranger.com^$third-party
 ||holidaycheck.*/svc/ubt/v1/events
+||holl.pagamentohostahgtzejjxliirmp.sbs^
 ||hollysocialspuse.com^$popup
 ||holyfamilyradio.org/banners/
 ||home-xxx-videos.com/snowy-
@@ -35307,7 +35268,6 @@ zzzyk.com###Tinfo
 ||hoster.bobbylevin.com^
 ||hosterchecker.com^
 ||hostermasterplug.duckdns.org^
-||hosterphobic.duckdns.org^
 ||hosterroundcubz.s3.cubbit.eu^
 ||hostgrater.com^
 ||hostiger.fr^
@@ -35333,7 +35293,6 @@ zzzyk.com###Tinfo
 ||hostipress.com^
 ||hostkiss.com^
 ||hostmanshipacademy.com^
-||hostmaster.lectec.com.au^
 ||hostmaster.richardhyettlawyernotary.com^
 ||hostmonster.com/src/js/$third-party
 ||hostname.biz^
@@ -35567,7 +35526,6 @@ zzzyk.com###Tinfo
 ||hyenadata.com^$popup
 ||hyfntrak.com^$third-party
 ||hypebeast.com/firebase-messaging-sw.js
-||hypehost.store^
 ||hypelab.com^$third-party
 ||hypemarketing.pl/cdn/fhmm-tracker.js
 ||hyperactivate.com^$third-party
@@ -39872,7 +39830,6 @@ zzzyk.com###Tinfo
 ||olelive.com/v1/pub/index/anchor/check/pc/e?
 ||olgame.tw/home/attachment/
 ||olimp.bet/analytics/
-||olive-duck-153097.hostingersite.com^
 ||olmsoneenh.info^$domain=avgle.com
 ||olopruy.com^$document
 ||olx.com.br^*/lurker.
@@ -40383,6 +40340,7 @@ zzzyk.com###Tinfo
 ||pavan001-50933.portmap.host^
 ||paxsfiss.com^$popup
 ||paxxfiss.com^$popup
+||pay.prohost.space^
 ||pay4fans.com/api/analytics
 ||paydemic.com^$third-party
 ||paydotcom.com^$third-party
@@ -40479,6 +40437,7 @@ zzzyk.com###Tinfo
 ||pelisfree.site/js/script_
 ||pemsrv.com^$document
 ||pemsrv.com^$popup
+||pendo.io/data/ptm.gif/
 ||pendo.scopus.com/data/ptm.gif
 ||pengtu.cc^*.png
 ||pengwei168.com/addons/321.gif
@@ -41830,7 +41789,6 @@ zzzyk.com###Tinfo
 ||rawdogsports.com/data/siropu/
 ||raygun.io/events?
 ||raygun.io/ping?
-||rayjanikowski7148843.activehosted.com^
 ||rayjanikowski7157914.activehosted.com^
 ||rayjanikowski7199997.activehosted.com^
 ||rayn.io/contextual_targeting
@@ -42861,7 +42819,6 @@ zzzyk.com###Tinfo
 ||sessfetchio.com^$document
 ||sessioncam.com^$third-party
 ||sessionstack.com^$third-party
-||sesy.sipagamentohostargooit.sbs^
 ||seteamsobtantion.com^$popup
 ||setn.com/js/advertisement?
 ||setn.com/js/idleAD.
@@ -42989,6 +42946,7 @@ zzzyk.com###Tinfo
 ||sheego.de/ar/$third-party
 ||shejiben.com/common/libs/layer.js
 ||shejiben.com/common/widgets/ui/*zb.js
+||shelbus99-30583.portmap.host^
 ||shemale.com/api/metrics
 ||shemalenova.com/smn/banners/
 ||shemsfm.net/ar/setStats/
@@ -43762,6 +43720,7 @@ zzzyk.com###Tinfo
 ||srv24009350hoster.cfolks.pl^
 ||srv241317.hoster-test.ru^
 ||srv241486.hoster-test.ru^
+||srv241666.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv335634894hoster.cfolks.pl^
 ||srv3574894hoster.cfolks.pl^
@@ -44774,6 +44733,7 @@ zzzyk.com###Tinfo
 ||thronecdn.com/analytics/
 ||thscore.fun/mn/
 ||thumbzilla.com/_xa/ads
+||thunderc4-32871.portmap.host^
 ||thztv.*/tool/
 ||tianji520.cn^$third-party
 ||tianmu.com/DA201
@@ -47229,7 +47189,6 @@ zzzyk.com###Tinfo
 ||xp85.com/common/js/allpage.js
 ||xpcha.com/js/notice.js
 ||xpeeps.com^$popup,third-party
-||xperiencehostwindows.ydns.eu^
 ||xpics.me/everyone.
 ||xplosion.de^$domain=spiegel.de
 ||xplosion.de^$third-party
