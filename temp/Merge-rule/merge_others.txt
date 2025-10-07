@@ -11240,6 +11240,7 @@ bigthink.com##.wrapper-connatixElements
 bigthink.com##.wrapper-connatixPlayspace
 bigtitsgallery.net##.classifiedAd
 bigtitslust.com,sortporn.com##.pignr.item
+bigwarp.*##div[style="position: fixed; inset: 0px; background: rgba(0, 0, 0, 0.42); z-index: 2147483647; display: flex; align-items: center; justify-content: center; pointer-events: auto;"]
 bigwarp.cc###player_banner_overlay
 bikechatforums.com##.row2[style="padding: 5px;"]
 bikeexif.com##.small
@@ -28095,6 +28096,7 @@ zzzyk.com###Tinfo
 ||ampproject.org/preconnect.gif
 ||amung.us^$third-party
 ||amunx.de^$third-party
+||amusing-injury.com^$document
 ||amxrtb.com^$third-party
 ||amz.boy.mybluehost.me^
 ||an.yandex.
@@ -30628,6 +30630,7 @@ zzzyk.com###Tinfo
 ||clevi.com^$third-party
 ||clewm.net/public/cli_analytics.js$domain=cli.im
 ||click-cdn.com^$popup
+||click-for-preview.com^$document
 ||click-url.com^$third-party
 ||click.alibaba.com^$subdocument,third-party
 ||click.aliexpress.com^$image
@@ -33914,7 +33917,7 @@ zzzyk.com###Tinfo
 ||gabbartmiotics.top^$popup
 ||gacela.eu^$third-party
 ||gaconnector.com^$third-party
-||gacraft.jp^$third-party
+||gacraft.jp/publish/token.html
 ||gadgets360.com/analytics.js
 ||gadgets360.com/pricee/assets/affiliate/
 ||gadlt.nl^$popup
@@ -35322,6 +35325,7 @@ zzzyk.com###Tinfo
 ||hostphpwindowsapp.duckdns.org^
 ||hostphpwindowsdriversapp.duckdns.org^
 ||hostphpwindowsdriversapps.duckdns.org^
+||hostphpwindowsdriversapps1.duckdns.org^
 ||hostpowermedium.112.2o7.net^
 ||hostrubs.com^
 ||hosts.dynuddns.com^
@@ -36047,7 +36051,6 @@ zzzyk.com###Tinfo
 ||inphonic.com^$third-party
 ||inping.com^$third-party
 ||inporn.com/8kl7mzfgy6
-||inpost.pl-mail.host86778.info^
 ||inpwrd.com^$third-party
 ||inq.com/tagserver/logging/logline
 ||inq.com^*/onEvent?_
@@ -37744,7 +37747,6 @@ zzzyk.com###Tinfo
 ||localmediabuying.com^
 ||localmissoula.com^
 ||localo.fr^
-||localofflinepro.com^
 ||localpoint.ch^
 ||localreche.pro^
 ||localreporting.pro^
@@ -37758,7 +37760,6 @@ zzzyk.com###Tinfo
 ||localstockservicefr.firebaseapp.com^
 ||localtalent.ph^
 ||localtreasure.net^
-||localwomensports.com^
 ||localytics.com^
 ||localytics.com^$third-party
 ||location3.com/analytics/
@@ -40165,7 +40166,6 @@ zzzyk.com###Tinfo
 ||ovardu.com^$document
 ||ovardu.com^$popup
 ||ovdimin.buzz^$popup
-||overbuff.com/cargo.js
 ||overcasthosting.com^
 ||overcrowdsillyturret.com^$popup
 ||overninetalesor.com^$popup
@@ -41350,6 +41350,7 @@ zzzyk.com###Tinfo
 ||pulselog.com^$third-party
 ||pulsemaps.com^$third-party
 ||pulseonclick.com^$popup
+||pulsivecerebra.top^$document
 ||puma.com^$popup,domain=hupu.com
 ||punishworld.com/prerolls/
 ||punsong.com^$popup
