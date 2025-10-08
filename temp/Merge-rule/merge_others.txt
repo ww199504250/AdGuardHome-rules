@@ -9823,9 +9823,7 @@ accuradio.com###pageSidebarWrapper
 accuradio.com###pl_leaderboard
 accuradio.com###slot2Wrapper
 accuradio.com##.MobileSquareAd__Container-sc-1p4cjdt-0
-accuweather.com##.connatix-player
 accuweather.com##.feature-tag
-accuweather.com#@#.connatix-player
 accuweather.com,cheddar.tv,deadline.com,elnuevoherald.com,heraldsun.com,olhardigital.com.br,tvinsider.com#@#.cnx-player-wrapper
 accuweather.com,phonescoop.com###top
 aceshowbiz.com##div[style="display:inline-block;min-height:300px"]
@@ -13818,7 +13816,6 @@ duckduckgo.com##.module--carousel-toursactivities
 duckduckgo.com##.vertical-section-divider:has(span.badge--ad-wrap)
 duckduckgo.com##[data-layout$="_ads"]
 duckduckgo.com##[data-testid=serp-popover-promo]
-duckduckgo.com##li[data-layout="creditcard_ads"]
 duckduckgo.com##li[data-layout="products_middle"]
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.highlight_sponsored
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-results-ads
@@ -15279,6 +15276,8 @@ gayvegas.com,geekhistory.com,looktothestars.org,nintandbox.net,plurk.com,thebare
 gazette.com##.tnt-section-sponsored
 gazette.com,thehindu.com##.dfp-ad
 gbnews.com##.ad--billboard
+gbnews.com##.sticky-banner-wrapper
+gbnews.com##.stiky_sky.left::before
 gbnews.com##.video-inbody
 gbnews.com##.vsly-player
 gbnews.com,smithsonianmag.com,tasty.co##.ad-wrapper
@@ -18657,7 +18656,6 @@ mayoclinic.org###ad-mobile-bottom-container
 mayoclinic.org###ad-mobile-top-container
 mayoclinic.org##.cmp-advertisement__wrapper
 mayoclinic.org##.mayoad > .policy
-mb.com.ph##.code-block
 mbauniverse.com###block-views-home-page-banner-block
 mbauniverse.com##.shriresume-logo
 mbd.baidu.com###content_wrapper + div + .default-container
@@ -21660,8 +21658,6 @@ scmp.com##div[data-qa="GenericArticle-MobileContentHeaderAdSlot"]
 scmp.com##div[data-qa="GenericArticle-TopPicksAdSlot"]
 scmp.com##div[data-qa="InlineAdSlot-Container"]
 scoop.co.nz###dfp-shadow
-scoop.co.nz###div-gpt-ad-1493962836337-6
-scoop.co.nz###div-gpt-ad-1510201739461-4
 scoop.co.nz###in-cont
 scoop.co.nz###rect
 scoop.co.nz##.article-left-box
@@ -23232,7 +23228,6 @@ theroar.com.au###fan-tech-anchor
 theroar.com.au##.u-d-block
 theroar.com.au##[style="min-height:260px;max-height:260px;overflow:hidden;"]
 theroar.com.au##div[style="margin: 0px auto; text-align: center; height: 280px; max-height: 280px; overflow: hidden;"]
-theroar.com.au##div[style="min-height:260px;max-height:260px;overflow:hidden;"]
 thesaurus.com#@#.SZjJlj7dd7R6mDTODwIT
 thescore.com##.Ad__container--MeQWT
 thescore1260.com##.block-content > a[href*="sweetdealscumulus.com"]
@@ -23931,7 +23926,6 @@ upi.com##.ad_slot_inread
 upi.com##.col-md-12 > table
 upi.com##.text-center.mt-5
 upjoke.com##div[style="margin-bottom:0.5rem; min-height:250px;"]
-upload.ee##[href^="https://www.upload.ee/click.php"]
 uploader.link##[class^="ads"]
 uploadrar.com##a[href*="?"][target="_blank"]
 uploadvr.com##.ai-sticky-widget
@@ -28513,7 +28507,6 @@ zzzyk.com###Tinfo
 ||aspku.com/z/
 ||aspservice.jp^$third-party
 ||asqconn.com^$popup
-||assemblyexchange.com/ana-sentry.js
 ||asset.d5techs.com/script/track.min.js
 ||asset.d5techs.com/script/utm.min.js
 ||assets.adobedtm.com/extensions/*/AppMeasurement$script,domain=medscape.com
@@ -29289,7 +29282,6 @@ zzzyk.com###Tinfo
 ||betvictor.com*&utm_campaign=$popup
 ||between-legs.com/banners2/
 ||between-legs.com^*/banners/
-||betweendigital.com^$third-party
 ||betzapdoson.com^$document
 ||betzone2000.com^$popup
 ||beusable.net^$third-party
@@ -30675,7 +30667,6 @@ zzzyk.com###Tinfo
 ||clickintext.net^$third-party
 ||clickiocdn.com/clickiotag_log/
 ||clickiocdn.com/consent/log/
-||clickiocdn.com/hbadx/
 ||clickiocdn.com/utr/
 ||clickmagick.com^$third-party
 ||clickmanage.com^$third-party
@@ -30884,6 +30875,7 @@ zzzyk.com###Tinfo
 ||cnblogs.com^*/sideColumnAd?
 ||cndns.com/incs/js/website_mobile.js
 ||cndzys.com/huanlian/
+||cnet.com/prebid-client.js
 ||cnetcontent.com/log?
 ||cnevids.com/metrics/
 ||cnfol.com/Count.html
@@ -32377,7 +32369,6 @@ zzzyk.com###Tinfo
 ||duckdns.org^$third-party,websocket
 ||duckduckgo.com/t/
 ||ducubchooa.com^$popup
-||dudididididsadas-47367.portmap.host^
 ||dufile.com/jsa/
 ||dugothitachan.com^$popup
 ||dugout.co/das2.js
@@ -33420,7 +33411,6 @@ zzzyk.com###Tinfo
 ||firefoxchina.cn^*_topbanner
 ||firelocal.com^
 ||fireworkadservices.com^$third-party
-||fireworkadservices1.com^$third-party
 ||fireworkanalytics.com^$third-party
 ||fireworkapi1.com^$domain=boldsky.com
 ||first-id.fr^$third-party
@@ -37897,7 +37887,6 @@ zzzyk.com###Tinfo
 ||lsjxs.cc/js/html
 ||lsntzzy3.com/Runtime/js/psData.js
 ||lsnzxzy1.com/Runtime/js/psData.js
-||lsoj0-51746.portmap.host^
 ||ltbyw.top/data/images/*.gif
 ||ltingecauyuksehi.com^$popup
 ||ltkcdn.net/ltkrev.js
@@ -38524,7 +38513,6 @@ zzzyk.com###Tinfo
 ||mghkpg.com^$popup
 ||mgid.com^$document
 ||mgid.com^$popup
-||mgid.com^$third-party
 ||mgln.ai^$~media,third-party
 ||mgmlcdn.com/stats/
 ||mgtmod01.com^$third-party
@@ -41229,7 +41217,6 @@ zzzyk.com###Tinfo
 ||prpops.com^$popup
 ||prprocess.com^$third-party
 ||prscripts.com^$third-party
-||prtawe.com^$third-party
 ||prtord.com^$popup
 ||prtracker.com^$third-party
 ||prtrackings.com^$popup
@@ -45115,7 +45102,6 @@ zzzyk.com###Tinfo
 ||track.afrsportsbetting.com^$popup
 ||track.atgstores.com^$third-party
 ||track.byzon.swelen.net^$third-party
-||track.cam4tracking.com^$popup
 ||track.effiliation.com^$image,script
 ||track.kinetiksoft.com^$popup
 ||track.laredoute.fr^$image
