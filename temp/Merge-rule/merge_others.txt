@@ -6708,6 +6708,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 5dariyanews.com##h2:has(a[href*="sponsored-ads"])
 5dm.link##div[id^="player_p"]
 5dm.link#@#.tm-share-this
+5eplay.com##.ad_img-bg-bg-p
+5eplay.com##.banner-fixed
+5eplay.com##.right-aside-box
+5eplay.com##footer
 5eplay.com##img[width="1240"]
 5eplay.com##img[width="290"][height="360"]
 5ewin.com##.erweima
@@ -18527,7 +18531,7 @@ mangabats.com,nelomanga.net##.ads-contain
 mangabz.com###bb1
 mangabz.com###cc1
 mangabz.com###cc2
-mangadex.org##[id] > .w-full:has([href$="?tab=recommendations"])
+mangadex.org##a[href^="https://www.runoperagx.com/"]
 mangagun.net,nicomanga.com,rawinu.com,weloma.art,welovemanga.one##[href^="https://www.polybuzz.ai/"]
 mangakakalot.com##.container-chapter-reader > div
 mangakakalot.gg###fly_chapter_01
@@ -33113,7 +33117,6 @@ zzzyk.com###Tinfo
 ||ezcgojaamg.com^$popup
 ||ezdownloadpro.info^$popup
 ||ezec.co.uk^$third-party
-||ezlolsrealisgood-64048.portmap.host^
 ||ezmob.com^$popup
 ||ezoic.net/ezqlog?
 ||ezprice.com.tw/ezysm/
@@ -37265,7 +37268,6 @@ zzzyk.com###Tinfo
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
 ||lby2kd27c.com^$popup
-||lckhost.help^
 ||lcs.comico.jp^$image
 ||lcwfab1.com^$third-party
 ||lcwfab2.com^$third-party
@@ -38092,6 +38094,7 @@ zzzyk.com###Tinfo
 ||manga18fx.com/tkmo2023/
 ||mangadex.org/api/event
 ||mangadex.org/p.js
+||mangadex.org/promo/
 ||mangadistrict.com/super-boat-
 ||mangafuna.xyz/static/ads/
 ||mangahax.com/images/ima_
