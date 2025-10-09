@@ -5404,7 +5404,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 csiimxhosting.com
 0.0.0.0 ddbca.localmeets.link
 0.0.0.0 de.hosting.adjug.com
-0.0.0.0 ded5092.inmotionhosting.com
 0.0.0.0 dixiewebhosting.com
 0.0.0.0 e-hosting.hut1.ru
 0.0.0.0 e.freewebhostingarea.com
@@ -5453,6 +5452,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hosting.adjug.com
 0.0.0.0 hosting.conduit.com
 0.0.0.0 hosting.sextracker.com
+0.0.0.0 hosting2520545.online.pro
 0.0.0.0 hostingfreelife.com
 0.0.0.0 hostingprod.com
 0.0.0.0 hostpowermedium.112.2o7.net
@@ -5472,10 +5472,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 localbestdating1.com
 0.0.0.0 localbusinesslicense.com
 0.0.0.0 localh0st.info
+0.0.0.0 localhost-esignid.falling.com.de
 0.0.0.0 localmissoula.com
 0.0.0.0 localo.fr
 0.0.0.0 localofflinepro.com
-0.0.0.0 localwomensports.com
 0.0.0.0 localytics.com
 0.0.0.0 machinery-local-manage-0839142732.vercel.app
 0.0.0.0 mail.atn.ndh.mybluehost.me
@@ -5526,7 +5526,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 thelocalsearchnetwork.com
 0.0.0.0 thinknear-hosted.thinknearhub.com
 0.0.0.0 tinyfilehost.com
-0.0.0.0 tinyfileshost.com
 0.0.0.0 top1site.3host.com
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 tracking.hostgator.com
@@ -5559,7 +5558,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.cloud.cloudaccess.host
 0.0.0.0 www.coolfreehost.com
 0.0.0.0 www.csiimxhosting.com
-0.0.0.0 www.ded5092.inmotionhosting.com
 0.0.0.0 www.dixiewebhosting.com
 0.0.0.0 www.ethostrips.com
 0.0.0.0 www.file785host927.cfd
@@ -5575,15 +5573,16 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hosteciara.com
 0.0.0.0 www.hostedfiles.net
 0.0.0.0 www.hosting-it084896651.com
+0.0.0.0 www.hosting2520545.online.pro
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hostujmy.pl
 0.0.0.0 www.hypehost.store
 0.0.0.0 www.localbusinesslicense.com
 0.0.0.0 www.localh0st.info
+0.0.0.0 www.localhost-esignid.falling.com.de
 0.0.0.0 www.localmissoula.com
 0.0.0.0 www.localofflinepro.com
-0.0.0.0 www.localwomensports.com
 0.0.0.0 www.localytics.com
 0.0.0.0 www.machinery-local-manage-0839142732.vercel.app
 0.0.0.0 www.mail.atn.ndh.mybluehost.me
@@ -5601,7 +5600,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.sporthostel.org
 0.0.0.0 www.swanvalleyhosting.com
 0.0.0.0 www.tinyfilehost.com
-0.0.0.0 www.tinyfileshost.com
 0.0.0.0 www.valuehost.co.uk
 0.0.0.0 www.webhostingcounter.com
 0.0.0.0 www.webhostinglisting.com
@@ -35224,6 +35222,7 @@ zzzyk.com###Tinfo
 ||host*.rvshare.com^
 ||host-195-103-203-106.business.telecomitalia.it^
 ||host-5-58-172-98.bitternet.ua^
+||host-95-230-215-65.business.telecomitalia.it^
 ||host-95-255-114-11.business.telecomitalia.it^
 ||host-file-host6.com^
 ||host-host-file8.com^
@@ -44129,7 +44128,6 @@ zzzyk.com###Tinfo
 ||submitnet.net^$third-party
 ||subscribe.ru/1.gif/$image
 ||subscribers.com^$third-party
-||succeedscene.com^$third-party,xmlhttprequest
 ||successfultogether.co.uk^$third-party
 ||suche.web.de/click
 ||sucloud.xyz/js/tou.js
