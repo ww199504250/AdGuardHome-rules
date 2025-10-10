@@ -10278,6 +10278,7 @@ androidadult.com,homemoviestube.com##[href^="https://aoflix.com/Home"]
 androidauthority.com##[class] > [class] > [class]:has(div[data-ad-type="leaderboard_atf"])
 androidauthority.com##div[class]:has(> .pw-incontent)
 androidauthority.com,soundguys.com##[data-ad-type]
+androidcentral.com##.hawk-multi-model-review-container
 androidcentral.com,gamesradar.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,windowscentral.com##.sponsored-card
 androidcommunity.com,euro-sd.com,sfbg.com,techworm.net##.td-header-rec-wrap
 androiddevtools.cn###auto-scroll-ad-box
@@ -15285,6 +15286,7 @@ gazette.com,thehindu.com##.dfp-ad
 gbnews.com##.ad--billboard
 gbnews.com##.sticky-banner-wrapper
 gbnews.com##.stiky_sky.left::before
+gbnews.com##.stiky_sky.right::before
 gbnews.com##.video-inbody
 gbnews.com##.vsly-player
 gbnews.com,smithsonianmag.com,tasty.co##.ad-wrapper
@@ -33855,7 +33857,7 @@ zzzyk.com###Tinfo
 ||fwbntw.com^$popup
 ||fwcdn1.com/js/fwn.js
 ||fwcdn1.com/js/storyblock.js
-||fwcdn3.com^$domain=eonline.com
+||fwcdn3.com^$domain=dailyhive.com|eonline.com
 ||fwmrm.net^$popup
 ||fwpixel.com^$third-party
 ||fwpub1.com^$domain=ndtv.com|ndtv.in
@@ -37975,6 +37977,7 @@ zzzyk.com###Tinfo
 ||lywasnothycanty.info^$popup
 ||lywww.com/data/js.php?id=
 ||lywww.com/header_pic.php
+||lzbao.net/mtvbox.
 ||lzep.cn/ep/sda/
 ||lzk.hl.cn/lctp/
 ||lzyysw.com/upload/
@@ -43967,6 +43970,7 @@ zzzyk.com###Tinfo
 ||stenexeb.xyz^$popup
 ||sterlingwoods.com^$third-party
 ||steroidbazaarbalance.com^$popup
+||sterra.web.id/stera1/
 ||sterra.web.id/stera2/
 ||sterra.web.id/stera4/
 ||stethepsartopo.com^$popup
