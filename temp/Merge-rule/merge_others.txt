@@ -904,6 +904,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /BKVTrack.js
 /BadwebRemindPage.aspx?param=$popup,third-party
 /BrandXuanDong.js
+/CC6F9ACB52D1582671AFEA808AFE10FE.gif
 /CaptureStat.asmx
 /ClickTail.js
 /ClickTrack.js
@@ -5007,7 +5008,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /v1/log/web-vitals$xmlhttprequest
 /v1/pixel.js
 /v1/pixel?
-/v1/rgstr|
+/v1/rgstr^
 /v1/stats/track
 /v1/tracker.js
 /v1/viewport_events
@@ -8417,6 +8418,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||hvemder.no/js/hitcount.min.js$~third-party
 @@||hw-ads.datpiff.com/news/$image,domain=datpiff.com
 @@||hwcdn.net^$script,domain=mp4upload.com
+@@||hzcdn.io/bff/static/vendor/sourcepoint-lib/index.*.js$script,domain=marktplaats.nl
 @@||i3.sinaimg.cn/video/deco/2013/0325/js/
 @@||ias.global.rakuten.com/adv/$script,domain=rakuten.co.jp
 @@||ibf.tw/user/plugins/webtech-topbar/fuckadblock.js
@@ -28143,6 +28145,7 @@ zzzyk.com###Tinfo
 ||ancalfulpige.co.in^$popup
 ||ancestry.com/core.js
 ||ancestrycdn.com/tao/at/
+||anchorhost.sa.com^
 ||andbeyond.media^$third-party
 ||andcomemunicateth.info^$popup
 ||andersenit.dk^$third-party
@@ -28813,6 +28816,7 @@ zzzyk.com###Tinfo
 ||babesroulette.com^$popup
 ||baby-kingdom.com/reqsads?
 ||babyblog.ru/pixel?
+||bachashuku.cc/scripts/ad/
 ||bachecaannunci.it/statins3.php?
 ||backbeatmedia.com^$third-party
 ||backchina.com/banners/
@@ -29597,14 +29601,11 @@ zzzyk.com###Tinfo
 ||bobabillydirect.org^$popup
 ||bobgames-prolister.com^$document
 ||bobgames-prolister.com^$popup
-||bobmcllane.activehosted.com^
-||bobmcllane21373.activehosted.com^
 ||bobmcllane31419.activehosted.com^
 ||bobmcllane38652.activehosted.com^
 ||bobmcllane61709.activehosted.com^
 ||bobmcllane73969.activehosted.com^
 ||bobmcllane75618.activehosted.com^
-||bobmcllane78575.activehosted.com^
 ||bobmcllane92882.activehosted.com^
 ||bobo.com/special/mod-follow/
 ||bobo.com^$third-party
@@ -30420,7 +30421,6 @@ zzzyk.com###Tinfo
 ||chiglees.com^$popup
 ||chikiporn.com/sqkqzwrecy/
 ||childishenough.com^$popup
-||chimaemmanuel24.activehosted.com^
 ||china.chemnet.com/cnbanner/
 ||china.cn/js/common/daniel_pop/
 ||china.cn/js/common/local_hydn/
@@ -33900,7 +33900,6 @@ zzzyk.com###Tinfo
 ||g6857531218241.activehosted.com^
 ||g6857531221502.activehosted.com^
 ||g6857531263715.activehosted.com^
-||g6857531278659.activehosted.com^
 ||ga-analytics.com^$third-party
 ||ga.chickgoddess.com/gs_api/stats/
 ||ga.finam.ru/metrics
@@ -37716,6 +37715,7 @@ zzzyk.com###Tinfo
 ||local-shares.ri.la^
 ||local-suivi-colis.com^
 ||local-update.com^
+||local979statementsharepoint.jimdosite.com^
 ||localau.vip/plugin/ad_
 ||localau.vip/plugin/pause.php
 ||localau.vip/plugin/show.php
@@ -40776,6 +40776,7 @@ zzzyk.com###Tinfo
 ||plecki.com^$third-party
 ||pleisty.com^$third-party
 ||plerdy.com^$third-party
+||ples.serviziopagamentohostarit.sbs^
 ||plexop.com^$third-party
 ||plexop.net^$popup
 ||plexworks.de^$third-party
@@ -43741,6 +43742,8 @@ zzzyk.com###Tinfo
 ||srv241486.hoster-test.ru^
 ||srv241666.hoster-test.ru^
 ||srv241667.hoster-test.ru^
+||srv241721.hoster-test.ru^
+||srv241765.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv335634894hoster.cfolks.pl^
 ||srv85202.seohost.com.pl^
@@ -45744,7 +45747,6 @@ zzzyk.com###Tinfo
 ||united.web.de/event?
 ||unity3d.com/v1/events
 ||unknowhost.ddns.net^
-||unknown-host.ddns.net^
 ||unlocky.org^$document
 ||unlocky.xyz^$document
 ||unmistdistune.guru^$popup
@@ -46805,6 +46807,7 @@ zzzyk.com###Tinfo
 ||windy.com/sedlina/ga/
 ||wine-searcher.com/K6S8okp3/init.js
 ||wingontravel.com/Static/headerfooter/Content/js/masterpage.
+||winioszero.mnj.llm.mybluehostin.me^
 ||winitout.com^$third-party
 ||winnersofvouchers.com^$popup
 ||winporn.*/templates/base_master/js/jquery.shows2.min.js
