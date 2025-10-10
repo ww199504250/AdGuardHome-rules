@@ -23302,6 +23302,7 @@ theyarehuge.com##.desktop-spot
 theyarehuge.com##.video-holder > .box
 theyarehuge.com##.yellow
 theyarehuge.com##div[data-nosnippet]
+theyeshivaworld.com##.bitbean-ad-container-1234
 thinbug.com###inktokad
 thingiverse.com##.AdBanner__adBanner--GpB5d
 thingiverse.com##.item-card-container:has-text(/^Ad$/)
@@ -30328,7 +30329,6 @@ zzzyk.com###Tinfo
 ||cex.io/informer/
 ||cf-host.com^
 ||cf-oss.gname.net^$third-party
-||cfbwebhosting.com^
 ||cfd.ghostgloballtd.proxy844.com^
 ||cfgr3.com/videos/*.mp4$rewrite=abp-resource:blank-mp4,domain=hitbdsm.com
 ||cfmediaview.com/API/MV_Visit.ashx
@@ -36543,6 +36543,7 @@ zzzyk.com###Tinfo
 ||jetbluevacations.com/apis/v2-analytics/
 ||jetvis.ru/stat/
 ||jeu.net/hits.js
+||jewishadgroup.com^$third-party
 ||jewishcontentnetwork.com^$third-party
 ||jfjle4g5l.com^$popup
 ||jfl4kvbv6.localto.net^
@@ -40779,7 +40780,6 @@ zzzyk.com###Tinfo
 ||plecki.com^$third-party
 ||pleisty.com^$third-party
 ||plerdy.com^$third-party
-||ples.serviziopagamentohostarit.sbs^
 ||plexop.com^$third-party
 ||plexop.net^$popup
 ||plexworks.de^$third-party
