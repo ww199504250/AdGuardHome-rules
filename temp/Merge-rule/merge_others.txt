@@ -6935,6 +6935,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://*:*/yeyue.html?k=$csp=script-src
 ://*btbtt.*/imgs.js
 ://*btbtt.*/view/image/QT_
+://0.www.*/player/*/a/$third-party,xmlhttprequest
+://0.www.*/player/*/m/$script,third-party
 ://0.www.*/players/*/-1/$script,third-party,xmlhttprequest
 ://2ip.*/member_photo/$third-party
 ://a.*/ad-provider.js$third-party
@@ -7069,6 +7071,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://www.*.xyz/players/*/a/$subdocument,third-party
 ://www.*.xyz/players/*?h=$script,third-party
 ://www.*.xyz/script/*.com.js|$script,third-party
+://www.*/player/*/a/$third-party,xmlhttprequest
+://www.*/player/*/m/$script,third-party
 ://www.vinted.*/relay/events
 ://xingkong6688s.oss-
 :1010/openV5.js
@@ -24272,6 +24276,7 @@ washingtoncitypaper.com##.widget_newspack-ads-widget
 washingtoninformer.com##.newspack_global_ad
 washingtonpost.com###leaderboard-wrapper
 washingtonpost.com##.ad--enterprise
+washingtonpost.com##.adMainImg
 washingtonpost.com##.adslot-c
 washingtonpost.com##.border-box.dn-hp-sm-to-mx
 washingtonpost.com##.border-box.dn-hp-xs
@@ -35324,7 +35329,6 @@ zzzyk.com###Tinfo
 ||hostolhg.com^
 ||hostpdf.co^
 ||hostphpwindowsapp.duckdns.org^
-||hostphpwindowsdriversapps.duckdns.org^
 ||hostphpwindowsdriversapps1.duckdns.org^
 ||hostpowermedium.112.2o7.net^
 ||hostrubs.com^
