@@ -37,8 +37,8 @@
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 $csp=script-src 'self' * 'unsafe-inline',domain=buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+$csp=script-src 'self' * 'unsafe-inline',domain=minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
 $csp=script-src 'self' * 'unsafe-inline',domain=nodejs.cn|smsonline.cloud
-$csp=script-src 'self' * 'unsafe-inline',domain=ternity.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
 $csp=script-src 'self' *,domain=52niuyanks.cc|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=thumbs.pro
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
@@ -18816,6 +18816,9 @@ militaryleak.com##.gmr-floatbanner
 militarywatchmagazine.com##.v-size--x-small.theme--light
 miloserdov.org,playstore.pw###custom_html-11
 miloserdov.org,playstore.pw,reneweconomy.com.au,winaero.com,wpneon.com###custom_html-10
+minaeast.net###playerdavLayer
+minaeast.net##.da
+minaeast.net##div[style^="position: fixed;"]
 mindbodygreen.com##.bftiFX
 mindbodygreen.com##.sc-10p0iao-0
 minecraft-mp.com###topadspot
@@ -22944,9 +22947,6 @@ tennis.com##.tc-video-player-iframe
 tennisworldusa.org##.box_adv_primis
 tennisworldusa.org##[style="width:300px;min-height:250px;"]
 terminal.hackernoon.com##.right
-ternity.net###playerdavLayer
-ternity.net##.da
-ternity.net##div[style^="position: fixed;"]
 terraria.wiki.gg##[href^="https://store.steampowered.com/app/"]
 tesco.com##[class^="styled__StyledLIProductItem"]:has([class^="styled__StyledOffers"])
 teslaoracle.com##.tdi_48
@@ -28427,6 +28427,7 @@ zzzyk.com###Tinfo
 ||aquete.com^$popup
 ||aqy103.com/js/aqy/
 ||ar-x.site^$third-party
+||ar.pagamentoseihostarital.sbs^
 ||aralego.net^$third-party
 ||aramuz.net/frontapi/*/analyticsEvent?
 ||arbiscan.io/images/gen/*_StylusBlitz_Arbiscan_Ad.png
@@ -29081,7 +29082,6 @@ zzzyk.com###Tinfo
 ||bdash-cloud.com^$third-party
 ||bdcde.com/js/s*.js
 ||bdcde.com/js/x*.js
-||bdcox05.activehosted.com^
 ||bdg.com/event?
 ||bdimg.com/brands/yxtg/source/juhe-v2.js
 ||bdimg.com/muzhi/adwap/top-banner.jpg
@@ -29609,7 +29609,6 @@ zzzyk.com###Tinfo
 ||bobmcllane61709.activehosted.com^
 ||bobmcllane73969.activehosted.com^
 ||bobmcllane75618.activehosted.com^
-||bobmcllane92882.activehosted.com^
 ||bobo.com/special/mod-follow/
 ||bobo.com^$third-party
 ||bobparsons.com/image.aspx?
@@ -30111,7 +30110,6 @@ zzzyk.com###Tinfo
 ||caohv.com/mm/
 ||caoimgs.com/images/*.gif
 ||capacitygrid.com^$third-party
-||capehartreva.activehosted.com^
 ||capital.com/widgets/$third-party
 ||capital.com^$ping
 ||capitalone.com/collector/
@@ -30174,6 +30172,7 @@ zzzyk.com###Tinfo
 ||cautommityring.com^$document
 ||cautommityring.com^$popup
 ||cavecoat.top^$popup
+||cawoslix-58635.portmap.host^
 ||cb-content.com^$third-party
 ||cb.com.cn/index/ad/
 ||cbc.ca/g/stats/
@@ -31794,7 +31793,6 @@ zzzyk.com###Tinfo
 ||decibelinsight.net^$third-party
 ||decideinteractive.com^$third-party
 ||deckedsi.com^$popup
-||ded4766.inmotionhosting.com^
 ||ded5092.inmotionhosting.com^
 ||dedating.online^$popup
 ||dedicatednetworks.com^$third-party
@@ -33313,6 +33311,7 @@ zzzyk.com###Tinfo
 ||feelsoftgood.info^$popup
 ||feesoon.com/js/cnzz_
 ||fefinegoldforeyes.com^$popup
+||fegakid809-25883.portmap.host^
 ||feijisu*.com/js/huimi-
 ||feiniaoks.com/1.
 ||feizl.com/images/smdd/
@@ -35399,7 +35398,6 @@ zzzyk.com###Tinfo
 ||howtogeek.com/emv2/
 ||hoyoverse.com/device-fp/
 ||hoyoverse.com/dora/biz/*-h5log/
-||hozphilip67251.activehosted.com^
 ||hprofits.com^$third-party
 ||hpyjmp.com^$popup
 ||hpyrdr.com^$popup
@@ -37235,6 +37233,7 @@ zzzyk.com###Tinfo
 ||lanrenzhijia.com/Public/images/sucaihuo_
 ||lanrenzhijia.com/Public/images/xiaozhua.jpg
 ||lanyes.org/content/templates/lanye2015/images/hb_banner.png
+||lanzary-28116.portmap.host^
 ||laod.cn/wp-content/uploads/*/ad-
 ||laogu.com/cms/images/ad
 ||laosiji.com/static/js/lib/od_statistics.js
@@ -38029,6 +38028,7 @@ zzzyk.com###Tinfo
 ||macys.com/sitemonetization/v1/sponsored-products/
 ||macys.com/tag_path/
 ||madeinmood1-27123.portmap.host^
+||madeinmood1-51626.portmap.host^
 ||madeupice.com^$document
 ||madeupice.com^$popup
 ||madkudu.com^$third-party
@@ -38296,7 +38296,6 @@ zzzyk.com###Tinfo
 ||mcloudglobal.com^$third-party
 ||mcmod.cn/editor/upload/20221126/1669399546_2_ONBt.
 ||mcontigo.com^$third-party
-||mcphail1519.activehosted.com^
 ||mcprofits.com^$third-party
 ||mcpuwpsh.com^$popup
 ||mcssl.com^*/track.ashx?
@@ -43246,7 +43245,6 @@ zzzyk.com###Tinfo
 ||sitv.com.cn/cookiead.php
 ||sixft-apart.com^$popup
 ||sixsigmatraffic.com^$third-party
-||sixtybae.activehosted.com^
 ||sjv.io^$third-party
 ||sk1n.fr^$third-party
 ||sk8t.fr^$third-party
@@ -43747,6 +43745,7 @@ zzzyk.com###Tinfo
 ||srv241667.hoster-test.ru^
 ||srv241721.hoster-test.ru^
 ||srv241765.hoster-test.ru^
+||srv241934.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv335634894hoster.cfolks.pl^
 ||srv85202.seohost.com.pl^
@@ -46811,7 +46810,6 @@ zzzyk.com###Tinfo
 ||windy.com/sedlina/ga/
 ||wine-searcher.com/K6S8okp3/init.js
 ||wingontravel.com/Static/headerfooter/Content/js/masterpage.
-||winioszero.mnj.llm.mybluehostin.me^
 ||winitout.com^$third-party
 ||winnersofvouchers.com^$popup
 ||winporn.*/templates/base_master/js/jquery.shows2.min.js
