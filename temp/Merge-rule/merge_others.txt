@@ -7023,6 +7023,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://posthog.$script,domain=~posthog.com
 ://promo.$~media,third-party,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
 ://pt.*?psid=$third-party
+://r.*/s1/$subdocument,third-party
 ://r.i.ua^
 ://r.reklam*.com^
 ://rou*/_next/static/chunks/pages/home-
@@ -7043,6 +7044,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://stat.*/pageview/$xmlhttprequest
 ://stats.*/code/e.js
 ://t.*/open^$image
+://t.*/s1/$subdocument,third-party
 ://t.order.*/r/?id=$image
 ://t.targito.
 ://tagging.*.js?aw=
@@ -9794,8 +9796,8 @@ abcya.com##.a-skyscraper
 abergavennychronicle.com,tenby-today.co.uk##.MPUstyled__MPUWrapper-sc-1cdmm4p-0
 abergavennychronicle.com,tenby-today.co.uk##.TopBannerstyled__Wrapper-sc-x2ypns-0
 abjav.com,aniporn.com##.left > section
+abjav.com,aniporn.com,bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,onlyporn.tube,pornstarwarshentai.com,porntop.com,xnxx.army##.right
 abjav.com,aniporn.com,bdsmx.tube,upornia.tube##.wrapper > section
-abjav.com,bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,onlyporn.tube,pornstarwarshentai.com,porntop.com,xnxx.army##.right
 ablesci.com#?#.fly-panel:-abp-has(img[src*="-hongbao."])
 ablogtowatch.com##.ebay-placement
 abmedia.io##.pum
@@ -10665,6 +10667,7 @@ autotrader.com.au##.resultsGrid--halfpage-0
 av.movie##.adss-160x600
 av.movie##.pop-up-a
 av.movie##.video-banner
+av01.tv##.group:has(> .relative.overflow-hidden.rounded-lg.bg-gray-900.cursor-pointer)
 avclub.com##.htlad-top_leaderboard
 avclub.com,infosecurity-magazine.com,jezebel.com,nationaljeweler.com,pastemagazine.com,splinter.com,theonion.com##.dfp
 avclub.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
@@ -13689,8 +13692,8 @@ downforeveryoneorjustme.com###asurion
 downforeveryoneorjustme.com###bsa
 downforeveryoneorjustme.com###carbonDiv
 downforeveryoneorjustme.com##.relative.bg-white:has-text(PolyBuzz)
-downforeveryoneorjustme.com##a[rel="sponsored"]
 downforeveryoneorjustme.com,health.clevelandclinic.org##.bottom-0.fixed
+downforeveryoneorjustme.com,useragents.me##a[rel="sponsored"]
 downg.com##.Gs_d[href$=".exe"]
 downg.com##.download-list:first-child
 downhot.com##.guans
@@ -14989,6 +14992,8 @@ fuliba2021.net,ypojie.com##.orbui-post-footer
 fulibl.cc##.widget_text:last-child
 fulibl.com##.widget_banner
 fullmatch.info##[class*="wp-image"]
+fullporno.site,gay-streaming.com,gayvideo.me##.sgpb-popup-dialog-main-div-wrapper
+fullporno.site,gay-streaming.com,gayvideo.me##.sgpb-popup-overlay
 fullyu.com##.rightSide-top-ads
 fun1shot.com##a[href^="https://kenio.cn/"]
 fun48.com###float2016
@@ -15255,8 +15260,6 @@ gasaq.com##.guanggao_ime_big
 gasbuddy.com###divSky
 gate.baidu.com,m.baidu.com###container
 gault-millau.nl,gaultmillau.be,gaultmillau.lu##.off-brand
-gay-streaming.com,gayvideo.me##.sgpb-popup-dialog-main-div-wrapper
-gay-streaming.com,gayvideo.me##.sgpb-popup-overlay
 gay.bingo##.ad-w
 gay.bingo##.adv-wrapper
 gay.bingo##.player-section__ad-b
@@ -17347,6 +17350,7 @@ javfor.tv##.banner-top-b
 javfor.tv##.fel-playclose
 javfor.tv##.text-md-center
 javfor.tv,javhub.net##.my-2.container
+javgg.*###post-999999
 javgg.co###custom_html-7
 javgg.co,javgg.net##.home_iframead > a[target="_blank"] > img
 javgg.co,javgg.net##.module > div[style="text-align: center;"]
@@ -23969,6 +23973,7 @@ user.qzone.qq.com###qz_notification
 user.qzone.qq.com##.f-single-biz
 user.qzone.qq.com##div[id^="fct_20050606_"]
 user.qzone.qq.com##li[id^="fct_20050606_"]
+useragents.me##a[href*=".pxf.io"]
 userbenchmark.com##.be-lb-page-top-banner
 userscript.zone##.searcad
 userscript.zone##.w300
@@ -29185,6 +29190,7 @@ zzzyk.com###Tinfo
 ||bemobtrcks.com^$popup
 ||bemobtrk.com^$document
 ||bemobtrk.com^$popup
+||bemoonunbroid.shop^$document
 ||benaughty.com^$popup
 ||benchtag2.co^$third-party
 ||bend-me-over.com^$popup
@@ -42777,6 +42783,7 @@ zzzyk.com###Tinfo
 ||sensorsdata.cn^$third-party
 ||sentcss.com/get/cors/spread/
 ||sentcss.com/get/showcase/
+||sentimentalflight.com^$document
 ||sentinelbi.com^$third-party
 ||sentinelpro.com^$third-party
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
@@ -45841,6 +45848,7 @@ zzzyk.com###Tinfo
 ||usage.seibert-media.io^$third-party
 ||usatoday.com/gcdn/ads/
 ||useblackbox.io/telemetry
+||usedownloads.com^$document
 ||useinsider.com^$third-party
 ||useitbetter.com^$third-party
 ||uselessjunk.com^$domain=yoloselfie.com
