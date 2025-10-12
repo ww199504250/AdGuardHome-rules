@@ -10221,6 +10221,7 @@ amazon.*##div[data-cel-widget^="multi-card-creative-desktop_loom-desktop-top-slo
 amazon.*##div[data-csa-c-painter="sp-cart-mobile-carousel-cards"]
 amazon.*##div[data-csa-c-slot-id^="loom-mobile-brand-footer-slot_hsa-id-"]
 amazon.*##div[data-csa-c-slot-id^="loom-mobile-top-slot_hsa-id-"]
+amazon.*##div[id^="sims-simsContainer_feature_div_"]:has(.sp_info_link)
 amazon.*##div[id^="sp_detail"]
 amazon.*##span[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
 amazon.*##span[cel_widget_id^="MAIN-loom-desktop-brand-footer-slot_hsa-id-CARDS-"]
@@ -19660,6 +19661,7 @@ newstarget.com###Index07 > .Widget
 newstarget.com###PromoTopFeatured
 newstarget.com##[href^="https://www.newstarget.com/ARF/"]
 newsweek.com###block-nw-content-recirc
+newsweek.com##.FeaturedMedia_articleFeaturedMedia__LEpVY
 newsweek.com##.block-ibtmedia-dfp
 newsweek.com##.right-rail-ads
 newswiretoday.com,przoom.com##.sponsortd
@@ -19863,6 +19865,7 @@ nymag.com##.products-package
 nymag.com##.products-package_single
 nypost.com##.exco-video__container
 nypost.com##.nyp-s2n-wrapper
+nypost.com##.single__outbrain
 nypost.com##.widget_nypost_dfp_ad_widget
 nypost.com##.widget_nypost_vivid_concerts_widget
 nypost.com##.widget_text.no-mobile.box
@@ -22998,6 +23001,8 @@ the-independent.com###taboola-mid-article-thumbnails-ii
 the-scientist.com###Torpedo
 the-scientist.com###preHeader
 the-star.co.ke###teasers
+the-sun.com##.dpa-grid
+the-sun.com##[data-component="zergnet"]
 the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.customiser-v2-layout-1-billboard
 the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.customiser-v2-layout-three-native-ad-container
 theadvocate.com##.marketing-breakout
@@ -24614,6 +24619,7 @@ winshang.com##.ggwrap
 winwin7.com##.xzbox-lf
 wionews.com##.ads-box-300x300
 wired.com##.MobileProductCardOuter-kMqsSf
+wired.com##.should-hold-space
 wired.com##[data-testid="cne-interlude-container"]
 wireshark.org##.banner-img-downloads
 wiseway.com.cn##.float-kefu
@@ -33990,7 +33996,6 @@ zzzyk.com###Tinfo
 ||gamonalsmadevel.com^$popup
 ||ganardineroreal.com^$third-party
 ||gandmotivatin.info^$popup
-||ganggang300182312-32221.portmap.host^
 ||gangjuw.com/style/lmjs/
 ||gangwaynumberprivacy.com^$popup
 ||ganimg.com/images/*.gif
