@@ -168,7 +168,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .*gcdcjr000.fun/$script,third-party
 .*ouvxli*.top/$script,third-party
 .*roytj33.fun/$script,third-party
-.*ryt111.fun/$script,third-party
 .012*sop.xyz/$script,xmlhttprequest,third-party
 .1.1.1.l80.js^$third-party
 .120x600.
@@ -435,7 +434,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .hgo0*uyi.com/$script,xmlhttprequest,third-party
 .hh0*aoik.com/$script,xmlhttprequest,third-party
 .hilton.com/subscription/watermark.gif?
-.hongi7ie8owiie*.site^$script,third-party
 .hootsuite.com/trk?
 .html?android=hx*&_$csp=script-src
 .html?clicktag=
@@ -24016,7 +24014,6 @@ uxmatters.com##.promo_block
 v.163.com###v_shapeLeft_divId
 v.163.com###v_shapeRight_divId
 v.163.com##div[style^="width: 140px; height: 199px;"]
-v.baidu.com##a[href^="http://www.602.com/"]
 v.baidu.com##div[id^="adv_asp_"]
 v.baidu.com,v.duba.com##div[id*="categoryPageColumn"]
 v.ifeng.com##.keyword
@@ -26072,7 +26069,6 @@ zzzyk.com###Tinfo
 ||321mh.com/v1/getadvertise?
 ||32472254.xyz^$document,popup
 ||32xp.com/upimg/
-||3324.cn^$third-party
 ||333uu.org/config/
 ||33445522.com//admin/adv/
 ||3344ex.com/js/1playerad.js
@@ -28605,7 +28601,6 @@ zzzyk.com###Tinfo
 ||attachedkneel.com^$popup
 ||attn.tv/tag/
 ||attn.tv^*/dtag.js
-||attnil234.activehosted.com^
 ||attr-2p.com^$third-party
 ||attracta.com^$third-party
 ||attributionapp.com^$third-party
@@ -32660,7 +32655,6 @@ zzzyk.com###Tinfo
 ||edisound.com/api/p/stats
 ||edmontonchina.*/pic/
 ||ednplus.com^$third-party
-||ednprinkle55348.activehosted.com^
 ||edococounter.de^$third-party
 ||edonhisdhi.com^$popup
 ||edpl9v.pro^$document
@@ -34899,7 +34893,6 @@ zzzyk.com###Tinfo
 ||hearstapps.com/moapt/moapt-hdm.latest.js
 ||hearstmags.com^*/hdm-lib_hearstuser_proxy.html$third-party
 ||hearstnp.com/log?
-||heatingmaster.activehosted.com^
 ||heatmap.com^$third-party
 ||heatmap.it^$third-party
 ||heavenfull.com^$popup
@@ -37753,7 +37746,6 @@ zzzyk.com###Tinfo
 ||localisuivpylpip.fr^
 ||locallyskags.world^
 ||locallystocked.com^
-||localmais.com.br^
 ||localmantra.com^
 ||localmediabuying.com^
 ||localmissoula.com^
@@ -39105,7 +39097,6 @@ zzzyk.com###Tinfo
 ||mysteelcdn.com/common/*/js/img_ad.
 ||mysteelcdn.com/common/mysteel/home/v2/js/index_image.
 ||mysteelcdn.com/gg/
-||mytanwan.com^$third-party
 ||mytdsnet.com^$document
 ||mytictac.com^$third-party
 ||mytopf.com^$third-party
@@ -42926,7 +42917,6 @@ zzzyk.com###Tinfo
 ||sfstatic.net/build/js/basicMetricsTracking.
 ||sgben.com^$document
 ||sgk.xyz/static/js/pc.js
-||sgsmtp12.sgcloudhosting.com^
 ||sgtm.fairmont.
 ||sgtm.fashionunited.
 ||sgtm.wimdu.
@@ -43437,7 +43427,6 @@ zzzyk.com###Tinfo
 ||snohetta.com/js/plascript.js
 ||snoobi.com^$third-party
 ||snoreempire.com^$popup
-||snow-fish-425904.hostingersite.com^
 ||snowdayonline.xyz^$popup
 ||snowplow-collector.
 ||snowsignal.com^$third-party
@@ -43554,6 +43543,7 @@ zzzyk.com###Tinfo
 ||somquery.sqrt-5041.de/tv/tracking-event
 ||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~gamekult.com|~gbnews.com|~jeanmarcmorandini.com|~lesnumeriques.com|~marmiton.org|~melty.fr|~nextplz.fr|~the-race.com
 ||songsongyun.com/ads/
+||sonic-prod.cbssports.cloud/analytics/
 ||sonic.fdp.api.flipkart.com/4/data/collector/
 ||sonichits.com/tf.php
 ||sonimei.cn/images/gg.png
@@ -43749,17 +43739,14 @@ zzzyk.com###Tinfo
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srtrak.com^$popup
-||srv24009350hoster.cfolks.pl^
 ||srv241317.hoster-test.ru^
 ||srv241486.hoster-test.ru^
 ||srv241666.hoster-test.ru^
 ||srv241667.hoster-test.ru^
 ||srv241721.hoster-test.ru^
-||srv241765.hoster-test.ru^
 ||srv241934.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv335634894hoster.cfolks.pl^
-||srv85202.seohost.com.pl^
 ||srvhost.servehttp.com^
 ||srvmath.com^*/analytics.js
 ||srvpcn.com^$document
@@ -44436,7 +44423,6 @@ zzzyk.com###Tinfo
 ||tanseb.com/vads/
 ||tantifilm.top^*/ping
 ||tantoporno.com^$third-party
-||tanwanyx.com^$third-party
 ||tanweb.net/wordpress/?rest_route=/sng/v1/page-count
 ||tanx.com^$third-party
 ||tanx.com^$third-party,domain=~1688.com|~alimama.com|~tmall.com|~www.taobao.com
@@ -46382,6 +46368,7 @@ zzzyk.com###Tinfo
 ||w-profiling.cibc.com^$script
 ||w00tmedia.net^$third-party
 ||w010w.com.cn^$subdocument
+||w0rmlefilou-26308.portmap.host^
 ||w0we.com^$document
 ||w0we.com^$popup
 ||w3counter.com^$third-party
