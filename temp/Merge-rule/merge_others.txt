@@ -5340,6 +5340,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /zdcc.min.js
 /zhugeio.js
 /znsrc.com/c/*$image
+/znsrc.com/o/*$image
 /zone?pub=*&zone_id=
 /zp-redirect?$popup
 /ztracker.js
@@ -10136,7 +10137,7 @@ alluc.org#@#.adsbottombox
 almanac.com##.sticky-right-sidebar
 alohatube.com##.advboxemb
 alohatube.com,reddflix.com##.advbox
-alotav.com,javbraze.com,javdoe.fun,javdoe.sh,javhat.tv,javhd.today,javhdz.today,javseen.tv,javtape.site,xjav.online###previewBox
+alotav.com,javbraze.com,javdoe.fun,javdoe.sh,javhat.tv,javhd.*,javhdz.today,javseen.tv,javtape.site,xjav.online###previewBox
 alotporn.com##.player + center
 alotporn.com,amateurporn.me##[id^="list_videos_"] > [class="item"]
 alphacoders.com##.css-grid-content:has(> .in-thumb-ad-css-grid)
@@ -28160,7 +28161,6 @@ zzzyk.com###Tinfo
 ||ancalfulpige.co.in^$popup
 ||ancestry.com/core.js
 ||ancestrycdn.com/tao/at/
-||anchorhost.sa.com^
 ||andbeyond.media^$third-party
 ||andcomemunicateth.info^$popup
 ||andersenit.dk^$third-party
@@ -29620,7 +29620,6 @@ zzzyk.com###Tinfo
 ||bobmcllane38652.activehosted.com^
 ||bobmcllane61709.activehosted.com^
 ||bobmcllane73969.activehosted.com^
-||bobmcllane75618.activehosted.com^
 ||bobo.com/special/mod-follow/
 ||bobo.com^$third-party
 ||bobparsons.com/image.aspx?
@@ -31650,6 +31649,7 @@ zzzyk.com###Tinfo
 ||dap.digitalgov.gov/Universal-Federated-Analytics-Min.js
 ||dapxl.com^$third-party
 ||daqiso.com/ggbl/
+||dariusbazukii2025-38390.portmap.host^
 ||dark-reader.com^$popup
 ||darknessporn.com/prrls/
 ||darkreader.org/elements/statistics.js
@@ -32677,7 +32677,6 @@ zzzyk.com###Tinfo
 ||eeco.xyz^$document
 ||eeco.xyz^$popup
 ||eeee1231243-40898.portmap.host^
-||eeesser1.cloudaccess.host^
 ||eefcdn.com/promotion/module/module.
 ||eehuzaih.com^$popup
 ||eentent.streampiay.me^$popup
@@ -34438,6 +34437,7 @@ zzzyk.com###Tinfo
 ||goldmoney.com/~/media/Images/Banners/
 ||goldsilbershop.de/go.cgi?
 ||goldstats.com^$third-party
+||golem.de/staticrl/scripts/external/snow-390-min.js
 ||golem.de/staticrl/scripts/golem_cpxl_
 ||gome.com.cn/flight?
 ||gomo.cc^$popup
@@ -35019,6 +35019,7 @@ zzzyk.com###Tinfo
 ||hiasor.com^$document
 ||hiasor.com^$popup
 ||hiaxj.com/dbxf/
+||hibazwaj1758642672513.1581904.meusitehostgator.com.br^
 ||hibids10.com^$popup
 ||hibiquan.com/uploads/images/
 ||hicloud.com/download/web/dtm.js
@@ -37806,7 +37807,6 @@ zzzyk.com###Tinfo
 ||logxp.ru^$third-party
 ||logz.io^$third-party
 ||logz.ru^$third-party
-||loiler.activehosted.com^
 ||lokalleads-cci.com^$third-party
 ||loldyttw.com/blr.js
 ||loldyttw.com/skin/lol/js/ds.js
@@ -38091,6 +38091,8 @@ zzzyk.com###Tinfo
 ||makaidong.com/img/
 ||making.party^$document
 ||making.party^$popup
+||makis12-20904.portmap.host^
+||makis12-33748.portmap.host^
 ||maleenhancement.top^$popup
 ||malimali5.com/ad1.png
 ||mall.xinkuaituan.com/zhuanti/
@@ -38527,7 +38529,6 @@ zzzyk.com###Tinfo
 ||mfacelive.com/Scripts/social/openchannel_min.js
 ||mfasa.chase.com/auth/js/jpmc_bb_check.js
 ||mfav88.com/yinzi/
-||mflo2t-24280.portmap.host^
 ||mg21.com/wp-content/uploads/ad/
 ||mghkpg.com^$popup
 ||mgid.com^$document
@@ -42067,7 +42068,6 @@ zzzyk.com###Tinfo
 ||res-x.com^$third-party
 ||res.cngoldres.com/web/index/img/*_ad_
 ||res.sooplive.co.kr/script/player/service-maintenance.js
-||resadkhibktm.activehosted.com^
 ||research-artisan.com^$third-party
 ||research-int.se^$third-party
 ||research-tool.com^$third-party
@@ -42272,7 +42272,6 @@ zzzyk.com###Tinfo
 ||romancezone.one^$popup
 ||rome.api.flipkart.com/api/1/fdp
 ||romspacks.com/sfe123.js
-||ronanmanning7086378.activehosted.com^
 ||roobetaffiliates.com^$document
 ||roobetaffiliates.com^$popup
 ||roomvo.com/services/event/
@@ -42829,7 +42828,6 @@ zzzyk.com###Tinfo
 ||service.smscoin.com/js/sendpic.js
 ||service.webgoto.net/*?wAnalytics
 ||servicenet8.cloudaccess.host^
-||services-localiser.fr^
 ||services.haaretz.co.il^$ping
 ||services.haaretz.com/ds/impression
 ||services.haaretz.com/ms-gstat-campaign/
@@ -44272,6 +44270,7 @@ zzzyk.com###Tinfo
 ||swoop.com^$third-party
 ||swurve.com/affiliates/
 ||sxeimg.com/u/20191108/13082210.gif
+||sxkset-39222.portmap.host^
 ||sxlflt.com^$document
 ||sxlflt.com^$popup
 ||sxrb.com/front/stat/
@@ -45078,7 +45077,6 @@ zzzyk.com###Tinfo
 ||tp88trk.com^$third-party
 ||tpcs.payu.in/pixelwithcookie.gif$domain=hindustantimes.com
 ||tpe.tbs.mybluehostin.me^
-||tpfan033.activehosted.com^
 ||tpmr.com^$popup
 ||tptoon.com/skin/js/tjtjkk.
 ||tq.cn/floatcard?
@@ -47269,6 +47267,7 @@ zzzyk.com###Tinfo
 ||xxxvjmp.com^$popup
 ||xxxvogue.net/_ad
 ||xxxxsx.com/sw.js
+||xxxxz-61067.portmap.host^
 ||xygwh.cc/js/p
 ||xygwh.cc/js/x
 ||xyimg.net^$domain=~xy.com
