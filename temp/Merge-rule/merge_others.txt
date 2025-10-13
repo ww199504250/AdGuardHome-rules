@@ -7024,7 +7024,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://posthog.$script,domain=~posthog.com
 ://promo.$~media,third-party,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
 ://pt.*?psid=$third-party
-://r.*/s1/$subdocument,third-party
+://r.*/s1/$other,subdocument,third-party
 ://r.i.ua^
 ://r.reklam*.com^
 ://rou*/_next/static/chunks/pages/home-
@@ -7045,7 +7045,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://stat.*/pageview/$xmlhttprequest
 ://stats.*/code/e.js
 ://t.*/open^$image
-://t.*/s1/$subdocument,third-party
+://t.*/s1/$other,subdocument,third-party
 ://t.order.*/r/?id=$image
 ://t.targito.
 ://tagging.*.js?aw=
@@ -7160,6 +7160,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ?event=performancelogger:
 ?frm=*&ct=*&dit=$third-party
 ?groupType=engagement&eventType=CLICK&
+?id=3&adl=3$subdocument,~third-party
 ?key=$popup,domain=verystream.com
 ?key=*&uuid=$subdocument,third-party
 ?local_ga_js=
@@ -24143,6 +24144,8 @@ vivud.com##.in_stream_banner
 vivud.com##.inplayer_banners
 vivud.com##.player-aside-banners
 vjav.com##[style="width: 728px; height: 90px;"]
+vjav.com,vjav.tube##.left + div:has(> div[class] > [id^="ntv"])
+vjav.com,vjav.tube##.undp
 vjmedia.com.hk###author-spotlight + .clear + div
 vjmedia.com.hk###text-33
 vjmedia.com.hk##.code-block
@@ -34928,7 +34931,6 @@ zzzyk.com###Tinfo
 ||hellocenter.xyz^*.mp4$rewrite=abp-resource:blank-mp4,domain=localmv1.com
 ||helloextend.com/tracking
 ||hellogithub.com/v1/advert/
-||hellokittyballs-53833.portmap.host^
 ||hellopeter.com/api/consumer-tracking/
 ||helloretail.com/serve/collect/
 ||helloretail.com/serve/trackingUser
@@ -35168,7 +35170,6 @@ zzzyk.com###Tinfo
 ||holdhostel.space^$popup
 ||holdonstranger.com^$third-party
 ||holidaycheck.*/svc/ubt/v1/events
-||holl.pagamentohostahgtzejjxliirmp.sbs^
 ||hollysocialspuse.com^$popup
 ||holyfamilyradio.org/banners/
 ||home-xxx-videos.com/snowy-
@@ -36495,6 +36496,7 @@ zzzyk.com###Tinfo
 ||javenglish.net/tcads.js
 ||javfor.tv/av/js/aapp.js
 ||javgg.me/wp-content/plugins/1shortlink/js/shorten.js
+||javhd-trk.com^$third-party
 ||javhd.com/ascripts/gcu.js
 ||javhd.com/banners-mainpage/
 ||javhd.com/rstat
@@ -47673,7 +47675,6 @@ zzzyk.com###Tinfo
 ||zengohost.com^
 ||zenimpact.io/dist/zen_init.min.js
 ||zeotap.com^$third-party
-||zeppelinhostel.com^
 ||zergnet.com/zerg.js
 ||zerkalo.io/stat/
 ||zero.kz^$third-party
