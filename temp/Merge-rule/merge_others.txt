@@ -5379,7 +5379,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 analytics.locallogic.co
 0.0.0.0 analytics.localytics.com
 0.0.0.0 api.53.localytics.com
-0.0.0.0 api.chimera-hosting.zip
 0.0.0.0 api.locallogic.co
 0.0.0.0 api.localytics.com
 0.0.0.0 api.omnilocal.ai
@@ -5410,7 +5409,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 ema.hostvn.net
 0.0.0.0 erectile.byethost33.com
 0.0.0.0 err.000webhost.com
-0.0.0.0 ethostrips.com
 0.0.0.0 ext.host-tracker.com
 0.0.0.0 file785host927.cfd
 0.0.0.0 flyhost.org
@@ -5421,10 +5419,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 gcirm.idahostatesman.com
 0.0.0.0 gcounter.hosting4u.net
 0.0.0.0 ghostkitchenhub.com
-0.0.0.0 gorockhost.com
 0.0.0.0 hmw42.host-my-website.com
 0.0.0.0 homehre.bravehost.com
 0.0.0.0 host-62-113-112-127.hosted-by-vdsina.ru
+0.0.0.0 host-inger-all.arat-all.org
 0.0.0.0 host-it.co.uk
 0.0.0.0 host-redirect.net
 0.0.0.0 host00.com
@@ -5447,13 +5445,14 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hostfleek.com
 0.0.0.0 hostify.fr
 0.0.0.0 hostiko.fr
-0.0.0.0 hosting-it084896651.com
 0.0.0.0 hosting-source.bm23.com
 0.0.0.0 hosting.adjug.com
 0.0.0.0 hosting.conduit.com
 0.0.0.0 hosting.sextracker.com
 0.0.0.0 hosting2520545.online.pro
+0.0.0.0 hosting2554891.online.pro
 0.0.0.0 hostingfreelife.com
+0.0.0.0 hostingpark.com
 0.0.0.0 hostingprod.com
 0.0.0.0 hostpowermedium.112.2o7.net
 0.0.0.0 hostujmy.pl
@@ -5470,15 +5469,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 local.emxdgt.com
 0.0.0.0 local.ownlocal.com
 0.0.0.0 localbestdating1.com
-0.0.0.0 localbusinesslicense.com
 0.0.0.0 localh0st.info
 0.0.0.0 localhost-esignid.falling.com.de
 0.0.0.0 localmissoula.com
 0.0.0.0 localo.fr
 0.0.0.0 localofflinepro.com
 0.0.0.0 localytics.com
-0.0.0.0 machinery-local-manage-0839142732.vercel.app
-0.0.0.0 mail.atn.ndh.mybluehost.me
 0.0.0.0 mailacutaaschemicals.host
 0.0.0.0 majestywebhost.com
 0.0.0.0 manifest.53.localytics.com
@@ -5505,13 +5501,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 promos.meetlocals.com
 0.0.0.0 pub.local.emxdgt.com
 0.0.0.0 queuer-prod-elb.53.localytics.com
-0.0.0.0 redelephanthosting.com
-0.0.0.0 rentingalocalfriend.com
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 sdk-assets.localytics.com
 0.0.0.0 secure.ownlocal.com
 0.0.0.0 server44.dubhosting.co.uk
-0.0.0.0 shoplocaly.com
 0.0.0.0 sleeper-sofa.dreamhoster.com
 0.0.0.0 slhk23.0101host.com
 0.0.0.0 smartreachlocal.com
@@ -5543,6 +5536,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 webanalytics.localytics.com
 0.0.0.0 webhosting-ads.home.pl
 0.0.0.0 webhosting.hut1.ru
+0.0.0.0 webhostingcoach.com
 0.0.0.0 webhostinglisting.com
 0.0.0.0 webhostingtest9.net
 0.0.0.0 webmail-who-int.000webhostapp.com
@@ -5559,12 +5553,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.coolfreehost.com
 0.0.0.0 www.csiimxhosting.com
 0.0.0.0 www.dixiewebhosting.com
-0.0.0.0 www.ethostrips.com
 0.0.0.0 www.file785host927.cfd
 0.0.0.0 www.flyhost.org
 0.0.0.0 www.freehostservers.com
 0.0.0.0 www.ghostkitchenhub.com
-0.0.0.0 www.gorockhost.com
+0.0.0.0 www.host-inger-all.arat-all.org
 0.0.0.0 www.host-it.co.uk
 0.0.0.0 www.host00.com
 0.0.0.0 www.hostalcasaariana.com
@@ -5572,20 +5565,18 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostdnx.com
 0.0.0.0 www.hosteciara.com
 0.0.0.0 www.hostedfiles.net
-0.0.0.0 www.hosting-it084896651.com
 0.0.0.0 www.hosting2520545.online.pro
+0.0.0.0 www.hosting2554891.online.pro
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hostingfreelife.com
+0.0.0.0 www.hostingpark.com
 0.0.0.0 www.hostujmy.pl
 0.0.0.0 www.hypehost.store
-0.0.0.0 www.localbusinesslicense.com
 0.0.0.0 www.localh0st.info
 0.0.0.0 www.localhost-esignid.falling.com.de
 0.0.0.0 www.localmissoula.com
 0.0.0.0 www.localofflinepro.com
 0.0.0.0 www.localytics.com
-0.0.0.0 www.machinery-local-manage-0839142732.vercel.app
-0.0.0.0 www.mail.atn.ndh.mybluehost.me
 0.0.0.0 www.mailacutaaschemicals.host
 0.0.0.0 www.majestywebhost.com
 0.0.0.0 www.newshostingsupdate.com
@@ -5593,14 +5584,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.paradisegirlshostels.com
 0.0.0.0 www.pinkghost.blog
 0.0.0.0 www.placelocal.com
-0.0.0.0 www.redelephanthosting.com
-0.0.0.0 www.rentingalocalfriend.com
-0.0.0.0 www.shoplocaly.com
 0.0.0.0 www.smartreachlocal.com
 0.0.0.0 www.sporthostel.org
 0.0.0.0 www.swanvalleyhosting.com
 0.0.0.0 www.tinyfilehost.com
 0.0.0.0 www.valuehost.co.uk
+0.0.0.0 www.webhostingcoach.com
 0.0.0.0 www.webhostingcounter.com
 0.0.0.0 www.webhostinglisting.com
 0.0.0.0 www.webhostingtest9.net
@@ -5608,11 +5597,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.wormhostels.com
 0.0.0.0 www.xenohosting.com
 0.0.0.0 www.yourcanadahost.com
-0.0.0.0 www.zengohost.com
+0.0.0.0 www.zeppelinhostel.com
 0.0.0.0 www3.webhostingtalk.com
 0.0.0.0 xenohosting.com
 0.0.0.0 yourcanadahost.com
-0.0.0.0 zengohost.com
+0.0.0.0 zeppelinhostel.com
 012.tw#@#.ad728
 020job.com##A[href^="/Click.aspx?AdPageID="]
 0439.com###kanfang
@@ -14471,6 +14460,7 @@ faptor.com##.dblock
 faptor.com##.zpot-horizontal-img
 faptube.xyz,hqpornstream.com,magicaltube.com##.spot-block
 farfetch.com##[data-testid="featured"]:has([data-ffref*="sponsoredBy"])
+fark.com###sellwyld
 fark.com##.top_right_container
 farmersjournal.ie###farmersmarket-embed-code
 farmersjournal.ie##.gadvertisementheader
@@ -33321,7 +33311,6 @@ zzzyk.com###Tinfo
 ||feelsoftgood.info^$popup
 ||feesoon.com/js/cnzz_
 ||fefinegoldforeyes.com^$popup
-||fegakid809-25883.portmap.host^
 ||feijisu*.com/js/huimi-
 ||feiniaoks.com/1.
 ||feizl.com/images/smdd/
@@ -34113,7 +34102,6 @@ zzzyk.com###Tinfo
 ||gentent.stre4mplay.one^$popup
 ||gentwoleads.top^$document
 ||gentwoleads.top^$popup
-||genxwhosting.com^
 ||geo-targetly.com^$third-party
 ||geo.dailymotion.com^$script,domain=wol.gg
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
@@ -36918,7 +36906,6 @@ zzzyk.com###Tinfo
 ||karte.io/rewrite-log/
 ||kaspersky-labs.com/cld_track?
 ||katecrochetvanity.com^$popup
-||katerric15761.activehosted.com^
 ||katfile.com/images/$image,domain=filepv.com
 ||kattepush.com^$third-party
 ||kau.li/yad.js
@@ -37738,7 +37725,6 @@ zzzyk.com###Tinfo
 ||localedgemedia.com^
 ||localelover.com^$popup
 ||localenter.com^
-||localfloristflowers.com^
 ||localfocuswidgets.net/stats/
 ||localfuneraldirectors.co.uk^
 ||localglobaldates.com^
@@ -38035,7 +38021,6 @@ zzzyk.com###Tinfo
 ||macys.com/sitemonetization/v1/sponsored-products/
 ||macys.com/tag_path/
 ||madeinmood1-27123.portmap.host^
-||madeinmood1-51626.portmap.host^
 ||madeupice.com^$document
 ||madeupice.com^$popup
 ||madkudu.com^$third-party
@@ -38093,7 +38078,6 @@ zzzyk.com###Tinfo
 ||makaidong.com/img/
 ||making.party^$document
 ||making.party^$popup
-||makis12-33748.portmap.host^
 ||maleenhancement.top^$popup
 ||malimali5.com/ad1.png
 ||mall.xinkuaituan.com/zhuanti/
@@ -42403,6 +42387,7 @@ zzzyk.com###Tinfo
 ||rvetreyu.net^$popup
 ||rvisofoseveralye.com^$popup
 ||rvrpushserv.com^$popup
+||rvt50mekz.localto.net^
 ||rx.link^$popup,domain=uploadgig.com
 ||rztrkr.com^$third-party
 ||s-microsoft.com/mscc/$~stylesheet
@@ -42695,6 +42680,7 @@ zzzyk.com###Tinfo
 ||secure.webhostingpad.com^
 ||secure289.inmotionhosting.com^
 ||secure296.inmotionhosting.com^
+||secure370.inmotionhosting.com^
 ||secureanalytic.com^$third-party
 ||secureclickers.com^$popup
 ||securecloud-smart.com^$popup
@@ -43747,6 +43733,8 @@ zzzyk.com###Tinfo
 ||srv241667.hoster-test.ru^
 ||srv241721.hoster-test.ru^
 ||srv241934.hoster-test.ru^
+||srv241969.hoster-test.ru^
+||srv242037.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv335634894hoster.cfolks.pl^
 ||srvhost.servehttp.com^
@@ -44314,6 +44302,7 @@ zzzyk.com###Tinfo
 ||sznews.com/s?z=
 ||szonline.net/static/js/ads.js
 ||szqxvo.com^$popup
+||szty.pagamentohostarservizioagtxt.sbs^
 ||szxljdsb.com/tl
 ||szyepu8.com/data/AADDimg/
 ||szyhqj.com/js/
