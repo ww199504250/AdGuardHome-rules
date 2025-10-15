@@ -15584,7 +15584,7 @@ gosearchresults.com##.listing-right
 gosexpod.com###xtw
 gostream.site##.content-kuss
 gosunoob.com##.vntsvideocontainer
-gosunoob.com,indianexpress.com,matrixcalc.org,medicalxpress.com,philstarlife.com,phys.org,roblox.com,spotify.com,techxplore.com##.ads-container
+gosunoob.com,indianexpress.com,matrixcalc.org,medicalxpress.com,philstarlife.com,phys.org,roblox.com,speakerdeck.com,spotify.com,techxplore.com##.ads-container
 goterriers.com##.sticky-footer
 gotgayporn.com###ss_bar
 gothamist.com##.leaderboard-ad-backdrop
@@ -18906,6 +18906,7 @@ mobilesringtones.com##[href^="https://obqj2.com/"]
 mobilesyrup.com##.ad-goes-here
 mobilesyrup.com##.sidebarSponsoredAd
 mobxvideos.com,pornogramxxx.com###bubble
+mobygames.com##.square-ad-wrapper
 moddb.com##.nextmediaboxtop
 modelhorseblab.com#@#.ad_global_header
 modivo.*#?#.banner:-abp-contains(/Sponsorizzato|Sponsorowane|Sponsorizat|Sponzorováno|Szponzorált|Спонсорирани|Sponsored|Gesponsert/)
@@ -27200,7 +27201,6 @@ zzzyk.com###Tinfo
 ||admetricspro.com^$third-party
 ||admile.ru^$third-party
 ||admin.blog.fc2.com/dctanalyzer.php
-||admin.managehosting-aruba-it.workers.dev^
 ||admin25.com/ad/
 ||adminbuy.cn/images/
 ||administratielocala.com^
@@ -27304,6 +27304,7 @@ zzzyk.com###Tinfo
 ||ads-blocker.app^$document
 ||ads-pixiv.net^$third-party
 ||ads.cc^$third-party
+||ads.google.com^$xmlhttprequest,domain=ynet.co.il
 ||ads.host.camz.com^
 ||ads.planetwin365affiliate.com^$popup,third-party
 ||ads.sexier.com^$popup
@@ -33694,7 +33695,6 @@ zzzyk.com###Tinfo
 ||freehitscounter.org^$third-party
 ||freehookupaffair.com^$popup
 ||freehostedscripts.net^*.php?site=*&s=*&h=$third-party
-||freehosts.duckdns.org^
 ||freejavbt.com/assets/images/banner
 ||freelivesex.tv/imgs/ad/
 ||freelocaldate.com^
@@ -33900,7 +33900,6 @@ zzzyk.com###Tinfo
 ||g33ktr4ck.com^$popup
 ||g3f3.com/love/
 ||g6857531218241.activehosted.com^
-||g6857531221502.activehosted.com^
 ||g6857531263715.activehosted.com^
 ||ga-analytics.com^$third-party
 ||ga.chickgoddess.com/gs_api/stats/
@@ -34958,7 +34957,6 @@ zzzyk.com###Tinfo
 ||heptix.net^$popup
 ||heraldandtimeslabs.com/sugar.js
 ||heratheacle.com^$popup
-||heremoney502.activehosted.com^
 ||heremployeesihi.info^$popup
 ||heresanothernicemess.com^$popup
 ||herexxxtube.com/tmp/
@@ -35225,7 +35223,6 @@ zzzyk.com###Tinfo
 ||host-file-host6.com^
 ||host-host-file8.com^
 ||host-inger-all.arat-all.org^
-||host-most.gl.at.ply.gg^
 ||host-tracker.com^$third-party
 ||host-vc-fone-dx-wiem-qa.weebly.com^
 ||host.gamerg.gg^
@@ -35484,7 +35481,6 @@ zzzyk.com###Tinfo
 ||huggingface.co/js/script.js
 ||hugo3c.tw^$csp=script-src 'self' * 'unsafe-inline'
 ||hugregregy.pro^$popup
-||huhl5r.easypanel.host^
 ||huhumh.com/js/
 ||huiagun.com/template/common.js
 ||huibaihe.net/js/dddd.js
@@ -38185,7 +38181,6 @@ zzzyk.com###Tinfo
 ||marsflag.com/mf2file/site/ext/tr.js
 ||marthaannesdiasthomp1746983281251.0640324.meusitehostgator.com.br^
 ||marvelmetrix.com^$third-party
-||marvintracy3.activehosted.com^
 ||mas.martech.yahoo.com^$domain=mail.yahoo.com
 ||masadora.net/kakusan-
 ||mashery.com/analytics/
@@ -40029,6 +40024,7 @@ zzzyk.com###Tinfo
 ||opt-intelligence.com^$third-party
 ||optable.co^$third-party
 ||optaim.com^$third-party
+||opti-digital.com/js/presync.html
 ||optiads.org^$third-party
 ||optics.org/banners/
 ||opticsky.cn/images/2015/gy-px201
@@ -40072,7 +40068,6 @@ zzzyk.com###Tinfo
 ||oreohost.com^
 ||organicfruitapps.com/analytics/
 ||organicowner.com^$popup
-||organization-host.gl.at.ply.gg^
 ||orgassme.com^$popup
 ||orgyxxxhub.com/js/965eka57.js
 ||orgyxxxhub.com/js/arjlk.js
@@ -40376,6 +40371,7 @@ zzzyk.com###Tinfo
 ||pbbl.co^$third-party
 ||pbgrd.com^$third-party
 ||pbmp.ali213.net/js/
+||pbstck.com/kleanads-prebid/
 ||pbstck.com^$third-party
 ||pc-agency24.de^$third-party
 ||pc161021.com/scripts/noui/StatProvider.js
@@ -45684,6 +45680,7 @@ zzzyk.com###Tinfo
 ||uilts.com^$popup
 ||uitopadxdy.com^$popup
 ||ujw1y54r.fun^$popup
+||uk2.localto.net^
 ||ukcampsite.co.uk/banners/
 ||ukdevilz.com/api/stats?
 ||ukoffzeh.com^$popup
