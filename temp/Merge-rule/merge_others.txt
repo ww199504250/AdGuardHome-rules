@@ -59,7 +59,7 @@ $script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.co
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=opensubtitles.org
-$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
+$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
 %2Fevent.gif%3F
 %2Fo.gif&
@@ -9538,8 +9538,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||wuyou.com.cn/Js/ad.js
 @@||wwads.cn/js/makemoney.js$domain=baomidou.com
 @@||www.google.*/adsense/$~third-party,domain=google.cn
-@@||www.google.*/search?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||www.google.*/search?$generichide
+@@||www.google.*/search?$xmlhttprequest
 @@||www.google.*/search?q=*&oq=*&aqs=chrome.*&sourceid=chrome&$popup,third-party
 @@||www.google.com/ads/preferences/$image,script,subdocument
 @@||www.statcounter.com/images/$image,third-party
@@ -14603,6 +14603,7 @@ finance.sina.com.cn##div[class^="side-btns-"]
 finance.sina.com.cn##div[id^="st01_cont0"]
 finance.yahoo.com###mrt-node-Lead-0-Ad
 finance.yahoo.com##.ad-lrec3
+finance.yahoo.com##.iframe-resizer-container:has(> iframe[data-testid="offers-cds-iframe"])
 finance.yahoo.com##.sdaContainer
 finance.yahoo.com##[id^="defaultLREC"]
 financefeeds.com##.dialog-widget
@@ -17693,6 +17694,13 @@ kaufland.*##.sponsored-brand-products-container
 kaufland.*##.teaser-orchestration__wrapper--online
 kaufland.*#?#.recommender-wrapper:-abp-contains(Gesponsert)
 kawai-jav.com##.ads-here-right
+kayak.*,momondo.*,checkfelix.com,swoodoo.*##.CGMG:has(.c_3eP-badge-content)
+kayak.*,momondo.*,checkfelix.com,swoodoo.*##.Tl2M-contentInner:has(.c_3eP-badge-content)
+kayak.*,momondo.*,checkfelix.com,swoodoo.*##div[class$="-result-item-container"]:has(a[href*="/s/clickthrough.jsp?"])
+kayak.*,momondo.*,checkfelix.com,swoodoo.*##div[class$="-result-item-container"]:has(div[class$="-ad-badge"])
+kayak.*,momondo.*,checkfelix.com,swoodoo.*##div[data-resultid$="-sponsored"]
+kayak.*,momondo.*,checkfelix.com,swoodoo.*##div[role="button"]:has(.c_3eP-badge-content)
+kayak.*,momondo.*,checkfelix.com,swoodoo.*##div[role="link"]:has(.c_3eP-badge-content)
 kayak.com##[role="button"]:has([class*="ad-marking"])
 kayak.com##[role="tab"]:has([class*="sponsored"])
 kayak.com,momondo.*##.CGMG:has(.CGMG-logo-ad-wrapper)
@@ -22334,6 +22342,8 @@ sohu.com##.x-adv-flogo-panel
 sohu.com##.x-adv-linear-panel
 sohu.com##.x-adv-pause-nonlinear-panel
 sohu.com#@#.label-ad
+sojson.com##._left_ad
+sojson.com##._right_ad
 sojson.com##.a-d-img
 sojson.com##.banner1
 sojson.com##.fly-hezuo
@@ -27204,7 +27214,6 @@ zzzyk.com###Tinfo
 ||admin.blog.fc2.com/dctanalyzer.php
 ||admin25.com/ad/
 ||adminbuy.cn/images/
-||administratielocala.com^
 ||admitad.com^$popup
 ||admjmp.com^$popup
 ||admo.tv^$third-party
@@ -27795,6 +27804,7 @@ zzzyk.com###Tinfo
 ||akamaized.net/mr/popunder.js
 ||akanoo.com^$third-party
 ||akavita.com^$third-party
+||akea-24794.portmap.host^
 ||akiba-online.com/data/siropu/
 ||aklamator.com^$third-party
 ||akmxts.com^$popup
@@ -28373,6 +28383,7 @@ zzzyk.com###Tinfo
 ||appboycdn.com^$third-party
 ||appcast.io^$third-party
 ||appdynamics.com^$third-party
+||apphost.ydns.eu^
 ||appier.net^$third-party
 ||appinthestore.com/click/
 ||apple-mapkit.com/mw/v1/reportAnalytics
@@ -31443,7 +31454,6 @@ zzzyk.com###Tinfo
 ||csgofastx.com/?clickid=$popup,domain=hltv.org
 ||csgola.com/Public/img/lala/1.jpg
 ||cshield.io^$third-party
-||csiimxhosting.com^
 ||css-load.com^$document,popup
 ||css-load.com^$popup
 ||cssqt.com/a/images/indexsd.gif
@@ -31585,6 +31595,7 @@ zzzyk.com###Tinfo
 ||dabin69.com/data/attachment/portal/
 ||dable.io^$third-party
 ||dacounter.com^$third-party
+||dad9idois-51319.portmap.host^
 ||dada8828.com/js/aaa/
 ||daddadasd-29521.portmap.host^
 ||dadi.technology^$third-party
@@ -31650,6 +31661,7 @@ zzzyk.com###Tinfo
 ||dashboard.io^$third-party
 ||dashboard.iproyal.com/img/b/
 ||dashboard.nowdialogue.com/api/events/
+||dashboardprofile.cloudaccess.host^
 ||dasoertliche.de/js/liwAnalytics.js
 ||daspol-eu.s10.hostcreators.sk^
 ||data-02011e6008.golocal.de^
@@ -33921,6 +33933,7 @@ zzzyk.com###Tinfo
 ||galacg.me/wp-content/uploads/*750x
 ||galada.it/omnitag/
 ||galaxiemedia.fr^$third-party
+||galaxyearningsfly.com^$popup
 ||galaxymedia.xyz/app/images/banner.gif
 ||galaxypush.com^$document
 ||galaxypush.com^$popup
@@ -34088,7 +34101,6 @@ zzzyk.com###Tinfo
 ||generic-function-log-data-7il2midpaa-nn.a.run.app^$domain=telus.com
 ||genevievebarker0128924.activehosted.com^
 ||genevievebarker0156433.activehosted.com^
-||genevievebarker0178516.activehosted.com^
 ||geni.us/snippet.js
 ||geni.us/snippet.min.js
 ||genial.guru/metric-collector
@@ -37483,6 +37495,7 @@ zzzyk.com###Tinfo
 ||lightminer.co^$third-party
 ||lightning.ncaa.com/launch/$script
 ||lightstep.medium.systems^*/reports
+||lightyellow-dotterel-255560.hostingersite.com^
 ||liglomsoltuwhax.net^$popup
 ||lihuasoft.net/images/ad_
 ||liisex.com/images/banners/
@@ -40979,6 +40992,7 @@ zzzyk.com###Tinfo
 ||postimg.cc^*-960x60.
 ||postlnk.com^$popup
 ||postlocalads.com^
+||postnord-support.tempurl.host^
 ||potawe.com^$popup
 ||potsaglu.net^$document
 ||potsaglu.net^$popup
@@ -43402,6 +43416,7 @@ zzzyk.com###Tinfo
 ||sncf-connect.com/bff/api/v1/t/events
 ||snd.tc^$third-party
 ||sndkorea.co.kr^$third-party
+||sneakyadministration.com^$popup
 ||sni-dat.com^$third-party
 ||sni.ps^$third-party
 ||snigelweb.com^$third-party
@@ -43729,10 +43744,8 @@ zzzyk.com###Tinfo
 ||srv155384.hoster-test.ru^
 ||srv241317.hoster-test.ru^
 ||srv241486.hoster-test.ru^
-||srv241666.hoster-test.ru^
 ||srv241667.hoster-test.ru^
 ||srv241721.hoster-test.ru^
-||srv241934.hoster-test.ru^
 ||srv241969.hoster-test.ru^
 ||srv242037.hoster-test.ru^
 ||srv2trking.com^$popup
@@ -44198,6 +44211,7 @@ zzzyk.com###Tinfo
 ||support.github.com/session/user
 ||support.google.com/apis/logjourney
 ||supportxmr.com^$third-party
+||suprakini3-53700.portmap.host^
 ||supremeadblocker.com^$popup
 ||suptraf.com^$document
 ||suptraf.com^$popup
@@ -44225,7 +44239,6 @@ zzzyk.com###Tinfo
 ||svc.dynamics.com/f/m/$third-party
 ||svc.dynamics.com/t/v/$third-party
 ||svc.dynamics.com/t/w$third-party
-||svhost2.linkpc.net^
 ||svhost56.duckdns.org^
 ||svhosted.duckdns.org^
 ||svhostwp.duckdns.org^
@@ -44560,6 +44573,7 @@ zzzyk.com###Tinfo
 ||telyn610zoanthropy.com^$popup
 ||temksrtd.net^$popup
 ||temperrunnersdale.com^$popup
+||templates.cds.yahoo.com/remote/widget?
 ||tempr.email/public/responsive/gfx/awrapper/
 ||temu.com/api/adx/
 ||temu.com^$popup,domain=pornproxy.art
@@ -47539,6 +47553,7 @@ zzzyk.com###Tinfo
 ||ytn.co.kr/_comm/yct.js
 ||ytn.co.kr/_comm/ylog.php?
 ||ytse*.top/Static/Home/GongGao/img/
+||yttt-34658.portmap.host^
 ||yu987.com^$third-party
 ||yuanbao777.com/download/*.gif
 ||yuanxue365.com/js/a22.
