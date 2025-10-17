@@ -5354,6 +5354,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /~shared/do/~/click/?$image
 /~shared/do/~/count/?$image
 0.0.0.0 0.0.0.0
+0.0.0.0 185.164.59.38.12
 0.0.0.0 403.hqhost.net
 0.0.0.0 404.hqhost.net
 0.0.0.0 53.localytics.com
@@ -5412,7 +5413,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 err.000webhost.com
 0.0.0.0 ext.host-tracker.com
 0.0.0.0 file785host927.cfd
-0.0.0.0 flyhost.org
 0.0.0.0 free-money.host.sk
 0.0.0.0 freehostservers.com
 0.0.0.0 freeimghost.trafflow.com
@@ -5430,7 +5430,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 host207.ewtn.com
 0.0.0.0 host6.hitbox.com
 0.0.0.0 host81-138-7-108.in-addr.btopenworld.com
-0.0.0.0 hostalcasaariana.com
 0.0.0.0 hostboard.us.intellitxt.com
 0.0.0.0 hostcreativegroup.com
 0.0.0.0 hostdnx.com
@@ -5496,6 +5495,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 pgl.example0101
 0.0.0.0 philadelphia_cbslocal.us.intellitxt.com
 0.0.0.0 pinkghost.blog
+0.0.0.0 pmhosting.org
 0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile-lookup.services.53.localytics.com
 0.0.0.0 profile.localytics.com
@@ -5508,6 +5508,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 server44.dubhosting.co.uk
 0.0.0.0 sleeper-sofa.dreamhoster.com
 0.0.0.0 slhk23.0101host.com
+0.0.0.0 slywebhosting.net
 0.0.0.0 smartreachlocal.com
 0.0.0.0 snowplow.ownlocal.com
 0.0.0.0 sporthostel.org
@@ -5555,13 +5556,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.csiimxhosting.com
 0.0.0.0 www.dixiewebhosting.com
 0.0.0.0 www.file785host927.cfd
-0.0.0.0 www.flyhost.org
 0.0.0.0 www.freehostservers.com
 0.0.0.0 www.ghostkitchenhub.com
 0.0.0.0 www.host-inger-all.arat-all.org
 0.0.0.0 www.host-it.co.uk
 0.0.0.0 www.host00.com
-0.0.0.0 www.hostalcasaariana.com
 0.0.0.0 www.hostcreativegroup.com
 0.0.0.0 www.hostdnx.com
 0.0.0.0 www.hosteciara.com
@@ -5585,6 +5584,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.paradisegirlshostels.com
 0.0.0.0 www.pinkghost.blog
 0.0.0.0 www.placelocal.com
+0.0.0.0 www.pmhosting.org
+0.0.0.0 www.slywebhosting.net
 0.0.0.0 www.smartreachlocal.com
 0.0.0.0 www.sporthostel.org
 0.0.0.0 www.swanvalleyhosting.com
@@ -33449,6 +33450,7 @@ zzzyk.com###Tinfo
 ||fitcenterz.com^$popup
 ||fitsazx.xyz^$popup
 ||fittiercutlets.top^$popup
+||fitting-local.pro^
 ||fittingcentermondaysunday.com^$popup
 ||fiverr.com/api/v1/activities
 ||fiverr.com/px/client/PXK3bezZfO/main.min.js
