@@ -3045,6 +3045,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /js/aa.htm$script
 /js/aahome.htm
 /js/ad_common.js$script
+/js/adblockdetect.js$script
 /js/admiral-
 /js/adpopup.js$script
 /js/ads/*0.js
@@ -4581,6 +4582,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /sticky_ads.js$script
 /stickyad.js$script
 /stickyads.js$script
+/storage/js/videojs.sda.js$script
 /storeAdvImpression.jsp
 /storefront.google-analytics-4.min.js
 /stormcaster.js
@@ -5047,7 +5049,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /videojs.ga.js
 /videojs.ga.min.js
 /videojs.ga.videocloud.js
-/videojs.sda.js$script
 /videotracking.js
 /vidtrack.js
 /view-tracking/*$image
@@ -7021,6 +7022,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://rou*/_next/static/chunks/pages/home-
 ://rs-stripe.wsj.com/stripe/image?
 ://rum.collector.
+://s.*.com/venor.php$third-party
 ://s.htkk*.top:$script,third-party
 ://say.ac^
 ://seai*/ads/float.js
@@ -13279,6 +13281,7 @@ dataguru.cn###popDiv
 datamation.com###sticky-rail
 datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###inline-top
 datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###sticky-bottom
+datanodes.to##.bg-white\/50.border.p-8 {visibility:hidden
 datareportal.com###fuse-sticky
 dataversity.net,ippmedia.com,sakshi.com,songlyrics.com,yallamotor.com##.adblock
 datedatego.com##.ddg
@@ -18552,6 +18555,7 @@ mangadex.org##a[href^="https://www.runoperagx.com/"]
 mangagun.net,nicomanga.com,rawinu.com,weloma.art,welovemanga.one##[href^="https://www.polybuzz.ai/"]
 mangakakalot.com##.container-chapter-reader > div
 mangakakalot.gg###fly_chapter_01
+mangakakalot.gg##.ads-contain-v2
 mangaplus.shueisha.tv##[style$="height: 260px; position: relative; width: 680px;"]
 mangaplus.shueisha.tv,shueisharaw.tv###ads_mobile
 mangaplus.shueisha.tv,shueisharaw.tv###left-banner
@@ -19354,6 +19358,8 @@ mysexgames.com,xnxxxhd.com##body > div[style*="z-index:"]
 myslavegirl.org##.signature
 mystore.com#@#[href^="https://mystore.com/"] > img
 mytelly.co.uk##.custom-min-height-242
+mytempsms.com###container-ad > .col-sm-12[style]:has(> .adsbygoogle)
+mytempsms.com##.content > .container[style]:has(> .adsbygoogle)
 mytempsms.com##.layui-col-md12
 mytheme.cn##.ad01
 mytuner-radio.com###move-ad
@@ -22076,6 +22082,7 @@ skylinewebcams.com###hostedby
 skylinewebcams.com###skylinewebcams-ads2
 skylinewebcams.com##.cam-vert
 skylinewebcams.com##.text-center.cam-light
+skyscanner.*##[data-testid="inline-ad-panel-desktop-layout"]:has([data-testid="adInfoBtn"])
 skyscanner.*,tianxun.com##[class^="FlightsResults"] > div:has([class^="Sponsored"])
 skyscanner.*,tianxun.com##div > a:has(div[class^="DefaultBanner_sponsorshipRow"])
 skyscanner.*,tianxun.com##div:has(> a[data-testid="inline-brand-banner"])
@@ -22084,7 +22091,6 @@ skyscanner.*,tianxun.com##div[class*="ItineraryInlinePlusWrapper" i]:has(button[
 skyscanner.*,tianxun.com##div[class^="ItineraryInlinePlusWrapper_"]:has(button[class^="SponsoredInfoButton_"])
 skyscanner.*,tianxun.com##div[id*="-first-result" i]:has(button[class*="SponsoredInfoButton" i])
 skyscanner.*,tianxun.com##section[data-testid="inline-ad-panel-desktop-layout"]
-skyscanner.com##[data-testid="inline-ad-panel-desktop-layout"]:has([data-testid="adInfoBtn"])
 skyve.io##.ads_space
 slant.co##.SummaryPage-LustreEmbed
 slashdot.org###announcement
@@ -22552,8 +22558,8 @@ startpage.com##.css-1j5r2ie
 startpage.com##.pa-bg
 startpage.com##.pa-bg + section
 startpage.com##a[href^="https://ww44.affinity.net/"]
+startpage.com##div.result[style="margin-bottom: 10px;"]:has(path[d^="m6.07067"])
 startpage.com##div[style="display: block; padding: 12px; margin: 0px 0px 10px; border-radius: 4px; border: 1px solid rgb(59, 67, 91);"]
-startpage.com##div[style^="display: block; padding:"]:has(path[d^="m6.07067"])
 startribune.com##[class*="htlad-"]
 startup.ch##.smallbanner
 stat-nba.com###ad_video
