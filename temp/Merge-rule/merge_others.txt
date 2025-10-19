@@ -3606,6 +3606,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /oo/*/lsync.js
 /oo/cl*.js?rd=
 /oo/cl.js|$~third-party
+/op/analytics.js?domain=
 /opbb/float.js
 /opbb/obpp.tpl
 /opdc.js
@@ -28347,6 +28348,7 @@ zzzyk.com###Tinfo
 ||api.streamelements.com/science/
 ||api.tacotax.fr/v2/amplitude_trackers
 ||api.takealot.com^$ping
+||api.thefantazy.com/web-vitals
 ||api.tsc.ca/Tracking/v1/events/
 ||api.tv.de/*/tracking/
 ||api.visitorapi.com^$third-party
@@ -34745,6 +34747,7 @@ zzzyk.com###Tinfo
 ||gvcaffiliates.com^$popup
 ||gvhiz06dl.localto.net^
 ||gvisit.com^$third-party
+||gvllikealocal.com^
 ||gwbnsh.net.cn/hd/unicom/ad.html
 ||gwithearamajo.org^$popup
 ||gwmtracking.com^$third-party
@@ -35297,6 +35300,7 @@ zzzyk.com###Tinfo
 ||hoster.bobbylevin.com^
 ||hosterchecker.com^
 ||hostermasterplug.duckdns.org^
+||hostermax.com^
 ||hosterphobic.duckdns.org^
 ||hosterroundcubz.s3.cubbit.eu^
 ||hostgrater.com^
@@ -37752,7 +37756,6 @@ zzzyk.com###Tinfo
 ||localfuneraldirectors.co.uk^
 ||localglobaldates.com^
 ||localhookupclub1.com^
-||localhost-esignid.falling.com.de^
 ||localiser-app.fr^
 ||localiser-apple.fr^
 ||localiser-map.fr^
@@ -39264,7 +39267,6 @@ zzzyk.com###Tinfo
 ||neon-lab.com/neonbctracker.js
 ||neon.today^$third-party
 ||neowin.net/ws/$websocket
-||neprobiesh-64818.portmap.host^
 ||neptuntrack.com^$popup
 ||nereu-gdr.com^$popup
 ||nero.live^$third-party
@@ -39521,9 +39523,6 @@ zzzyk.com###Tinfo
 ||nile.works/TargetingWebAPP/
 ||nile.works/api/save-perf?
 ||nimbusweb.me/gtlytics.js
-||nimiq.com^$third-party
-||nimiqpool.com^$third-party
-||nimpool.io^$third-party
 ||nimrute.com^$popup
 ||ninancukankin.org^$document
 ||ninancukankin.org^$popup
@@ -40882,7 +40881,6 @@ zzzyk.com###Tinfo
 ||pons.com/assets/javascripts/modules-min/idm-ads_
 ||pooksys.site^$document
 ||pooksys.site^$popup
-||pool.nimiq.watch^$third-party
 ||poonproscash.com^$third-party
 ||poool.fr/api/v3/access/event
 ||pop-parad.
@@ -42299,6 +42297,7 @@ zzzyk.com###Tinfo
 ||rotaban.ru^$third-party
 ||rotabanner.
 ||rotator.
+||rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/rt-common.js
 ||rotumal.com^$popup
 ||rou.video/_next/static/chunks/pages/fuli-
 ||roudoduor.com^$popup
@@ -44252,7 +44251,6 @@ zzzyk.com###Tinfo
 ||survicate.com^$third-party
 ||survivalblog.com/marketplace/
 ||survivalservers.com^$subdocument,domain=adfoc.us
-||sushipool.com^$third-party
 ||sv2.biz^$third-party
 ||svc.dynamics.com/f/m/$third-party
 ||svc.dynamics.com/t/v/$third-party
@@ -45941,6 +45939,7 @@ zzzyk.com###Tinfo
 ||va.tawk.to/log
 ||vaatmetu.net^$popup
 ||vagrantup.com/api/auth/_log
+||vague-key.com^$popup
 ||vaitotoo.net^$popup
 ||validate.onecount.net^$image
 ||validation-local-ads-manage-id82140.vercel.app^

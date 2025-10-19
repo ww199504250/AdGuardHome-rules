@@ -1608,6 +1608,7 @@
 /oo/*/lsync.js
 /oo/cl*.js?rd=
 /oo/cl.js|$~third-party
+/op/analytics.js?domain=
 /opdc.js
 /ope-adalliance.js
 /open/log/*
@@ -6370,9 +6371,6 @@ omni.soundestlink.com$image
 ||nametraff.com^$third-party
 ||nerohut.com^$third-party
 ||nfwebminer.com^$third-party
-||nimiq.com^$third-party
-||nimiqpool.com^$third-party
-||nimpool.io^$third-party
 ||notmining.org^$third-party
 ||omine.org^$third-party
 ||openguid.org^$third-party
@@ -6381,7 +6379,6 @@ omni.soundestlink.com$image
 ||papoto.com^$third-party
 ||party-vqgdyvoycc.now.sh^$third-party
 ||pertholin.com^$third-party
-||pool.nimiq.watch^$third-party
 ||pr0gram.org^$third-party
 ||reauthenticator.com^
 ||rocks.io^$third-party
@@ -6398,7 +6395,6 @@ omni.soundestlink.com$image
 ||stonecalcom.com^$third-party
 ||str1kee.com^
 ||supportxmr.com^$third-party
-||sushipool.com^$third-party
 ||swiftmining.win^$third-party
 ||tercabilis.info^
 ||thewhizproducts.com^$third-party
@@ -11945,6 +11941,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.samsungfind.com/log-collector
 ||api.streamelements.com/science/
 ||api.takealot.com^$ping
+||api.thefantazy.com/web-vitals
 ||api.tsc.ca/Tracking/v1/events/
 ||api.vk.com/method/statEvents.
 ||aplus.qwen.ai/aplus.monitor.log_arrival_rate
@@ -13838,6 +13835,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||olacontent.schwab.com^$script
 ||qfp.intuit.com^
 ||rba-screen.healthsafe-id.com^
+||rottentomatoes.com/assets/pizza-pie/javascripts/bundles/roma/rt-common.js
 ||rsx.afterpay.com^
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
 ||svc2.sc.com^
@@ -51259,6 +51257,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||daumcdn.net^*/awsa.js
 ||dpg.danawa.com/*/rest/*getStampEvent
 ||gmarket.co.kr/js/common/uuid.js
+||haystack.wavve.com^
 ||hits.zdnet.co.kr^
 ||jdsports.co.kr/collect.php
 ||kyson.kakao.com^
