@@ -6241,7 +6241,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 247wallst.com,cubdomain.com##.hello-bar
 24en.com##.article_part_top
 24en.com##A[href*="/ClickAd?"]
-24fm.ps,datingscammer.info,ihrc24x7.com,kayifamily.net,news365.co.za,thedefensepost.com,xboxera.com##.stream-item
+24fm.ps,datingscammer.info,ihrc24x7.com,kayifamily.net,news365.co.za,royale-games.com,thedefensepost.com,xboxera.com##.stream-item
 24k99.com##.jy_24k99_suspended_ad
 24k99.com,fx168.com##.ny2018_txtLink
 24k99.com,fx168.com##.yy_guangao
@@ -10706,7 +10706,7 @@ axutongxue.com,axutongxue.net###jjjagl
 axutongxue.com,axutongxue.net##[style^="height:58px;"]
 azclick.jp,tubefilter.com#@##topAd
 azoai.com,azobuild.com,azocleantech.com,azolifesciences.com,azom.com,azomining.com,azonano.com,azooptics.com,azoquantum.com,azorobotics.com,azosensors.com##.promoted-item
-azoai.com,azobuild.com,azocleantech.com,azolifesciences.com,azom.com,azomining.com,azonano.com,azooptics.com,azoquantum.com,azorobotics.com,azosensors.com##.sidebar-sponsored-content
+azoai.com,azobuild.com,azocleantech.com,azolifesciences.com,azom.com,azomining.com,azonano.com,azooptics.com,azoquantum.com,azorobotics.com,azosensors.com,insidehpc.com##.sidebar-sponsored-content
 azofreeware.com###HTML7
 azofreeware.com,pttjoke.com###HTML3
 azscore.com##.b-odds
@@ -11314,11 +11314,11 @@ bing.com##.b_spa_adblock
 bing.com##.br-poleoffcarousel
 bing.com##.mapsTextAds
 bing.com##.mma_il
+bing.com##.nad_ctn
 bing.com##.pa_sb
 bing.com##.productAd
 bing.com##.ra_car_block
 bing.com##.slide:has(.rtb_ad_caritem_mvtr)
-bing.com##.ta_c:has-text(Sponsored)
 bing.com##.text-ads-container
 bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
@@ -11332,6 +11332,7 @@ bing.com##li[data-idx]:has(#mm-ebad)
 bing.com#?#.b_algo:-abp-has(.ad_esltitle)
 bing.com#?#.b_algo:-abp-has(.b_ads1line)
 bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
+bing.com#?#.ta_c:has-text(Sponsored)
 bing.com#?#li.b_algo:has(.rms_img[src*="id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F"]):has(.tptt:-abp-contains(/^([Aa]mazon(\.[acdefinps][aeglnorst]m?\.?[abjmtu]?[kprux]?)?|Best Buy|Booking\.com|eBay|eDreams|Lenovo US|Trip\.com|Tripadvisor|Walmart)$/))
 bing.com#?#li[class="b_algo"]:-abp-has(.b_attribution[data-partnertag]+p[class])
 bingdou.com.cn,hoteastday.com##.float_ad
@@ -16933,7 +16934,6 @@ insidehighered.com###block-dfptagarticle-sidebar-top
 insidehighered.com##.adslot-top-container
 insidehighered.com##.pane-dfp
 insidehpc.com##.featured-728x90-ad
-insidehpc.com##.sidebar-sponsored-content
 insidehpc.com##.widget_download_manager_widget
 insidemydream.com##.afxshop
 insomnia.gr,kingsinteriors.co.uk,w3e.kanazawa-it.ac.jp#@#.adlink
@@ -21496,7 +21496,6 @@ rottentomatoes.com#@#.page_ad
 rouman5.com,roum20.xyz###headlessui-portal-root
 rouman5.com,roum20.xyz##div[style^="display: flex;"]
 rouman5.com,roum20.xyz##ins
-royale-games.com##.stream-item
 royalroad.com###HomePage_Top
 royalroad.com##.dKKumhSnWiFq75vPUVtmTanQ
 royalroad.com##.light.margin-bottom-20
@@ -34942,6 +34941,7 @@ zzzyk.com###Tinfo
 ||hellocenter.xyz^*.mp4$rewrite=abp-resource:blank-mp4,domain=localmv1.com
 ||helloextend.com/tracking
 ||hellogithub.com/v1/advert/
+||hellohost.org^
 ||hellopeter.com/api/consumer-tracking/
 ||helloretail.com/serve/collect/
 ||helloretail.com/serve/trackingUser
@@ -38806,7 +38806,6 @@ zzzyk.com###Tinfo
 ||more-data.ru^$third-party
 ||more1.biz^$popup
 ||morehitserver.com^$third-party
-||mortaza1-33942.portmap.host^
 ||mortgagecentres.net/banner.gif
 ||moshimo.com^$third-party
 ||moshimo.com^*/impression?
@@ -41820,7 +41819,6 @@ zzzyk.com###Tinfo
 ||ratedxbiz.com/d/
 ||rathost.hopto.org^
 ||rating.in^$third-party
-||rattix01228-28247.portmap.host^
 ||raunooligais.net^$popup
 ||ravde.re-in.de/z?
 ||ravelin.click^$third-party
@@ -42521,7 +42519,6 @@ zzzyk.com###Tinfo
 ||sankei.co.jp/js/privacy/sando.js
 ||sanoma.nl/pixel/
 ||saohu*.com/config/json/cctv.json?
-||sapalocaltrekking.com^
 ||sape.ru^$third-party
 ||sapha.com^$third-party
 ||sapo.*/clk?u=
