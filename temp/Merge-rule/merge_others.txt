@@ -1160,7 +1160,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /aSer_$domain=9gui.net|miejw.com
 /aap/stats
 /aas/r45d/vki/*$third-party
-/ab_fl.js$script
 /ab_my/pc_pf.js
 /ab_res/m/common.js
 /ab_res/pc/fixed/fixed.js
@@ -5636,7 +5635,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 100bt.com##.aolasidebar__ad1
 100ec.cn##.detail_top_ad
 100ksw.com###ad_move_sg
-100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,dcenquirer.com,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,notalwaysright.com,nxbrew.com,organicfacts.net,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,rezence.com,rightwingnews.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,techpp.com,techrounder.com,techviral.net,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,trendingpoliticsnews.com,tvtonight.com.au,twistedvoxel.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingnews.co,zerohanger.com,ziperto.com##.code-block
+100percentfedup.com,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,australiangeographic.com.au,autodaily.com.au,bakeitwithlove.com,bioinformant.com,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,cjr.org,coincodecap.com,conservativebrief.com,conservativefiringline.com,corrosionhour.com,cricfy.net,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,cryptotimes.io,dafontfree.io,dailynewshungary.com,dcenquirer.com,dorohedoro.online,dramacool.com.my,ecoportal.net,ecoticias.com,engineering-designer.com,epicdope.com,eurweb.com,fandomwire.com,firstcuriosity.com,firstsportz.com,flashbak.com,flickeringmyth.com,flowmountainbike.com,flyingmag.com,freemagazines.top,gadgetinsiders.com,gamebyte.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewayhispanic.com,gatewaynews.co.za,geekdashboard.com,geekzag.com,getdroidtips.com,glassalmanac.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,helihub.com,hollywoodinsider.com,hollywoodunlocked.com,hotcelebshome.com,ifoodreal.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jessicagavin.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mangaread.org,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nexdrive.lol,nexusgames.to,notalwaysright.com,nxbrew.com,organicfacts.net,patriotfetch.com,pcoptimizedsettings.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,rezence.com,rightwingnews.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,slaynews.com,small-screen.co.uk,snipercentral.com,snowbrains.com,statisticsbyjim.com,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techaeris.com,techpp.com,techrounder.com,techviral.net,thebeaverton.com,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,theoilrig.ca,thepeoplesvoice.tv,theprint.in,thewincentral.com,trendingpoliticsnews.com,tvtonight.com.au,twistedvoxel.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,whynow.co.uk,win.gg,windowslatest.com,wisden.com,wltreport.com,wnd.com,wrestlingnews.co,zerohanger.com,ziperto.com##.code-block
 1010dy3.com##.text-center[style]
 1010dy3.com##a[href^="/go"]
 1010jiajiao.com###daan_recommend + .xiti
@@ -6524,7 +6523,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 4runnerforum.com,acuraforums.com,blazerforum.com,buickforum.com,cadillacforum.com,camaroforums.com,cbrforum.com,chryslerforum.com,civicforums.com,corvetteforums.com,fordforum.com,germanautoforums.com,hondaaccordforum.com,hondacivicforum.com,hondaforum.com,hummerforums.com,isuzuforums.com,kawasakiforums.com,landroverforums.com,lexusforum.com,mazdaforum.com,mercuryforum.com,minicooperforums.com,mitsubishiforum.com,montecarloforum.com,mustangboards.com,nissanforum.com,oldsmobileforum.com,pontiactalk.com,saabforums.com,saturnforum.com,truckforums.com,volkswagenforum.com,volvoforums.com##aside > center
 4shared.com##.remove-rekl
 4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,uliba.net,ypojie.com##.widget_ui_orbui
-4sysops.com,9to5linux.com,activistpost.com,aftvnews.com,arcadepunks.com,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,fastestvpns.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,iwatchsouthparks.com,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
+4sysops.com,9to5linux.com,activistpost.com,aftvnews.com,arcadepunks.com,corrosionhour.com,corvetteblogger.com,dcrainmaker.com,discover.is,elhayat-life.com,fastestvpns.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,iwatchsouthparks.com,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,monstersandcritics.com,motoringfile.com,nasaspaceflight.com,newsbtc.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,sixteen-nine.net,snipercentral.com,spokesman-recorder.com,survivopedia.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
 4teachers.org###banner-wrapper
 4tube.com###main-jessy-grid
 4tube.com##.cpp
@@ -11319,6 +11318,7 @@ bing.com##.pa_sb
 bing.com##.productAd
 bing.com##.ra_car_block
 bing.com##.slide:has(.rtb_ad_caritem_mvtr)
+bing.com##.ta_c:has-text(Sponsored)
 bing.com##.text-ads-container
 bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
@@ -12666,8 +12666,8 @@ coinpaprika.com##.dynamic-ad
 coinpedia.org##.footer-side-sticky
 coinpedia.org##.homepage_banner_ad
 coinpedia.org##.homepage_sidebanner_ad
-coinpedia.org##.stream-title
 coinpedia.org##.top-menu-advertise
+coinpedia.org,elhayat-life.com##.stream-title
 coinpedia.org,siasat.com##.stream-item-inline-post
 cointelegraph.com##.advertise-with-us-link_O9rIX
 cointelegraph.com##.header-zone__flower
@@ -13964,6 +13964,7 @@ ebony8.com,maturetubehere.com##.pignr
 ecaytrade.com##.leatherboard
 ecaytrade.com##.promo-processed
 eccn.com###sem_online
+economictimes.indiatimes.com##.vdo_ai_can_ani
 economictimes.indiatimes.com##[class*="-ad-"]
 economist.com##.adComponent_advert__kPVUI
 ecosia.org##.product-ads-carousel
@@ -18209,10 +18210,6 @@ linkedin.com##iframe[title="advertisement"]
 linkedin.com##li[data-is-sponsored="true"]
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
-linkedin.com#?#.msg-overlay-list-bubble__conversations-list:-abp-contains(Sponsored)
-linkedin.com#?#div.feed-shared-update-v2:-abp-has(span.update-components-actor__description:-abp-contains(/Anzeige|Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|Gepromoot|الترويج/))
-linkedin.com#?#div.feed-shared-update-v2:-abp-has(span.update-components-actor__sub-description--tla:-abp-contains(/Anzeige|Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|Gepromoot|الترويج/))
-linkedin.com#?#div.feed-shared-update-v2:-abp-has(span.update-components-actor__sub-description:-abp-contains(/Anzeige|Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|Gepromoot|الترويج/))
 linksly.co###imgAddDirectLink
 linkvertise.com##.margin-bottom-class-20
 linkvertise.com##lv-redirect-static-ad
@@ -18803,6 +18800,7 @@ mg.co.za###partner-content
 mg.co.za##article:has(.sponsored-single)
 mg21.com##a[href="https://www.mg21.com/zunjiazq"]
 mgbbs.cn##td[width="960"][height="60"]
+mgeko.cc##.nsad
 mgtv.com##.ad-fixed-bar
 mgtv.com##.c-95060-top
 mh160.com###jusha1
@@ -25369,6 +25367,7 @@ zbporn.tv##.view-aside
 zdface.com#@#.top-ad
 zdnet.com##.c-adDisplay_container_incontent-all-top
 zdnet.com#@#.sponsoredItem
+zedge.net##.htlad-zedge_browse
 zeeemedia.com##.elementor-element-38f90a1e
 zeeemedia.com##.elementor-element-4be78740
 zeeemedia.com##.elementor-element-ad955f4
@@ -26752,7 +26751,6 @@ zzzyk.com###Tinfo
 ||9tata.com/js/www.js
 ||9tour.cn/x2/images/czmf.jpg
 ||9wcn.com/gcld/500.gif
-||9xuj2tcnm.localto.net^
 ||9y01.xyz/app/index.html
 ||9ya.net/con/ad
 ||9ye.com/Files/Editor/ad/
@@ -31139,6 +31137,7 @@ zzzyk.com###Tinfo
 ||consent.trustarc.com/bannermsg?
 ||consent.trustarc.com/noticemsg?
 ||consentmanager.net/delivery/info/$third-party
+||consoletarget.com/js/pp.js
 ||constellation.networknmedia.com/cdn-cgi/trace
 ||constructpreachystopper.com^$popup
 ||consultant.ru/js/counter.js
@@ -35294,13 +35293,13 @@ zzzyk.com###Tinfo
 ||hostedmovieupdates.aebn.net^$domain=datingpornstar.com
 ||hostedpictureservices.com^
 ||hosteds-mx.com^
-||hostelsarrivaportalchecksguestsup.com^
 ||hoster.bobbylevin.com^
 ||hosterchecker.com^
 ||hostermasterplug.duckdns.org^
 ||hostermax.com^
 ||hosterphobic.duckdns.org^
 ||hosterroundcubz.s3.cubbit.eu^
+||hostfacet.net^
 ||hostgrater.com^
 ||hostify.fr^
 ||hostiger.fr^
@@ -35330,6 +35329,7 @@ zzzyk.com###Tinfo
 ||hostkiss.com^
 ||hostmanshipacademy.com^
 ||hostmaster.richardhyettlawyernotary.com^
+||hostmaster.sspl.com.au^
 ||hostmonster.com/src/js/$third-party
 ||hostname.biz^
 ||hostnet-online-x-1.s3.us-east-005.backblazeb2.com^
@@ -35882,6 +35882,7 @@ zzzyk.com###Tinfo
 ||imgs.cc^$domain=fun1shot.com
 ||imgsmail.ru/gstat?
 ||imgsrc.baidu.com/tieba/pic/item/$image
+||imgsrv4.com/sponsor/$image
 ||imgtaxi.com/ea/
 ||imgtaxi.com/frame.php
 ||imgtaxi.com/ttb02673583fb.js
@@ -36641,7 +36642,6 @@ zzzyk.com###Tinfo
 ||jjjxsw.com/js/common.
 ||jjmrmeovo.world^$popup
 ||jjosephsullivan133167.activehosted.com^
-||jjosephsullivan14640.activehosted.com^
 ||jjwxc.net/adsmanage.
 ||jjwxc.net/jjPopup.php
 ||jjwxc.net/jjad*.html$popup
@@ -37772,6 +37772,7 @@ zzzyk.com###Tinfo
 ||locals.dating^
 ||localsearch24.co.uk^
 ||localsearch24.co.uk^$third-party
+||localsearchusa.com^
 ||localsgowild.com^
 ||localsnapsext.com^
 ||localsnaughty.com^
@@ -38493,6 +38494,7 @@ zzzyk.com###Tinfo
 ||messenger-notify.xyz^$popup
 ||messenger.com/ajax/bnzai?
 ||mestrip.com/widgets/
+||meta-local-ee0.pages.dev^
 ||meta.ua/c.asp?
 ||meta4-group.com^$third-party
 ||metabatted.com^$document
@@ -39544,6 +39546,7 @@ zzzyk.com###Tinfo
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
 ||njhost.hopto.org^
 ||njih.net^$third-party
+||njkb-24236.portmap.host^
 ||njxzwh.com/pcsoft/statics/ycgg/
 ||nmc.cn/static/nmclog/nmclog.js
 ||nmgnews.com.cn/sys/online_calc.js
@@ -40330,6 +40333,7 @@ zzzyk.com###Tinfo
 ||parklogic.com^$third-party
 ||parkwhiz.com/events/
 ||parrable.com^$third-party
+||parsec-47111.portmap.host^
 ||parsec.media^$third-party
 ||parsely.com/keys/$script,third-party
 ||particularaudience.com^$third-party
@@ -42480,6 +42484,7 @@ zzzyk.com###Tinfo
 ||safevisit.online^$third-party
 ||sageanalyst.net^$third-party
 ||sagetrc.com^$third-party
+||sagoonhost.com^
 ||sahibinden.com/sbbi/
 ||sail-horizon.com/horizon/$third-party
 ||saillevity.com^$popup
@@ -43334,6 +43339,7 @@ zzzyk.com###Tinfo
 ||sloto.live^$document
 ||sloto.live^$popup
 ||slowww.xyz^$popup
+||slsryatdf.localto.net^
 ||slut2fuck.net^$popup
 ||slvbx0pkq.localto.net^
 ||slysoft.com/img/banner/
@@ -43756,7 +43762,6 @@ zzzyk.com###Tinfo
 ||srv155384.hoster-test.ru^
 ||srv241317.hoster-test.ru^
 ||srv241486.hoster-test.ru^
-||srv241667.hoster-test.ru^
 ||srv241721.hoster-test.ru^
 ||srv241969.hoster-test.ru^
 ||srv242037.hoster-test.ru^
@@ -44121,7 +44126,6 @@ zzzyk.com###Tinfo
 ||stt6.cfd^$popup
 ||stubhub.com/a/icph
 ||studeersnel.nl/27m703Hm/init.js
-||studio--scib-portal-banker-santa-l1l24.us-central1.hosted.app^
 ||studiocustomers.com^$popup
 ||studiostack.com^$third-party
 ||studocu.com/27m703Hm/init.js
@@ -46197,6 +46201,7 @@ zzzyk.com###Tinfo
 ||visilabs.net^$third-party
 ||visionarycompany52.com^$third-party
 ||visioncriticalpanels.com^$third-party
+||visionlocal.click^
 ||visionsage.com^$third-party
 ||visistat.com^$third-party
 ||visit-japan.jp/parts/visitjapan_f35_170_170.jpg
@@ -47270,6 +47275,7 @@ zzzyk.com###Tinfo
 ||xxf.mobi/hit
 ||xxffo.com^*_slett.php
 ||xxhh.com/xh.js
+||xxir.com/static/images/ad.
 ||xxooos.com/mm/
 ||xxxblackbook.com^$third-party
 ||xxxbox.me/vcrtlrvw
@@ -47672,6 +47678,7 @@ zzzyk.com###Tinfo
 ||zdqxdcj7s.localto.net^
 ||zdtag.com^$third-party
 ||zdw.w8.com.cn/p.ht?
+||ze1exlpvm.localto.net^
 ||ze5.com^$third-party
 ||zebeaa.click^$popup
 ||zebestof.com^$third-party
