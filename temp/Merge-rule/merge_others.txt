@@ -602,6 +602,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .southwest.com/r/$image
 .sp1-brevo.net/mk/op/$image
 .sparkpostmail.com/q/$image
+.sparkpostmail1.com/q/$image
 .sparkpostmail2.com/q/$image
 .spmailtechnol.com/q/$image
 .spmailtechnolo.com/q/$image
@@ -21829,6 +21830,7 @@ seroundtable.com###ninja_box
 serverhunter.com##.this-html-will-keep-changing-these-ads-dont-hurt-you-advertisement
 serverstoplist.com##.mobile_ad
 serverstoplist.com##.pcOnly
+serververify.com##div[hx-get="https://serververify.com/advertisement/load"]
 setapp.com##.side-scrolling__banner
 setapp.com,thesaturdaypaper.com.au##.promo-banner
 setlist.fm##.prmtnMbanner
@@ -28433,6 +28435,7 @@ zzzyk.com###Tinfo
 ||appront.net/click.js
 ||approved.website^$document
 ||apprupt.com^$third-party
+||apps.nhk.jp/assets/dtm/
 ||apps.omegatheme.com/facebook-pixel/
 ||apps.webservicehost.com^
 ||appslime.com^$document
@@ -29806,6 +29809,7 @@ zzzyk.com###Tinfo
 ||bridgevine.com^$third-party
 ||brieflizard.com^$popup
 ||brightadnetwork.com^$popup
+||brightcove.com/playback/v1/accounts/6415665815001/videos/$domain=s.yimg.com
 ||brightdata.com^$third-party
 ||brightdata.de^$third-party
 ||brightedge.com^$third-party
@@ -35998,6 +36002,7 @@ zzzyk.com###Tinfo
 ||ineedhits.com^$third-party
 ||inetinteractive.com^$third-party
 ||inetstatic.com/tracking/
+||inetstats.org^$third-party
 ||inews.co.uk/rta2/
 ||infectiousmedia.com^$third-party
 ||infeebasr.com^$popup
@@ -38215,6 +38220,7 @@ zzzyk.com###Tinfo
 ||mashery.com/analytics/
 ||masklink.org^$popup
 ||masonrycruor.shop^$popup
+||masque.com/games/API/advert/
 ||massariuscdn.com/pubs/
 ||massivebelieved.com^$popup
 ||massivecams.com/api/metrics
@@ -42836,6 +42842,8 @@ zzzyk.com###Tinfo
 ||server.valuehost.com.br^
 ||serverkompetenz.net/cpx.php?
 ||servernews.ru/track?
+||serververify.com/advertisement/
+||serververify.com/providers/ad-load/
 ||servestats.com^$third-party
 ||servetean.site^$popup
 ||servhost.hopto.org^
@@ -47434,7 +47442,9 @@ zzzyk.com###Tinfo
 ||yii666.com/ad/dynamic-
 ||yiihuu.com/assets/common/yh/js/yh.ad.
 ||yikeyz.com/pm.js
+||yimg.com/aaq/benji/benji-
 ||yimg.com/aaq/vzm/$script,domain=news.yahoo.com
+||yimg.com/aaq/vzm/cs_*.js
 ||yimg.com/aaq/wf/wf-darla-
 ||yimg.com/cv/ae/default/*_STATIC-JPEG_
 ||yimg.com/cv/api/hk/fp_czy_ad/
@@ -47443,6 +47453,8 @@ zzzyk.com###Tinfo
 ||yimg.com/dy/ads/readmo.js
 ||yimg.com/no/$domain=~yahoo.com
 ||yimg.com/rq/darla/$domain=yahoo.com
+||yimg.com/rx/ev/lib/comscore-
+||yimg.com/ss/analytics3.js
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
 ||yimuhe.com/n_ad/
