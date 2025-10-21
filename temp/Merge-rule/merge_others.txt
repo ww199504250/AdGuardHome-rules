@@ -20213,6 +20213,7 @@ pcgamer.com###coupons
 pcgamer.com##.listingResult:has(> .sponsored-post)
 pcgamer.com,techcrunch.com,tomsguide.com,tomshardware.com##div[class*="ad-unit"]
 pcgames.com.cn##.aFollowb
+pcgamesn.com##.ad-injector-potential-slot
 pcgamesn.com##.constellation_promoted_iframe
 pcgamesn.com##.curated-spotlight
 pcgamesn.com##.new_affiliate_embed
@@ -20220,6 +20221,8 @@ pcgamesn.com##.nn_mobile_mpu2_wrapper
 pcgamesn.com##.nn_mobile_mpu_wrapper
 pcgamesn.com##.saw-wrap
 pcgamesn.com##.sidebar_affiliate_disclaimer
+pcgamesn.com##.sn-placement
+pcgamesn.com##.snigel_ad
 pcgamesn.com##.sticky_rail600
 pcgamesn.com,pockettactics.com##.inlinerail
 pcgamestorrents.com##a[href*="/gameadult/"]
@@ -20456,12 +20459,14 @@ pixabay.com##.show-gtty-item
 pixabay.com##div[class*="sponsoredWithResults"]
 pixhost.to##.under-image
 pixiv.net##.__top_side_menu_body > div[class^="sc-"] > div[class^="sc-"] > div[class^="sc-"]:has(> div[style$="width: 728px; line-height: 0; font-size: 0px;"])
+pixiv.net##.__top_side_menu_body > div[class^="sc-"]:has(> [style$="width: 728px; line-height: 0; font-size: 0px;"])
 pixiv.net##.__top_side_menu_body section[class^="sc-"] li[class^=sc-]:has(> div[id^="adsdk"])
 pixiv.net##.ad-footer
 pixiv.net##.ad-footer + .hover-item
 pixiv.net##.ad-frame-container
 pixiv.net##.ad-mobile-anchor
 pixiv.net##.ads_anchor
+pixiv.net##.gtm-toppage-thumbnail-illustration-recommend-works-zone > ul > li:has(> div > [id^="adsdk-"])
 pixiv.net##.list-none:has(> div > [id^="adsdk"])
 pixiv.net##.multi-ads-area
 pixiv.net##[data-gtm-recommend-zone="index"] li:has(> div > iframe[name$="rectangle"])
@@ -26576,6 +26581,7 @@ zzzyk.com###Tinfo
 ||7moor.com^$third-party
 ||7scs.com/Public/img/list-
 ||7w.ro/js/trk.js
+||7wzx9.com/tbad.
 ||7x4.fr^$third-party
 ||7x5.fr^$third-party
 ||7x7n.com/static/image/888.jpg
@@ -26840,6 +26846,7 @@ zzzyk.com###Tinfo
 ||aboutharrypotter.fasthost.tv^
 ||above.tw/blog/wp-content/plugins/popups/public/assets/js/public.js
 ||aboveredirect.top^$popup
+||absm.hostliger.com^
 ||absolstats.co.za^$third-party
 ||absoluporn.com/code/script/
 ||absoluteroute.com^$popup
@@ -31686,6 +31693,7 @@ zzzyk.com###Tinfo
 ||data.debugbear.com^$third-party
 ||data.email.hostplus.com.au^
 ||data.hicloud.com^$third-party
+||data.test-email.hostplus.com.au^
 ||data.wiris.cloud/telemetry/
 ||databrain.com^$third-party
 ||databreakers.com^$third-party
@@ -34123,6 +34131,7 @@ zzzyk.com###Tinfo
 ||gentent.stre4mplay.one^$popup
 ||gentwoleads.top^$document
 ||gentwoleads.top^$popup
+||genxwhosting.com^
 ||geo-targetly.com^$third-party
 ||geo.dailymotion.com^$script,domain=wol.gg
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
@@ -35318,7 +35327,6 @@ zzzyk.com###Tinfo
 ||hostinger.com/api-proxy/api/sentry/
 ||hostingfile.live^
 ||hostingjo.com^
-||hostingoutlook.com^
 ||hostingpark.com^
 ||hostingr.fr^
 ||hostingservicefl.com^
@@ -35328,7 +35336,6 @@ zzzyk.com###Tinfo
 ||hostkiss.com^
 ||hostmanshipacademy.com^
 ||hostmaster.richardhyettlawyernotary.com^
-||hostmaster.sspl.com.au^
 ||hostmonster.com/src/js/$third-party
 ||hostname.biz^
 ||hostnet-online-x-1.s3.us-east-005.backblazeb2.com^
@@ -36871,7 +36878,6 @@ zzzyk.com###Tinfo
 ||kaixin001.com.cn/js/cpm-
 ||kaizenplatform.net^$third-party
 ||kaizentraffic.com^$popup
-||kakarik-32070.portmap.host^
 ||kakbik.info^$popup
 ||kalvin.cn/page/img/
 ||kamalafooner.space^$popup
@@ -37221,6 +37227,7 @@ zzzyk.com###Tinfo
 ||laim.tv^$third-party
 ||laixi.com/tp/20
 ||lakarhuset.activehosted.com^
+||lakenormanhost.com^
 ||lalabaos1*.top/$script,third-party
 ||lalaziosiamonoi.it/pixel
 ||lambda-url.eu-west-1.on.aws^$ping
@@ -37724,8 +37731,6 @@ zzzyk.com###Tinfo
 ||lnstagramhelp346.byethost33.com^
 ||lntrigulngdates.com^$popup
 ||lnzqw.net/js/
-||load.gtm.ghostdemocracy.com^
-||load.gtm.poplocal.com.au^
 ||load.hosted.evara.ie^
 ||load.tm.all3dp.com/rqlevydw.js
 ||loadtime.org^$document
@@ -37760,7 +37765,6 @@ zzzyk.com###Tinfo
 ||localiser-verifier.fr^
 ||localisuivpylpip.fr^
 ||locallyskags.world^
-||locallystocked.com^
 ||localmantra.com^
 ||localmediabuying.com^
 ||localmissoula.com^
@@ -38493,7 +38497,6 @@ zzzyk.com###Tinfo
 ||messenger-notify.xyz^$popup
 ||messenger.com/ajax/bnzai?
 ||mestrip.com/widgets/
-||meta-local-ee0.pages.dev^
 ||meta.ua/c.asp?
 ||meta4-group.com^$third-party
 ||metabatted.com^$document
@@ -40869,7 +40872,6 @@ zzzyk.com###Tinfo
 ||politicalhost.com^
 ||politico.com/resource/assets/js.min/video-tracking.
 ||poll-maker.com^*/scpolls.js
-||polty.pagamentohostarservizio.sbs^
 ||polyh-nce.com^$popup
 ||polymorphicads.jp^$third-party
 ||polyvalent.co.in^$third-party
@@ -42446,6 +42448,7 @@ zzzyk.com###Tinfo
 ||s11.cn^$third-party
 ||s20dh7e9dh.com^$popup
 ||s2gj9tonn.localto.net^
+||s2s.localflooringgroup.com^
 ||s2tu.com/images/*.gif
 ||s3.amazonaws.com/downloads.mailchimp.com/$script,domain=confection.io
 ||s3.amazonaws.com/runguides2/site_takeovers/$image,domain=runguides.com
@@ -42938,7 +42941,6 @@ zzzyk.com###Tinfo
 ||sh.sina.com.cn/iframe/522/
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
 ||shababhost.com^
-||shadow32434-42879.portmap.host^
 ||shakingtacklingunpeeled.com^$document
 ||shakingtacklingunpeeled.com^$popup
 ||shandian.biz/wp-content/themes/inove/js/comment.js
@@ -43776,7 +43778,6 @@ zzzyk.com###Tinfo
 ||srvqck3.com^$popup
 ||srvqck5.com^$document
 ||srvqck5.com^$popup
-||srvr.hostingonion.com^
 ||srvtrck.com^$document
 ||srvtrck.com^$popup
 ||srware.net/iron/assets/img/av/
@@ -45170,6 +45171,7 @@ zzzyk.com###Tinfo
 ||tracking*.euroads.fi^$third-party
 ||tracking-aws-5.com^$document
 ||tracking-aws-5.com^$popup
+||tracking-zy.com^$document
 ||tracking.adweb.co.kr^$third-party
 ||tracking.donnemagazine.it^$script
 ||tracking.drsfostersmith.com^$third-party
@@ -47080,6 +47082,7 @@ zzzyk.com###Tinfo
 ||xchina.*/plugins/sweetAlert2/
 ||xchina.*/scripts/modal/modal.js
 ||xcity.org/tc2ca02c24c5.js
+||xclaim-62815.portmap.host^
 ||xclaimwords.net^$third-party
 ||xcmfu.com/cp.
 ||xcounter.ch^$third-party
