@@ -10145,6 +10145,7 @@ alt-codes.net###copyModal .modal-body
 altchar.com##div[style^="height:280px;"]
 alternativeto.net##.AdsenseAd_adLeaderboard__7Ob8k
 alternativeto.net##.AdsenseAd_adRectangle__e49Di
+alternativeto.net##.bannerLink
 alternet.org###leaderboard-placeholder
 alternet.org##.sidebar_sticky_container
 alternet.org##[id^="story_page_incontent_"]
@@ -14313,6 +14314,7 @@ everydayrussianlanguage.com##.border
 everydayrussianlanguage.com##aside img[src^="/wp-content/themes/edr/img/"]
 everythingrf.com##.headerblock
 everythingrf.com##.stickyRHSAds
+everythingrf.com##[id^="wallpaper_"]
 everythingrf.com,futbol24.com##.skyscrapper
 everythingrf.com,natureworldnews.com##label
 evget.com###popelevencenter
@@ -18211,6 +18213,10 @@ linkedin.com##iframe[title="advertisement"]
 linkedin.com##li[data-is-sponsored="true"]
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
+linkedin.com#?#.msg-overlay-list-bubble__conversations-list:-abp-contains(Sponsored)
+linkedin.com#?#div.feed-shared-update-v2:-abp-has(span.update-components-actor__description:-abp-contains(/Anzeige|Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|Gepromoot|الترويج/))
+linkedin.com#?#div.feed-shared-update-v2:-abp-has(span.update-components-actor__sub-description--tla:-abp-contains(/Anzeige|Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|Gepromoot|الترويج/))
+linkedin.com#?#div.feed-shared-update-v2:-abp-has(span.update-components-actor__sub-description:-abp-contains(/Anzeige|Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|Gepromoot|الترويج/))
 linksly.co###imgAddDirectLink
 linkvertise.com##.margin-bottom-class-20
 linkvertise.com##lv-redirect-static-ad
@@ -28600,7 +28606,6 @@ zzzyk.com###Tinfo
 ||astrokompas.com^$popup
 ||astrologybacklightsinless.com^$popup
 ||asuracomic.net/api/ads/
-||aswaklederjomala.cloudaccess.host^
 ||aswpsdkeu.com^$third-party
 ||asyy6.com/dm/
 ||at-o.net^$third-party
@@ -30139,7 +30144,6 @@ zzzyk.com###Tinfo
 ||canem-auris.com^$third-party
 ||canimgs.com/images/
 ||canlytics.com^$third-party
-||cannahosting.com^
 ||canopylabs.com^$third-party
 ||canstockphoto.com/server.php?rqst=track
 ||canton8.com/adphoto/
@@ -30181,7 +30185,6 @@ zzzyk.com###Tinfo
 ||cargurus.com/cars/cganalyticspageview.action
 ||cargurus.com/tr/
 ||carhost-e6d05c1c-875b-44a8-8308-f83eef7f99be.myportfolio.com^
-||carlymilli2000.activehosted.com^
 ||carnoc.com/noticejs/
 ||caroda.io^$third-party
 ||carolsdaughter.com/IZ/uaPO0cuk/init.js
@@ -31516,6 +31519,7 @@ zzzyk.com###Tinfo
 ||cuelinks.com^$third-party
 ||cuevastrck.com^$popup
 ||cuffinliever.shop^$popup
+||cuinzoun.tempurl.host^
 ||cullemple-motline.com^$popup
 ||cultofmac.com/djrxqhzkbsgf.js
 ||culturaltracking.ru^$third-party
@@ -31961,6 +31965,7 @@ zzzyk.com###Tinfo
 ||dftoutiao.com/dfpcitv/pcitv?type=
 ||dftoutiao.com/jrdftt/static/javascript/ad/
 ||dftoutiao.com/ssp/
+||dgdxxxyskvsh.cloudaccess.host^
 ||dgmaxinteractive.com^$third-party
 ||dhgxl8qk9zgzr.cloudfront.net/js/log.js
 ||dhl.com/g8Dj6P8TAg/
@@ -35185,6 +35190,7 @@ zzzyk.com###Tinfo
 ||hoktrips.com^$document
 ||hoktrips.com^$popup
 ||holahupa.com^$popup
+||holaserviciio11.cloudaccess.host^
 ||holder.com.ua^$third-party
 ||holdhostel.space^
 ||holdhostel.space^$document
@@ -36571,6 +36577,7 @@ zzzyk.com###Tinfo
 ||jeroud.com^$popup
 ||jetbluevacations.com/apis/v2-analytics/
 ||jetvis.ru/stat/
+||jetwebhosting.net^
 ||jeu.net/hits.js
 ||jewishadgroup.com^$third-party
 ||jewishcontentnetwork.com^$third-party
@@ -38744,7 +38751,6 @@ zzzyk.com###Tinfo
 ||moderate.cleantalk.org/ct-bot-detector-wrapper.js
 ||modernus.is^$third-party
 ||modificationdispatch.com^$popup
-||modoodeul.com^$document
 ||modoodeul.com^$popup
 ||modules.ooyala.com^*/analytics-
 ||moe48.com/static/img/1200x
@@ -39587,11 +39593,9 @@ zzzyk.com###Tinfo
 ||nordicresearch.com^$third-party
 ||nordstrom.com/api/cake/
 ||nordstrom.com/api/cupcake/
-||north-verification.com^$document
 ||north-verification.com^$popup
 ||northauthority.xyz^$document
 ||northbeam.io^$third-party
-||northdownload.com^$document
 ||northdownload.com^$popup
 ||northrtbads.top^$document
 ||northrtbads.top^$popup
@@ -40835,7 +40839,6 @@ zzzyk.com###Tinfo
 ||pngmart.com/files/10/Download-Now-Button-PNG-Free-Download.png
 ||pniao99.com/statics/js/stat.js
 ||pnn.ps/storage/images/partners/
-||pnouting.com^$document
 ||pnouting.com^$popup
 ||pnperf.com^$popup
 ||pnstat.com^$third-party
@@ -43767,6 +43770,7 @@ zzzyk.com###Tinfo
 ||srv155384.hoster-test.ru^
 ||srv241486.hoster-test.ru^
 ||srv241721.hoster-test.ru^
+||srv241964.hoster-test.ru^
 ||srv241969.hoster-test.ru^
 ||srv242037.hoster-test.ru^
 ||srv2trking.com^$popup
@@ -44257,7 +44261,6 @@ zzzyk.com###Tinfo
 ||svc.dynamics.com/f/m/$third-party
 ||svc.dynamics.com/t/v/$third-party
 ||svc.dynamics.com/t/w$third-party
-||svhost56.duckdns.org^
 ||svhosted.duckdns.org^
 ||svhostwp.duckdns.org^
 ||sviluppo.host^
