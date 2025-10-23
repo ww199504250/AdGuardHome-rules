@@ -8887,6 +8887,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||papi-service.jd.com/ads/
 @@||paramountplus.com^$generichide
 @@||parcel.app/webtrack.php?$~third-party
+@@||parliament.nz/*/stormcaster.js$script,~third-party
 @@||parsely.com/keys/$script,domain=wmmr.com|wrif.com
 @@||pass.1688.com^$subdocument
 @@||passiontimes.hk^$generichide
@@ -31365,6 +31366,7 @@ zzzyk.com###Tinfo
 ||cr173.com/skina/
 ||cr173.com/skinb/
 ||cracataum.com^$third-party
+||cracktui-34704.portmap.host^
 ||cradaygo.com^$document
 ||craftkeys.com^$third-party
 ||crakmedia.com^$third-party
@@ -32480,7 +32482,6 @@ zzzyk.com###Tinfo
 ||dytt8.com/js1y/
 ||dytt8.net/js3/
 ||dytt8.net/jsd
-||dywebhosting.com^
 ||dyxs39.com/statics/js/jquery.
 ||dyzyhj.com/Jk/
 ||dz19.net/addimg/
@@ -33310,6 +33311,7 @@ zzzyk.com###Tinfo
 ||faxingw.cn/js/*0
 ||faxingw.cn/js/*ad
 ||faxingw.cn/js/detailgcbox.js
+||fazoxxd-45223.portmap.host^
 ||fb.ru/stat/
 ||fbbaodantri.byethost32.com^
 ||fbmedia-bls.com^$popup
@@ -35568,6 +35570,7 @@ zzzyk.com###Tinfo
 ||huya.com/leaf/*=vodadv&$rewrite=abp-resource:blank-mp3,domain=huya.com
 ||hwpub.com^$third-party
 ||hwsrv-1285168.hostwindsdns.com^
+||hwsrv-472845.hostwindsdns.com^
 ||hxjs.tool.hexun.com$domain=~quote.hexun.com
 ||hxmanga.com^$popup
 ||hxsxw.com/hx8899/
@@ -35840,7 +35843,6 @@ zzzyk.com###Tinfo
 ||imageweb.ws/whaledate.gif
 ||imageweb.ws^$domain=tongabonga.com
 ||imaxcash.com^$popup
-||imbarghost.pro^
 ||imcht.net^$third-party
 ||imcounter.com^$third-party
 ||imctransfer.com^*/promo/
@@ -37240,7 +37242,6 @@ zzzyk.com###Tinfo
 ||lahoo.ca/slider
 ||laim.tv^$third-party
 ||laixi.com/tp/20
-||lakarhuset.activehosted.com^
 ||lakenormanhost.com^
 ||lalabaos1*.top/$script,third-party
 ||lalaziosiamonoi.it/pixel
@@ -45784,6 +45785,7 @@ zzzyk.com###Tinfo
 ||unlocky.xyz^$document
 ||unmistdistune.guru^$popup
 ||unmoor.com/config.json
+||unnnnnnknownnnnn-49954.portmap.host^
 ||unoptedcoupe.top^$popup
 ||unpkg.com/@topsort/analytics.js
 ||unpkg.com/hjadu/
@@ -46395,6 +46397,7 @@ zzzyk.com###Tinfo
 ||vvvvid.it^$ping
 ||vwdealerdigital.com/cdn/sd.js
 ||vweb05.nitrado.hosting^
+||vxnjhdhs-35196.portmap.host^
 ||vxnsishjha-62957.portmap.host^
 ||vxotu.com/i/*.gif
 ||vzmz.com/template/paody/aaaa/*0
