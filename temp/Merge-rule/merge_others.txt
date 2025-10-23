@@ -3248,6 +3248,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /loader/counter.js
 /localga.js
 /locotrack.js
+/log-adblock.php?
 /log-moltron-interaction?
 /log-nt/*
 /log-reporter.js
@@ -42483,6 +42484,7 @@ zzzyk.com###Tinfo
 ||saabsunited.com/wp-content/uploads/*banner
 ||saambaa.com^$third-party
 ||saasexch.com/bapi/fe/usd/report/
+||sabasadara.com^$document
 ||sabavision.com^$third-party
 ||saboom.com.pccdn.com^*/banner/
 ||sadbmetrics.localdigitalkit.com^
@@ -43492,6 +43494,7 @@ zzzyk.com###Tinfo
 ||soccerinhd.com/aclib.js
 ||social-sb.com^$third-party
 ||socialannex.com/c-sale-track/$script
+||socialdate.me^$document
 ||socialmonkee.com/images/
 ||socialprofitmachine.com^$third-party
 ||socialrank.fr/client/$third-party
