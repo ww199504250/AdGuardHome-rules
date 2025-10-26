@@ -7472,7 +7472,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||adobedtm.com/launch-$script,xmlhttprequest
 @@||adobedtm.com^$script,domain=sonystyle.com.cn
 @@||adobedtm.com^*-libraryCode_source.min.js$domain=doda.jp
-@@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bbva.com.ar|bbvacib.com|bbvauk.com|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|deutsche-bank.de|dollargeneral.com|etihad.com|eurosport.de|fedex.com|guitarcenter.com|healthsafe-id.com|healthy.kaiserpermanente.org|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ihg.com|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|lifetime.life|manager-magazin.de|marriott.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|philips.com|plasticsnews.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|snsbank.nl|ssrn.com|starwarscelebration.com|subway.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
+@@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bbva.com.ar|bbvacib.com|bbvauk.com|bestbuy.ca|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|deutsche-bank.de|dollargeneral.com|etihad.com|eurosport.de|fedex.com|guitarcenter.com|healthsafe-id.com|healthy.kaiserpermanente.org|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ihg.com|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|lifetime.life|manager-magazin.de|marriott.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|philips.com|plasticsnews.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|snsbank.nl|ssrn.com|starwarscelebration.com|subway.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
 @@||adobedtm.com^*/AppMeasurement.min.js$script,domain=sky.it
 @@||adobedtm.com^*/launch-$script,xmlhttprequest
 @@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|backcountry.com|ceair.com|conad.it|costco.com|dhl.de|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|hgtv.com|lenovo.com|lowes.com|nfl.com|oprah.com|pnc.com|shoppersdrugmart.ca|sony.jp|tatacliq.com|usanetwork.com|vanityfair.com|wired.com
@@ -7669,7 +7669,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||asahi.com/ads/$image,~third-party
 @@||ascii.jp/img/ad/$image,~third-party
 @@||assbbs.com^$generichide
-@@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=identity.healthsafe-id.com|nbc.com|subwy.com|tatamotors.com|usanetwork.com
+@@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=bestbuy.ca|identity.healthsafe-id.com|nbc.com|subwy.com|tatamotors.com|usanetwork.com
 @@||assets.ctfassets.net^$media,domain=ads.spotify.com
 @@||assets.fyers.in/Lib/analytics/Analytics.js$~third-party
 @@||assets.giocdn.com/2.1/gio.js$domain=saicmg.com
@@ -7829,6 +7829,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||cdn.bootcdn.net^$script,domain=38kanshu.net
 @@||cdn.bootcss.com^$script,domain=biqutime.com|59xs.com|biqudd.com|u33.me|xbiqugela.com|ysxs8.vip
 @@||cdn.ex.co^$domain=mm-watch.com|theautopian.com
+@@||cdn.facil-iti.app/tags/faciliti-tag.min.js$script,domain=apec.fr|kyoto.travel
 @@||cdn.getblueshift.com/blueshift.js$script,domain=rentcafe.com
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
 @@||cdn.jsdelivr.net/npm/*/videojs-contrib-ads.min.js$domain=24ur.com
@@ -11507,7 +11508,7 @@ bloomberg.com,weatherpro.com,wordfinder.yourdictionary.com##.leaderboard-wrapper
 bloomberglinea.com##.arcad-feature-custom
 bloomingdales.com##.carousel-container:has(.header-sponsored-label)
 bloomingdales.com##.sortable-grid-monetization-items
-bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,lolalytics.com,oilersnation.com,theleafsnation.com,xe.com##.h-\[90px\]
+bluejaysnation.com,canucksarmy.com,coincheckup.com,dailyfaceoff.com,flamesnation.ca,lolalytics.com,oilersnation.com,theleafsnation.com,xe.com##.h-\[90px\]
 bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation.com,theleafsnation.com###ad_sidebar_2
 bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation.com,theleafsnation.com###box_2_300x600
 bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation.com,theleafsnation.com###box_3_300x600
@@ -11717,7 +11718,7 @@ briskoda.net##.ipsData__item--advertisement
 briskoda.net##div[data-ips-ad]
 briskoda.net,linustechtips.com##div[data-role="sidebarAd"]
 britannica.com##.bc-article-inline-dialogue
-britannica.com,courthousenews.com,diabetesjournals.org,infobel.com,kuioo.com,linkedin.com,mangagun.net,nicomanga.com,pilot007.org,radiotimes.com,rawinu.com,soundguys.com,topperlearning.com,weloma.art,welovemanga.one##.ad-banner
+britannica.com,courthousenews.com,diabetesjournals.org,infobel.com,kuioo.com,linkedin.com,pilot007.org,radiotimes.com,soundguys.com,topperlearning.com##.ad-banner
 britannica.com,merriam-webster.com##.abl
 britannicaenglish.com##.WordFromSponsor_content_enToar
 broadcastify.com##[href^="/click/"]
@@ -12627,14 +12628,20 @@ coincarp.com##.spo-btn
 coincarp.com##.sponsored-td
 coincarp.com##.text-native-ad
 coincarp.com##a[href^="https://bcgame.sk/"]
+coincarp.com##position-name
 coincarp.com#?#.border-bottom:has-text(Sponsored)
-coincheckup.com###CCx5StickyBottom
+coincarp.com,coincheckup.com,coincodex.com##.StickyBottom
+coincheckup.com##.lg\:h-\[90px\]
+coincheckup.com##.top-32
 coincheckup.com##.visible-xs > .ng-isolate-scope
-coincodex.com###CCx8StickyBottom
-coincodex.com##.bottom7
+coincheckup.com##[href="https://coincodex.com/go/binance/"]
+coincodex.com##.bottom8
 coincodex.com##.ldb-top4
+coincodex.com##.ldb-top5
 coincodex.com##.middle7
+coincodex.com##.middle8
 coincodex.com##.sidebar-2skyscraper
+coincodex.com##.sidebar-3skyscraper
 coindesk.com##.article-com-wrapper
 coindesk.com##.high-impact-ad
 coindesk.com##[data-module-name="high-impact"]
@@ -15544,6 +15551,7 @@ goal.com##.fco-sticky-wrapper__space-placeholder
 goal.com##[class*="-mpu__"]
 goal.com##[data-name="ad-leaderboard"]
 goal.com##[data-type="AdComponent"]
+goal.com##[data-type="AdSlot"]
 goal.com##div[class^="open-web-ad_"]
 goal.com,thisislondon.co.uk##.commercial
 gobankingrates.com##.bestbanks-slidein
@@ -16274,6 +16282,7 @@ homedepot.com##[id*="sponsored"]
 homedepot.com##section[id^="browse-search-pods-"] > div.browse-search__pod:has(div.product-sponsored)
 homedepot.com,nordstrom.com###revjet_container
 homehound.com.au##.left-banner
+homejav.com,kbjfree.com,onscreens.me,xmorex.com##.h-\[250px\]
 homemade.xxx###scrollhere
 homemoviestube.com###v_right
 homemoviestube.com##.film-item:not(#showpop)
@@ -17732,7 +17741,6 @@ kbb.com###contentFor_kbbAdsSimplifiedNativeAd
 kbb.com##.ads__container
 kbb.com##.ads__container-kbbLockedAd
 kbjfree.com##.relative.w-full:has(> .video-card[target="_blank"])
-kbjfree.com,onscreens.me##.h-\[250px\]
 kbjfree.com,onscreens.me##.w-\[728px\]
 kdnet.net##.c_spread
 kdnet.net##.download-bar
@@ -18571,7 +18579,6 @@ mangabz.com###bb1
 mangabz.com###cc1
 mangabz.com###cc2
 mangadex.org##a[href^="https://www.runoperagx.com/"]
-mangagun.net,nicomanga.com,rawinu.com,weloma.art,welovemanga.one##[href^="https://www.polybuzz.ai/"]
 mangakakalot.com##.container-chapter-reader > div
 mangakakalot.gg###fly_chapter_01
 mangakakalot.gg##.ads-contain-v2
@@ -19422,6 +19429,7 @@ nanoreview.net##.sewisinad_only_mobile
 nanrenwo.net##div[id^="content"]
 naozhong.net.cn###pnl-ne0n
 narkive.com##a[href^="https://rfnm.io/?"]
+narrow.one##.game-ad-wrapper
 nasdaq.com##[class^="ads_"]
 nasdaq.com##[class^="btf_"]
 nasyun.com##img[width="275"]
@@ -20073,6 +20081,7 @@ opticsky.cn##.p83_gridC > .cc
 optimyz.com,ringsidenews.com##.elementor-shortcode
 orangenews.hk##img[advid]
 orgasm.com##.horizontal-banner-module
+ormanager.com##.orm-black-label-inner
 orschlurch.net##.amazon-wrapper
 orsoon.com###new-actentry
 orteil.dashnet.org###smallSupport
@@ -29966,7 +29975,6 @@ zzzyk.com###Tinfo
 ||buyadvupfor24.com^$popup
 ||buyeasy.by^$popup
 ||buyflood.com^$third-party
-||buylocalday.org^
 ||buyorselltnhomes.com^$third-party
 ||buysellads.com^$third-party
 ||buysellads.net^$third-party
@@ -31221,6 +31229,7 @@ zzzyk.com###Tinfo
 ||conversionlogic.net^$third-party
 ||conversionly.com^$third-party
 ||conversionruler.com^$third-party
+||convert.guru/pageview^
 ||convert2mp3.club/dr/
 ||convertagain.net^$third-party
 ||convertcart.com^$third-party
@@ -39209,6 +39218,8 @@ zzzyk.com###Tinfo
 ||nastydollars.com^$third-party
 ||nasza-klasa.pl^*/pp_gemius
 ||natero.com^$third-party
+||natgeomedia.com/js/ads-parallax.
+||natgeomedia.com/scripts/adajax.
 ||nathanaeldan.pro^$popup
 ||native-track.com^$popup
 ||native.ai^$third-party
@@ -43241,6 +43252,7 @@ zzzyk.com###Tinfo
 ||singledatetime.com^$document
 ||singledatetime.com^$popup
 ||singlefeed.com^$third-party
+||singlegirlsfinder.com^$document
 ||singlesexdates.com^$popup
 ||singlewomenmeet.com^$popup
 ||singlove.com/qq/qq.js
@@ -44324,6 +44336,7 @@ zzzyk.com###Tinfo
 ||sycamore.com.br/pixel/
 ||sygrip.info^$third-party
 ||sympla.com.br/api/event-bff/tracking/
+||symplr.de^$third-party
 ||sync-a8.cocolocala.jp^
 ||sync.amperwave.net/api/get/magnite/auid=$xmlhttprequest
 ||sync.tv^$third-party
