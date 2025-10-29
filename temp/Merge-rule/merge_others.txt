@@ -1901,6 +1901,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /brightspot/analytics/*
 /bsa-plugin-pro-scripteo/frontend/js/script.js$script
 /bsa-pro-scripteo/frontend/js/script.js$script
+/bsf-bing-scripts/custom-pixels/*
 /bsp-analytics.min.
 /bstat.js
 /bt*.com/imgs.js?t=
@@ -45129,6 +45130,7 @@ zzzyk.com###Tinfo
 ||totheglory.im/pic/ttg-
 ||totheglory.im/pic/ttg_
 ||totlnkcl.com^$popup
+||touch.yesim.
 ||touchclarity.com^$third-party
 ||touchcommerce.com/tagserver/logging/
 ||touimg.com/u/20200306/12094716.gif
