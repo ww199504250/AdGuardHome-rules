@@ -1635,6 +1635,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /api-analytics.
 /api-insights/log?
 /api.ads.$script,domain=~ads.instacart.com|~www.ads.com
+/api.transferwise.com/v1/notification-flow/messages/*/open.gif
 /api/0/stats
 /api/Video/GetAdsData?
 /api/Video/GetAdsDataList?
@@ -2383,6 +2384,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /elqscr.js
 /elt.gif?
 /eluminate?
+/email-link.adtidy.org/open/*$image
 /email-pixel?
 /email.t.*/o/*$image
 /email/open/?pd=$image
@@ -9339,6 +9341,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||teams.microsoft.com^$generichide
 @@||technical-service.net^$xmlhttprequest,domain=n-tv.de|rtl.de|vip.de
 @@||telemetry.stytch.com/submit$domain=play.pixels.xyz
+@@||teleportpod.com/assets/EventTracking-$script,~third-party
 @@||tenki.jp/storage/static-images/top-ad/
 @@||tennispro.eu/min/?$script,~third-party
 @@||tenpay.com/v2/res/pub/cps/main/bottom_ad.js
@@ -44326,6 +44329,7 @@ zzzyk.com###Tinfo
 ||swarm.video/j79z9kzty.js
 ||swarm.video/stats/
 ||swarm.video/track/
+||swarthid.github.io/*/invoke.js$third-party
 ||swathedneural.shop^$popup
 ||sweet-candy.jp/c.php?$third-party
 ||sweetgum.io^$third-party
