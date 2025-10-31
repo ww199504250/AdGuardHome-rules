@@ -338,6 +338,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .com/myjs/mys_alljs.js
 .com/pc/ad/
 .com/piaozi/*.js
+.com/players/*/-1/70/*?hash=-$script,third-party
 .com/qxads/
 .com/rmb/bofang*.js
 .com/rmb/daohang*.js
@@ -13863,7 +13864,9 @@ duckduckgo.com##.module--carousel-toursactivities
 duckduckgo.com##.vertical-section-divider:has(span.badge--ad-wrap)
 duckduckgo.com##[data-layout$="_ads"]
 duckduckgo.com##[data-testid=serp-popover-promo]
+duckduckgo.com##div[data-react-module-id="products-0"]
 duckduckgo.com##li[data-layout="products_middle"]
+duckduckgo.com##section > div[class]:has(button[data-testid="ad-badge-ad-tooltip-products"])
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.highlight_sponsored
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-results-ads
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-sidebar-ads > .nrn-react-div
@@ -28643,7 +28646,6 @@ zzzyk.com###Tinfo
 ||assoc-amazon.fr^$third-party
 ||assoc-amazon.it^$third-party
 ||assoctrac.com^$third-party
-||asstaraptora.com^$document
 ||astarboka.com^$popup
 ||asteriresearch.com^$third-party
 ||asterpix.com/tagcloudview/
@@ -29116,7 +29118,6 @@ zzzyk.com###Tinfo
 ||baronsoffers.com^$third-party
 ||barrons.com/cookies/pixel.gif
 ||barry-callebaut.com/pd.js
-||bashfulleadsock.com^$document
 ||basicflownetowork.co.in^$document
 ||basicstat.com^$third-party
 ||basicthinking.de/stats/
@@ -29226,7 +29227,6 @@ zzzyk.com###Tinfo
 ||beaconadnetwork.com^$third-party
 ||beacons.ai/api/next_api/rta_v1/
 ||beaconstreetservices.com^$third-party
-||beamobserver.com^$document
 ||beamobserver.com^$popup
 ||beampulse.com^$third-party
 ||beanstalkdata.com^$third-party
@@ -29373,7 +29373,6 @@ zzzyk.com###Tinfo
 ||betoga.com^$third-party
 ||betotodilea.com^$popup
 ||betpartners.it^$third-party
-||betpupitarr.com^$document
 ||betpupitarr.com^$popup
 ||betrad.com^$third-party
 ||bets.to^$popup
@@ -29384,7 +29383,6 @@ zzzyk.com###Tinfo
 ||betteradsystem.com^$document
 ||betteradsystem.com^$popup
 ||bettercollective.rocks^$third-party
-||betterdirectit.com^$document
 ||betterdomino.com^$popup
 ||betteredu.net/js/pop_tuiguang_
 ||bettermeter.com^$third-party
@@ -30436,7 +30434,6 @@ zzzyk.com###Tinfo
 ||chaintopdom.nl^$popup
 ||chakd.com/images/xitie160x60.gif
 ||chalkplayground.co^$popup
-||chambermaidthree.xyz^$document
 ||chandrabinduad.com^$third-party
 ||change.org/api-proxy/-/bandit/pull
 ||change.org/api-proxy/-/et
@@ -32274,7 +32271,6 @@ zzzyk.com###Tinfo
 ||dominos.co.uk/qRgAwS/
 ||domodomain.com^$third-party
 ||dompeterapp.com^$popup
-||donationobliged.com^$document
 ||donecperficiam.net^$popup
 ||donewellhosting.com^
 ||dongchedi.com/motor/ad/
@@ -32485,7 +32481,6 @@ zzzyk.com###Tinfo
 ||duplichecker.com/csds/
 ||durationmedia.net^$third-party
 ||duskesthostplug.duckdns.org^
-||dutydynamo.co^$document
 ||dutydynamo.co^$popup
 ||dvnfo.com^$third-party
 ||dw.com.com^$script
@@ -32542,6 +32537,7 @@ zzzyk.com###Tinfo
 ||dzen.ru/pingx
 ||dzeninfra.ru/ping?
 ||dzhjmp.com^$popup
+||dzu.psn.mybluehostin.me^
 ||dzwww.com/data/js/asp_$script
 ||dzwww.com/images/ad_down.js
 ||dzwww.com/k.js
@@ -32570,6 +32566,7 @@ zzzyk.com###Tinfo
 ||e0575.cn/js/corea/jquery.popup.js
 ||e0575.com/attachment/image/
 ||e0575.com/index.php
+||e0925-38257.portmap.host^
 ||e10000.cn/Images/link_td01.gif
 ||e11956.x.akamaiedge.net^$popup
 ||e23.cn/js/aaa.js
@@ -33387,7 +33384,6 @@ zzzyk.com###Tinfo
 ||feathr.co^$third-party
 ||feature.fm^$third-party
 ||februaryinjectionproudly.com^$popup
-||fedra.info^$document
 ||feed-xml.com^$popup
 ||feed.informer.com/fdstats
 ||feedbackws.icloud.com/reportStats
@@ -33992,7 +33988,6 @@ zzzyk.com###Tinfo
 ||g2afse.com^$popup
 ||g33ktr4ck.com^$popup
 ||g3f3.com/love/
-||g6857531263715.activehosted.com^
 ||ga-analytics.com^$third-party
 ||ga.chickgoddess.com/gs_api/stats/
 ||ga.finam.ru/metrics
@@ -36074,6 +36069,7 @@ zzzyk.com###Tinfo
 ||infinity-tracking.net^$third-party
 ||infinityads.com^$third-party
 ||infinityscans.net/api/collect
+||infioonikapp.cloudaccess.host^
 ||inflectionpointmedia.com^$third-party
 ||inflectionquake.com^$popup
 ||influ2.com/tracker?
@@ -39768,6 +39764,7 @@ zzzyk.com###Tinfo
 ||nutchaungong.com^$document
 ||nutchaungong.com^$popup
 ||nv3tosjqd.com^$popup
+||nv5.tweethost.com^
 ||nvapi.nicovideo.jp/v1/bandit-machine/
 ||nvdst.com/adx_
 ||nvidia.partners/telemetry/
@@ -41219,6 +41216,7 @@ zzzyk.com###Tinfo
 ||processsky.com^$popup
 ||proclivitysystems.com^$third-party
 ||prod.benchmarkemail.com/tracker.bundle.js
+||prodsoftlan.cloudaccess.host^
 ||prodtraff.com^$popup
 ||productsup.com^$third-party
 ||proewildfire.cn/fd.js
@@ -43830,7 +43828,6 @@ zzzyk.com###Tinfo
 ||srpx.net^$third-party
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
-||srv242037.hoster-test.ru^
 ||srv242161.hoster-test.ru^
 ||srv242388.hoster-test.ru^
 ||srv242497.hoster-test.ru^
@@ -44677,6 +44674,7 @@ zzzyk.com###Tinfo
 ||tennis.com/assets/js/libraries/render-adv.js
 ||tenping.kr^$third-party
 ||tentaculos.net^$third-party
+||teo875-33757.portmap.host^
 ||terabox.app/api/ad/
 ||terabox.app/api/analytics?
 ||terabox.app/issue/terabox/ts_ad/
@@ -47317,6 +47315,7 @@ zzzyk.com###Tinfo
 ||xplosion.de^$domain=spiegel.de
 ||xplosion.de^$third-party
 ||xpvv0rkn.fun^$popup
+||xpx.tweethost.com^
 ||xrares.com/xopind.js
 ||xs8.cn/qreport?
 ||xstats.net^$third-party
