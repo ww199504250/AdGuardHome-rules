@@ -7973,6 +7973,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||copilog2.jp/*/webroot/ad_img/$domain=ikkaku.net
 @@||core.windows.net^*/annonser/$image,domain=kmauto.no
 @@||coremetrics.com*/eluminate.js
+@@||cos.accelerate.myqcloud.com/assets/sensorsdata.min.js$domain=ruijienetworks.com
 @@||costco.com.tw/_ui/shared/js/analyticsmediator.js
 @@||costco.com.tw/jsps/website/zh/images/location/AD
 @@||count.taobao.com/counter$script
@@ -28723,6 +28724,7 @@ zzzyk.com###Tinfo
 ||audiensi.com^$third-party
 ||audienzz.ch^$third-party
 ||audimark.de/tracking/
+||audio.ad^$third-party
 ||audioeye.com/ae.js
 ||audioeye.com/frame/cookieStorage.html
 ||audiotag.info/images/banner_
@@ -34890,6 +34892,7 @@ zzzyk.com###Tinfo
 ||haochi123.com/J_Box/Inc_
 ||haofs.com/haofs/ggapi.asp
 ||haoghost.com^
+||haogushi88.cc/static/simple/yue
 ||haoimgs.com/images/*.gif
 ||haokan5.com/js/haokanjs/2014_
 ||haokan5.com/js/haokanjs/playa
@@ -40202,6 +40205,7 @@ zzzyk.com###Tinfo
 ||otomi-games.com/wp-content/uploads/*-Ad-728-
 ||otoshiana.com/ufo/
 ||otoshiana.com^$third-party
+||ottadvisors.com^$third-party
 ||otthonterkep.hu/c.js
 ||otto.de/error-logging/
 ||otto.de/pass/scale-beacon-service/
