@@ -10418,6 +10418,7 @@ apkdone.com,crazygames.com,english-hindi.net,livesoccertv.com,malaysiakini.com,s
 apkgk.com##.adv-block2
 apkmb.com##.alert-noty-download
 apkmb.com##.personalizadas
+apkmirror.com##.ains
 apkmirror.com##.ains-apkm_outbrain_ad
 apkmirror.com##.ezo_ad
 apkmirror.com##.google-ad-leaderboard
@@ -13111,6 +13112,7 @@ cutegurlz.com##.header-widget
 cutepdf-editor.com#@#.adtable
 cutyt.com,onlineocr.net,publish0x.com##.d-xl-block
 cvs.com##.stencil-criteo-shelf
+cvs.com##cvs-shop-product-shelf-container[shelf-type*="criteoType"]
 cvs.com#?#div[class*="flex-col"]:-abp-has(>h2:-abp-contains(Sponsored))
 cw.com.tw##.emailorder
 cw.com.tw#@#.adActive
@@ -15590,9 +15592,9 @@ gocomics.com##[data-testid="advertising-unit"]
 godbolt.org###ces
 godisageek.com###custom_html-4
 godisageek.com###text-11
-gogetaroomie.com###right-space
-gogetaroomie.com###top-space
 gogetaroomie.com##.left-space
+gogetaroomie.com,snafu-comics.com###right-space
+gogetaroomie.com,snafu-comics.com###top-space
 gohome.com.hk##div[id^="div-gpt-ad"][style]
 gohome.com.hk,idv.st#@##adFrame
 goldderby.com##.adma
@@ -18304,11 +18306,13 @@ live94today.com##.js-demo-avd
 livecharts.co.uk##.banner_long
 livedoorblogstyle.jp#@#.ad-center
 livejournal.com##.allbanners
+livejournal.com##.js--ad-tip-container
 livejournal.com##.mdspost-aside__item--banner
 livejournal.com##.pagewide-wrapper
 livejournal.com##.xhtml_banner
 livejournal.com##[class*="categories"] + div[class]:has(> [class*="-commercial"])
 livejournal.com##[style$="width: 300px;"]
+livejournal.com##div[class*="-close"]:has(a[href*="tired=ads"])
 livelaw.in###news_on_exit
 livemint.com###adfreeDeskSpace
 livemint.com##.budgetBox
@@ -22259,6 +22263,7 @@ smzdm.com##.side-stuff
 smzdm.com#@#.comment_share
 smzy.com###showa
 smzy.com##.u-gs-btn2
+snafu-comics.com###bottom-space
 snaptik.app##.btn-download-hd[data-ad="true"]
 snazzymaps.com##.container-gas
 snbforums.com##.leaderboard_snbad
@@ -22616,13 +22621,13 @@ starbike.com#@#.adsense_wrapper
 starsinsider.com##.pub-container
 start.firefoxchina.cn##.mod-delay-resource
 start.firefoxchina.cn##.wrap > div[style]:last-child
-startpage.com##.a-bg-result
-startpage.com##.css-1j5r2ie
-startpage.com##.pa-bg
-startpage.com##.pa-bg + section
-startpage.com##a[href^="https://ww44.affinity.net/"]
-startpage.com##div.result[style="margin-bottom: 10px;"]:has(path[d^="m6.07067"])
-startpage.com##div[style="display: block; padding: 12px; margin: 0px 0px 10px; border-radius: 4px; border: 1px solid rgb(59, 67, 91);"]
+startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.a-bg-result
+startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.css-1j5r2ie
+startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.pa-bg
+startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##.pa-bg + section
+startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##a[href^="https://ww44.affinity.net/"]
+startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##div.result[style="margin-bottom: 10px;"]:has(path[d^="m6.07067"])
+startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##div[style="display: block; padding: 12px; margin: 0px 0px 10px; border-radius: 4px; border: 1px solid rgb(59, 67, 91);"]
 startribune.com##[class*="htlad-"]
 startup.ch##.smallbanner
 stat-nba.com###ad_video
@@ -25439,6 +25444,7 @@ zerohedge.com##.left-rail
 zerohedge.com##.native
 zerohedge.com##.rectangle-large
 zerohedge.com##[class^="PromoButton"]
+zerohedge.com##a[class^="endorsement"]
 zerolives.com##.munder-fn5udnsn
 zeroupload.com##.download-page a[rel="noopener"] > img
 zglww.net##.tool
@@ -44769,6 +44775,7 @@ zzzyk.com###Tinfo
 ||thegreatesthits.
 ||thehackernews.com/zscripts/
 ||thehill.com/6zcfGH4h/init.js
+||thehiveworks.com/*/fallback.js$domain=snafu-comics.com
 ||thehour.com/413gkwMT/init.js
 ||thehun.net/banners/
 ||theindependentbd.com/assets/images/banner/
