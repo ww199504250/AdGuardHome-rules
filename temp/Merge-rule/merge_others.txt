@@ -7940,6 +7940,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||collusion.com/static/newrelic.js$script,~third-party
 @@||commons.wikimedia.org/w/api.php?$~third-party,xmlhttprequest
 @@||community.brave.app/t/$xmlhttprequest
+@@||configurator.porsche.com/public/adobe-analytics-$~third-party
 @@||connatix.com*/connatix.player.$script,domain=ebaumsworld.com|funker530.com|tvinsider.com|washingtonexaminer.com
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
 @@||connect.facebook.net^*/fbevents.js$domain=elinoi.com
@@ -35353,7 +35354,6 @@ zzzyk.com###Tinfo
 ||hostermax.com^
 ||hosterphobic.duckdns.org^
 ||hosterroundcubz.s3.cubbit.eu^
-||hostfacet.net^
 ||hostgrater.com^
 ||hostify.fr^
 ||hostiger.fr^
@@ -41240,7 +41240,6 @@ zzzyk.com###Tinfo
 ||promos.investing.com/*/digibox.gif?
 ||promos.meetlocals.com^
 ||promote.pair.com/88x31.pl
-||promote1local.com^
 ||promotealocal.com^
 ||promoteonelocal.com^
 ||promotionengine.com^$third-party
@@ -42892,7 +42891,6 @@ zzzyk.com###Tinfo
 ||service.iwara.tv/z/z.php
 ||service.smscoin.com/js/sendpic.js
 ||service.webgoto.net/*?wAnalytics
-||servicenet8.cloudaccess.host^
 ||services.haaretz.co.il^$ping
 ||services.haaretz.com/ds/impression
 ||services.haaretz.com/ms-gstat-campaign/
@@ -47350,7 +47348,6 @@ zzzyk.com###Tinfo
 ||xxxvjmp.com^$popup
 ||xxxvogue.net/_ad
 ||xxxxsx.com/sw.js
-||xxxxz-61067.portmap.host^
 ||xygwh.cc/js/p
 ||xygwh.cc/js/x
 ||xyimg.net^$domain=~xy.com
