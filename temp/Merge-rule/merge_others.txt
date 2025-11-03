@@ -5481,7 +5481,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 localsearchusa.com
 0.0.0.0 localseocrew.com
 0.0.0.0 localytics.com
-0.0.0.0 mailacutaaschemicals.host
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 merciless.localstars.com
@@ -5513,7 +5512,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 sleeper-sofa.dreamhoster.com
 0.0.0.0 slhk23.0101host.com
 0.0.0.0 slywebhosting.net
-0.0.0.0 smartreachlocal.com
 0.0.0.0 snowplow.ownlocal.com
 0.0.0.0 static.locallogic.co
 0.0.0.0 static.omnilocal.ai
@@ -5584,14 +5582,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.localsearchusa.com
 0.0.0.0 www.localseocrew.com
 0.0.0.0 www.localytics.com
-0.0.0.0 www.mailacutaaschemicals.host
 0.0.0.0 www.newshostingsupdate.com
 0.0.0.0 www.pafiilate.byethost32.com
 0.0.0.0 www.placelocal.com
 0.0.0.0 www.pmhosting.org
 0.0.0.0 www.sagoonhost.com
 0.0.0.0 www.slywebhosting.net
-0.0.0.0 www.smartreachlocal.com
 0.0.0.0 www.tinyfilehost.com
 0.0.0.0 www.totalpestcontrolalpharetta.activehosted.com
 0.0.0.0 www.turkolocalproducts.com
@@ -8013,6 +8009,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||dashboard.mgid.com^$popup
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
+@@||datadome.garena.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=auth.garena.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||daxiaamu.com^$generichide
 @@||daziba.cn/Images/share.css
@@ -28632,6 +28629,7 @@ zzzyk.com###Tinfo
 ||assets.yumpu.com/release/*/tracking.js
 ||assist-lnstagram.byethost7.com^
 ||assistance-localiser.fr^
+||assistanceservicefr.cloudaccess.host^
 ||assistant.watson.appdomain.cloud/analytics/
 ||assoc-amazon.ca^$third-party
 ||assoc-amazon.co.uk^$third-party
@@ -29590,7 +29588,6 @@ zzzyk.com###Tinfo
 ||blacktri.com^$third-party
 ||blaick.com^$third-party
 ||blancoshrimp.com^$popup
-||blancpeebl.activehosted.com^
 ||blank-duplicated-4v6x.bolt.host^
 ||blasterzone.it/analytics/
 ||blbclassic.org/assets/images/*banners/
@@ -31576,6 +31573,7 @@ zzzyk.com###Tinfo
 ||cupid.iqiyi.com/mixer?
 ||cupid.iqiyi.com/show2?
 ||curalate.com^$third-party
+||cure2x-54076.portmap.host^
 ||currentlyobsessed.me^$third-party
 ||curvyalpaca.cc^$popup
 ||custom.search.yahoo.co.jp/images/window/*.gif
@@ -35249,6 +35247,7 @@ zzzyk.com###Tinfo
 ||homoactive.tv/banner/
 ||honestlyvicinityscene.com^$popup
 ||honeycomb.io/1/events/
+||honeydew-tapir-676096.hostingersite.com^
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
 ||hongyingbbs.com/jj/
 ||hoo.be/api/hoobe/analytics
@@ -35350,6 +35349,7 @@ zzzyk.com###Tinfo
 ||hosteds-mx.com^
 ||hoster.bobbylevin.com^
 ||hosterchecker.com^
+||hosterhosterhost.weebly.com^
 ||hostermasterplug.duckdns.org^
 ||hostermax.com^
 ||hosterphobic.duckdns.org^
@@ -36329,7 +36329,6 @@ zzzyk.com###Tinfo
 ||ipro.com^$third-party
 ||iproanalytics.com^$third-party
 ||ipromote.com^$third-party
-||ipromotelocal.com^
 ||iprotrk.com^$third-party
 ||ipstatp.com/growth/fe_sdk/reportsdk/$third-party
 ||ipstatp.com/static_magic/pgc/tech/collect/$third-party
@@ -37273,7 +37272,6 @@ zzzyk.com###Tinfo
 ||lahoo.ca/slider
 ||laim.tv^$third-party
 ||laixi.com/tp/20
-||lakenormanhost.com^
 ||lalaziosiamonoi.it/pixel
 ||lambda-url.eu-west-1.on.aws^$ping
 ||lambda-url.us-east-1.on.aws/chug/event
@@ -37790,6 +37788,7 @@ zzzyk.com###Tinfo
 ||local-prime.fr^
 ||local-shares.ri.la^
 ||local-update.com^
+||localaffectrecipe.com^
 ||localau.vip/plugin/ad_
 ||localau.vip/plugin/pause.php
 ||localau.vip/plugin/show.php
@@ -38553,7 +38552,6 @@ zzzyk.com###Tinfo
 ||metaffiliation.com^$third-party,domain=~netaffiliation.com
 ||metaffiliation.com^*^mclic=
 ||metalyzer.com^$third-party
-||metamask-io.ghost.io^
 ||metarouter.io^$third-party
 ||metartmoney.com^$third-party
 ||metatrckpixel.com^$document
@@ -38653,6 +38651,7 @@ zzzyk.com###Tinfo
 ||mindtake.com^$third-party
 ||mindwerk.net/zaehlpixel.php?
 ||minecrafthosting.biz^
+||minecraftmemesmp-55927.portmap.host^
 ||minero-proxy-*.sh^$third-party
 ||minero.cc^$third-party
 ||minetilbud.dk/api/web/logViewAdvertPage
@@ -39560,6 +39559,7 @@ zzzyk.com###Tinfo
 ||nicovideo.jp/analyze/
 ||nicovideo.jp/api/counter/
 ||niftymaps.com^$third-party
+||nigganazi61-42359.portmap.host^
 ||nightbesties.com^$document
 ||nightbesties.com^$popup
 ||nigroopheert.com^$popup
@@ -40660,7 +40660,6 @@ zzzyk.com###Tinfo
 ||pichost24.site^
 ||pichost24.stream^
 ||pichost24.website^
-||pichost64.icu^
 ||pichost64.site^
 ||pickaflick.co^$popup
 ||piclect.com^*.gif$third-party
@@ -42619,7 +42618,6 @@ zzzyk.com###Tinfo
 ||sc.g-cdn.net/tracker-i/main.js
 ||sc.g-cdn.net/tracker/gsms.js
 ||scaledb.com^$third-party
-||scambaiting001-34039.portmap.host^
 ||scanalert.com/meter/
 ||scannary.com^$third-party
 ||scanscout.com^$third-party
@@ -43808,7 +43806,6 @@ zzzyk.com###Tinfo
 ||srtrak.com^$popup
 ||srv155384.hoster-test.ru^
 ||srv242161.hoster-test.ru^
-||srv242388.hoster-test.ru^
 ||srv242497.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv335634894hoster.cfolks.pl^
@@ -47154,7 +47151,6 @@ zzzyk.com###Tinfo
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
 ||xdtraffic.com^$popup
 ||xenohosting.com^
-||xenquz-46850.portmap.host^
 ||xero.com/api/events/
 ||xfinity.com/event/
 ||xfree.com/api/banner/
