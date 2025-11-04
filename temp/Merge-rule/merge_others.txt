@@ -21371,6 +21371,7 @@ recruit.com.hk###bottomBar
 recruit.com.hk###topBar
 recruit.com.hk##div[id^="banner"]
 redboing.com##.fw-ad
+reddit.com##[data-faceplate-tracking-context*="\"promoted\":true"]
 reddit.com##div[data-before-content="advertisement"]
 reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.promotedlink:not([style^="height: 1px;"])
 reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##shreddit-comments-page-ad
@@ -21958,6 +21959,7 @@ shejidaren.com##.ads-post-foot
 shejidaren.com##.widget-banner
 shellshock.io###big-house-ad
 shemale777.com##.covid19
+shemalez.*##.jw-hardlink-inner
 shengxinwang.net###floatDivBoxs
 sherbrookerecord.com##.sam-pro-container
 sherdog.com###adViAi
@@ -24432,6 +24434,7 @@ wealth.com.tw#?#div[class]:-abp-has(>div[class]>div[class*="-ad-manager-"])
 wealwomen.com##div[data-cptid]
 wearedore.com##.bloc-pub
 weather.com##.adsSectionOuterWrapper
+weather.com##.combinedTopAdsSectionWrapper
 weather.com##.regionStickyAds
 weather.com##div[id*="Taboola-sidebar"]
 weather.com##div[id^="Taboola-main-"]
@@ -31416,7 +31419,6 @@ zzzyk.com###Tinfo
 ||crall.io/beacon/
 ||crambidnonutilitybayadeer.com^$popup
 ||crank-in.net/assets/common/js/sendpv.js
-||craser-36950.portmap.host^
 ||crashlytics.com^$third-party
 ||crazyclickstats.com^$third-party
 ||crazyegg.com^$third-party
@@ -40664,6 +40666,7 @@ zzzyk.com###Tinfo
 ||pico.tools/metrics/
 ||picpar.com^$domain=18board.com|18p2p.com
 ||picrew.me/vol/ads/
+||pics-view.com/ad-track
 ||pics.wanlibo.com/js/pagemodulestat.js
 ||picshick.com/b9ng.js
 ||picshost.pics^
