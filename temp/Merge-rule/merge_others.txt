@@ -36,9 +36,9 @@
 !高德地图
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
-$csp=script-src 'self' * 'unsafe-inline',domain=1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=nodejs.cn|smsonline.cloud
 $csp=script-src 'self' * 'unsafe-inline',domain=wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+$csp=script-src 'self' * 'unsafe-inline',domain=xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' *,domain=zduxs.com|52niuyanks.cc|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=thumbs.pro
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
@@ -5361,7 +5361,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 403.hqhost.net
 0.0.0.0 404.hqhost.net
 0.0.0.0 53.localytics.com
-0.0.0.0 555hosting.com
 0.0.0.0 aboutharrypotter.fasthost.tv
 0.0.0.0 ad.bannerhost.ru
 0.0.0.0 ad.reachlocal.com
@@ -5420,7 +5419,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 gcounter.hosting4u.net
 0.0.0.0 ghost-writer.online
 0.0.0.0 ghostintro.digital
-0.0.0.0 ghostkitchenhub.com
 0.0.0.0 gvllikealocal.com
 0.0.0.0 hellohost.org
 0.0.0.0 hmw42.host-my-website.com
@@ -5429,12 +5427,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 host-inger-all.arat-all.org
 0.0.0.0 host-it.co.uk
 0.0.0.0 host-redirect.net
-0.0.0.0 host00.com
 0.0.0.0 host207.ewtn.com
 0.0.0.0 host6.hitbox.com
 0.0.0.0 host81-138-7-108.in-addr.btopenworld.com
 0.0.0.0 hostboard.us.intellitxt.com
-0.0.0.0 hostcreativegroup.com
 0.0.0.0 hostdomainpeople.112.2o7.net
 0.0.0.0 hostdomainpeopleca.112.2o7.net
 0.0.0.0 hosteagle.club
@@ -5474,6 +5470,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 local.emxdgt.com
 0.0.0.0 local.ownlocal.com
 0.0.0.0 localbestdating1.com
+0.0.0.0 localgoodcar.com
 0.0.0.0 localh0st.info
 0.0.0.0 localhost-esignid.falling.com.de
 0.0.0.0 localo.fr
@@ -5485,6 +5482,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 manifest.localytics.com
 0.0.0.0 merciless.localstars.com
 0.0.0.0 murbil.hostei.com
+0.0.0.0 nba.ucp.mybluehost.me
 0.0.0.0 newshostingsupdate.com
 0.0.0.0 newyork.cbslocal.us.intellitxt.com
 0.0.0.0 nlocalhost.wordtheminer.com
@@ -5495,6 +5493,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 page-host.net
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 patio-furniture.dreamhoster.com
+0.0.0.0 peerlocalization.com
 0.0.0.0 pgl.example0101
 0.0.0.0 philadelphia_cbslocal.us.intellitxt.com
 0.0.0.0 pmhosting.org
@@ -5543,12 +5542,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 webhosting-ads.home.pl
 0.0.0.0 webhosting.hut1.ru
 0.0.0.0 webhostingcoach.com
-0.0.0.0 webhostinglisting.com
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 wellnessmonitor.bravehost.com
 0.0.0.0 widget.secure.ownlocal.com
-0.0.0.0 wormhostels.com
-0.0.0.0 www.555hosting.com
 0.0.0.0 www.adpeepshosted.com
 0.0.0.0 www.bcloudhost.com
 0.0.0.0 www.bluecrabhosting.co.uk
@@ -5557,13 +5553,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.freehostservers.com
 0.0.0.0 www.ghost-writer.online
 0.0.0.0 www.ghostintro.digital
-0.0.0.0 www.ghostkitchenhub.com
 0.0.0.0 www.gvllikealocal.com
 0.0.0.0 www.hellohost.org
 0.0.0.0 www.host-inger-all.arat-all.org
 0.0.0.0 www.host-it.co.uk
-0.0.0.0 www.host00.com
-0.0.0.0 www.hostcreativegroup.com
 0.0.0.0 www.hostedfiles.net
 0.0.0.0 www.hostermax.com
 0.0.0.0 www.hostfacet.net
@@ -5576,14 +5569,17 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostsag.com
 0.0.0.0 www.hostujmy.pl
 0.0.0.0 www.lakenormanhost.com
+0.0.0.0 www.localgoodcar.com
 0.0.0.0 www.localh0st.info
 0.0.0.0 www.localhost-esignid.falling.com.de
 0.0.0.0 www.localreche.pro
 0.0.0.0 www.localsearchusa.com
 0.0.0.0 www.localseocrew.com
 0.0.0.0 www.localytics.com
+0.0.0.0 www.nba.ucp.mybluehost.me
 0.0.0.0 www.newshostingsupdate.com
 0.0.0.0 www.pafiilate.byethost32.com
+0.0.0.0 www.peerlocalization.com
 0.0.0.0 www.placelocal.com
 0.0.0.0 www.pmhosting.org
 0.0.0.0 www.sagoonhost.com
@@ -5596,8 +5592,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.visionlocal.click
 0.0.0.0 www.webhostingcoach.com
 0.0.0.0 www.webhostingcounter.com
-0.0.0.0 www.webhostinglisting.com
-0.0.0.0 www.wormhostels.com
 0.0.0.0 www.zeppelinhostel.com
 0.0.0.0 www3.webhostingtalk.com
 0.0.0.0 zeppelinhostel.com
@@ -32717,6 +32711,7 @@ zzzyk.com###Tinfo
 ||ecufiles.com/advertising/
 ||ecusemis.com^$popup
 ||ecustomeropinions.com^$third-party
+||ed.tweethost.com^
 ||ed2000k.com/ad/
 ||ed2k.2x4u.de/mfc/
 ||edalloverwiththinl.info^$popup
@@ -33111,7 +33106,6 @@ zzzyk.com###Tinfo
 ||exchangecash.de^$third-party
 ||exchangerates.org.uk/images/200x200_currency.gif
 ||excite.ie/?click_in=
-||excited-local-3705148296.pages.dev^
 ||excited.me^$third-party
 ||exclkplat.com^$document
 ||exclkplat.com^$popup
@@ -34450,6 +34444,7 @@ zzzyk.com###Tinfo
 ||go.thunder.partners^$popup
 ||go.toutapp.com^$third-party
 ||go.trvdp.com^$domain=~canaltech.com.br|~ig.com.br|~monitordomercado.com.br|~noataque.com.br|~oantagonista.com.br|~omelete.com.br
+||go.tweethost.com^
 ||go.xhamsterlive.com^$popup
 ||go2affise.com^$document
 ||go2affise.com^$popup
@@ -34786,6 +34781,7 @@ zzzyk.com###Tinfo
 ||gumgum.com^$third-party
 ||gumtree.com.au/tracking/
 ||gunmi.cn^$third-party
+||guoguoks.com/1.
 ||guojitv.com/m/ad/
 ||guojitv.com/m/js/ad_
 ||guokr.com/apis/flowingboard/item/guokrapp_
@@ -37333,7 +37329,6 @@ zzzyk.com###Tinfo
 ||lastpass.com/m.php/proxy_tracker
 ||latestlaws.com/frontend/ads/
 ||launch.galacticow.com^$popup
-||lauraromani906.activehosted.com^
 ||lavatorydownybasket.com^$popup
 ||lavender64369.com^$popup
 ||law-lib.com/wstyle/images/gffirm.jpg
@@ -45014,7 +45009,6 @@ zzzyk.com###Tinfo
 ||tomonline-inc.com^$third-party
 ||toms.com/*/FacebookCAPI-Event
 ||toms.com/*/PinterestCAPI-Event
-||tonedoc641-58670.portmap.host^
 ||tonefuse.com^$popup
 ||tonefuse.com^$third-party
 ||tongabonga.com/nudegirls
