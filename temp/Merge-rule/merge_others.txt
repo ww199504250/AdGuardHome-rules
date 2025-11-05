@@ -4587,7 +4587,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /storage/js/videojs.sda.js$script
 /storeAdvImpression.jsp
 /storefront.google-analytics-4.min.js
-/stormcaster.js
 /stp.gif?
 /stracking.js
 /strak.php?t=
@@ -4736,6 +4735,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /to8to_pc/chunks/slide_and_popup_
 /token?referer=
 /tongji.js
+/tongji/ad.js
 /top-ad.$~xmlhttprequest
 /top_ad.$~xmlhttprequest,domain=~sunco.co.jp
 /top_ads.$~xmlhttprequest
@@ -8861,7 +8861,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||outbrainimg.com^$third-party,domain=computerbild.de|fitbook.de|metal-hammer.de|rollingstone.de|stylebook.de
 @@||ozabc.com^$generichide
 @@||p.d.1emn.com^$script,domain=hotair.com
-@@||p.typekit.net/p.css$stylesheet,domain=athleticpropulsionlabs.com|browserstack.com|bungie.net|business.untappd.com|petsafe.com|robertsspaceindustries.com
+@@||p.typekit.net/p.css$stylesheet,domain=athleticpropulsionlabs.com|browserstack.com|bungie.net|business.untappd.com|getty.edu|petsafe.com|robertsspaceindustries.com
 @@||p11.techlab-cdn.com^$domain=wizzair.com
 @@||pagead2.googlesyndication.com/gampad/ads?*laurelberninteriors.com*&iu=%2F18190176%2C22509719621%2FAdThrive_Video_Collapse_Autoplay_$domain=imasdk.googleapis.com
 @@||pagead2.googlesyndication.com/gampad/ads?*laurelberninteriors.com*&iu=%2F18190176%2C22509719621%2FAdThrive_Video_In-Post_ClicktoPlay_$domain=imasdk.googleapis.com
@@ -8887,7 +8887,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||papi-service.jd.com/ads/
 @@||paramountplus.com^$generichide
 @@||parcel.app/webtrack.php?$~third-party
-@@||parliament.nz/*/stormcaster.js$script,~third-party
 @@||parsely.com/keys/$script,domain=wmmr.com|wrif.com
 @@||pass.1688.com^$subdocument
 @@||passiontimes.hk^$generichide
@@ -9459,7 +9458,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||user.userguiding.com/sdk/identify$xmlhttprequest,domain=xaris.ai
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
 @@||userload.co/adpopup.js$script
-@@||usine-digitale.fr/*/stormcaster.js$script,~third-party
 @@||usplastic.com/js/hawk.js
 @@||uu.res.netease.com/pc/zt/*/img/ad_
 @@||uukanshu.com^$generichide
@@ -19329,7 +19327,7 @@ mydrivers.com###a_showhotnews_list_dia
 mydrivers.com###div_newsyjgg
 mydrivers.com###recommend
 mydrivers.com###track-link
-mydrivers.com##.HSsRgYjfNn
+mydrivers.com##._bg
 mydrivers.com##.ab
 mydrivers.com##.adds
 mydrivers.com##.baidu_box
@@ -26221,6 +26219,7 @@ zzzyk.com###Tinfo
 ||38g2n1ww.icu^$popup
 ||38hgc.com^$popup
 ||38ksw.com^*/0
+||38ksw.com^*/1
 ||39.net/PictureLib/A/f76/20160825/org_749281.png
 ||39.net/PictureLib/A/f76/20170814/org_1428963.gif
 ||39.net/a.htm?
@@ -27420,6 +27419,7 @@ zzzyk.com###Tinfo
 ||adsenix.com^$third-party
 ||adsensedetective.com^$third-party
 ||adserve.com^$third-party
+||adserver.webhostlist.de^
 ||adserver1.
 ||adserverplus.com^$popup
 ||adservice.google.
@@ -29514,7 +29514,6 @@ zzzyk.com###Tinfo
 ||biqgg.com/w.
 ||biqivge.cc/js/d
 ||biqivge.cc/js/p
-||biquge.ac/tongji/ad.
 ||biquge96.com/123.
 ||biqugie.com/js/wap.
 ||birdforum.net/data/siropu/
@@ -30920,6 +30919,7 @@ zzzyk.com###Tinfo
 ||cloudhosting-business.vodafone.com^
 ||cloudhosting.actonservice.com^
 ||cloudiq.com^$third-party
+||cloudlocalservice.duckdns.org^
 ||cloudpsh.top^$popup
 ||cloudtracer101.com^$third-party
 ||cloudtrack-camp.com^$popup
@@ -35382,6 +35382,7 @@ zzzyk.com###Tinfo
 ||hostingpark.com^
 ||hostingr.fr^
 ||hostingservicefl.com^
+||hostingtinysoft.space^
 ||hostip.info^
 ||hostip.info^$third-party
 ||hostipress.com^
@@ -35394,8 +35395,10 @@ zzzyk.com###Tinfo
 ||hostolhg.com^
 ||hostpdf.co^
 ||hostphpwindowsapp.duckdns.org^
+||hostphpwindowsdriversapp.duckdns.org^
 ||hostphpwindowsdriversapps.duckdns.org^
 ||hostphpwindowsdriversapps1.duckdns.org^
+||hostphpwindowsdriversappsos.duckdns.org^
 ||hostphpwindowsdriversappssapo.duckdns.org^
 ||hostpowermedium.112.2o7.net^
 ||hostrubs.com^
@@ -42173,6 +42176,7 @@ zzzyk.com###Tinfo
 ||retty.me/javascripts/common/logging.js
 ||returnpath.net^$third-party
 ||reurl.cc/javascripts/tagtoo.js
+||reuters.com/pf/resources/dist/*/js/index.js?
 ||revbid.net^$third-party
 ||revcatch.com^$third-party
 ||revenueflex.com^$third-party
@@ -43809,7 +43813,6 @@ zzzyk.com###Tinfo
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srtrak.com^$popup
-||srv155384.hoster-test.ru^
 ||srv242161.hoster-test.ru^
 ||srv242497.hoster-test.ru^
 ||srv242917.hoster-test.ru^
@@ -47020,6 +47023,7 @@ zzzyk.com###Tinfo
 ||wpdstat.com^$third-party
 ||wpengine.com/wp-json/api/advanced_placement/api-in-article-ad/
 ||wpfc.ml^$third-party
+||wphwyhosting.com^
 ||wples.com/pc/common.js
 ||wpnetwork.eu^$popup
 ||wpv.lop.mybluehost.me^
