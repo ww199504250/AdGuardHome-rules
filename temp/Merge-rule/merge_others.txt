@@ -9102,7 +9102,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||script-at.iocnt.net/iam.js$domain=oe24.at
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
-@@||sdk.mrf.io/statics/marfeel-sdk.js$script,domain=mundodeportivo.com
+@@||sdk.mrf.io/statics/marfeel-sdk.js$script,domain=computerhoy.20minutos.es|mundodeportivo.com
 @@||sdltutorials.com/Data/Ads/AppStateBanner.jpg$~third-party
 @@||sealserver.trustwave.com/seal.js$domain=zoom.us
 @@||search.brave.com/search$xmlhttprequest
@@ -17866,6 +17866,8 @@ kohls.com###PMP_monetization_HL
 kohls.com###kmnsponsoredbrand-sponsored_top-anchor
 kohls.com###open-drawer
 kohls.com##.products_grid.sponsored-product
+kohls.com##astro-island[component-export="KmnMarqueeBannerWrapper"]:has(img[alt="Sponsored Banner"])
+kohls.com##div[data-testid^="wallet-wrapper-"]:has(div[class="mt-3 text-xs"])
 kohls.com##li.products_grid:has(p.piq-sponsored)
 koimoi.com###inline_ad
 koimoi.com###sidebar1
@@ -18373,6 +18375,7 @@ lowendtalk.com##img[width="258"][height="250"]
 lowendtalk.com##img[width="258"][height="70"]
 lowes.com###lws_hp_recommendations_belowimage_1
 lowes.com##.lws_pdp_recommendations_southdeep
+lowes.com##div[data-testid="playwright-gam-carousel-banner"]
 lowfuelmotorsport.com##.ads-stats
 lowfuelmotorsport.com##.skyscraper-right
 lowfuelmotorsport.com,newsnow.co.uk##.skyscraper-left
@@ -20488,6 +20491,7 @@ pitpass.com###indexad300x250l
 pitpass.com###indexsmallads
 pitpass.com##.adcontainer300x250l
 pixabay.com##.external-media
+pixabay.com##.gettyImagesContainer--7sZnR
 pixabay.com##.present-g-item
 pixabay.com##.show-gtty-item
 pixabay.com##div[class*="sponsoredWithResults"]
@@ -27429,7 +27433,6 @@ zzzyk.com###Tinfo
 ||adshnk.com^$third-party
 ||adshost.com^
 ||adshost2.com^
-||adshostnet.com^
 ||adshostnet.com^$popup
 ||adshot.de^$third-party
 ||adsiduous.com^$third-party
@@ -33318,6 +33321,7 @@ zzzyk.com###Tinfo
 ||fast-redirecting.com^$popup
 ||fast-redirecting.com^$third-party
 ||fast-thinking.co.uk^$third-party
+||fast.arena.im/script.js
 ||fast.fonts.net/jsapi/core/mt.js
 ||fast.wistia.net/assets/external/googleAds.js
 ||fast2earn.com^$third-party
@@ -35377,7 +35381,6 @@ zzzyk.com###Tinfo
 ||hostingfile.live^
 ||hostingjo.com^
 ||hostingpark.com^
-||hostingr.fr^
 ||hostingservicefl.com^
 ||hostingtinysoft.space^
 ||hostip.info^
