@@ -11021,6 +11021,8 @@ baofeng.com##.play-ads
 baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn##.guanggao
 baomidou.com##.sidebar-content > astro-island
 baozimh.one,yazhouse8.com##.banners
+baozimh.org##a[href*="g-mh.com"]
+baozimh.org#?#.relative:-abp-has(>.bg-red-500)
 baptistnews.com,chimpreports.com,collive.com,defence-industry.eu,douglasnow.com,eltecolote.org,ilanganews.co.za,islandecho.co.uk,kbla1580.com,locklab.com,mallorcasunshineradio.com,newsindiatimes.com,runwaygirlnetwork.com,southsideweekly.com,spaceref.com,talkradioeurope.com,theshoesnobblog.com##.a-single
 barandbench.com##.ad-slot-row-m__ad-Wrapper__cusCS
 barandbench.com##.ad-wrapper-module__adContainer__iD4aI
@@ -21114,6 +21116,7 @@ qq.com##.g-qzp-bottom
 qq.com##.in-top-ad
 qq.com##.jpBanner
 qq.com##.m[pbflag="guess"]
+qq.com##.maillist_ad_bar
 qq.com##.main_ad_bottom
 qq.com##.main_ad_top
 qq.com##.masker_1111
@@ -29129,6 +29132,7 @@ zzzyk.com###Tinfo
 ||bazaarvoice.com/sid.gif
 ||baztrack.com^$third-party
 ||bb.itwc.ca/js/cube.js
+||bb.tweethost.com^
 ||bb1nn.com/js/i.js
 ||bb999.net/pic/n/agents/C-79.gif
 ||bbccn.org^$popup
@@ -32848,6 +32852,7 @@ zzzyk.com###Tinfo
 ||emol.com/bt/ping
 ||emoney.cn/www/officalWebStatic/js/slideAd.js
 ||empflix.com/mew.php
+||empowerlocal.co^
 ||emumuendaku.info^$popup
 ||en8848.com.cn/js/ad
 ||en8848.com.cn/js/content.
@@ -38371,7 +38376,6 @@ zzzyk.com###Tinfo
 ||mddsp.info^$popup
 ||mdmexclusives.com^$popup
 ||mdn.allizom.net/pong/
-||mdrew7967.activehosted.com^
 ||mdstrm.com/js/lib/streammetrics.js
 ||mdxprod.io/analytics.js
 ||me360.com/swt/swt.js
