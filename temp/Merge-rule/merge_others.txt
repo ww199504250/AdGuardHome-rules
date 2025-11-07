@@ -1832,6 +1832,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /beacon/user-data
 /beacon/v1/batch?
 /beacon?cust=
+/beacon?data=$image
 /beaconimages.netflix.net/*$image
 /beacons?data=
 /beardeddragon/armadillo.js$script
@@ -14733,10 +14734,11 @@ flagpedia.net##.frklm
 flagpedia.net##.rklm
 flashbak.com###div-insticator-ad-14
 flashbak.com##.fluid-width-video-wrapper
-flashscore.*##.boxOverContentRevive
 flashscore.*##.section--nmb
 flashscore.*,livescore.*,soccer24.com###box-over-content-a
 flashscore.*,livescore.*,soccer24.com##.zone
+flashscoreusa.com,flashscore.*,livescore.*,soccer24.com###box-over-content-revive
+flashscoreusa.com,flashscore.*,livescore.*,soccer24.com##.banner
 flashx.tv,xrares.com###nuevoa
 flat-ads.com,lastpass.com#@#.ad-img
 flaticon.com###layer_coupon
@@ -22365,6 +22367,7 @@ softonic.com##.black-friday-ads
 softonic.com##.rv-di-modal__label
 softonic.com##.rv-di-step__body
 softonic.com##.rv-di-step__container
+softonic.com##.rv-di-step__section-container
 softonic.com##.sam-slot
 softonic.com##[data-meta="placeholder-slot"]:has([data-label="Advertisement"])
 softonic.com##div[data-meta="placeholder-slot"]
@@ -23150,6 +23153,7 @@ thefa.com###fixedAdLeft
 thefa.com###fixedAdRight
 thefa.com###ft-adverts
 thefappeningblog.com##.cl-exl
+thefappeningblog.com##.wbar
 thefastmode.com###inarticlemodule
 thefastmode.com###middlebanneropenet
 thefastmode.com###quick_survey
@@ -37249,7 +37253,6 @@ zzzyk.com###Tinfo
 ||kxmusic.top/tc/js/script.js
 ||kxnggkh2nj.com^$popup
 ||kygso.com/js/lrtk.js
-||kze.seerkluzapagamentohostharukdk.sbs^
 ||kzt2afc1rp52.com^$popup
 ||kzvcggahkgm.com^$popup
 ||l-host.net/etn/omnilog?
@@ -38651,7 +38654,6 @@ zzzyk.com###Tinfo
 ||mindtake.com^$third-party
 ||mindwerk.net/zaehlpixel.php?
 ||minecrafthosting.biz^
-||minecraftmemesmp-55927.portmap.host^
 ||minero-proxy-*.sh^$third-party
 ||minero.cc^$third-party
 ||minetilbud.dk/api/web/logViewAdvertPage
@@ -40053,7 +40055,6 @@ zzzyk.com###Tinfo
 ||ooyala.com/sas/analytics?
 ||ooyala.com/verify?
 ||ooyala.com^*/report?log
-||opaoakkawkbao-52690.portmap.host^
 ||opbandit.com^$third-party
 ||opecloud.com/ope-pdmp.js
 ||open.oneplus.net^$third-party
@@ -41690,7 +41691,7 @@ zzzyk.com###Tinfo
 ||qualifioapp.com/egw/events
 ||qualityadverse.com^$popup
 ||qualitydating.top^$popup
-||qualtrics.com/WRSiteInterceptEngine/?Q_Impress=$third-party
+||qualtrics.com/WRSiteInterceptEngine/$third-party
 ||qualtrics.com/jfe/$script,third-party
 ||qualtrics.com/sie/$script,third-party
 ||qualtrics.com^*/metrics
@@ -45913,6 +45914,7 @@ zzzyk.com###Tinfo
 ||urldefense.com^$image,third-party
 ||urstats.de^$third-party
 ||urtyert.com^$popup
+||us2.bot-hosting.net^
 ||usa.cc^$third-party
 ||usabilitytools.com^$third-party
 ||usabilla.com^$third-party
