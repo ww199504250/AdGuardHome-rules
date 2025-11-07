@@ -3364,6 +3364,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /magento/page-visit?
 /magento2.js
 /magpie.js
+/mai-publisher-ads.js$script
 /mail-stat.airdroid.com/*$image
 /mail-tracking/*$image
 /mail.sparksport.co.nz/forms/read/*
@@ -11705,6 +11706,7 @@ breitbart.com##.a8d
 breitbart.com##.acadnotice
 brickset.com##.admin.buy
 bridestoday.in##.add_container
+bridgebase.com##[id*="_ad"]
 brighteon.com##[href^="https://ams.brighteon.com/"]
 brighteon.com##[href^="https://support.brighteon.com/"]
 brila.net,cgmagonline.com,cycling.today,gayexpress.co.nz,theyeshivaworld.com##.td-banner-wrap-full
@@ -28464,7 +28466,6 @@ zzzyk.com###Tinfo
 ||appboycdn.com^$third-party
 ||appcast.io^$third-party
 ||appdynamics.com^$third-party
-||apphost.ydns.eu^
 ||appier.net^$third-party
 ||appinthestore.com/click/
 ||apple-mapkit.com/mw/v1/reportAnalytics
@@ -29711,7 +29712,6 @@ zzzyk.com###Tinfo
 ||boei.help/pageview/
 ||bogads.com^$third-party
 ||bogotaweb.kinahost.pw^
-||bohostyle.info^
 ||boingtv.fr/track_view
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
@@ -35317,7 +35317,6 @@ zzzyk.com###Tinfo
 ||host.k12insight.org^
 ||host.laurita.net^
 ||host.officinegullo.com^
-||host.pl-8-a.ru^
 ||host.pornolenta.cc^
 ||host.roxiapp.com^
 ||host.sogoforms.com^
@@ -35367,10 +35366,7 @@ zzzyk.com###Tinfo
 ||hosterroundcubz.s3.cubbit.eu^
 ||hostgrater.com^
 ||hostify.fr^
-||hostiger.fr^
-||hostigner.fr^
 ||hostileconductive.com^
-||hostiner.fr^
 ||hosting-concepts.gl.at.ply.gg^
 ||hosting.sproutbuilder.com^
 ||hosting.tempors.com^
@@ -35737,7 +35733,6 @@ zzzyk.com###Tinfo
 ||idevaffiliate.com^$third-party
 ||idio.co^$third-party
 ||idiva.com/analytics_
-||idklolmmlmqmmq-54828.portmap.host^
 ||idlebrain.com/images4/footer-
 ||idlebrain.com/images5/main-
 ||idlebrain.com/images5/sky-
@@ -41043,7 +41038,6 @@ zzzyk.com###Tinfo
 ||pornxp.com/sp/
 ||pornxp.net/spnbf.js
 ||pornyhd.com/hillpop.php
-||portailsblocalede.com^
 ||portal.kotodaman.jp/api/otel/v1/logs
 ||portfold.com^$third-party
 ||ports.co.za/banners/
