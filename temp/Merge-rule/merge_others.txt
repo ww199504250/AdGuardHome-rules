@@ -10238,7 +10238,7 @@ americafirstreport.com##div[id^="ameri-"]
 americanfreepress.net##p > [href] > img
 americanfreepress.net##strong > span > a
 americanfreepress.net,analyticsindiamag.com,namepros.com,readneverland.com##[width="600"]
-americanfreepress.net,sashares.co.za##.wppopups-whole
+americanfreepress.net,sashares.co.za,strategicenergy.eu##.wppopups-whole
 americansongwriter.com,wideopencountry.com###sv-video-container
 amgreatness.com##.bg-gray-200.mx-auto
 aminoapps.com##.overflow-scroll-sidebar > div
@@ -12707,7 +12707,7 @@ collegedunia.com##[class*="-ad-slot"]
 collinsdictionary.com##.topslot_container
 collive.com##.bottom_leaderboard
 collive.com##.spu-bg
-collive.com##.spu-box
+collive.com,strategicenergy.eu##.spu-box
 colombiareports.com,filmschoolrejects.com,hongkongfp.com,phoneia.com,sarkarideals.com,weatherboy.com###custom_html-6
 colombiareports.com,miloserdov.org,mostlyblogging.com###custom_html-14
 colombotimes.lk##a[target="_blank"] img:not([src*="app.jpg"])
@@ -21334,7 +21334,7 @@ readmoo.com#@#.navbar-social
 readneverland.com##.z-0
 readonepiece.com##div > b
 reaff.com,yangmaodang.org##.entry-content > p[style="text-indent:0"]
-real-fix.com##.afc_popup
+real-fix.com,strategicenergy.eu##.afc_popup
 realclearhistory.com###warning_empty_div
 realclearpolitics.com###distro_right_rail
 realclearpolitics.com###realclear_jwplayer_container
@@ -22690,6 +22690,7 @@ str8ongay.com###alfa_promo_parent
 str8ongay.com##.aside-itempage-col
 straitstimes.com##.overlayWhite
 strangesounds.org##.wp-image-281312
+strategicenergy.eu##.et_pb_text_inner > [href] > [src]
 streamed.pk,streamed.st,streami.su##div[role="alert"]
 streamingmedia.com##.expand
 streamingsites.com##.IPdetectCard
@@ -28375,6 +28376,8 @@ zzzyk.com###Tinfo
 ||api.beleggersbelangen.nl//api/statistics/
 ||api.bilibili.com/x/ad/
 ||api.bit.ly/*/clicks?$third-party
+||api.bitchute.com/slot1/
+||api.bitchute.com/slot2/
 ||api.blink.net/a/
 ||api.bo3.gg/api/v1/ad_baners
 ||api.bo3.gg/api/v1/ad_banners
@@ -29540,11 +29543,8 @@ zzzyk.com###Tinfo
 ||bitauto.com/js/sense*.js
 ||bitbond.com/affiliate-program/
 ||bitcdp.ru/tracker/
-||bitchute.com/api/beta/doubleplayer/
 ||bitchute.com/data/script.js
 ||bitchute.com/slot1/value?adDataKey
-||bitchute.com/static/ad-sidebar.html
-||bitchute.com/static/ad-sticky-footer.html
 ||bitcoadz.io^$third-party
 ||bitcoins-update.blogspot.com^$popup,domain=lineageos18.com
 ||bitcotasks.com/je.php
@@ -33049,6 +33049,7 @@ zzzyk.com###Tinfo
 ||eulerian.net^$third-party
 ||euleriancdn.net^$third-party
 ||eum-appdynamics.com^$third-party
+||eun.vtl.mybluehost.me^
 ||euphoriccommittee.com^$popup
 ||euro-pr.eu^$third-party
 ||euro.com.pl/log-customer-visit
@@ -41240,7 +41241,6 @@ zzzyk.com###Tinfo
 ||promos.investing.com/*/digibox.gif?
 ||promos.meetlocals.com^
 ||promote.pair.com/88x31.pl
-||promotealocal.com^
 ||promoteonelocal.com^
 ||promotionengine.com^$third-party
 ||promotools.biz^$third-party
@@ -44070,6 +44070,7 @@ zzzyk.com###Tinfo
 ||storage.googleapis.com/ba_utils/stab.js
 ||storage.googleapis.com/cdn.newsfirst.lk/advertisements/$domain=newsfirst.lk
 ||storage.googleapis.com/cdn2.guard.io/webflow/tracking-grd.js
+||storage.googleapis.com/global-attribution/global_attribution.js
 ||storage.googleapis.com/nchq-dj-nid/prod/sp_v1.js
 ||storage.googleapis.com/rasin/*/hm.js
 ||storage.googleapis.com/snowplow-cto-office-tracker-bucket/
@@ -47629,7 +47630,6 @@ zzzyk.com###Tinfo
 ||ytn.co.kr/_comm/yct.js
 ||ytn.co.kr/_comm/ylog.php?
 ||ytse*.top/Static/Home/GongGao/img/
-||yttt-34658.portmap.host^
 ||yu987.com^$third-party
 ||yuanbao777.com/download/*.gif
 ||yuanxue365.com/js/a22.
