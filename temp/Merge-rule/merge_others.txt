@@ -5011,6 +5011,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /uutils.fcg?
 /v.gif?
 /v.gif?logtype=
+/v/image.php?spot=$image
 /v1/adn/visit|
 /v1/log/web-vitals$xmlhttprequest
 /v1/pixel.js
@@ -14809,6 +14810,7 @@ followme.cn##.fm-banner-social
 followme.cn##.money-box
 font-generator.com##.container-home-int > .text-center
 fontawesome.com##.wrap-ad
+fontspace.com##.font-container:has(> [width="728"])
 fontspace.com,skyrimcommands.com#@#.container-ads
 fontsquirrel.com##.pgAdWrapper
 foobar2000.org##.db_linkstyle[onclick]
@@ -18910,8 +18912,8 @@ mirrored.to##tbody > tr:has(> td[data-label="Host"] > img[src="https://www.mirro
 mishaptube.com##.table
 missav.*,missav123.com,missav888.com##.lg\:block
 missav.*,missav123.com,missav888.com##.lg\:hidden
-missav.*,missav123.com,missav888.com##[style^="width: 300px; height: 250px;"]
 missav.*,missav123.com,missav888.com##[x-show$="video_details'"] > div > .list-disc
+missav.*,missav123.com,missav888.com,njavtv.com##[style^="width: 300px; height: 250px;"]
 missingremote.com###top-bar
 missyuan.com##.spaceborder
 mitbbs.ca,mitbbs.com##.index_add
@@ -19819,7 +19821,6 @@ niuacc.com##.masks
 niuacc.com##.yure
 nivod5.tv,nivod8.tv##.qy20-h-carousel__li:nth-child(-n+2)
 njav.com###ad300250
-njavtv.com##[style="width: 300px; height: 250px;"]
 nlc.gov.cn###lovexin12xx
 nltimes.nl##div[class^="r89-"]
 nme.com###taboola-below-article
@@ -21864,6 +21865,7 @@ semiengineering.com##.sp_img_div
 senao.com.tw#@#.ad-wrap
 senfun.net##.player-recommend
 sentres.com##.oax_ad_leaderboard
+senzuri.*,shemalez.*##.jw-hardlink-inner
 senzuri.tube##.content > div > .hv-block-transparent
 senzuri.tube##.jw-reset.jw-atitle
 senzuri.tube##.video-page__watchfull-special
@@ -21964,7 +21966,6 @@ shejidaren.com##.ads-post-foot
 shejidaren.com##.widget-banner
 shellshock.io###big-house-ad
 shemale777.com##.covid19
-shemalez.*##.jw-hardlink-inner
 shengxinwang.net###floatDivBoxs
 sherbrookerecord.com##.sam-pro-container
 sherdog.com###adViAi
@@ -30409,6 +30410,7 @@ zzzyk.com###Tinfo
 ||centerblog.net/stats.js
 ||centurys.net/promo_
 ||cenyou.net/wp-content/uploads/1200-200.
+||ceramicturtleremnant.com^$document
 ||ceros.com/a?data
 ||certifica.com^$third-party
 ||cesar-it.de/collect/
@@ -30420,6 +30422,7 @@ zzzyk.com###Tinfo
 ||cex.io/informer/
 ||cf-host.com^
 ||cf-oss.gname.net^$third-party
+||cfbwebhosting.com^
 ||cfd.ghostgloballtd.proxy844.com^
 ||cfgr3.com/videos/*.mp4$rewrite=abp-resource:blank-mp4,domain=hitbdsm.com
 ||cfmediaview.com/API/MV_Visit.ashx
@@ -35077,7 +35080,6 @@ zzzyk.com###Tinfo
 ||hexun.com^*/appDplus
 ||heyday.io/idx/
 ||heyflow.co/pixel/
-||heyguyswelcomebacktoanotheryoutubevideo-23337.portmap.host^
 ||heylink.com^$third-party
 ||heymatic.com^$third-party
 ||heyserves.com^$popup
@@ -35419,6 +35421,7 @@ zzzyk.com###Tinfo
 ||hostujmy.pl^
 ||hostvy.com^
 ||hostwc.com^
+||hostwpe.com^
 ||hostxxxinquiries.creatorlink.net^
 ||hostzb.com^
 ||hot-count.com^$third-party
@@ -40919,7 +40922,6 @@ zzzyk.com###Tinfo
 ||polarbyte.com/scripts/latest/reach/pb-reach.iife.min.js
 ||polarbyte.com/scripts/latest/survey/pb-survey.iife.min.js
 ||polarcdn-pentos.com^$third-party
-||policelocaleorleans.fr^
 ||polisnetwork.io^$third-party
 ||politicalhost.com^
 ||politico.com/resource/assets/js.min/video-tracking.
@@ -42174,7 +42176,7 @@ zzzyk.com###Tinfo
 ||retty.me/javascripts/common/logging.js
 ||returnpath.net^$third-party
 ||reurl.cc/javascripts/tagtoo.js
-||reuters.com/pf/resources/dist/*/js/index.js?
+||reuters.com/pf/resources/dist/reuters/js/index.js
 ||revbid.net^$third-party
 ||revcatch.com^$third-party
 ||revenueflex.com^$third-party
@@ -44920,6 +44922,7 @@ zzzyk.com###Tinfo
 ||tinyclues.com^$third-party
 ||tinycounter.com^$third-party
 ||tinyfilehost.com^
+||tinyfileshost.com^
 ||tinypass.com/checkout/offer/trackShow
 ||tinypass.com^*/track?
 ||tinypic.com^$domain=fdzone.org|jandown.com|mimima.com
