@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: FK28Xkr9ux29mxhYykUfpQ
-! Version: 202511100801
+! Checksum: 40yxU0cuOwUtIn2T4hNZQQ
+! Version: 202511110021
 ! Title: EasyPrivacy
-! Last modified: 10 Nov 2025 08:01 UTC
+! Last modified: 11 Nov 2025 00:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3183,6 +3183,7 @@ _WebVitalsReporter_
 /ap.lijit.com/*
 /api.transferwise.com/v1/notification-flow/messages/*/open.gif
 /atlas-trk.prd.msg.ss-inf.net/*$image
+/b.k3r.jp/?a=$image
 /beacon.krxd.net/*
 /beacon?data=$image
 /beaconimages.netflix.net/*$image
@@ -51806,7 +51807,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||daumcdn.net^*/awsa.js
 ||dpg.danawa.com/*/rest/*getStampEvent
 ||gmarket.co.kr/js/common/uuid.js
-||haystack.wavve.com^
 ||hits.zdnet.co.kr^
 ||jdsports.co.kr/collect.php
 ||kyson.kakao.com^

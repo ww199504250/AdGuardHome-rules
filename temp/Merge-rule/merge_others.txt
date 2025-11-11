@@ -1756,6 +1756,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /aztracker.js
 /b.banners.impress.
 /b.gif?
+/b.k3r.jp/?a=$image
 /b.rnc?
 /b/s/beacon
 /b/ss/*&aqe=
@@ -28107,7 +28108,6 @@ zzzyk.com###Tinfo
 ||analytics.greensender.pl^$third-party
 ||analytics.hostiran.net^
 ||analytics.loop-cloud.de^$third-party
-||analytics.maghost.ro^
 ||analytics.pinterest.com^$third-party
 ||analytics.praetor.im^$third-party
 ||analytics.streamfab.
@@ -37657,7 +37657,6 @@ zzzyk.com###Tinfo
 ||lnzqw.net/js/
 ||load.aminodebt-cl.host.plataformasdigitales.com.co^
 ||load.gmt.goldenhost.co^
-||load.gtm.localcarros.com^
 ||load.hosted.evara.ie^
 ||load.tm.all3dp.com/rqlevydw.js
 ||loadtime.org^$document
@@ -39121,7 +39120,6 @@ zzzyk.com###Tinfo
 ||nativexxx.com^$third-party
 ||natpal.com^$third-party
 ||natregs.com^$popup
-||natsu213dz213-46328.portmap.host^
 ||naturalnews.com/wp-content/themes/naturalnews-child/$script
 ||naturaltracking.com^$third-party
 ||nature.com/platform/track/
@@ -43762,7 +43760,9 @@ zzzyk.com###Tinfo
 ||stapadblockuser.xyz/stat/
 ||stape.fun/stat/
 ||stape.io^$third-party
+||stape.seguro.targethost.com.br^
 ||stapecdn.com^$third-party
+||stapeserver.hostaccent.com^
 ||stapewithadblock.beauty/stat/
 ||stapewithadblock.monster/stat/
 ||stapewithadblock.xyz/stat/
@@ -44066,6 +44066,7 @@ zzzyk.com###Tinfo
 ||su.pr/hosted_js$third-party
 ||suaurl.com/adblock/js/smarttag.js
 ||sub.shosty.co^
+||sub.shosty.com^
 ||sub2tech.com^$third-party
 ||subhd.*/kaiyad.
 ||subjectsfaintly.com^$popup
