@@ -107,6 +107,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 -1316899192.cos.
 -1321533417.cos.
 -1325890192.cos.
+-1367066484.cos.
 -160-600.
 -160x600.
 -160x600_
@@ -11449,12 +11450,11 @@ bleedingcool.com,heatmap.news,jamaicaobserver.com###bottom_leaderboard
 bleedingcool.com,jamaicaobserver.com,pastemagazine.com###top_leaderboard
 bleepingcomputer.com###bc-home-news-main-wrap > li:has(> div > a[rel="sponsored nofollow"])
 bleepingcomputer.com###pinned
+bleepingcomputer.com##.articleBody > div:has(a[href^="https://www.wiz.io/"])
 bleepingcomputer.com##.bc_guide
 bleepingcomputer.com##.cz-toa-wrapp
 bleepingcomputer.com##.ia_ad
-bleepingcomputer.com##.noty_bar
 bleepingcomputer.com##.s-ou-wrap
-bleepingcomputer.com##[href="https://try.flare.io/bleeping-computer/"]
 bleepingcomputer.com##[href^="https://www.bleepingcomputer.com/go/"]
 bleepingcomputer.com#?#.post_wrap:-abp-contains(AdBot)
 bleepingcomputer.com#?#ul#bc-home-news-main-wrap > li:has-text(Sponsored)
@@ -22043,6 +22043,7 @@ skyve.io##.ads_space
 slant.co##.SummaryPage-LustreEmbed
 slashdot.org###announcement
 slashdot.org###cloud
+slashdot.org###floating-ad-unit
 slashdot.org###main-nav-badge-link
 slashdot.org###slashdot_deals
 slashdot.org##.ad-blocked-newsletter
@@ -28377,6 +28378,7 @@ zzzyk.com###Tinfo
 ||apps.nhk.jp/assets/dtm/
 ||apps.omegatheme.com/facebook-pixel/
 ||apps.webservicehost.com^
+||appservice-contactsupport.tempurl.host^
 ||appslime.com^$document
 ||appslime.com^$popup
 ||appsolutions.com/hitme?$third-party
@@ -34719,6 +34721,7 @@ zzzyk.com###Tinfo
 ||haes.tech/js/script_
 ||hagech.com^$document
 ||hahamx.cn/images/banner/
+||hahhahahdauh-46698.portmap.host^
 ||haircutlocally.com^
 ||haishuxs.com/js/
 ||haiwainet.cn*/k.js
@@ -36621,7 +36624,6 @@ zzzyk.com###Tinfo
 ||jokerlu.com/upload/addon/
 ||jokerlu.com/upload/vod/
 ||jokiyo.github.io/stera4/$script,third-party
-||jomegi9539-58684.portmap.host^
 ||joohugreene.net^$popup
 ||jordantimes.com/accu/
 ||jotform.io/getReferrer/$third-party
@@ -40242,7 +40244,6 @@ zzzyk.com###Tinfo
 ||paperg.com^$third-party
 ||paperstreetcash.com/banners/$third-party
 ||papoto.com^$third-party
-||paradisegirlshostels.com^
 ||paradocs.ru^$third-party
 ||parameter.dk^$third-party
 ||parametre.online^$third-party
@@ -43682,6 +43683,8 @@ zzzyk.com###Tinfo
 ||srv242497.hoster-test.ru^
 ||srv242893.hoster-test.ru^
 ||srv242917.hoster-test.ru^
+||srv243177.hoster-test.ru^
+||srv243189.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv335634894hoster.cfolks.pl^
 ||srvhost.servehttp.com^
@@ -44790,7 +44793,6 @@ zzzyk.com###Tinfo
 ||tinyclues.com^$third-party
 ||tinycounter.com^$third-party
 ||tinyfilehost.com^
-||tinyfileshost.com^
 ||tinypass.com/checkout/offer/trackShow
 ||tinypass.com^*/track?
 ||tinypic.com^$domain=fdzone.org|jandown.com|mimima.com
@@ -46856,7 +46858,6 @@ zzzyk.com###Tinfo
 ||workers.dev/js/script.js
 ||worldflagcounter.com^$third-party
 ||worldfreshblog.com^$popup
-||worldhostgroup.org^
 ||worldlogger.com^$third-party
 ||worldmarket.com/px/XMpXrQpA/init.js
 ||worldremit.com/web-cms/api/metric
