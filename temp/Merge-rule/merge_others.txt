@@ -9184,6 +9184,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||sinopac.com/applyweb/OpenAccount/js/oas.
 @@||site-banner.hange.jp/adshow?$domain=animallabo.hange.jp
 @@||siteapps.com^$script,domain=netcombo.com.br
+@@||siteintercept.qualtrics.com/$domain=idealo.de
+@@||sizhiai.com/api/stat?$~third-party
 @@||sjsmitaa.org/bin/showads.
 @@||slack.com^$generichide
 @@||smallseotools.com^$generichide
@@ -17780,7 +17782,6 @@ kmf.com##.g-kmf-906banner
 kmplayer.com##.dim-layer
 kmsv.jp#@#.adtitle
 kmzu.com##.sticky-footer-promo-container
-knews.com.tw,shiyrj.top,yalishi.com,guozaoke.com,100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 knowyourmeme.com##.header-unit-wrapper
 knowyourmeme.com##.incontent-leaderboard-unit-wrapper
@@ -20098,6 +20099,7 @@ pan666.cn##.footer > .containerNarrow
 panarmenian.net##.panner_2
 panarmenian.net##.side_panner
 panarmenian.net#@#.ad_body
+panda985.com,qqdsw8.cn,knews.com.tw,shiyrj.top,yalishi.com,guozaoke.com,100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
 pantiespics.net##.hth
 pao.gr###section--sponsors
 paopaoche.net##.down_btn2.green
@@ -21069,7 +21071,6 @@ qq.com,sogou.com##div[pbflag="bt_newsb_ad"]
 qq.com,sogou.com##div[pbflag="coolsitefeed_ad"]
 qq.com,yxad.com##.l_qq_com
 qqaiqin.com#@#.ad_468
-qqdsw8.cn##.ad
 qqdsw8.cn##.advert
 qqdsw8.cn##.joe_index__ad
 qqdsw8.cn##.joe_post__ad
@@ -28322,6 +28323,7 @@ zzzyk.com###Tinfo
 ||app-g.39.net/NNN/
 ||app.abralytics.com/assets/tracker/index.js
 ||app.adjust.com^$third-party
+||app.blackrock.host^
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
 ||app.carnow.com/dealers/track_visitor
@@ -28483,6 +28485,10 @@ zzzyk.com###Tinfo
 ||asgclickpp.com^$popup
 ||asgg.ghostbin.me^
 ||asgorebysschan.com^$popup
+||ashfjshost.com^
+||ashfjshostax.com^
+||ashfjshoster.com^
+||ashfjshostyr.com^
 ||ashleyfurniture.com/ouqLB4fq/init.js
 ||ashoupsu.com^$popup
 ||asia-northeast1-co-comix.cloudfunctions.net/trackView
@@ -31698,7 +31704,6 @@ zzzyk.com###Tinfo
 ||datingforyour4.site^$popup
 ||datinggold.com^$third-party
 ||datingkoen.site^$popup
-||datinglocal.life^
 ||datingshall.life^$popup
 ||datingstyle.top^$popup
 ||datingtoday.top^$popup
@@ -34001,6 +34006,7 @@ zzzyk.com###Tinfo
 ||gb1aff.com^$popup
 ||gbengene.com^$popup
 ||gbotvisit.com^$third-party
+||gbp.localtrd.com^
 ||gc.newsweek.com/front/js/counter.js
 ||gc.zgo.at^$third-party
 ||gcion.com/gcion.ashx?
@@ -34253,6 +34259,7 @@ zzzyk.com###Tinfo
 ||glaultoa.com^$document
 ||glazedugra.com^$popup
 ||glbtracker.com^$third-party
+||glc-polska-pl.dreamhosters.com^
 ||gleagainedam.info^$popup
 ||gleam.io/seen?
 ||gleam.io^$script,third-party
@@ -34305,6 +34312,7 @@ zzzyk.com###Tinfo
 ||gmdigital.it/vtrack-staging.js
 ||gml-grp.com^$popup
 ||gml-grp.com^*&affid=$subdocument,third-party
+||gmmads.com^$document
 ||gmo-cybersecurity.com/siteseal/$third-party
 ||gmodmp.jp^$third-party
 ||gmossp-sp.jp^$third-party
@@ -34705,6 +34713,7 @@ zzzyk.com###Tinfo
 ||h.seznam.cz/js/dot-small.js$domain=~stream.cz
 ||h0w-t0-watch.net^$popup
 ||h2porn.com/new-hit/?
+||h5.shoplocalis.com^
 ||h6295.com^$popup
 ||h74v6kerf.com^$popup
 ||haberler.com/dinamik/
@@ -35194,6 +35203,10 @@ zzzyk.com###Tinfo
 ||host-host-file8.com^
 ||host-tracker.com^$third-party
 ||host-vc-fone-dx-wiem-qa.weebly.com^
+||host.ainesenb.com^
+||host.ainesgfd.com^
+||host.ainesgysfd.com^
+||host.ainetwomnb.com^
 ||host.gamerg.gg^
 ||host.gsslcloud.com^
 ||host.k12insight.org^
@@ -39718,6 +39731,7 @@ zzzyk.com###Tinfo
 ||odoscope.com^$third-party
 ||odrama.net/images/clicktoplay.jpg
 ||odsyms15.com/impression?
+||odtie.lotkgt.host^
 ||odysee.com/api/v1/metric/
 ||odysee.com/log/
 ||odysee.com/reports/
@@ -42961,6 +42975,7 @@ zzzyk.com###Tinfo
 ||shopimind.com^$third-party
 ||shoplift.ai/api/events/
 ||shoplocal.com/it.ashx?
+||shoplocal.top^
 ||shoplytics.com^$third-party
 ||shopmyshelf.us^$third-party
 ||shopnetic.com^$third-party
@@ -43255,7 +43270,6 @@ zzzyk.com###Tinfo
 ||slit.cn/slimages/
 ||slogantrend.de^$third-party
 ||slopeaota.com^$third-party
-||slotmaus246-64506.portmap.host^
 ||sloto.live^$document
 ||sloto.live^$popup
 ||slowww.xyz^$popup
@@ -45796,6 +45810,9 @@ zzzyk.com###Tinfo
 ||urtyert.com^$popup
 ||us2.bot-hosting.net^
 ||usa.cc^$third-party
+||usa.localtrdds.com^
+||usa.localtrrds.com^
+||usa.localtruds.com^
 ||usabilitytools.com^$third-party
 ||usabilla.com^$third-party
 ||usage.seibert-media.io^$third-party
