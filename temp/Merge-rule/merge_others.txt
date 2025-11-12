@@ -4117,6 +4117,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /res/kj/hf*.js?v=
 /resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=weather&$domain=msn.com
 /resource/common/tongzhuo/game_info.json
+/resource?zones=
 /resources/ads/*$~xmlhttprequest
 /responsive/ad_$subdocument
 /responsive_ads.js$script
@@ -6241,6 +6242,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 24k99.com,fx168.com##.ny2018_txtLink
 24k99.com,fx168.com##.yy_guangao
 24kplus.com###custom_html-3
+24porn.com,bigfuck.tv,redporn.porn##.c-random
+24porn.com,boy18tube.com,gayfuckporn.tv,gaymaletube.name,gayporno.fm,gogaytube.tv,goldgay.tv,hdpornvideo.tv,ice-gay.com,icegay.tv,icegaytube.tv,icetranny.com,justustrannies.com,machogaytube.com,machotube.tv,madgaysex.com,onlydudes.tv,ourshemales.com,shemaleporntube.tv,trannytube.tv,ts-tube.net,xgaytube.tv##.js-uvb-spot
 24timezones.com##.ad-container-diff
 24timezones.com##.ad-container-top-index
 255.255.255.255 broadcasthost
@@ -8616,7 +8619,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
 @@||liumingye.cn^$generichide
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
-@@||live.primis.tech^$script,domain=eurogamer.net|independent.co.uk|klaq.com|loudwire.com|screencrush.com|vg247.com|xxlmag.com
+@@||live.primis.tech^$script,domain=eurogamer.net|independent.co.uk|klaq.com|loudwire.com|screencrush.com|the-independent.com|vg247.com|xxlmag.com
 @@||live.primis.tech^$xmlhttprequest,domain=xxlmag.com
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||live.streamtheworld.com/partnerIds$domain=iheart.com|player.amperwave.net
@@ -10300,6 +10303,7 @@ androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com
 androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[class*="ad-zone-container-content-character-count-repeatable"]
 androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##[id^="adsninja-ad-zone-adsninja-ad-unit-footer"]
 androidpolice.com,constructionreviewonline.com,cryptobriefing.com,dereeze.com,tyretradenews.co.uk##.ai-track
+androidsage.com##.akcelo-wrapper
 androidtrends.com,aviationa2z.com,buffalorising.com,cryptoreporter.info,sportsorca.com,streamsgeek.com,tecadmin.net,techcentral.co.za,techrushi.com,trendstorys.com,vedantbhoomi.com##.a-wrap
 andronicos.com,haggen.com,randalls.com##.pc-grid-prdItem:has(span[data-qa="prd-itm-spnsrd"])
 andscape.com##.ad-incontent-wrapper
@@ -11230,6 +11234,7 @@ bhg.com,eatingwell.com,realsimple.com,southernliving.com##.mntl-notification-ban
 bibgame.com##.topicContent > font[color="red"]:last-child
 bibliaon.com#@#.top-banner-ad
 bicycleretailer.com###brain-leader-slot
+bier-universum.*##.abc-wrapper
 big-cup.tv,g-cup.tv##.col-md-12.text-center[style="margin-top: 3px;"]
 big5.china.com.cn##.Advertising > a
 big5.china.com.cn##a[href^="http://big5.china.com.cn/gate/big5/"]:not([href*="/science."])
@@ -11238,6 +11243,7 @@ bigblueball.com###text-416290631
 bigcommerce.com#@#.advert-container
 bigear.cn##.adpicright
 bigear.cn##a[href^="/?module=dantian&"]
+bigfuck.tv##.main-nav__link[data-banner-id]
 bigislandnow.com##.adBreak
 bigislandnow.com##.ad_mobileleaderboard
 bigissue.com##.-ad
@@ -11645,6 +11651,8 @@ boxrox.com##.rolling-mrt
 boxthislap.org##.td-footer-wrapper
 boxthislap.org##img[width="728px"]
 boxthislap.org,unknowncheats.me##img[width="300px"]
+boy18tube.com,gayfuckporn.tv,gaymaletube.name,gayporno.fm,gogaytube.tv,goldgay.tv,hdpornvideo.tv,ice-gay.com,icegay.tv,icegaytube.tv,icetranny.com,justustrannies.com,machogaytube.com,machotube.tv,onlydudes.tv,ourshemales.com,shemaleporntube.tv,trannytube.tv,xgaytube.tv##.b-main-nav__link[data-banner-id]
+boy18tube.com,gaymovievids.com,me-gay.com,ts-tube.net,verygayboys.com##.random-td
 boycall.com##.source_info
 boyfriend.tv,boyfriendtv.com##.adblock
 boyfriend.tv,boyfriendtv.com##.live-cam-popunder
@@ -15249,7 +15257,8 @@ gayemagazine.com###Containera2sdv > div > div > div[id^="comp-"]
 gayexpress.co.nz##.backstretch
 gayforfans.com##.iframe-container
 gayforfans.com##a[href^="https://landing.mennetwork.com/"]
-gaymovievids.com,me-gay.com,ts-tube.net,verygayboys.com##.random-td
+gayfuckporn.tv,goldgay.tv,justustrannies.com##.b-random-column
+gaymaletube.name,gogaytube.tv,hdpornvideo.tv,madgaysex.com,xgaytube.tv##.b-advertisement
 gaymovievids.com,verygayboys.com##.mobile-random
 gayporno.fm##.b-content__aside-head
 gayporno.fm##.traffic
@@ -16478,10 +16487,13 @@ icanzc.com###contbot
 icanzc.com###contsec
 icbc.com.cn#@#.adLeft
 icbc.com.cn#@#.adRight
+ice-gay.com##.random-block
 ice.hockey##.flex_container_werbung
 ice.hockey##.ice_ner
 ice.hockey##.ice_werbung
+icegay.tv##.b-secondary-column__randoms
 iceporn.com##.furtherance
+icetranny.com,machogaytube.com,machotube.tv,shemaleporntube.tv##.b-randoms-col
 ichunqiu.com###cnzz168_Login
 ichunqiu.com###portal_block_157
 iciba.com##.ad-sign
@@ -20037,6 +20049,7 @@ otomi-games.com##.clean-grid-grid-post:has(> [id^="otomi-"] + .clean-grid-grid-p
 otomi-games.com##[href^="https://t.trcktr.com/"]
 otomi-games.com,ryuugames.com##[href^="https://aichattings.com/"]
 ottverse.com##.livevideostack-ad
+ourshemales.com##.c-banner
 ourworldofenergy.com###sponsors_container
 out.com#@#div[id^="dfp-ad-"]
 outinthepaddock.com.au#@#.topads
@@ -20789,6 +20802,7 @@ pricespy.co.nz,pricespy.co.uk##.pjra-w-\[970px\]
 pricespy.co.nz,pricespy.co.uk##div[class^="AdPlacement"]
 pride.com##.magazine__banner
 pride.com##.recirculation__placeholder--latest
+primetimer.com###primis-ad-container
 primewire.link##a[href^="https://url.rw/"]
 printweek.in###div-button1-ad
 printweek.in##[class^="ad-section-"]
@@ -21292,7 +21306,6 @@ redketchup.io##.potato_viewer
 redocn.com###yc_adv_1_2
 redocn.com##.big_vip_gg
 redocn.com##.small_vip_gg
-redporn.porn##.c-random
 redtube.com###live_models_row_wrap
 redtube.com###popsByTrafficJunky
 redtube.com###video_right_col > .clearfix
@@ -22729,6 +22742,7 @@ tallermaintenancar.com##.girl
 tallermaintenancar.com##.thumbs
 tampabayparenting.com##.header-html-inner
 tampafp.com##._ning_outer
+tandfonline.com###pbgrd-skyscraper
 tangdoucdn.com#@#.video-ad
 taobao.com###J_ActivityOut
 taobao.com###J_shopkeeper
@@ -23585,6 +23599,7 @@ tranny.one##.th-ba
 trannygem.com##.in_player_video
 trannygem.com##.we_are_sorry
 trannygem.com##a[href^="https://landing.transangelsnetwork.com/"]
+trannytube.tv##.b-secondary-column__banners
 trans.info##img[width="500"][height="180"]
 trans.info##img[width="756"][height="310"]
 transdict.com##div[style="margin:24px 80px; padding:8px; height:120px;"]
@@ -23647,7 +23662,6 @@ truthsocial.com##div[item="[object Object]"]:has(path[d="M17 7l-10 10"])
 truthsocial.com##div[item="[object Object]"]:has(path[d="M9.83333 1.83398H16.5M16.5 1.83398V8.50065M16.5 1.83398L9.83333 8.50065L6.5 5.16732L1.5 10.1673"])
 tryindianporn.com##.mle
 tryindianporn.com##.uvk
-ts-tube.net##.js-uvb-spot
 tsdm.live###ts_sidebar_base
 tsmodelstube.com##.spot-regular
 tsmodelstube.com##a[href="https://tsmodelstube.com/a/tangels"]
@@ -33975,7 +33989,6 @@ zzzyk.com###Tinfo
 ||gaosan.com/js/b.js
 ||gardpro.com/api/collect
 ||gasaq.com/public/flash/
-||gasasthe.freehostia.com^
 ||gatehousemedia.com/wickedlocal/ip.js
 ||gateway.bridged.media/Engagement/View
 ||gateway.bridged.media/Logging/
@@ -42648,6 +42661,7 @@ zzzyk.com###Tinfo
 ||securecloud-smart.com^$popup
 ||securecloud-sml.com^$popup
 ||secureclouddt-cd.com^$popup
+||secured-ad.com^$popup
 ||securedsmcd.com^$popup
 ||securedt-sm.com^$popup
 ||securegfm.com^$popup
