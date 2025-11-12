@@ -1643,6 +1643,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /api/click/*?c=
 /api/cmp_tracker|
 /api/collect|$ping,xmlhttprequest
+/api/datafast/*
 /api/direct/*?s1=$script
 /api/drpStats
 /api/event-rfkj/*
@@ -4116,7 +4117,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /res/kj/hf*.js?v=
 /resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=weather&$domain=msn.com
 /resource/common/tongzhuo/game_info.json
-/resource?zones=
 /resources/ads/*$~xmlhttprequest
 /responsive/ad_$subdocument
 /responsive_ads.js$script
@@ -5401,6 +5401,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 bannerhost.egamingonline.com
 0.0.0.0 banners.thomsonlocal.com
 0.0.0.0 bcloudhost.com
+0.0.0.0 bfg.fjg.mybluehost.me
 0.0.0.0 bi.vhost.vn
 0.0.0.0 blog.byethost.com
 0.0.0.0 bluhostedbanners.blucigs.com
@@ -5419,6 +5420,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 ema.hostvn.net
 0.0.0.0 erectile.byethost33.com
 0.0.0.0 err.000webhost.com
+0.0.0.0 eun.vtl.mybluehost.me
 0.0.0.0 ext.host-tracker.com
 0.0.0.0 free-money.host.sk
 0.0.0.0 freehostservers.com
@@ -5457,10 +5459,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hosting.adjug.com
 0.0.0.0 hosting.conduit.com
 0.0.0.0 hosting.sextracker.com
-0.0.0.0 hosting2520545.online.pro
-0.0.0.0 hosting2554891.online.pro
 0.0.0.0 hostingfreelife.com
-0.0.0.0 hostingpark.com
 0.0.0.0 hostingprod.com
 0.0.0.0 hostnewed.online
 0.0.0.0 hostpowermedium.112.2o7.net
@@ -5481,17 +5480,18 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 localbestdating1.com
 0.0.0.0 localgoodcar.com
 0.0.0.0 localh0st.info
+0.0.0.0 localise.ch
 0.0.0.0 localo.fr
 0.0.0.0 localreche.pro
 0.0.0.0 localsearchusa.com
 0.0.0.0 localseocrew.com
+0.0.0.0 localvibes.info
 0.0.0.0 localytics.com
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 merciless.localstars.com
 0.0.0.0 murbil.hostei.com
 0.0.0.0 nba.ucp.mybluehost.me
-0.0.0.0 newshostingsupdate.com
 0.0.0.0 newyork.cbslocal.us.intellitxt.com
 0.0.0.0 nlocalhost.wordtheminer.com
 0.0.0.0 oascentral.abclocal.go.com
@@ -5550,15 +5550,16 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 webanalytics.localytics.com
 0.0.0.0 webhosting-ads.home.pl
 0.0.0.0 webhosting.hut1.ru
-0.0.0.0 webhostingcoach.com
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 wellnessmonitor.bravehost.com
 0.0.0.0 widget.secure.ownlocal.com
 0.0.0.0 www.adpeepshosted.com
 0.0.0.0 www.bcloudhost.com
+0.0.0.0 www.bfg.fjg.mybluehost.me
 0.0.0.0 www.bluecrabhosting.co.uk
 0.0.0.0 www.bohostyle.info
 0.0.0.0 www.coolfreehost.com
+0.0.0.0 www.eun.vtl.mybluehost.me
 0.0.0.0 www.freehostservers.com
 0.0.0.0 www.ghost-writer.online
 0.0.0.0 www.ghostintro.digital
@@ -5569,23 +5570,21 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostedfiles.net
 0.0.0.0 www.hostermax.com
 0.0.0.0 www.hostfacet.net
-0.0.0.0 www.hosting2520545.online.pro
-0.0.0.0 www.hosting2554891.online.pro
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hostingfreelife.com
-0.0.0.0 www.hostingpark.com
 0.0.0.0 www.hostnewed.online
 0.0.0.0 www.hostsag.com
 0.0.0.0 www.hostujmy.pl
 0.0.0.0 www.lakenormanhost.com
 0.0.0.0 www.localgoodcar.com
 0.0.0.0 www.localh0st.info
+0.0.0.0 www.localise.ch
 0.0.0.0 www.localreche.pro
 0.0.0.0 www.localsearchusa.com
 0.0.0.0 www.localseocrew.com
+0.0.0.0 www.localvibes.info
 0.0.0.0 www.localytics.com
 0.0.0.0 www.nba.ucp.mybluehost.me
-0.0.0.0 www.newshostingsupdate.com
 0.0.0.0 www.pafiilate.byethost32.com
 0.0.0.0 www.peerlocalization.com
 0.0.0.0 www.placelocal.com
@@ -5599,11 +5598,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.usr-1940.hosti24.pl
 0.0.0.0 www.valuehost.co.uk
 0.0.0.0 www.visionlocal.click
-0.0.0.0 www.webhostingcoach.com
 0.0.0.0 www.webhostingcounter.com
-0.0.0.0 www.zeppelinhostel.com
 0.0.0.0 www3.webhostingtalk.com
-0.0.0.0 zeppelinhostel.com
 012.tw#@#.ad728
 020job.com##A[href^="/Click.aspx?AdPageID="]
 0439.com###kanfang
@@ -28486,7 +28482,6 @@ zzzyk.com###Tinfo
 ||asgg.ghostbin.me^
 ||asgorebysschan.com^$popup
 ||ashfjshost.com^
-||ashfjshostax.com^
 ||ashfjshoster.com^
 ||ashfjshostyr.com^
 ||ashleyfurniture.com/ouqLB4fq/init.js
@@ -30306,7 +30301,6 @@ zzzyk.com###Tinfo
 ||cex.io/informer/
 ||cf-host.com^
 ||cf-oss.gname.net^$third-party
-||cfbwebhosting.com^
 ||cfd.ghostgloballtd.proxy844.com^
 ||cfgr3.com/videos/*.mp4$rewrite=abp-resource:blank-mp4,domain=hitbdsm.com
 ||cfmediaview.com/API/MV_Visit.ashx
@@ -30941,6 +30935,7 @@ zzzyk.com###Tinfo
 ||codeceo.com/images/*/boxuegu
 ||codeceo.com/images/2020/04/kaikebabanner.png
 ||codedexchange.com^$popup
+||codefa.st/js/script.js
 ||codegown.care^$third-party
 ||codejie.net/img/xiandai.gif
 ||codejie.net/wp-content/uploads/*/1120-50.
@@ -31655,6 +31650,7 @@ zzzyk.com###Tinfo
 ||datadoghq.eu^$third-party
 ||datadome.co^$third-party
 ||datadsk.com^$third-party
+||datafa.st/js/script.js
 ||datafa.st^$third-party
 ||datafeedfile.com/ez_banner/
 ||datafeedfile.com/widget/readywidget/
@@ -33404,6 +33400,7 @@ zzzyk.com###Tinfo
 ||fittiercutlets.top^$popup
 ||fitting-local.pro^
 ||fittingcentermondaysunday.com^$popup
+||fitymi.app/js/script.js
 ||fiverr.com/api/v1/activities
 ||fiverr.com/px/client/PXK3bezZfO/main.min.js
 ||fixcounter.com^$third-party
@@ -37752,6 +37749,7 @@ zzzyk.com###Tinfo
 ||logly.co.jp^$third-party
 ||logmatic.io^$third-party
 ||lognormal.net^$third-party
+||logofa.st/js/script.js
 ||logoquan.com/upload/prd/
 ||logr-ingest.com^$third-party
 ||logrocket.com^$third-party
@@ -39418,7 +39416,6 @@ zzzyk.com###Tinfo
 ||ngastatic.com^$third-party
 ||ngbn.net^$third-party
 ||ngfruitiesmatc.info^$popup
-||nglocalhost.com^
 ||ngmco.net^$third-party
 ||ngplansforourco.com^$popup
 ||ngpvan.com/v1/Track/
@@ -42945,6 +42942,7 @@ zzzyk.com###Tinfo
 ||shinsegae.com/topNPopup.do
 ||shinystat.com^$third-party
 ||shinystat.it^$third-party
+||shipfa.st/js/script.js
 ||shipin188.com/66
 ||shipping.jp/raa/rd.js
 ||shippinginsights.com^$third-party
@@ -43693,7 +43691,6 @@ zzzyk.com###Tinfo
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||srtrak.com^$popup
-||srv242161.hoster-test.ru^
 ||srv242497.hoster-test.ru^
 ||srv242893.hoster-test.ru^
 ||srv242917.hoster-test.ru^
@@ -45812,7 +45809,6 @@ zzzyk.com###Tinfo
 ||usa.cc^$third-party
 ||usa.localtrdds.com^
 ||usa.localtrrds.com^
-||usa.localtruds.com^
 ||usabilitytools.com^$third-party
 ||usabilla.com^$third-party
 ||usage.seibert-media.io^$third-party
