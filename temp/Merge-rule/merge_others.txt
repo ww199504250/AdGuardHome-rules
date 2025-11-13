@@ -21031,6 +21031,7 @@ qq.com##.in-top-ad
 qq.com##.jpBanner
 qq.com##.m[pbflag="guess"]
 qq.com##.maillist_ad_bar
+qq.com##.maillist_gg_bar
 qq.com##.main_ad_bottom
 qq.com##.main_ad_top
 qq.com##.masker_1111
@@ -28390,7 +28391,6 @@ zzzyk.com###Tinfo
 ||apps.nhk.jp/assets/dtm/
 ||apps.omegatheme.com/facebook-pixel/
 ||apps.webservicehost.com^
-||appservice-contactsupport.tempurl.host^
 ||appslime.com^$document
 ||appslime.com^$popup
 ||appsolutions.com/hitme?$third-party
@@ -32279,7 +32279,6 @@ zzzyk.com###Tinfo
 ||dreamteamaffiliates.com^$document
 ||dreamteamaffiliates.com^$popup
 ||dreamytabs.com^$popup
-||drewf73623828.activehosted.com^
 ||drewf73669266.activehosted.com^
 ||drewf73682253.activehosted.com^
 ||dribbble.com/client_app/events
@@ -34210,6 +34209,7 @@ zzzyk.com###Tinfo
 ||ghostnewz.com^
 ||ghostnewz.com^$popup
 ||ghostpanel.giize.com^
+||ghostporcupineschool.com^
 ||ghostrio.com^
 ||ghostsapp.com^
 ||ghostsgloams.cfd^
@@ -34764,6 +34764,7 @@ zzzyk.com###Tinfo
 ||hanjutvn.com/template/alifun/js/Tmall/
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||hannover-stadtplan.com/t.gif
+||hanschristianschmidt1758770885587.0171898.meusitehostgator.com.br^
 ||hanzify.*/Main/Template/Images/chinabank.gif
 ||hao.rising.cn/catalog/bottom.html
 ||hao.rising.cn/images/nsdgg.jpg
@@ -35213,10 +35214,8 @@ zzzyk.com###Tinfo
 ||host-host-file8.com^
 ||host-tracker.com^$third-party
 ||host-vc-fone-dx-wiem-qa.weebly.com^
-||host.ainesenb.com^
+||host-winds.com^
 ||host.ainesgfd.com^
-||host.ainesgysfd.com^
-||host.ainetwomnb.com^
 ||host.gamerg.gg^
 ||host.gsslcloud.com^
 ||host.k12insight.org^
@@ -35319,7 +35318,6 @@ zzzyk.com###Tinfo
 ||hostssp.com^
 ||hostsu.com^
 ||hostteyahoo.ddns.net^
-||hostujmy.pl^
 ||hostvy.com^
 ||hostwc.com^
 ||hostwpe.com^
@@ -36823,6 +36821,7 @@ zzzyk.com###Tinfo
 ||k5a.io/?i=
 ||k8dm.com/960x70.
 ||k99.cc^$third-party
+||kaaris-29384.portmap.host^
 ||kaas.am/hhapia/
 ||kabu-sokuhou.com/js/cpv/
 ||kad.xdt.mybluehost.me^
@@ -45821,8 +45820,6 @@ zzzyk.com###Tinfo
 ||urtyert.com^$popup
 ||us2.bot-hosting.net^
 ||usa.cc^$third-party
-||usa.localtrdds.com^
-||usa.localtrrds.com^
 ||usabilitytools.com^$third-party
 ||usabilla.com^$third-party
 ||usage.seibert-media.io^$third-party
