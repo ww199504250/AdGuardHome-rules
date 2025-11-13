@@ -2730,7 +2730,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ggtp/*
 /ggvip/*.js
 /gh/91porny/*
-/gigi/ad/*
 /gigyaGAIntegration.js
 /gingeranalytics.min.js
 /github.com/notifications/beacon=$image
@@ -10682,6 +10681,7 @@ av.movie##.adss-160x600
 av.movie##.pop-up-a
 av.movie##.video-banner
 av01.tv##.group:has(> .relative.overflow-hidden.rounded-lg.bg-gray-900.cursor-pointer)
+avbebe.com##.footer_column:nth-child(n+2)
 avclub.com##.htlad-top_leaderboard
 avclub.com,infosecurity-magazine.com,jezebel.com,nationaljeweler.com,pastemagazine.com,splinter.com,theonion.com##.dfp
 avclub.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
@@ -21453,9 +21453,9 @@ roseindia.net##.tutorialsstaticdata
 rottentomatoes.com##.leaderboard_wrapper
 rottentomatoes.com##ad-unit
 rottentomatoes.com#@#.page_ad
-rouman5.com,roum20.xyz###headlessui-portal-root
-rouman5.com,roum20.xyz##div[style^="display: flex;"]
-rouman5.com,roum20.xyz##ins
+rouman5.com###headlessui-portal-root
+rouman5.com##div[style^="display: flex;"]
+rouman5.com##ins
 royalroad.com###HomePage_Top
 royalroad.com##.dKKumhSnWiFq75vPUVtmTanQ
 royalroad.com##.light.margin-bottom-20
@@ -24814,6 +24814,7 @@ xcafe.com##iframe[src]
 xcar.com.cn###eMeng
 xcar.com.cn###show_car
 xcar.com.cn##div[class^="adset"]
+xchina.co##.block-overlay
 xclient.info###pop_business
 xcritic.com##a[href^="http://www.adultdvdempire.com/"][href*="?partner_id="]
 xcum.com##.btn-ponsor
@@ -26644,7 +26645,6 @@ zzzyk.com###Tinfo
 ||92uq.com/Ads/
 ||933m.com/1.js
 ||9354ee72.xyz^$document,popup
-||941novel.com/wp-content/uploads/*.gif
 ||94597672.xyz^$document,popup
 ||94994.com*/js/plugin/shoppingMall/
 ||949949.com/2013/end/hot_news.js
@@ -33338,6 +33338,7 @@ zzzyk.com###Tinfo
 ||fiksu.com^$third-party
 ||file-file-host4.com^
 ||file-upload.net/include/mitte-orig.php
+||file1132host65.cyou^
 ||fileboom.me/images/i/$third-party
 ||filecrypt.cc/pdb.html
 ||filefreehost.com^
@@ -34221,7 +34222,6 @@ zzzyk.com###Tinfo
 ||ghostssquadpoints.dlcodes.com^
 ||ghostteamone.com^
 ||ghostwoodalbum.com^
-||ghostwritingsinc.com^
 ||gianteagle.com/webevents/
 ||giaoji.com/Runtime/Js/
 ||gias.jd.com/js/td.js
@@ -35219,7 +35219,6 @@ zzzyk.com###Tinfo
 ||host-tracker.com^$third-party
 ||host-vc-fone-dx-wiem-qa.weebly.com^
 ||host-winds.com^
-||host.ainesgfd.com^
 ||host.gamerg.gg^
 ||host.gsslcloud.com^
 ||host.k12insight.org^
@@ -35287,6 +35286,7 @@ zzzyk.com###Tinfo
 ||hostingcloud.party
 ||hostingcloud.racing^
 ||hostingcloud.science^
+||hostingdanfe.store^
 ||hostinger.com/api-proxy/api/sentry/
 ||hostingfile.live^
 ||hostingjo.com^
@@ -36372,6 +36372,7 @@ zzzyk.com###Tinfo
 ||itracker360.com^$third-party
 ||itrackerpro.com^$third-party
 ||itracmediav4.com^$third-party
+||itrevolut-limiti-personali.dreamhosters.com^
 ||itrustzone.site^$popup
 ||itrxx.com^$third-party
 ||itskiddien.club^$popup
@@ -37720,6 +37721,7 @@ zzzyk.com###Tinfo
 ||localmediabuying.com^
 ||localo.fr^
 ||localpoint.ch^
+||localpulsewatch.pro^
 ||localreporting.pro^
 ||locals.dating^
 ||localsearch24.co.uk^
@@ -38523,6 +38525,7 @@ zzzyk.com###Tinfo
 ||microanalytics.io^$third-party
 ||microcontrol.cn/HomeImages/AD/
 ||microcounter.de^$third-party
+||microhosting.pro^
 ||micropage.cn/images/ad_
 ||microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/exp-analytics/
 ||mictests.com/myshowroom/view.php$subdocument
@@ -39742,7 +39745,6 @@ zzzyk.com###Tinfo
 ||odoscope.com^$third-party
 ||odrama.net/images/clicktoplay.jpg
 ||odsyms15.com/impression?
-||odtie.lotkgt.host^
 ||odysee.com/api/v1/metric/
 ||odysee.com/log/
 ||odysee.com/reports/
@@ -42247,6 +42249,7 @@ zzzyk.com###Tinfo
 ||rou.video/_next/static/chunks/pages/fuli-
 ||roudoduor.com^$popup
 ||rougloujouwoate.com^$popup
+||rouman5.com/js/clickadu.
 ||roundcube-production-cf.tx1.mailhostbox.com^
 ||rounddescribe.com^$popup
 ||roundflow.net^$document
