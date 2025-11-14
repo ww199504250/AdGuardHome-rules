@@ -28597,6 +28597,7 @@ zzzyk.com###Tinfo
 ||atsg.me^$document
 ||atsg.me^$popup
 ||atsptp.com^$third-party
+||att.com/scripts/adobe/prod/marketing.min.js
 ||att.ydss.cn/attachments/portal/
 ||attachedkneel.com^$popup
 ||attn.tv/tag/
@@ -30323,7 +30324,6 @@ zzzyk.com###Tinfo
 ||cex.io/informer/
 ||cf-host.com^
 ||cf-oss.gname.net^$third-party
-||cfd.ghostgloballtd.proxy844.com^
 ||cfgr3.com/videos/*.mp4$rewrite=abp-resource:blank-mp4,domain=hitbdsm.com
 ||cfmediaview.com/API/MV_Visit.ashx
 ||cftrack.com^$third-party
@@ -33026,6 +33026,7 @@ zzzyk.com###Tinfo
 ||excnn.com/templates/anime/sexybookmark/js/popup.js
 ||exdynsrv.com^$popup
 ||exe.bid^$third-party
+||exect-localiser.fr^
 ||execute-api.*.amazonaws.com/forms-impressions
 ||exelator.com^$domain=disqus.com
 ||exelator.com^$third-party
@@ -37712,6 +37713,7 @@ zzzyk.com###Tinfo
 ||localise.ch^
 ||localiser-app.fr^
 ||localiser-apple.fr^
+||localiser-exect.fr^
 ||localiser-map.fr^
 ||localiser-services.fr^
 ||localiser-verifier.fr^
