@@ -3717,6 +3717,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /partnerbanner.$~xmlhttprequest,domain=~toltech.cn
 /partnermetrics.js
 /partners/ads/*$image
+/pay/collect|$xmlhttprequest
 /paypic/*
 /pbasitetracker.min.js
 /pbjsandwichdirecta9-$script
@@ -7649,6 +7650,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||app.clarity.so^$~third-party
 @@||app.clickfunnels.com/assets/lander.js$script,domain=propanefitness.com
 @@||app.hubspot.com/api/ads/$~third-party
+@@||app.hype.it/assets/packages/mixpanel_flutter/assets/mixpanel.js$~third-party
 @@||app.veggly.net/plugins/cordova-plugin-admobpro/www/AdMob.js$script,~third-party
 @@||apple.com^$generichide
 @@||appledaily.com.hk/admedia/
@@ -36072,6 +36074,7 @@ zzzyk.com###Tinfo
 ||instancesflushedslander.com^$popup
 ||instant-adblock.xyz^$popup
 ||instant-gaming.com/affgames/
+||instant.one/a/tk
 ||instant.page^$third-party
 ||instantbannercreator.com^$third-party
 ||instantpaydaynetwork.com^$popup
@@ -40412,7 +40415,6 @@ zzzyk.com###Tinfo
 ||pecialukizeias.info^$popup
 ||peer39.com^$third-party
 ||peerius.com^$third-party
-||peerlocalization.com^
 ||peethach.com^$popup
 ||peezette-intial.com^$popup
 ||pega.com/logserver
