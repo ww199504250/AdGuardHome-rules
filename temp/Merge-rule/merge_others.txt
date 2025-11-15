@@ -17757,7 +17757,9 @@ kingcard.com.tw#@##adbox
 kingkong.com.tw##.public-activity
 kingkong.com.tw##.room-banner-wrap
 kingmodapk.net,online-calculator.org##[style*="height:300px"]
+kingmods.net##.banner-ad
 kingmods.net##[data-ad-wrapper-slot]
+kingmods.net##[x-data="nativeAd"]
 kingsleague.pro###partnersGrid
 kingsofchaos.com#@#.textad
 kinox.lat##a[href^="/engine/player.php"]
@@ -27137,9 +27139,7 @@ zzzyk.com###Tinfo
 ||adjungle.com^$third-party
 ||adjust.com^$script,third-party
 ||adk2.co^$popup
-||adk2.co^$third-party
 ||adk2.com^$popup
-||adk2.com^$third-party
 ||adk2x.com^$popup
 ||adk2x.com^$third-party
 ||adklip.com^$third-party
@@ -28451,7 +28451,6 @@ zzzyk.com###Tinfo
 ||ardoqxdinqucirei.info^$popup
 ||ardsklangr.com^$popup
 ||ardslediana.com^$popup
-||ardssandshrewon.com^$document
 ||ardssandshrewon.com^$popup
 ||area51.to^$third-party
 ||arena-quantum.co.uk^$third-party
@@ -28971,7 +28970,6 @@ zzzyk.com###Tinfo
 ||bamgrid.com/dust$domain=~disneyplus.com
 ||bamgrid.com/telemetry
 ||ban-host.ru^
-||ban-host.ru^$third-party
 ||ban.su^$third-party
 ||bance.jp/bnctag.js
 ||bangdom.com^$third-party
@@ -29148,7 +29146,6 @@ zzzyk.com###Tinfo
 ||becomeapartner.io^$popup
 ||becoquin.com^$popup
 ||becorsolaom.com^$popup
-||beead.co.uk^$third-party
 ||beead.net^$third-party
 ||beehiiv.com^*/ad_network/
 ||beemray.com^$third-party
@@ -29204,7 +29201,6 @@ zzzyk.com###Tinfo
 ||benfly.net^$third-party
 ||beniluuxen.com^$popup
 ||benjamingroff.com/uploads/images/ads/
-||bennyjason5.activehosted.com^
 ||benoopto.com^$popup
 ||bentonow.com^$third-party
 ||benumelan.com^$popup
@@ -29824,7 +29820,6 @@ zzzyk.com###Tinfo
 ||btguard.com/images/
 ||btime.com/api/weblog?
 ||btinternet5676.activehosted.com^
-||btinternet98715.activehosted.com^
 ||btkat.com/style/l.js
 ||btmao.cc/Public/yd/
 ||btmovi.in/static/js/xf.js
@@ -30153,7 +30148,6 @@ zzzyk.com###Tinfo
 ||cashgzb.com^$document
 ||cashgzb.com^$popup
 ||cashthat.com^$third-party
-||casino-zilla.com^$third-party
 ||casino.betsson.com^$popup
 ||casinobonusdeals.io^$document
 ||casiyouaffiliates.com^$popup
@@ -32326,6 +32320,7 @@ zzzyk.com###Tinfo
 ||dsb68d.com^$document
 ||dsb68d.com^$popup
 ||dscgirls.live/*/vast$third-party
+||dscrba7gv.localto.net^
 ||dshangyan.com/pc/advertising/
 ||dsmmadvantage.com^$third-party
 ||dsmstats.com^$third-party
@@ -34368,7 +34363,6 @@ zzzyk.com###Tinfo
 ||go2cdn.org/brand/$third-party
 ||go2crystalroll.com^$popup
 ||go2linkfast.com^$popup
-||go2linktrack.com^$document
 ||go2linktrack.com^$popup
 ||go2offer-1.com^$document
 ||go2offer-1.com^$popup
@@ -37088,7 +37082,6 @@ zzzyk.com###Tinfo
 ||kostenlose-counter.com^$third-party
 ||kostool.cn/screenshot/
 ||kour.io/api/track
-||kovla.com^$third-party
 ||koyi.pub/wp-content/plugins/dh-anti-adblocker/
 ||koyso.com/aclib.js
 ||koyso.com/static/js/abcd.
@@ -38421,7 +38414,6 @@ zzzyk.com###Tinfo
 ||meizhou.com/images/topbanner
 ||melhorplano.net/scripts/tracker/
 ||mellow.tel^$third-party
-||meloads.com^$third-party
 ||membrana.media^$third-party
 ||memcyco.com^$third-party
 ||memecounter.com^$third-party
@@ -40132,7 +40124,6 @@ zzzyk.com###Tinfo
 ||outputter.io/uploads/$subdocument
 ||outster.com^$third-party
 ||outwingullom.com^$popup
-||ouzalruksengung.com^$document
 ||ouzalruksengung.com^$popup
 ||oval.id/tracker/
 ||ovardu.com^$document
@@ -40324,6 +40315,7 @@ zzzyk.com###Tinfo
 ||pastemytxt.com/download_ad.jpg
 ||pasxfixs.com^$popup
 ||path-2-happiness.com/*/select_adv
+||pathostotquot.shop^
 ||patio-furniture.dreamhoster.com^
 ||patreon.com/api/tracking
 ||patronimproveyourselves.com^$popup
@@ -43160,7 +43152,6 @@ zzzyk.com###Tinfo
 ||sinajs.cn/t6/home/js/pl/guide/adforfqy/
 ||sinajs.cn/t6/home/js/pl/guide/bigday/
 ||sing-tracker.com^$popup
-||singaporetradingchallengetracker1.com^$document
 ||singaporetradingchallengetracker1.com^$popup
 ||singelstodate.com^$document
 ||singelstodate.com^$popup
@@ -44237,7 +44228,6 @@ zzzyk.com###Tinfo
 ||swiftypecdn.com/te.js$third-party
 ||swinity.com^$popup
 ||swiss-counter.com^$third-party
-||switchadhub.com^$third-party
 ||swncdn.com/ads/$domain=christianity.com
 ||swomanifefashionis.org^$popup
 ||swoole.com/_images/kundian
@@ -45352,6 +45342,7 @@ zzzyk.com###Tinfo
 ||triptease.net^$third-party
 ||tritondigital.com/ondemand/impression?
 ||trivago.com/tracking/
+||trizorbridge.ghost.io^
 ||trjs.mediafin.be/loader/trmfn-loader.js
 ||trk-access.com^$popup
 ||trk-vod.com^$popup
@@ -45413,6 +45404,7 @@ zzzyk.com###Tinfo
 ||trunblock.com^$third-party
 ||truoptik.com^$third-party
 ||trust-provider.com^*/trustlogo.js$third-party
+||trust007-44490.portmap.host^
 ||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustarc.mgr.consensu.org/get?
@@ -45717,7 +45709,6 @@ zzzyk.com###Tinfo
 ||undom.net^$third-party
 ||undress.app/ad_banners/
 ||unecne.com/wp-content/uploads/*ad-
-||ungiblechan.com^$document
 ||ungiblechan.com^$popup
 ||unheadedsouptotal.com^$popup
 ||uni-duesseldorf.de/cgi-bin/nph-count?
