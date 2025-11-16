@@ -15341,6 +15341,7 @@ geekzone.co.nz##td[colspan="3"].forumRow[style="border-right:solid 1px
 gelbooru.com##.footerAd
 gelbooru.com##.footerAd2
 gelbooru.com##.headerAd
+gelbooru.com##[style$="height: 250px; "]
 gelbooru.com##a[href^="//tsyndicate.com/"]
 gelbooru.com,xozilla.com##[style^="height: 250px
 gemini.yahoo.com#@#.ads
@@ -18175,7 +18176,7 @@ line.me##.midAdModule-root
 lineageos18.com###contentLocker
 lingohut.com##.al-board
 lingojam.com###adsense-area-label
-linkedin.com##[componentkey*="_expandedurn:li:sponsoredContentV2"]
+linkedin.com##[componentkey*="urn:li:sponsoredContentV2"]
 linkedin.com##article[data-is-sponsored]
 linkedin.com##iframe[componentkey$="_ad"]
 linkedin.com##iframe[title="Advertisement"]
@@ -20401,6 +20402,8 @@ pinchofyum.com##.adthrive_header_ad
 pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 ping.chinaz.com##.sth > .col-red
+ping0.cc###websites-wrap:has([rel$="sponsored"])
+ping0.cc##.aditems
 pinggu.org##.banner2015
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
@@ -36841,6 +36844,7 @@ zzzyk.com###Tinfo
 ||kalvin.cn/page/img/
 ||kamalafooner.space^$popup
 ||kamazcentr.nichost.ru^
+||kamazec-35137.portmap.host^
 ||kameleoon.com^$third-party
 ||kameleoon.eu^$third-party
 ||kameleoon.io/visit/events?
@@ -37296,7 +37300,6 @@ zzzyk.com###Tinfo
 ||leadplan.ru/api/visitor/
 ||leads.media-tools.realestate.com.au/conversions.js
 ||leadsecnow.com^$popup
-||leadshurriedlysoak.com^$document
 ||leadshurriedlysoak.com^$popup
 ||leadsius.com^$third-party
 ||leadslabpixels.net^$third-party
@@ -37715,7 +37718,6 @@ zzzyk.com###Tinfo
 ||localiser-services.fr^
 ||localiser-verifier.fr^
 ||localisuivpylpip.fr^
-||locallyskags.world^
 ||localmantra.com^
 ||localmediabuying.com^
 ||localo.fr^
@@ -37898,7 +37900,6 @@ zzzyk.com###Tinfo
 ||lurdoocu.com^$popup
 ||lurgaimt.net^$popup
 ||lusinlepading.com^$popup
-||lust-burning.rest^$document
 ||lust-burning.rest^$popup
 ||lust-goddess.buzz^$popup
 ||lustfulmatures.com/sod/
@@ -39282,7 +39283,6 @@ zzzyk.com###Tinfo
 ||netpub.media^$third-party
 ||netquattro.com/stats/
 ||netratings.com^$third-party
-||netrefer.co^$document
 ||netrefer.co^$popup
 ||netrefer.com^$third-party
 ||netreviews.eu/index.php?action=act_access&$third-party
@@ -39549,7 +39549,6 @@ zzzyk.com###Tinfo
 ||nossairt.net^$popup
 ||nosto.com/analytics/
 ||notebrains.com^$image,domain=businessworld.in
-||nothingfairnessdemonstrate.com^$document
 ||notifadz.com^$third-party
 ||notifpushnext.net^$popup
 ||notify.solutions^$third-party
@@ -40860,7 +40859,6 @@ zzzyk.com###Tinfo
 ||poptraf.
 ||poptropica.com/brain/track.php?
 ||populationrind.com^$popup
-||populationstring.com^$document
 ||populr.me^$third-party
 ||popunder.
 ||popunder.bid^$popup
@@ -41867,7 +41865,6 @@ zzzyk.com###Tinfo
 ||recobell.io/rest/logs?
 ||recogerconsentimiento.com/consent/
 ||recognified.net^$third-party
-||recommended-twice.com^$document
 ||recommended-twice.com^$popup
 ||recompensecombinedlooks.com^$popup
 ||record.affiliatelounge.com^$popup
@@ -42012,7 +42009,6 @@ zzzyk.com###Tinfo
 ||reporo.net^$popup
 ||report-uri.com^$third-party
 ||report-uri.io^$third-party
-||representhostilemedia.com^
 ||reprintvariousecho.com^$popup
 ||reprocautious.com^$third-party
 ||reproio.com^$third-party
@@ -42556,7 +42552,6 @@ zzzyk.com###Tinfo
 ||scoot.co.uk/ajax/log_
 ||scoot.co.uk/delivery.php
 ||scootloor.com^$third-party
-||score-feed.com^$document
 ||score-feed.com^$popup
 ||scorecardresearch.com^$third-party
 ||scoredconnect.com^$popup
@@ -43706,8 +43701,6 @@ zzzyk.com###Tinfo
 ||srpx.net^$third-party
 ||srtrak.com^$popup
 ||srv242893.hoster-test.ru^
-||srv242917.hoster-test.ru^
-||srv243177.hoster-test.ru^
 ||srv243189.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srv335634894hoster.cfolks.pl^
@@ -45044,7 +45037,6 @@ zzzyk.com###Tinfo
 ||tovery.net^$third-party
 ||tower.jp/bundle/beacon
 ||townnews.com/tucson.com/content/tncms/live/libraries/flex/components/ads_dfp/
-||tox.rsh.mybluehostin.me^
 ||toxtren.com^$popup
 ||toyota.com/analytics/
 ||tozoruaon.com^$popup
@@ -45504,7 +45496,6 @@ zzzyk.com###Tinfo
 ||turbobit.net/pus/
 ||turboviplay.com/ads_gala.js
 ||turkmenportal.com/images/uploads/banners/
-||turkolocalproducts.com^
 ||turn.com^$third-party
 ||turndynamicforbes.com^$popup
 ||turnhub.net^$popup
@@ -46681,6 +46672,7 @@ zzzyk.com###Tinfo
 ||werbestandard.de/out2/$popup
 ||werkenntdenbesten.de/js/tracking.
 ||werkenntdenbesten.de/pd.js
+||werlytdety.cloudaccess.host^
 ||west.cn/vcp/getJScode/
 ||westca.com/server/
 ||westcoa.com^$popup
