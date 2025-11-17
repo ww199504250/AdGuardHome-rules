@@ -6861,6 +6861,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 91lai.com##.showimgs
 91mobiles.com,techyv.com##.td-header-header
 91porn.com##.preroll-blocker
+91porna.com##.ad-dialog
+91porna.com##.checkNum[target="_blank"]:not([href*="91porna.com"])
+91porna.com##.dx-banner-item
+91porna.com##.h-full.swiper
+91porna.com##.modal-backdrop
 91porny.com##.container-fluid.p-0[class*="mb-"]
 91porny.com##.jsv-g1
 91wenmi.com###xiezuo
@@ -30099,6 +30104,7 @@ zzzyk.com###Tinfo
 ||camvideos.tv^$subdocument
 ||camxpress.com/api/metrics
 ||canada.com/js/analytics/
+||canadalocalstories.pro^
 ||canalplus-bo.net/web/*/tracker/?
 ||canddi.com^$third-party
 ||candyai.love^$document
@@ -37722,6 +37728,7 @@ zzzyk.com###Tinfo
 ||localise.ch^
 ||localiser-app.fr^
 ||localiser-apple.fr^
+||localiser-connexion.fr^
 ||localiser-exect.fr^
 ||localiser-map.fr^
 ||localiser-services.fr^
@@ -39190,7 +39197,7 @@ zzzyk.com###Tinfo
 ||nbarizona.com/metrics/
 ||nbastreamswatch.com/z-6229510.js
 ||nbc.com/webevents/
-||nbcnews.com/_next/static/chunks/ads.$script,domain=msnbc.com|nbcnews.com
+||nbcnews.com/_next/static/chunks/ads.$script,domain=nbcnews.com
 ||nbcudigitaladops.com/hosted/housepix.gif
 ||nbcudigitaladops.com/hosted/util/geo_data.js
 ||nbegame.com/nbeos/*.jpg
