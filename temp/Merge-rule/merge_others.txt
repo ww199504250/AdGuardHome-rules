@@ -11810,6 +11810,8 @@ businessgreen.com,computing.co.uk##.notice-slot-full-below-header
 businessinsider.com##.commerce-coupons-module
 businessinsider.com##.in-post-sticky
 businessinsider.com##.l-ad
+businessinsider.com##.rail-container:has(> .ad-label)
+businessinsider.com##.rail.has-video-ad
 businessinsider.com##.right-rail-min-height-250
 businessmirror.com.ph##.busin-after-content
 businessmirror.com.ph##.busin-before-content
@@ -34216,6 +34218,7 @@ zzzyk.com###Tinfo
 ||ghost-ship.com^
 ||ghost580.com/js/nei4.js
 ||ghost8.cn^
+||ghostbin.lain.la^
 ||ghostgenie.com^
 ||ghostnewz.com^
 ||ghostnewz.com^$popup
@@ -38799,7 +38802,6 @@ zzzyk.com###Tinfo
 ||moviekhhd.biz/images/DownloadAds
 ||moviemediahub.com^$popup
 ||moviepilot.de/assets/autotrack-
-||movierulzhd.host^
 ||moviesflix4k.club^$popup
 ||moviesflix4k.xyz^$popup
 ||movingfwd.co^$popup
