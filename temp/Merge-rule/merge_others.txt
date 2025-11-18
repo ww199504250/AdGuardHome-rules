@@ -283,6 +283,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .com/by389.js$script,third-party
 .com/clk?
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
+.com/config/v7.js
 .com/core/js/the_pf.js
 .com/count?
 .com/counter?
@@ -535,6 +536,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .online.costco.com/t?$image
 .org/ad/$domain=~ylilauta.org
 .org/ads/$~xmlhttprequest
+.org/config/v7.js
 .org/js/ads/
 .org/script/compatibility.js$third-party
 .org/topjs/
@@ -26237,7 +26239,6 @@ zzzyk.com###Tinfo
 ||4hw.com.cn/js/common.js
 ||4kporn.xxx/static/analytics/
 ||4link.it^$third-party
-||4localdealer.com^
 ||4mxlrhcab.localto.net^
 ||4myrb8zoe.localto.net^
 ||4mythtracker.xyz^$third-party
@@ -33483,7 +33484,6 @@ zzzyk.com###Tinfo
 ||flxpxl.com^$third-party
 ||flya.me/eventtrack
 ||flyersquare.com^$third-party
-||flyhost.org^
 ||flyingadvert.com^$document
 ||flyingadvert.com^$popup
 ||flyingpt.com^$third-party
@@ -37176,7 +37176,6 @@ zzzyk.com###Tinfo
 ||lanrenzhijia.com/Public/images/sucaihuo_
 ||lanrenzhijia.com/Public/images/xiaozhua.jpg
 ||lanyes.org/content/templates/lanye2015/images/hb_banner.png
-||lanzary-28116.portmap.host^
 ||laod.cn/wp-content/uploads/*/ad-
 ||laogu.com/cms/images/ad
 ||laosiji.com/static/js/lib/od_statistics.js
@@ -45506,7 +45505,6 @@ zzzyk.com###Tinfo
 ||tunein.com/api/v1/log/
 ||tungsahurchik228-49806.portmap.host^
 ||tunnl.com^$third-party
-||tunshixingkong2.com/config/v7.js
 ||turb.cc/fd1/img/promo/
 ||turbobit.net/fd1/js/brinpopup.js
 ||turbobit.net/js/analytics/
