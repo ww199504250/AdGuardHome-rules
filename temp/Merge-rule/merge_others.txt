@@ -9903,7 +9903,7 @@ adblock-tester.com##object[width="240"]
 adbug.cn#@#.google_ads
 addictivetips.com###at_popup_modal
 addictivetips.com,argonauts.ca,automotive-fleet.com,businessfleet.com,cfl.ca,developer.mozilla.org,forbesindia.com,government-fleet.com,howsecureismypassword.net,ncaa.com,rigzone.com,schoolbusfleet.com,seekvectorlogo.net,snipercentral.com,wltreport.com##.top-banner
-addictivetips.com,coinweek.com,flashbak.com,lmanime.com,news365.co.za,simscommunity.info##.custom-html-widget
+addictivetips.com,coinweek.com,flashbak.com,lmanime.com,news365.co.za,simscommunity.info,tech-fairy.com##.custom-html-widget
 additivemanufacturing.media,compositesworld.com,ptonline.com##.DisplayBar
 additudemag.com,organicfacts.net,vinepair.com##.header-ad
 adeam.com#@#.atf-wrapper
@@ -13377,6 +13377,8 @@ defenseworld.net,marketbeat.com###mb-bar
 defiantamerica.com##.defia-widget
 definebabe.com##.right-sidebar
 definebabe.com##.subheader
+defkey.com##.stickyTop
+defkey.com##.visible-lg:has-text(Advertisement)
 delicious.com.au,taste.com.au##.prom-header
 delish.com##.css-3oqygl
 deluxemusic.tv#@#.article_ad
@@ -15564,6 +15566,8 @@ golf.com##.golf-ad
 golfdigest.com##.adSlot
 golfdigest.com##.midslot
 golfdigest.com##.o-ArticleRecirc
+golfgalaxy.com###sponsored-product
+golfgalaxy.com##div.hmf-position-relative:has(.sponsored)
 golflink.com##.desktop-top-fixed-ad
 golflink.com,yourdictionary.com##.ui-advertisement
 golfmagic.com,kbb.com,thisismoney.co.uk##.sticky-container
@@ -16775,6 +16779,7 @@ img2go.com,vuejs.org##.text-ad
 imgbabes.com##div[style^="width:604px;"]
 imgbb.com##.abnr
 imgbox.com###full-page-redirect
+imgbox.com##[style="display: inline-block;width:300px;height:250px"]
 imgburn.com##font[face="Arial"][size="1"]
 imggen.ai,iplogger.org,wallhere.com,webnots.com,wikitechy.com##div[id^="bsa-zone_"]
 imginn.com##div[class$="-money"]
@@ -17760,6 +17765,8 @@ khmertimeskh.com##.swiper-container-horizontal
 khmertimeskh.com##.swiper-wrapper
 kickasstorrents.to##.dssdffds
 kickasstorrents.to##a[href^="/download/"]
+kids-in-mind.com##.AdvallyContainer
+kids-in-mind.com##.et_pb_code_inner:has-text(advertisement)
 kidspot.com.au##.secondary-video
 kijiji.ca##.adChoices-804693302
 kijiji.ca##.gqNGFh
@@ -18123,6 +18130,7 @@ letv.com##.fl_app_wrap
 letv.com##.newyear_red_bot_wrap
 letv.com##.newyear_red_wrap
 letv.com##.vip_popBox
+levelgeeks.com###sticky-banner
 lewdgamer.com##div[id^="spot-"]
 lewdgames.to,otomi-games.com,ryuugames.com##[href^="https://golove.ai/"]
 lewdninja.com##.stargate
@@ -22821,6 +22829,7 @@ teachit.co.uk##.view-advertising-display
 teamfortress.tv###aw
 teamfortress.tv##.bau
 teamfortress.tv##.sau
+tech-fairy.com##[href^="https://apps.apple.com/gb/app/"]
 tech.co##.vc_col-sm-4
 tech.hindustantimes.com##.ProductAffilateWrapper
 tech.hindustantimes.com##.adsHeight720x90
@@ -26065,7 +26074,6 @@ zzzyk.com###Tinfo
 ||321mh.com/v1/getadvertise?
 ||32472254.xyz^$document,popup
 ||32xp.com/upimg/
-||3317589.ep601962.web.hosting-test.net^
 ||333uu.org/config/
 ||33445522.com//admin/adv/
 ||3344ex.com/js/1playerad.js
@@ -33316,7 +33324,6 @@ zzzyk.com###Tinfo
 ||filehippo.com/best-recommended-apps^
 ||filehippo.com/revamp.js
 ||filehostfree.netlify.app^
-||filehosting-6rc.pages.dev^
 ||filehostingz.com^
 ||filemoon-*/js/baf.js
 ||filemoon.*/js/baf.js
@@ -34775,6 +34782,7 @@ zzzyk.com###Tinfo
 ||hardbritlads.com/banner/
 ||hardcoreluv.com/hmt.gif
 ||hariken.co^$third-party
+||harpygt-37577.portmap.host^
 ||harrowliquid.com^$popup
 ||harryrosen.com/analytics/
 ||hartgeld.com/cgi-sys/Count.cgi?
@@ -35193,7 +35201,6 @@ zzzyk.com###Tinfo
 ||host.pornolenta.cc^
 ||host.roxiapp.com^
 ||host.sogoforms.com^
-||host.tempoestil.com^
 ||host0.tikmaps.com^
 ||host00.com^
 ||host11.traffic-builders.com^
@@ -35253,7 +35260,6 @@ zzzyk.com###Tinfo
 ||hostingcloud.party
 ||hostingcloud.racing^
 ||hostingcloud.science^
-||hostingdanfe.store^
 ||hostinger-wwckxewfyujojngbkjxdudnf.pages.dev^
 ||hostinger.com/api-proxy/api/sentry/
 ||hostingfile.live^
@@ -37438,7 +37444,6 @@ zzzyk.com###Tinfo
 ||likedatings.life^$popup
 ||likemore-go.imgsmail.ru^$image
 ||lilinstall11x.com^$popup
-||lim107.truehost.cloud^
 ||limbik.com/static/tracking-script.js
 ||lindychat.com^$document
 ||lindychat.com^$popup
@@ -43928,7 +43933,6 @@ zzzyk.com###Tinfo
 ||statuncore.com^$third-party
 ||stawhoph.com^$popup
 ||stay22.com/api/sponsors/
-||stayaslocal.com^
 ||stayforlong.com/api/kafka/tracking
 ||staysafeonlinetoday.com^$document
 ||stayz.com.au/cl/data/omgpixel.json
@@ -44188,7 +44192,6 @@ zzzyk.com###Tinfo
 ||support.github.com/session/user
 ||support.google.com/apis/logjourney
 ||supportxmr.com^$third-party
-||suprakini3-53700.portmap.host^
 ||suprakini3-55449.portmap.host^
 ||suprakinini-50793.portmap.host^
 ||supremeadblocker.com^$popup
@@ -44535,6 +44538,7 @@ zzzyk.com###Tinfo
 ||telemetry.host^
 ||telerama.fr/*&ptag=
 ||teletarget.ru^$third-party
+||telia-network.tempurl.host^
 ||telize.com^$third-party
 ||teljari.is^$third-party
 ||tellapart.com^$third-party
