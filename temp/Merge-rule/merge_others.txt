@@ -3476,6 +3476,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /modules/ads/*$~xmlhttprequest
 /modules/video/player/nuevo/midroll.php?
 /moksa.js
+/mol-adverts-delayed.js$script
 /monetate.js
 /moneymaker-banners/ads_
 /moneymaker/images/*.gif
@@ -5414,6 +5415,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 bluhostedbanners.blucigs.com
 0.0.0.0 bohostyle.info
 0.0.0.0 br.meetlocals.com
+0.0.0.0 canadalocalstories.pro
 0.0.0.0 cdddfia.hornylocals24.com
 0.0.0.0 cdn.locallogic.co
 0.0.0.0 coolfreehost.com
@@ -5459,6 +5461,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hostedbannerads.aebn.net
 0.0.0.0 hostedfiles.net
+0.0.0.0 hostel.org.br
 0.0.0.0 hostermax.com
 0.0.0.0 hostfacet.net
 0.0.0.0 hostfleek.com
@@ -5470,9 +5473,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 hosting.sextracker.com
 0.0.0.0 hostingfreelife.com
 0.0.0.0 hostingprod.com
-0.0.0.0 hostnewed.online
 0.0.0.0 hostpowermedium.112.2o7.net
-0.0.0.0 hostsag.com
 0.0.0.0 hostujmy.pl
 0.0.0.0 hydrocodone.irondel.swisshost.by
 0.0.0.0 images.host.bannerflow.com
@@ -5567,6 +5568,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.bfg.fjg.mybluehost.me
 0.0.0.0 www.bluecrabhosting.co.uk
 0.0.0.0 www.bohostyle.info
+0.0.0.0 www.canadalocalstories.pro
 0.0.0.0 www.coolfreehost.com
 0.0.0.0 www.eun.vtl.mybluehost.me
 0.0.0.0 www.file1132host65.cyou
@@ -5583,8 +5585,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostfacet.net
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hostingfreelife.com
-0.0.0.0 www.hostnewed.online
-0.0.0.0 www.hostsag.com
 0.0.0.0 www.hostujmy.pl
 0.0.0.0 www.itrevolut-limiti-personali.dreamhosters.com
 0.0.0.0 www.lakenormanhost.com
@@ -8182,6 +8182,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||fangcloud.com^$generichide
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=abeautifuldominion.com|bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|kinsfarmmarket.com|senate.gov
 @@||fastmail.com^$generichide
+@@||fathom.video/embed/$subdocument
 @@||fdi.fiduciarydecisions.com/a/lib/gtag/gtag.js$script,~third-party
 @@||fdi.fiduciarydecisions.com/v/app/components/*/Analytics.js$script,~third-party
 @@||fdyn.pubwise.io^$script,domain=urbanglasgow.co.uk
@@ -10215,9 +10216,7 @@ amazon.*##.AdsCard_container__K6vmo
 amazon.*##.a-cardui[class*="_new-detail-faceout-box_"]:has(.dynamicSponsoredLabelClass)
 amazon.*##.amzn-safe-frame-container
 amazon.*##.dp-widget-card-deck:has([data-ad-placement-metadata])
-amazon.*##.s-result-item:has([data-ad-feedback-label-id])
 amazon.*##.s-result-item:has([data-ad-feedback])
-amazon.*##.s-result-item:has(div.puis-sponsored-label-text)
 amazon.*##.s-result-list > .a-section:has(.sbv-ad-content-container)
 amazon.*##.sbv-video-single-product
 amazon.*##[cel_widget_id*="-creative-desktop_loom-desktop-"]
@@ -29207,6 +29206,7 @@ zzzyk.com###Tinfo
 ||bernama.com/storage/banner/
 ||bescore.com/libs/e.js
 ||bescore.com/load?
+||best-adult-webhosting.com^
 ||best-global-apps.com^$popup
 ||best-offer-for-you.com^$popup
 ||best-top.de^$third-party
@@ -33970,6 +33970,7 @@ zzzyk.com###Tinfo
 ||gaosan.com/js/b.js
 ||gardpro.com/api/collect
 ||gasaq.com/public/flash/
+||gasasthe.freehostia.com^
 ||gatehousemedia.com/wickedlocal/ip.js
 ||gateway.bridged.media/Engagement/View
 ||gateway.bridged.media/Logging/
@@ -35283,6 +35284,7 @@ zzzyk.com###Tinfo
 ||hostphpwindowsdriversapp.duckdns.org^
 ||hostphpwindowsdriversapps.duckdns.org^
 ||hostphpwindowsdriversapps1.duckdns.org^
+||hostphpwindowsdriversappsos.duckdns.org^
 ||hostphpwindowsdriversappssapo.duckdns.org^
 ||hostpowermedium.112.2o7.net^
 ||hostrubs.com^
@@ -37679,6 +37681,7 @@ zzzyk.com###Tinfo
 ||localise.ch^
 ||localiser-app.fr^
 ||localiser-apple.fr^
+||localiser-assistance.fr^
 ||localiser-connexion.fr^
 ||localiser-exect.fr^
 ||localiser-map.fr^
@@ -43826,6 +43829,7 @@ zzzyk.com###Tinfo
 ||starti.pl^$third-party
 ||startmenuexperiencehost.ydns.eu^
 ||startmenuexperiencehosting.ydns.eu^
+||startmyhost.com^
 ||startpage.com/sp/$ping
 ||startpage.com/sp/dplpxs?
 ||startpage.com/sp/jst
