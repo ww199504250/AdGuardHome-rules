@@ -10698,7 +10698,7 @@ autotrader.com.au##.resultsGrid--halfpage-0
 av.movie##.adss-160x600
 av.movie##.pop-up-a
 av.movie##.video-banner
-av01.tv##.group:has(> .relative.overflow-hidden.rounded-lg.bg-gray-900.cursor-pointer)
+av01.*##.group:has(> .relative.overflow-hidden.rounded-lg.bg-gray-900.cursor-pointer)
 avbebe.com##.footer_column:nth-child(n+2)
 avclub.com##.htlad-top_leaderboard
 avclub.com,infosecurity-magazine.com,jezebel.com,nationaljeweler.com,pastemagazine.com,splinter.com,theonion.com##.dfp
@@ -28252,7 +28252,6 @@ zzzyk.com###Tinfo
 ||aparat.com/gogol/
 ||apartments.com/clientvisit/al.gif?
 ||apartmenttherapy.com/jAYekY18/init.js
-||aperture-48940.portmap.host^
 ||apester.com/cookie/bundle.js
 ||apester.com/event^
 ||apex-ad.com^$third-party
@@ -36351,7 +36350,6 @@ zzzyk.com###Tinfo
 ||itracker360.com^$third-party
 ||itrackerpro.com^$third-party
 ||itracmediav4.com^$third-party
-||itrevolut-limiti-personali.dreamhosters.com^
 ||itrustzone.site^$popup
 ||itrxx.com^$third-party
 ||itskiddien.club^$popup
@@ -38234,6 +38232,7 @@ zzzyk.com###Tinfo
 ||mbww.com^$third-party
 ||mc-nudes.com^$third-party
 ||mcc.godaddy.com/park/
+||mccdn.me/assets/js/widget.js
 ||mcfstats.com^$document
 ||mcfstats.com^$popup
 ||mcloudglobal.com^$third-party
@@ -39174,6 +39173,7 @@ zzzyk.com###Tinfo
 ||needlive.com^$popup
 ||neets.cc/assets/js/dup.js
 ||neeva.com/logql/log
+||neftslots.host^
 ||negotiaterealm.com^$popup
 ||neighbourly.co.nz/event-tracking
 ||nejmqianyan.cn^$third-party
@@ -39469,6 +39469,7 @@ zzzyk.com###Tinfo
 ||njhost.hopto.org^
 ||njih.net^$third-party
 ||njxzwh.com/pcsoft/statics/ycgg/
+||nkis.nikkei.com/imp?
 ||nmc.cn/static/nmclog/nmclog.js
 ||nmgnews.com.cn/sys/online_calc.js
 ||nmrodam.com^$third-party
@@ -42108,7 +42109,6 @@ zzzyk.com###Tinfo
 ||retty.me/javascripts/common/logging.js
 ||returnpath.net^$third-party
 ||reurl.cc/javascripts/tagtoo.js
-||reuters.com/pf/resources/dist/reuters/js/index.js
 ||revbid.net^$third-party
 ||revcatch.com^$third-party
 ||revenueflex.com^$third-party
@@ -43993,6 +43993,7 @@ zzzyk.com###Tinfo
 ||storage.googleapis.com/adtags/
 ||storage.googleapis.com/afs-prod/tags
 ||storage.googleapis.com/ba_utils/stab.js
+||storage.googleapis.com/builder-preview/iframe/pixel.js
 ||storage.googleapis.com/cdn.newsfirst.lk/advertisements/$domain=newsfirst.lk
 ||storage.googleapis.com/cdn2.guard.io/webflow/tracking-grd.js
 ||storage.googleapis.com/global-attribution/global_attribution.js
@@ -46295,7 +46296,6 @@ zzzyk.com###Tinfo
 ||voluumtrk.com^$popup
 ||voluumtrk3.com^$popup
 ||voodc.com/avurc
-||voohostokipy.com^
 ||vooxe.com/analytics.js
 ||voqally.com/hub/app/
 ||vorynthostech.com^
