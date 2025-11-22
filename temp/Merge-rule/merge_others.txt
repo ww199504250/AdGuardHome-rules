@@ -36,7 +36,7 @@
 !高德地图
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
-$csp=script-src 'self' * 'unsafe-inline',domain=7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+$csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 $csp=script-src 'self' * 'unsafe-inline',domain=feiguaks.com|iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 $csp=script-src 'self' *,domain=zduxs.com|52niuyanks.cc|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
@@ -1066,7 +1066,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
-/\.[a-z]+[\:\/]/$~image,third-party,domain=7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+/\.[a-z]+[\:\/]/$~image,third-party,domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 /\.[a-z]cinma[a-z].top\//$script,third-party
 /\.[a-z]dinma[a-z].top\//$script,third-party
 /\.[a-z]dinmi[a-z].top\//$script,third-party
@@ -3360,6 +3360,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /loooyu.js
 /ls.gif?
 /ls.php?t=
+/lst/universal-script?ph=
 /lteee/ad/*
 /lunametrics-
 /lv/esnk/*$script,third-party
@@ -26718,6 +26719,7 @@ zzzyk.com###Tinfo
 ||a8.net^$third-party
 ||a8cv.glocalnet.jp^
 ||a8ww.net^$third-party
+||aa.com/aileron/api/log
 ||aa.hostasa.org^
 ||aaaf.info^$script
 ||aaaimg.com/images*.gif
@@ -33254,7 +33256,6 @@ zzzyk.com###Tinfo
 ||filefreehost.com^
 ||filehippo.com/best-recommended-apps^
 ||filehippo.com/revamp.js
-||filehostfree.netlify.app^
 ||filehostingz.com^
 ||filemoon-*/js/baf.js
 ||filemoon.*/js/baf.js
@@ -35209,7 +35210,6 @@ zzzyk.com###Tinfo
 ||hostsu.com^
 ||hostteyahoo.ddns.net^
 ||hostvy.com^
-||hostwpe.com^
 ||hostxxxinquiries.creatorlink.net^
 ||hostzb.com^
 ||hot-count.com^$third-party
@@ -36532,6 +36532,7 @@ zzzyk.com###Tinfo
 ||jokiyo.github.io/stera4/$script,third-party
 ||joohugreene.net^$popup
 ||jordantimes.com/accu/
+||josesi4418-31009.portmap.host^
 ||jotform.io/getReferrer/$third-party
 ||joudauhee.com^$popup
 ||journera.com^$third-party
@@ -38876,7 +38877,6 @@ zzzyk.com###Tinfo
 ||myhost.servepics.com^
 ||myhost228228.ddns.net^
 ||myhostisstillgood.hopto.org^
-||myhostwin64.zapto.org^
 ||myhugewords.com^$popup
 ||myhypestories.com^$popup
 ||myjollyrudder.com^$popup
@@ -40939,7 +40939,6 @@ zzzyk.com###Tinfo
 ||privatejetfinder.com/skins/partners/$third-party
 ||privateseiten.net^$third-party
 ||privatewebseiten.com^$third-party
-||privdk.site.tb-hosting.com^
 ||privilegedmansfieldvaguely.com^$popup
 ||privymktg.com^$third-party
 ||prizefrenzy.top^$popup
@@ -43619,6 +43618,7 @@ zzzyk.com###Tinfo
 ||srpx.net^$third-party
 ||srtrak.com^$popup
 ||srv243189.hoster-test.ru^
+||srv243603.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srvhost.servehttp.com^
 ||srvmath.com^*/analytics.js
@@ -43977,6 +43977,7 @@ zzzyk.com###Tinfo
 ||stt6.cfd^$popup
 ||stubhub.com/a/icph
 ||studeersnel.nl/27m703Hm/init.js
+||studio--scib-portal-banker-santa-l1l24.us-central1.hosted.app^
 ||studiocustomers.com^$popup
 ||studiostack.com^$third-party
 ||studocu.com/27m703Hm/init.js
@@ -44422,6 +44423,7 @@ zzzyk.com###Tinfo
 ||telemetry.host^
 ||telerama.fr/*&ptag=
 ||teletarget.ru^$third-party
+||telia-network.tempurl.host^
 ||telize.com^$third-party
 ||teljari.is^$third-party
 ||tellapart.com^$third-party
@@ -45001,6 +45003,7 @@ zzzyk.com###Tinfo
 ||trackclicks00.com^$popup
 ||trackcmp.net^$third-party
 ||trackconsole.com^$third-party
+||trackderlivryes.cloudaccess.host^
 ||trackdesk.com/tracking.js
 ||trackeame.com^$third-party
 ||trackedlink.net^$third-party
