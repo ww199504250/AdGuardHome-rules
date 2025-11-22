@@ -6946,8 +6946,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://ad1.
 ://adn.*/zone/$popup
 ://adn.*/zone/$subdocument
-://ads.$popup,domain=~ad.olx.pl|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~axon.ai|~kakaku.com|~reddit.com|~smartnews.com
-://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.palmettostatearmory.com|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.sociogram.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
+://ads.$popup,domain=~ad.olx.pl|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~ads.umd.edu|~axon.ai|~kakaku.com|~reddit.com|~smartnews.com
+://ads.$~image,~xmlhttprequest,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.axon.ai|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.chewy.com|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.ferrarichat.com|~ads.finance|~ads.flytant.com|~ads.fund|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.luarmor.net|~ads.magalu.com|~ads.mercadolibre.com.ar|~ads.mercadolibre.com.cl|~ads.mercadolibre.com.co|~ads.mercadolibre.com.ec|~ads.mercadolibre.com.mx|~ads.mercadolibre.com.pe|~ads.mercadolibre.com.ve|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.misskey.io|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.palmettostatearmory.com|~ads.pinterest.com|~ads.realizeperformance.com|~ads.remix.es|~ads.rohlik.cz|~ads.rohlik.group|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.siriusxmmedia.com|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.sociogram.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.tuver.ru|~ads.twitter.com|~ads.typepad.jp|~ads.umd.edu|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.vk.ru|~ads.watson.ch|~ads.wildberries.ru|~ads.x.com|~ads.yandex|~reempresa.org
 ://ads2.
 ://adsbb.
 ://adserving.
@@ -10618,7 +10618,7 @@ aura.cn##.foot-xcx
 aura.cn##.left-zc
 aura.cn##.suspension
 aura.cn##.tc1
-austinchronicle.com,carmag.co.za,shawlocal.com,thegazette.com,vodacomsoccer.com###top-leaderboard
+austinchronicle.com,carmag.co.za,fleetnews.co.uk,shawlocal.com,thegazette.com,vodacomsoccer.com###top-leaderboard
 australiangolfdigest.com.au##.desktop_header
 austurfrett.is,boards.4chan.org,boards.4channel.org#@#.middlead
 auto-data.net##.ad_incar
@@ -12304,6 +12304,7 @@ christianpost.com##.bs-article-cell
 christianpost.com##.home-videoplayer
 chrome-stats.com##div[id*="billboard_responsive"]
 chromecj.com##.topblock
+chromeunboxed.com##.BuyButton
 chron.com,seattlepi.com,sfchronicle.com,timesunion.com##[data-block-type="ad"]
 chronicle.com##.OneColumnContainer
 chronicle.com##.PageHeaderMegaHat
@@ -22061,7 +22062,6 @@ skyve.io##.ads_space
 slant.co##.SummaryPage-LustreEmbed
 slashdot.org###announcement
 slashdot.org###cloud
-slashdot.org###floating-content
 slashdot.org###main-nav-badge-link
 slashdot.org###slashdot_deals
 slashdot.org##.ad-blocked-newsletter
@@ -22069,6 +22069,7 @@ slashdot.org##.adwrap
 slashdot.org##.article-nel-12935
 slashdot.org##.deals-wrapper
 slashdot.org#?#.fhitem-story.fhitem:has-text(Sponsored Content)
+slashdot.org,sourceforge.net###floating-content
 slashfilm.com###primis-container
 slashgear.com##.recommended-heading
 slaynews.com##.ai-rotate
@@ -22525,6 +22526,7 @@ startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##di
 startpage.com,startpagel6srwcjlue4zgq3zevrujfaow726kjytqbbjyrswwmjzcqd.onion##div[style="display: block; padding: 12px; margin: 0px 0px 10px; border-radius: 4px; border: 1px solid rgb(59, 67, 91);"]
 startribune.com##[class*="htlad-"]
 startup.ch##.smallbanner
+startuphub.ai##.newsletter-ad-container
 stat-nba.com###ad_video
 stationx.net##.stnx-cta-embed
 statsroyale.com##div[class^="adUnit_"]
@@ -23852,6 +23854,7 @@ ufanw.com###banne
 ufoevidence.org#@##ad-wrapper
 ugstandard.com###leader-wrap
 uiadmin.net##.jump-linker
+uindex.org##[style*="border: 2px solid
 uinterview.com###above-content
 uinterview.com###below-content
 uiporn.com##.adv-in-video
@@ -25277,6 +25280,10 @@ ytbbs.com###dd1
 ytbbs.com##.ftop_ad_2016
 ytfreedownloader.com##.kl-before-header
 ytmp3.mobi###ba
+yts.*###dontfoid
+yts.*##.bbj:has-text(Warning)
+yts.*##.col-lg-12:has-text(Please enable)
+yts.*##.home-content > div:has(.blue ~ a img[src*="/images/download"])
 yufile.com##.fb_r > a
 yufile.com##.lo_box
 yugatech.com###text-69
@@ -30549,6 +30556,7 @@ zzzyk.com###Tinfo
 ||clewm.net/public/cli_analytics.js$domain=cli.im
 ||click-cdn.com^$popup
 ||click-for-preview.com^$document
+||click-for-preview.com^$popup
 ||click-url.com^$third-party
 ||click.alibaba.com^$subdocument,third-party
 ||click.aliexpress.com^$image
@@ -32666,6 +32674,7 @@ zzzyk.com###Tinfo
 ||emltrk.com^$third-party
 ||emol.com/bt/ping
 ||emoney.cn/www/officalWebStatic/js/slideAd.js
+||emotomalf.com^$popup
 ||empflix.com/mew.php
 ||empowerlocal.co^
 ||emumuendaku.info^$popup
@@ -32686,6 +32695,7 @@ zzzyk.com###Tinfo
 ||eng24.com/js_new/copyright_float.
 ||engageclick.com^$third-party
 ||engagemaster.com^$third-party
+||engageplatform.com/api/trace/d/record?
 ||engagetosell.com^$third-party
 ||engageya.com^$third-party
 ||engagio.com^$third-party
@@ -33363,6 +33373,7 @@ zzzyk.com###Tinfo
 ||flaticon.com/edge/banner/$popup
 ||flaviar.com^$third-party
 ||flcounter.com^$third-party
+||fleamx.com^$popup
 ||fleshcash.com^$third-party
 ||fleshlight.com/?link=$popup
 ||fleshlight.com/api/collect
@@ -34386,7 +34397,6 @@ zzzyk.com###Tinfo
 ||goproxy.cc/api.php
 ||gorclck.com^$document
 ||gorclck.com^$popup
-||gorockhost.com^
 ||gositego.live^$popup
 ||gosoftwarenow.com^$popup
 ||gostats.cn^$third-party
@@ -35647,6 +35657,7 @@ zzzyk.com###Tinfo
 ||illicium.wmtransfer.com^$subdocument
 ||illumenix.com^$third-party
 ||illuminateinconveniencenutrient.com^$popup
+||ilocalfarmers.shop^
 ||ilogbox.com^$third-party
 ||ilovecheating.com^$third-party
 ||iltrovatore.it/vp.htm
@@ -40100,6 +40111,7 @@ zzzyk.com###Tinfo
 ||paid.outbrain.com^$document
 ||paid.outbrain.com^$popup
 ||paidonresults.net^$third-party
+||paikapiglauthi.com^$popup
 ||pair.com/itero/tracker_ftc/
 ||pakbanners.com^$third-party
 ||pakethosting.com^
@@ -41896,6 +41908,8 @@ zzzyk.com###Tinfo
 ||rejoiner.com/tracker/
 ||rekipion.com^$popup
 ||reklama.lv/services/espy.php
+||rel-s.com^$document
+||rel-s.com^$popup
 ||relap.io^$third-party
 ||relaymedia.com/ping?$third-party
 ||relead.com^$third-party
@@ -43532,6 +43546,8 @@ zzzyk.com###Tinfo
 ||spelar.org^$third-party
 ||spendcrazy.net^$popup
 ||sperans-beactor.com^$popup
+||sperebnf.click^$document
+||sperebnf.click^$popup
 ||sphostserver.com^
 ||sphostserver.com^$third-party
 ||spicygirlshere.life^$popup
@@ -45990,6 +46006,8 @@ zzzyk.com###Tinfo
 ||viiithia.com^$popup
 ||viijxyqp.com^$popup
 ||viikttcq.com^$popup
+||viikuhhs.com^$document
+||viikuhhs.com^$popup
 ||viiyutty.com^$document
 ||viiyxefb.com^$document
 ||viiyxefb.com^$popup
@@ -46006,6 +46024,8 @@ zzzyk.com###Tinfo
 ||vine.eu/track/
 ||vinlens.com^$third-party
 ||vinsight.de^$third-party
+||vinstigo.com^$document
+||vinstigo.com^$popup
 ||vinted.de/relay/events
 ||vinted.fr/relay/events
 ||vinted.it/relay/events
@@ -46737,6 +46757,7 @@ zzzyk.com###Tinfo
 ||womtp.com^$third-party
 ||wonder-ma.com^$third-party
 ||wonder.xhamster.com^$popup
+||wonderblockoffer.com^$popup
 ||wonderpush.com^$third-party
 ||wondershare.com/trk
 ||wondershare.es/jslibs/track.js
