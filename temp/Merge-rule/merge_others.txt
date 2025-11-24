@@ -14802,6 +14802,9 @@ foodmate.net,ksbbs.com,kshot.com,oschina.net##.banner_box
 foodmate.net,ting89.com##.ad7
 foodmate.net,weather.com.cn##.ad4
 foodnetwork.com###leaderboard-wrap
+foodnetwork.com##.recipe-bigbox
+foodnetwork.com##[data-slot-type="ad_aside"]
+foodnetwork.com##[data-slot-type="ad_aside_top"]
 foodrenegade.com##.top-cta
 foodsforbetterhealth.com###text-46
 fool.com###articles-incontent2
@@ -36415,7 +36418,6 @@ zzzyk.com###Tinfo
 ||jeroud.com^$popup
 ||jetbluevacations.com/apis/v2-analytics/
 ||jetvis.ru/stat/
-||jetwebhosting.net^
 ||jeu.net/hits.js
 ||jewishadgroup.com^$third-party
 ||jewishcontentnetwork.com^$third-party
@@ -37233,7 +37235,6 @@ zzzyk.com###Tinfo
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
 ||lenkmio.com^$popup
-||lennox23111-31851.portmap.host^
 ||lennox23111-46792.portmap.host^
 ||lenosoft.net/js/ad
 ||lenovo.com.cn/cms/2018-07-20/201807201014498251793.png
@@ -37589,6 +37590,7 @@ zzzyk.com###Tinfo
 ||localise.ch^
 ||localiser-app.fr^
 ||localiser-apple.fr^
+||localiser-exactement.fr^
 ||localiser-map.fr^
 ||localiser-services.fr^
 ||localiser-verifier.fr^
@@ -39171,7 +39173,6 @@ zzzyk.com###Tinfo
 ||netvigie.com^$third-party
 ||network.nutaku.net^$popup
 ||networkad.net^$third-party
-||networkhosting.org^
 ||networkmanag.com^$third-party
 ||networld.hk^$third-party
 ||netzaehler.de^$third-party
@@ -42165,7 +42166,6 @@ zzzyk.com###Tinfo
 ||roobetaffiliates.com^$popup
 ||roomvo.com/services/event/
 ||roosterfirework.com^$third-party
-||root123454321-24953.portmap.host^
 ||roots.baby^$document
 ||roots.baby^$popup
 ||rootzaffiliates.com^$popup
