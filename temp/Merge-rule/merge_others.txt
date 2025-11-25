@@ -19644,10 +19644,9 @@ newstarget.com###Index06 > .Widget
 newstarget.com###Index07 > .Widget
 newstarget.com###PromoTopFeatured
 newstarget.com##[href^="https://www.newstarget.com/ARF/"]
-newsweek.com###block-nw-content-recirc
+newsweek.com##.ArticleTwoColumnLayout_stickyAdContainer__fQzyz
 newsweek.com##.FeaturedMedia_articleFeaturedMedia__LEpVY
-newsweek.com##.block-ibtmedia-dfp
-newsweek.com##.right-rail-ads
+newsweek.com##[data-mgid-container="true"]
 newswiretoday.com,przoom.com##.sponsortd
 newtalk.tw,phbzj.com##.ad-container
 newthinking.com##.ad-container-mpu
@@ -33157,7 +33156,6 @@ zzzyk.com###Tinfo
 ||fast-redirecting.com^$popup
 ||fast-redirecting.com^$third-party
 ||fast-thinking.co.uk^$third-party
-||fast.arena.im/script.js
 ||fast.fonts.net/jsapi/core/mt.js
 ||fast.wistia.net/assets/external/googleAds.js
 ||fast2earn.com^$third-party
@@ -33755,6 +33753,8 @@ zzzyk.com###Tinfo
 ||futurecdn.net/bordeaux.js$xmlhttprequest
 ||futurecdn.net^*/abp.js
 ||futurehybrid.tech^$third-party
+||futureparty.com/nectar_analytics
+||futureparty.com/page_view
 ||futureplc.com/push_metrics/
 ||futuresite.register.com/us?
 ||fuwin.sbs^$document
@@ -36976,7 +36976,6 @@ zzzyk.com###Tinfo
 ||koolearn.com/v2/js/wxewm.js
 ||koolearn.com/www/subject/script/subject_form.js
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
-||koolkiddoj999987654-59833.portmap.host^
 ||kopsil.com^$third-party
 ||koreatimes.co.kr/ad/
 ||korewaeroi.com/fukugan_$subdocument
@@ -41748,6 +41747,7 @@ zzzyk.com###Tinfo
 ||recogerconsentimiento.com/consent/
 ||recognified.net^$third-party
 ||recommended-twice.com^$popup
+||recommendhost.com^
 ||recompensecombinedlooks.com^$popup
 ||record.affiliatelounge.com^$popup
 ||record.commissionkings.ag^$popup
@@ -42913,6 +42913,7 @@ zzzyk.com###Tinfo
 ||shutterstock.com/blog/wp-content/mu-plugins/wp-parsely-
 ||shutterstock.com/blog/wp-content/themes/sstk/assets/js/analytics.min.js
 ||shutterstock.com/blog/wp-content/themes/sstk/assets/js/parsely-tracking.min.js
+||siamsenses2024.zaxishosting.com^
 ||sibautomation.com^$third-party
 ||siberiantimes.com/counter/
 ||siberiantimes.com/upload/banners/
@@ -43306,6 +43307,7 @@ zzzyk.com###Tinfo
 ||sociaplus.com^$third-party
 ||socital.com^*/socital.js
 ||socketviking.net^$third-party
+||sockr.birdie.so/event
 ||socos.gitee.io/ss/poster/
 ||socsi.in^$third-party
 ||socy.es^$third-party
@@ -45348,7 +45350,6 @@ zzzyk.com###Tinfo
 ||tumi.com/4i06uv8M/init.js
 ||tundrafolder.com^$popup
 ||tunein.com/api/v1/log/
-||tungsahurchik228-49806.portmap.host^
 ||tunnl.com^$third-party
 ||turb.cc/fd1/img/promo/
 ||turbobit.net/fd1/js/brinpopup.js
