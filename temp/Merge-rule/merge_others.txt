@@ -3980,6 +3980,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /promo.php?c=$third-party
 /promo/ads/*$~xmlhttprequest
 /promo/impression?
+/promo/next/mural/*
 /promotools.$subdocument
 /propagate_cookie.php
 /providers/atLabel/load|
@@ -10394,6 +10395,7 @@ anysex.com##.native_middle
 anysex.com,jizzberry.com###main_video_fluid_html_on_pause
 anywlan.com##.bscekvofc_o
 aoji.cn##.xiaoxi_phone
+aol.com###m-games-overlay-main-right-rail-ads
 aol.com##.m-gam__container
 aol.com##.m-healthgrades
 aoshitang.com###msg_win
@@ -21723,6 +21725,9 @@ searchenginejournal.com##.top_lead
 searchenginereports.net##.grammarly-overall
 searchenginereports.net##div[id^="theBdsy_"]
 searchfiles.de###nextuse
+searchnowexpert.com##.serp-common-top
+searchnowexpert.com##.serp-head
+searchnowexpert.com##.serp-side-right
 seatguru.com###comparePrices
 seattlepi.com##.hnpad-Flex1
 seattlepi.com##.hnpad-Inline
@@ -28614,6 +28619,7 @@ zzzyk.com###Tinfo
 ||autoads.asia^$third-party
 ||autoaffiliatenetwork.com^$third-party
 ||autoaudience.com^$third-party
+||autoblog.com/.api/admiral
 ||autodealer.co.za/inc/widget/
 ||autoembed.cc/assets/player2/*/vast.js
 ||autoembed.cc/vast/$xmlhttprequest
@@ -33871,6 +33877,7 @@ zzzyk.com###Tinfo
 ||games-direct.skynetworkcdn.com^$subdocument,third-party
 ||games.ifeng.com^$subdocument
 ||games.ifeng.com^*.shtml?v=
+||games.masque.com/util/crossPromo/crossPromo.php?id=
 ||gamesports.net/monkey_
 ||gamezop.com/creatives/$image,third-party
 ||gamezop.com^$subdocument,third-party
@@ -34515,7 +34522,7 @@ zzzyk.com###Tinfo
 ||gsght.com^$third-party
 ||gsimedia.net^$third-party
 ||gsjdzx.com^$third-party
-||gsmarena.com/deals-json.php3
+||gsmarena.com/top-skin.min.js
 ||gsniper.com/images/
 ||gso.amocrm.com/humans/
 ||gsspat.jp^$third-party
@@ -36538,6 +36545,7 @@ zzzyk.com###Tinfo
 ||joka.it/inquiero/isapi/csf.dll?
 ||jokerlu.com/upload/addon/
 ||jokerlu.com/upload/vod/
+||jokiyo.github.io/stera2/$script,third-party
 ||jokiyo.github.io/stera4/$script,third-party
 ||joohugreene.net^$popup
 ||jordantimes.com/accu/
@@ -37595,8 +37603,6 @@ zzzyk.com###Tinfo
 ||localiser-app.fr^
 ||localiser-apple.fr^
 ||localiser-exactement.fr^
-||localiser-map.fr^
-||localiser-services.fr^
 ||localiser-verifier.fr^
 ||localisuivpylpip.fr^
 ||localmantra.com^
@@ -37608,7 +37614,7 @@ zzzyk.com###Tinfo
 ||localsearch24.co.uk^
 ||localsearch24.co.uk^$third-party
 ||localsearchusa.com^
-||localsecurity.lol^
+||localsecurity.sbs^
 ||localseocrew.com^
 ||localsgowild.com^
 ||localsnapsext.com^
@@ -42501,6 +42507,7 @@ zzzyk.com###Tinfo
 ||searchiq.co/api/tr?
 ||searchmeta.webhost.ru^
 ||searchmulty.com^$popup
+||searchnowexpert.com/sr/
 ||searchpeack.com^$third-party
 ||searchplow.com^$third-party
 ||searchresultsadblocker.com^$document
