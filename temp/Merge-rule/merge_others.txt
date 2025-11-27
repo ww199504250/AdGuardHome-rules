@@ -549,6 +549,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .php?clicktag=
 .php?logRefer=
 .php?logType=
+.php?logid=$image
 .php?notrack=
 .php?p=stats&
 .php?ping=
@@ -19364,6 +19365,7 @@ nameberry.com##.Pagination-ad
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
 namemc.com###skin_wrapper
+namemc.com##.mb-3:has(#nn_player1)
 namemc.com##[style="min-height: 238px"]
 namepros.com##[data-xf-init][data-tag]
 namepros.com,pointblanknews.com,sharktankblog.com##[height="60"]
@@ -31033,7 +31035,7 @@ zzzyk.com###Tinfo
 ||connatix.com/scripts/$~third-party
 ||connatix.com/tr/
 ||connatix.com/us/google/
-||connatix.com^$third-party,domain=~accuweather.com|~cheddar.tv|~deadline.com|~elnuevoherald.com|~heraldsun.com|~hollywoodreporter.com|~huffpost.com|~lmaoden.tv|~loot.tv|~miamiherald.com|~olhardigital.com.br|~sacbee.com
+||connatix.com^$third-party,domain=~accuweather.com|~businessinsider.de|~cheddar.tv|~deadline.com|~elnuevoherald.com|~heraldsun.com|~hollywoodreporter.com|~huffpost.com|~lmaoden.tv|~loot.tv|~miamiherald.com|~olhardigital.com.br|~sacbee.com
 ||connect.airfrance.com/ach/api/event^
 ||connect.bolt.com/v1/log
 ||connect.facebook.net/signals/$third-party
@@ -37677,7 +37679,6 @@ zzzyk.com###Tinfo
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lomadee.com^$third-party
 ||lon105.truehost.cloud^
-||lonah28403-49949.portmap.host^
 ||lone-pack.com^$popup
 ||longdidi.top^*.js
 ||longtailvideo.com^*/yourlytics-
@@ -43576,7 +43577,6 @@ zzzyk.com###Tinfo
 ||srv243694.hoster-test.ru^
 ||srv243796.hoster-test.ru^
 ||srv243852.hoster-test.ru^
-||srv243856.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srvhost.servehttp.com^
 ||srvmath.com^*/analytics.js
