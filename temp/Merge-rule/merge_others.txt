@@ -1678,6 +1678,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /api/v1/activity|$~third-party,xmlhttprequest
 /api/v1/firehose/batch
 /api/v1/firehose?_
+/api/v1/impressions|
 /api/v1/metrics
 /api/v1/reportData/*
 /api/v1/stat?
@@ -29343,6 +29344,7 @@ zzzyk.com###Tinfo
 ||biphic.com^$popup
 ||biqgg.com/n.
 ||biqgg.com/w.
+||biqiuge5.org/mo.
 ||biqivge.cc/js/d
 ||biqivge.cc/js/p
 ||biquge96.com/123.
@@ -37270,6 +37272,7 @@ zzzyk.com###Tinfo
 ||lgmi.com/tjyf200x207.asp
 ||lgmi.com/windows/*-Advert.
 ||lgmi.com^*_gg
+||lgrckt-in.com^$third-party
 ||lh168.net^*/attachment/portal/
 ||lhinsights.com/collect?
 ||lhk.wnp.mybluehostin.me^
@@ -40785,6 +40788,7 @@ zzzyk.com###Tinfo
 ||ports.co.za/banners/
 ||porzo.com/js/analytics
 ||poshalim.
+||poshmark.com/trck/
 ||positivehealth.com/img/original/BannerAvatar/
 ||positivehealth.com/img/original/TopicbannerAvatar/
 ||posst.co^$third-party
