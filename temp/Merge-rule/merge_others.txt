@@ -1075,7 +1075,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /\.[a-z]dyurli[a-z].top\//$script,third-party
 /\.[a-z]weisi[a-z].top\//$script,third-party
 /\/[0-9a-f]{32}\/invoke\.js/$script,third-party
-/\/[a-z]+$/$script,third-party,domain=gimy.com.tw
+/\/[a-z0-9]+$/$script,third-party,domain=gimy.com.tw
 /\/\w{17}\//$script,~third-party,domain=xiguashuwu.com|shruxiang.com|lancaizhu.com|ad-expo.com|hbhmzt.com
 /\/\w{8}\/\w{10}\./$script,~third-party,domain=xpshuku.com|2kk.la|badaoge.org|xiumb12.com|xqishuta.net|kudushu.org|xshuquge.net|xuanshu.la|bqgns.com|duswx.com|mhtxs.net|bookszw.com|shukuge.com|xbotaodz.com|biquke.info|chensiwx.com|mayiwsk.com|3yt.la|shenshuzw.net|xbiquzw.net|aixiashu.info|biqusk.la|paoshu8.info|xbiqugu.la|lewenge.cc|00ksw.com|0794.org|123dua.com|123wx.cc|126shu.org|12zw.net|13txt.net|147xiaoshuo.com|17k.com|1biqu.com|1kans.net|1pwx.com|23hh.com|23qb.com|23qb.net|23sk.net|23us.tw|23wxx.com|23xstxt.net|2kxs.info|360xs.com|3yt.com|477zw.com|4xiaoshuo.net|50zw.co|50zw.com|50zww.net|52xs.net|56shuku.info|59xs.com|6666xsw.com|67shu.net|69kshu.win|69zww.com|7017k.net|777zw.net|77xsw.cc|81book.com|91zww.com|93xscc.com|99mk.net|9tiefu.com|a6ksw.net|aiwx.info|aixiashu.net|aixs.la|aikushuge.com|b520.cc|b5200.net|bbiquge.cc|bbiquge8.net|bequmo.com|bimixsw.com|biqivge.cc|biqudd.com|biqudu.tv|biquge775.com|biquge98.net|xbiquge99.cc|biqugecd.com|biqugewu.net|aidu123.com|biquluo.info|biqusk.com|biqutsxs.com|boquku.com|bqq999.cc|bqwxg8.com|bshuku.com|bxwx.live|bxwx00.com|changduzw.com|chenkuan.com|damengzhu1.com|ddbqgtxt.cc|diyibanzhu9.pro|dizishu.cc|dobiez.com|doupocangqiong.info|dpcq1.com|dpcq1.net|fxsc6.net|gaofuwu.org|gdbzkz.info|hongyeshuzhai.com|ibiquges.com|ibotaodz.org|idzs.org|ijjjxs.net|imianhuatang.info|ishisetianxia.com|ishubao.org|xvipxs.net|iwurexs.info|ixs.la|jcdf99.com|jieshengit.com|jiezhong.cc|jingwubook.com|jmshuwu.net|kanshushi.com|lewen123.com|lewxs.com|liewenn.com|liudatxt.org|longzu5.net|luoqiu.io|maxreader.la|mcmssc.net|mingrenteahouse.com|nuanyuehanxing.com|paoshu8.com|paoshuzw.com|piaotian.la|pksge.com|prpcoin.com|qiqidu.net|qishula.com|qishuta.info|qqxsw.so|quge66.com|ranwen.la|rizhaoxs.com|roushuwu6.com|sdhear.com|shanhaimiwenlu.com|shenshuxs.org|shu008.com|shubaowang.cc|shumi.la|shumil.co|shuquso.com|shuyy8.com|silukex.com|siluwx.org|sinodan.cc|sjks88.com|soduha.la|sthuojia.org|stxsw.com|sxcnw.net|sytxt.cc|tpsge.info|trxs.cc|tutengzw.com|txtduo.com|txtwan.com|tysk.cc|u33.cc|u33.me|wenxuem.com|wenxuemi.cc|whzh-xs.com|wodexiaoshuoh.com|wolaidu1.com|x23us.us|xbiqugela.com|xbiquke.com|xdingdian.cc|xhytd.com|xiashuyun.com|xiaxs.info|xinremenxs.com|xiushukong.com|xs5200.com|xs7788.com|xsb-xs.com|xstt5.com|xszww8.net|xuanjiezhimen.org|xuanshu.org|xuessex.com|xxbiqudu.com|xygwh.cc|xyuanzunxs.com|yemancomic.com|ygshu.com|yingsx.com|ymxwx.com|yqd6.com|ysxs8.vip|yunxs.info|yuyougu.com|zhuishubox.com|zydu3.com|zzs5.info
 /\/theme\/js\/[a-z0-9]{5,}\.js\?v=/$domain=novipnoad.com
@@ -7202,7 +7202,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.google-analytics.com%2Fanalytics.js$domain=free.com.tw
 @@.jpg#$domain=huhupan.com
-@@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
+@@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|digit77.com|e9china.net|upxin.net
 @@/WebAd/*$domain=yongyoujia.com
 @@/ad-close.png$domain=ch.com
 @@/ad/images/*$domain=37-express.com|vnnox.com
@@ -7236,8 +7236,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@/advert/*$domain=csxbank.com|fjgcjxgl.com|locuspublishing.com|moretv.com.cn
 @@/advert_$domain=pisen.com.cn|wb.qq.com
 @@/advertise/*$domain=ceair.com|sfbuy.com
-@@/advertisement.$domain=gametower.com.tw
-@@/advertisement.js$domain=gimhoy.com
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com|nmkjxy.com
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
@@ -7339,7 +7337,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||117.60.146.16:8089/images/
 @@||120.132.57.41/pjk/pag/
 @@||12306.cn/otn/resources/images/pic/new-ad
-@@||123dhang.com/supo/advertisement.js
 @@||126.net/163/frontend/share/js/
 @@||126.net/images/blank.gif
 @@||127.0.0.1/admin/admin_ad.php?$domain=127.0.0.1
@@ -7394,7 +7391,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||58b.tv^$generichide
 @@||58cdn.com.cn/tuiguang/center/
 @@||58huanbao.com/skin/defaultcs2660/images/ad
-@@||590103.idv.tw/advertisement.js
 @@||5qidgde.com^$generichide
 @@||5w8.fun/myads/img/*.gif
 @@||70.86.24.120:8060/*/
@@ -7573,7 +7569,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||aixifan.com/acfun-H5/public/script/sensorsdata.
 @@||aixifan.com/acsdk/log.min.js?
 @@||aixifan.com/dotnet/20130418/script/fingerprint.
-@@||aixifan.com/static/home/widget/basic/advertisement/advertisement.$stylesheet
 @@||aixifan.com^*/sensorsdata.min.js?$domain=acfun.cn
 @@||ajio.com/static/assets/vendors~static/chunk/common/libraries/fingerprintjs2.$script,~third-party
 @@||ak77now.pixnet.net^$generichide
@@ -7796,6 +7791,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||britannica.com/mendel-resources/3-52/js/libs/prebid4.$script,~third-party
 @@||browser-intake-datadoghq.com^$domain=pluto.tv
 @@||browser.covatic.io/sdk/v1/bauer.js$script,domain=hellorayo.co.uk
+@@||browser.events.data.microsoft.com/onecollector/$script,xmlhttprequest,domain=microsoft.com
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|alphaxiv.org|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|members.bifa.film|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 @@||browserbench.org^$generichide
 @@||btsax.info^$generichide
@@ -8018,7 +8014,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||cybozu.com/*/event.gif?$~third-party
 @@||d.socdm.com/adsv/*/tver_splive$xmlhttprequest,domain=imasdk.googleapis.com
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
-@@||d1-dm.com^$generichide
 @@||d2ma0sm7bfpafd.cloudfront.net/wcsstore/waitrosedirectstorefrontassetstore/custom/js/analyticseventtracking/$script,domain=waitrosecellar.com
 @@||d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js$domain=tatacliq.com
 @@||d2wy8f7a9ursnm.cloudfront.net/v8/bugsnag.min.js$script,domain=forecastapp.com
@@ -8575,7 +8570,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||karte.io/libs/tracker.$domain=online.ysroad.co.jp|zf1.tohoku-epco.co.jp|zozo.jp
 @@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.huffingtonpost.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
 @@||kayixin.com^*/advert
-@@||kehai.com/front/dist/app/site/list/advertisement.js
 @@||keibana.com/wp-content/uploads/*/300x250_$~third-party
 @@||kejilion.pro^$generichide
 @@||keytiles.com/tracking/$script,domain=blikk.hu
@@ -9481,7 +9475,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||upaiyun.com/libs/$script,domain=xddxsw.net
 @@||upaiyun.com^*.js$domain=cilimao.co|cilimao.one
 @@||upload.wikimedia.org/wikipedia/$image,media
-@@||upxin.net/advertisement.js
 @@||upxin.net^$generichide
 @@||urlgalleries.net^$generichide
 @@||useinsider.com/ins.js$domain=pizzahut.jp
@@ -9517,7 +9510,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||viu.tv^$generichide
 @@||vivocha.com^*/vivocha.js?$script,domain=kartell.com
 @@||vk.com/ads?$popup,domain=vk.com
-@@||vlist.se/advertisement.js
 @@||vms-players.minutemediaservices.com^$script,domain=si.com
 @@||vms-videos.minutemediaservices.com^$xmlhttprequest,domain=si.com
 @@||vvic.com/monetize/ads/index/
@@ -10652,6 +10644,9 @@ autocar.co.uk##.block-autocar-ads-mpu-flexible1
 autocar.co.uk##.block-autocar-ads-mpu-flexible2
 autocar.co.uk##.block-autocar-ads-mpu1
 autodoc.co.uk###traffic_banner_wrapper_interstitial
+autoevolution.com###vidiv
+autoevolution.com##.ad300x600
+autoevolution.com##.mgtop_20.nxart:has-text(#ad)
 autoevolution.com##.modeladmid
 autoexpress.co.uk##.polaris__below-header-ad-wrapper
 autoexpress.co.uk##.polaris__more-reviews
@@ -13621,7 +13616,7 @@ doseofporn.com,jennylist.xyz##[href="/goto/desire"]
 dosgamesarchive.com##.banner_container
 dot.la##.job-wrapper
 dotesports.com#?#.wp-block-gamurs-article-tile:has-text(Sponsored)
-dotesports.com,primagames.com##.wp-block-gamurs-ad
+dotesports.com,primagames.com,twinfinite.net##.wp-block-gamurs-ad
 dotesports.com,progameguides.com###gg-masthead
 douban.com##.bottom_ad_download
 douban.com##.channel_promo
@@ -20015,6 +20010,8 @@ ormanager.com##.orm-black-label-inner
 orschlurch.net##.amazon-wrapper
 orsoon.com###new-actentry
 orteil.dashnet.org###smallSupport
+orzice.com###jinzhu_top
+orzice.com##.ad-guanggao
 osbot.org###ipsLayout_mainArea > div > div
 osbot.org###ips_footer > div > div
 oschina.net###project_ad_banner
@@ -23769,6 +23766,7 @@ twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
 twitter.com,x.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
+twkan.com###mobile-ad
 twkan.com##.txtcenter
 twpkinfo.com###div_close_cf
 twword.com##.gadBlock
@@ -26846,6 +26844,7 @@ zzzyk.com###Tinfo
 ||actoys.net/statics/js/index/ad.js
 ||actu.fr/assets/js/smarttag5280-1.js
 ||aculturerpa.info^$popup
+||acuris.com/wat/v2/data-event
 ||acuxi43449.activehosted.com^
 ||acwifi.net/wp-content/uploads/2019/11/20191119.jpg
 ||acwifi.net/wp-content/uploads/2022/08/0825-750.png
@@ -27186,6 +27185,7 @@ zzzyk.com###Tinfo
 ||adop.cc^$third-party
 ||adop.co^$popup
 ||adoperator.com^$third-party
+||adopsboost.com^$third-party
 ||adoptim.com^$third-party
 ||adoric-om.com^$third-party
 ||adorika.com^$third-party
@@ -44023,6 +44023,7 @@ zzzyk.com###Tinfo
 ||sweeva.com/images/banner250.gif
 ||swetrix.com^$third-party
 ||swetrix.org^$third-party
+||swi.neobox.ebu.io/v3/collect?
 ||swiftmining.win^$third-party
 ||swiftypecdn.com/cc.js$third-party
 ||swiftypecdn.com/te.js$third-party
