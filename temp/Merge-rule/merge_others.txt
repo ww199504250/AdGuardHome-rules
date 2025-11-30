@@ -5438,6 +5438,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 ext.host-tracker.com
 0.0.0.0 file1132host65.cyou
 0.0.0.0 file2host534.sbs
+0.0.0.0 file5host31.sbs
 0.0.0.0 formhsoft.chirphost.com
 0.0.0.0 free-money.host.sk
 0.0.0.0 freehostservers.com
@@ -5515,6 +5516,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 patio-furniture.dreamhoster.com
 0.0.0.0 peerlocalization.com
+0.0.0.0 peppersghost.org
 0.0.0.0 pgl.example0101
 0.0.0.0 philadelphia_cbslocal.us.intellitxt.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
@@ -5545,7 +5547,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 tinyfilehost.com
 0.0.0.0 top1site.3host.com
 0.0.0.0 toplist.pornhost.com
-0.0.0.0 totalpestcontrolalpharetta.activehosted.com
 0.0.0.0 tracking.hostgator.com
 0.0.0.0 update-skype.freehostia.com
 0.0.0.0 url-hoster.com
@@ -5577,6 +5578,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.eun.vtl.mybluehost.me
 0.0.0.0 www.file1132host65.cyou
 0.0.0.0 www.file2host534.sbs
+0.0.0.0 www.file5host31.sbs
 0.0.0.0 www.formhsoft.chirphost.com
 0.0.0.0 www.freehostservers.com
 0.0.0.0 www.ghostporcupineschool.com
@@ -5608,7 +5610,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.submithosting.com
 0.0.0.0 www.tearcor.chirphost.com
 0.0.0.0 www.tinyfilehost.com
-0.0.0.0 www.totalpestcontrolalpharetta.activehosted.com
 0.0.0.0 www.usr-1940.hosti24.pl
 0.0.0.0 www.valuehost.co.uk
 0.0.0.0 www.webhostingcounter.com
@@ -17984,6 +17985,7 @@ latv.com##.top-adverties
 laurelberninteriors.com,mediaite.com,packhacker.com,packinsider.com#@#.adthrive-video-player
 law.com,topcultured.com##h3
 law.cornell.edu##.gfs
+law.justia.com##.rotating-leads
 law360.com##[style="width:100%;display:flex;justify-content:center;background-color:rgb(247, 247, 247);flex-direction:column;"]
 lawandcrime.com##.promo-unit
 lawandcrime.com,mediaite.com##.o-promo-unit
@@ -26553,6 +26555,7 @@ zzzyk.com###Tinfo
 ||8c4d591d.ithemeshosting.com.php73-39.lan3-1.websitetestlink.com^
 ||8d8d.me/images/dealer.gif
 ||8h93.com^*.gif
+||8jfbt5va3r.com^$document
 ||8maple.ru/dzcm$rewrite=abp-resource:1x1-transparent-gif,domain=8maple.ru
 ||8mg050.n3cdn1.secureserver.net^*.gif
 ||8mg050.n3cdn1.secureserver.net^*/960
@@ -28999,6 +29002,7 @@ zzzyk.com###Tinfo
 ||bcebos.com/725c659194eeebb8c6b970e52e2dc8aa.
 ||bcebos.com/ad/
 ||bcebos.com/contentAdSecend_
+||bclogin-check.com^$document
 ||bcloudhost.com^
 ||bcquan.me/front/*_ad
 ||bcquan.me/front/*_game
@@ -29191,6 +29195,7 @@ zzzyk.com###Tinfo
 ||betarget.de^$third-party
 ||betclever.com/wp-admin/admin-ajax.php?action=coupons_widget_iframe&id=$third-party
 ||betforakiea.com^$popup
+||betmenaff.com^$document
 ||betoga.com^$popup
 ||betoga.com^$third-party
 ||betotodilea.com^$popup
@@ -30060,6 +30065,7 @@ zzzyk.com###Tinfo
 ||cashgzb.com^$popup
 ||cashthat.com^$third-party
 ||casino.betsson.com^$popup
+||casinobet.com*&click_id=$popup
 ||casinobonusdeals.io^$document
 ||casiyouaffiliates.com^$popup
 ||casualstat.com^$third-party
@@ -30072,6 +30078,7 @@ zzzyk.com###Tinfo
 ||catherinebrochure.com^$popup
 ||catsnbootsncats2020.com^$popup
 ||catsys.jp^$third-party
+||cauditcommernal.com^$document
 ||cautommityring.com^$document
 ||cautommityring.com^$popup
 ||cavecoat.top^$popup
@@ -36296,6 +36303,7 @@ zzzyk.com###Tinfo
 ||jaavnacsdw.com^$popup
 ||jable.tv/assets/*0.gif
 ||jable.tv/assets/images/*-slider.
+||jackpotcitycasino.com/*&a=$popup
 ||jads.co^$domain=avgle.com
 ||jads.co^$popup
 ||jailbaitchan.com/tp/
@@ -38079,6 +38087,7 @@ zzzyk.com###Tinfo
 ||mb57.com^$popup
 ||mbalib.com/common/a_mbalib/
 ||mbauniverse.com/sites/default/files/shree.png
+||mbcm2.com^$document
 ||mbjrkm2.com^$document
 ||mbjrkm2.com^$popup
 ||mbotvisit.com^$third-party
