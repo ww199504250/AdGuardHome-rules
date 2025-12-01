@@ -8025,6 +8025,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||daoju.qq.com/time/*/js/ad/
 @@||dashboard.mgid.com^$popup
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
+@@||datadoghq-browser-agent.com/*/datadog-logs.js$domain=crosset.onward.co.jp
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
 @@||datadome.garena.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=auth.garena.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
@@ -8438,7 +8439,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||hvemder.no/js/hitcount.min.js$~third-party
 @@||hw-ads.datpiff.com/news/$image,domain=datpiff.com
 @@||hwcdn.net^$script,domain=mp4upload.com
-@@||hzcdn.io/bff/static/vendor/sourcepoint-lib/index.*.js$script,domain=marktplaats.nl
 @@||i3.sinaimg.cn/video/deco/2013/0325/js/
 @@||ias.global.rakuten.com/adv/$script,domain=rakuten.co.jp
 @@||ibf.tw/user/plugins/webtech-topbar/fuckadblock.js
@@ -19466,6 +19466,7 @@ nen.com.cn##.for3gagzy
 nen.com.cn##.w610
 neonheightsservers.com##.well:has(ins.adsbygoogle)
 neoseeker.com###section-pagetop
+neoseeker.com##[style$="min-height:355px;clear:both"]
 neowin.net#?#.ipsColumns_collapsePhone.classes:-abp-contains(Our Sponsors)
 nepallivetoday.com##.adsimage
 nepallivetoday.com,wjr.com##img[height="100"]
@@ -19913,6 +19914,7 @@ olympics.com##.-adv
 olympics.com##.\-partners
 olympics.com##.ad-margin-big
 olympics.com##.b2p-list__item:has(> .adv-fluid)
+olympics.com##[data-cy="adv-container"]
 olympics.com##[data-row-type="custom-row-adv"]
 olympics.com##section[data-cy="ad"]
 olympics.com,scmp.com##.header-ad-slot
@@ -28574,7 +28576,6 @@ zzzyk.com###Tinfo
 ||auryc.com/v1/event
 ||ausoafab.net^$popup
 ||austeemsa.com^$popup
-||auth-dpp.cloudaccess.host^
 ||auth.services.adobe.com/signin/v1/audit
 ||authedwebmine.cz^$third-party,domain=~webmine.cz
 ||authognu.com^$popup
@@ -31295,6 +31296,7 @@ zzzyk.com###Tinfo
 ||croea.com^$third-party
 ||cross-system.com^$script,third-party
 ||crossdresserhub.com/*.php$script
+||crosset.onward.co.jp/ajax/getExternalServiceWebTrackingTags
 ||crosspixel.net^$third-party
 ||crosswalkmail.com^$third-party
 ||crowdscience.com^$third-party
@@ -33235,6 +33237,7 @@ zzzyk.com###Tinfo
 ||filefreehost.com^
 ||filehippo.com/best-recommended-apps^
 ||filehippo.com/revamp.js
+||filehost41.cfd^
 ||filehostingz.com^
 ||filemoon-*/js/baf.js
 ||filemoon.*/js/baf.js
@@ -34296,6 +34299,7 @@ zzzyk.com###Tinfo
 ||gome.com.cn/flight?
 ||gomo.cc^$popup
 ||gomoxie.solutions^*/events
+||gomsop.com^$document
 ||goneviral.com^$third-party
 ||gongshe99.com/d/js/gongshe/gsw
 ||goo.ne.jp^*/vltracedmd.js
@@ -35405,7 +35409,6 @@ zzzyk.com###Tinfo
 ||hyteck.de/count.js
 ||hyvyd.com/count$image,domain=mobile.de
 ||hz.youku.com/red/
-||hzcdn.io/bff/static/vendor/sourcepoint-lib/
 ||hznzcn.com/moban/youxiajiao.js
 ||i-cable.com/ci/tracking/
 ||i-gamer.net/promo_
@@ -35911,6 +35914,7 @@ zzzyk.com###Tinfo
 ||insideofnews.com^$popup
 ||insideoftech.com^$popup,third-party
 ||insiderdata360online.com/service/platform.js
+||insight-x.tech/trackerlog-publisher-service/tracker-logs
 ||insight.mintel.com^$third-party
 ||insight.rapid7.com^$third-party
 ||insightera.com^$third-party
@@ -36495,7 +36499,6 @@ zzzyk.com###Tinfo
 ||joescamp24160.activehosted.com^
 ||joescamp31389.activehosted.com^
 ||joescamp35662.activehosted.com^
-||joescamp68713.activehosted.com^
 ||joggerkochia.top^$popup
 ||joggo.run/api/events
 ||joglomsexurgod.net^$popup
@@ -39226,7 +39229,6 @@ zzzyk.com###Tinfo
 ||nex.163.com/q?
 ||nexac.com^$third-party
 ||nexage.com^$third-party
-||nexcesshostsupp.mallorca-transporte.com^
 ||nexeps.com^$third-party
 ||nexon.com/api/nxlog/
 ||nexon.com/nxlog-collect/
@@ -43524,8 +43526,6 @@ zzzyk.com###Tinfo
 ||srpx.net^$third-party
 ||srtrak.com^$popup
 ||srv243487.hoster-test.ru^
-||srv243694.hoster-test.ru^
-||srv243796.hoster-test.ru^
 ||srv243852.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srvhost.servehttp.com^
@@ -43563,7 +43563,6 @@ zzzyk.com###Tinfo
 ||ssl.pstatic.net/tveta/libs/glad/*/gfp-display-sentry-logger.js$domain=news.naver.com
 ||sslproxy.dk^*/analytics.js
 ||ssnn.net^*-200-250.jpg
-||sso-emvimlt-locale-lt.firebaseapp.com^
 ||sspai.com/api/v1/recommend*=article_
 ||sspai.com/attachment/sponsor/
 ||sss777.net/Alove-A/
@@ -44391,6 +44390,7 @@ zzzyk.com###Tinfo
 ||tessaragair.top^$popup
 ||test1productions.com^$third-party
 ||testfilter.com^$third-party
+||testhometest.s-host.net^
 ||testin.cn^$third-party
 ||testnet.nl^$third-party
 ||tetigi.com^$third-party
