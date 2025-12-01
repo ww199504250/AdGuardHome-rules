@@ -8947,6 +8947,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||pladform.ru/dive/$xmlhttprequest
 @@||pladform.ru/player$subdocument
 @@||planetazdorovo.ru/pics/transparent_pixel.png$image,~third-party
+@@||plans.humana.com/assets/analytics-events-$script,~third-party
 @@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||platform.bombas.com/external/gtm.js$script,~third-party
 @@||plausible.io/js/plausible.js$script,domain=sammobile.com
@@ -9135,6 +9136,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||search.brave.com/search$xmlhttprequest
 @@||search.spotxchange.com/vmap/*&content_page_url=www.bsfuji.tv$xmlhttprequest,domain=imasdk.googleapis.com
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
+@@||secure.moneygram.com/embed/*/webAnalytics/pageMapping.json?$~third-party,xmlhttprequest
+@@||secure.moneygram.com/embed/*/webAnalytics/pageMappingOverrides.json?$~third-party,xmlhttprequest
 @@||securegames.iwin.com/data/gtm.json$~third-party,xmlhttprequest
 @@||securenetsystems.net/v5/scripts/
 @@||securepubads.g.doubleclick.net/gpt/pubads$domain=line.me
@@ -33534,6 +33537,7 @@ zzzyk.com###Tinfo
 ||fraud0.com^$third-party
 ||fraudjs.io^$third-party
 ||fraudmetrix.cn^$third-party
+||fraudshostels.click^
 ||freakads.com^$third-party
 ||free-btc.org/banner/$third-party
 ||free-counter.co.uk^$third-party
