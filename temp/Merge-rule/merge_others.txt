@@ -13022,6 +13022,7 @@ cssbattle.dev,slitaz.org###sponsor
 csshello.com###topgg
 cssmoban.com##.btn-host
 cssmoban.com##.page-banner
+csst.at##.max-h-48
 csstats.gg###faceit-banner
 ctanet.cn##a[href*="/GoTo.asp?ID="] > img
 ctfile.com##.speedydown-info-box
@@ -23733,6 +23734,7 @@ tvtropes.org###asteri-sidebar
 tvtropes.org###mobile_1
 tvtropes.org###mobile_2
 tvtropes.org###stick-cont
+tvtropes.org##.ad-caption-subscribe-wrapper
 tvtropes.org##.fad
 tvtropes.org##.sb-fad-unit
 tvtropes.org##.tvtropes-ad-unit
@@ -31004,7 +31006,7 @@ zzzyk.com###Tinfo
 ||connatix.com/scripts/$~third-party
 ||connatix.com/tr/
 ||connatix.com/us/google/
-||connatix.com^$third-party,domain=~accuweather.com|~businessinsider.de|~~bz-berlin.de|~cheddar.tv|~deadline.com|~elnuevoherald.com|~finanzen.net|~fitbook.de|~heraldsun.com|~hollywoodreporter.com|~huffpost.com|~lmaoden.tv|~loot.tv|~miamiherald.com|~myhomebook.de|~olhardigital.com.br|~petbook.de|~sacbee.com|~stylebook.de|~techbook.de|~travelbook.de|~welt.de
+||connatix.com^$third-party,domain=~accuweather.com|~businessinsider.de|~bz-berlin.de|~cheddar.tv|~deadline.com|~elnuevoherald.com|~finanzen.net|~fitbook.de|~heraldsun.com|~hollywoodreporter.com|~huffpost.com|~lmaoden.tv|~loot.tv|~miamiherald.com|~myhomebook.de|~olhardigital.com.br|~petbook.de|~sacbee.com|~stylebook.de|~techbook.de|~travelbook.de|~welt.de
 ||connect.airfrance.com/ach/api/event^
 ||connect.bolt.com/v1/log
 ||connect.facebook.net/signals/$third-party
@@ -35142,7 +35144,6 @@ zzzyk.com###Tinfo
 ||hosterchecker.com^
 ||hostermasterplug.duckdns.org^
 ||hostermax.com^
-||hosterphobic.duckdns.org^
 ||hosterroundcubz.s3.cubbit.eu^
 ||hostfaze.com^
 ||hostgrater.com^
