@@ -1,5 +1,5 @@
-! 规则更新时间 2025年12月01日 16:01:03
-! 本规则数量 191条
+! 规则更新时间 2025年12月02日 00:41:50
+! 本规则数量 192条
 ! 更新频率 12小时
 ! 白名单规则
 
@@ -110,6 +110,7 @@
 @@||ip6-allrouters^
 @@||ip6-loopback^
 @@||ip6-mcastprefix^
+@@||itoya.ec-optimizer.com^
 @@||js.monitor.azure.com^
 @@||learn.khanacademy.org^
 @@||leechers-paradise.org^
