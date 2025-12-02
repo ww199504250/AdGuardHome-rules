@@ -7838,6 +7838,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||cdn.bootcdn.net^$script,domain=38kanshu.net
 @@||cdn.bootcss.com^$script,domain=biqutime.com|59xs.com|biqudd.com|u33.me|xbiqugela.com|ysxs8.vip
+@@||cdn.evgnet.com/beacon/homedepotofcainc/engage/scripts/evergage.min.js$script,domain=homedepot.ca
 @@||cdn.ex.co^$domain=mm-watch.com|theautopian.com
 @@||cdn.facil-iti.app/tags/faciliti-tag.min.js$script,domain=apec.fr|kyoto.travel
 @@||cdn.getblueshift.com/blueshift.js$script,domain=rentcafe.com
@@ -34715,7 +34716,6 @@ zzzyk.com###Tinfo
 ||haveamint.com^$third-party
 ||havegrosho.com^$popup
 ||havetohave.com^$third-party
-||hawifo-43198.portmap.host^
 ||hayahost.com^
 ||hayghe12.byethost7.com^
 ||haymarket.com/injector/deliver/
@@ -37569,10 +37569,8 @@ zzzyk.com###Tinfo
 ||localglobaldates.com^
 ||localgoodcar.com^
 ||localhookupclub1.com^
-||localise.ch^
 ||localiser-app.fr^
 ||localiser-apple.fr^
-||localiser-exactement.fr^
 ||localiser-verifier.fr^
 ||localisuivpylpip.fr^
 ||localmantra.com^
@@ -46603,6 +46601,7 @@ zzzyk.com###Tinfo
 ||wiseghostapp.com^
 ||wisetrack.net^$third-party
 ||wish.com/api/analytics/
+||wishabi.net^$third-party
 ||wistia.com/assets/external/googleAds.js
 ||wit.qq.com^$third-party
 ||witalfieldt.com^$popup
