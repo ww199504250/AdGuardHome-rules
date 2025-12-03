@@ -5442,6 +5442,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 file1132host65.cyou
 0.0.0.0 file2host534.sbs
 0.0.0.0 file5host31.sbs
+0.0.0.0 filehost41.cfd
 0.0.0.0 formhsoft.chirphost.com
 0.0.0.0 free-money.host.sk
 0.0.0.0 freehostservers.com
@@ -5449,6 +5450,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 gasasthe.freehostia.com
 0.0.0.0 gcirm.idahostatesman.com
 0.0.0.0 gcounter.hosting4u.net
+0.0.0.0 ghostoo.com
 0.0.0.0 ghostporcupineschool.com
 0.0.0.0 glc-polska-pl.dreamhosters.com
 0.0.0.0 hmw42.host-my-website.com
@@ -5519,7 +5521,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 patio-furniture.dreamhoster.com
 0.0.0.0 peerlocalization.com
-0.0.0.0 peppersghost.org
 0.0.0.0 pgl.example0101
 0.0.0.0 philadelphia_cbslocal.us.intellitxt.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
@@ -5538,6 +5539,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 sleeper-sofa.dreamhoster.com
 0.0.0.0 slhk23.0101host.com
 0.0.0.0 snowplow.ownlocal.com
+0.0.0.0 startherehosting.org
 0.0.0.0 static.locallogic.co
 0.0.0.0 static.omnilocal.ai
 0.0.0.0 submithosting.com
@@ -5554,7 +5556,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 update-skype.freehostia.com
 0.0.0.0 url-hoster.com
 0.0.0.0 us-east-1.local.emxdgt.com
-0.0.0.0 usr-1940.hosti24.pl
 0.0.0.0 valuehost.co.uk
 0.0.0.0 viphostindustries.info
 0.0.0.0 visit.webhosting.yahoo.com
@@ -5582,8 +5583,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.file1132host65.cyou
 0.0.0.0 www.file2host534.sbs
 0.0.0.0 www.file5host31.sbs
+0.0.0.0 www.filehost41.cfd
 0.0.0.0 www.formhsoft.chirphost.com
 0.0.0.0 www.freehostservers.com
+0.0.0.0 www.ghostoo.com
 0.0.0.0 www.ghostporcupineschool.com
 0.0.0.0 www.glc-polska-pl.dreamhosters.com
 0.0.0.0 www.host-it.co.uk
@@ -5610,10 +5613,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.recommendhost.com
 0.0.0.0 www.rosybrown-mink-985517.hostingersite.com
 0.0.0.0 www.siamsenses2024.zaxishosting.com
+0.0.0.0 www.startherehosting.org
 0.0.0.0 www.submithosting.com
 0.0.0.0 www.tearcor.chirphost.com
 0.0.0.0 www.tinyfilehost.com
-0.0.0.0 www.usr-1940.hosti24.pl
 0.0.0.0 www.valuehost.co.uk
 0.0.0.0 www.webhostingcounter.com
 0.0.0.0 www3.webhostingtalk.com
@@ -35150,7 +35153,6 @@ zzzyk.com###Tinfo
 ||hostpdf.co^
 ||hostphpwindowsapp.duckdns.org^
 ||hostphpwindowsdriversapp.duckdns.org^
-||hostphpwindowsdriversapps.duckdns.org^
 ||hostphpwindowsdriversapps1.duckdns.org^
 ||hostphpwindowsdriversappsos.duckdns.org^
 ||hostphpwindowsdriversappssapo.duckdns.org^
@@ -37543,7 +37545,6 @@ zzzyk.com###Tinfo
 ||localsearch24.co.uk^
 ||localsearch24.co.uk^$third-party
 ||localsearchusa.com^
-||localsecurity.sbs^
 ||localseocrew.com^
 ||localsgowild.com^
 ||localsnapsext.com^
@@ -39656,7 +39657,6 @@ zzzyk.com###Tinfo
 ||omkt.co^$third-party
 ||omniconvert.com^$third-party
 ||omnie.ai/api/ddMetric
-||omniz-57501.portmap.host^
 ||omsnative.de/tracking/
 ||omynews.net^$third-party
 ||omzal.com^$document
@@ -39683,7 +39683,6 @@ zzzyk.com###Tinfo
 ||onclicksuper.com^$popup
 ||onclicktop.com^$popup
 ||ondemand-delivery-express.nvb.ouq.mybluehost.me^
-||onderhost.com^
 ||ondigitalocean.app/insight-analytics.js
 ||ondu.ru^$third-party
 ||one-name-studio.com^$popup
@@ -44811,7 +44810,6 @@ zzzyk.com###Tinfo
 ||toutiao.haotui.com/data/js/0.js
 ||toutiaoyule.com/n/dspshow.
 ||tovery.net^$third-party
-||tovool123343123-42020.portmap.host^
 ||tower.jp/bundle/beacon
 ||townnews.com/tucson.com/content/tncms/live/libraries/flex/components/ads_dfp/
 ||toxtren.com^$popup
@@ -46105,7 +46103,6 @@ zzzyk.com###Tinfo
 ||vwdealerdigital.com/cdn/sd.js
 ||vweb05.nitrado.hosting^
 ||vxnjhdhs-35196.portmap.host^
-||vxnsishjha-62957.portmap.host^
 ||vxotu.com/i/*.gif
 ||vzmz.com/template/paody/aaaa/*0
 ||vzmz.com/template/paody/aaaa/357.js
@@ -47204,7 +47201,6 @@ zzzyk.com###Tinfo
 ||you.europa-hosting.com^
 ||youaima.com/rest/
 ||youaima.com/zz/
-||youcool12334213213-42391.portmap.host^
 ||youcool12334213213-43544.portmap.host^
 ||youdao.com/ctlog?
 ||youdao.com/market/banner/banner
