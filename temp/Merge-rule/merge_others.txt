@@ -11410,6 +11410,7 @@ bitdegree.org###campaign-modal
 bitdegree.org##.comparison-suggestion
 bitdegree.org##.page-coupon-landing
 biz.chosun.com##.arcad-wrapper
+biz.chosun.com##.box--margin-bottom-xl.box--pad-top-xl.box--pad-bottom-xl.box--bg-grey-10
 biz.ifeng.com##.header
 biz.ifeng.com##.riodel
 bizasialive.com##.nipl-sticky-footer-banner
@@ -11926,7 +11927,7 @@ cankaoxiaoxi.com###qihupic
 cannabishealthnews.co.uk##.mvp-side-widget img
 canonsupports.com#@#.box_ads
 canstar.com.au,designspiration.com,investors.com,propertyguru.com.sg##.promoted
-canstar.com.au,mail.yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
+canstar.com.au,mail.yahoo.com,trulia.com#@#a[href^="https://ad.doubleclick.net/"]
 canyoublockit.com##.elementor-widget-container > center > p
 capetownmagazine.com###top-leader-wrapper
 capitalbrief.com##.position1
@@ -12116,6 +12117,13 @@ cheatcodes.com###game_details_ad
 cheatcodes.com##.ad_btf_728
 check-host.net##.ra-elative
 check-host.net##div[id^="antpeayvraea"]
+checkfelix.com,kayak.*,momondo.*,swoodoo.*##.CGMG:has(.c_3eP-badge-content)
+checkfelix.com,kayak.*,momondo.*,swoodoo.*##.Tl2M-contentInner:has(.c_3eP-badge-content)
+checkfelix.com,kayak.*,momondo.*,swoodoo.*##div[class$="-result-item-container"]:has(a[href*="/s/clickthrough.jsp?"])
+checkfelix.com,kayak.*,momondo.*,swoodoo.*##div[class$="-result-item-container"]:has(div[class$="-ad-badge"])
+checkfelix.com,kayak.*,momondo.*,swoodoo.*##div[data-resultid$="-sponsored"]
+checkfelix.com,kayak.*,momondo.*,swoodoo.*##div[role="button"]:has(.c_3eP-badge-content)
+checkfelix.com,kayak.*,momondo.*,swoodoo.*##div[role="link"]:has(.c_3eP-badge-content)
 checkfelix.com,kayak.*,swoodoo.com###resultWrapper > div > div > [role="button"][tabindex="0"] > .yuAt-pres-rounded
 checkfelix.com,kayak.*,swoodoo.com##.Dp1L
 checkfelix.com,kayak.*,swoodoo.com##.EvBR
@@ -14704,10 +14712,10 @@ flagpedia.net##.rklm
 flashbak.com###div-insticator-ad-14
 flashbak.com##.fluid-width-video-wrapper
 flashscore.*##.section--nmb
+flashscore.*,flashscoreusa.com,livescore.*,soccer24.com###box-over-content-revive
+flashscore.*,flashscoreusa.com,livescore.*,soccer24.com##.banner
 flashscore.*,livescore.*,soccer24.com###box-over-content-a
 flashscore.*,livescore.*,soccer24.com##.zone
-flashscoreusa.com,flashscore.*,livescore.*,soccer24.com###box-over-content-revive
-flashscoreusa.com,flashscore.*,livescore.*,soccer24.com##.banner
 flat-ads.com,lastpass.com#@#.ad-img
 flaticon.com###layer_coupon
 flaticon.com##.bn-space-gads
@@ -15098,7 +15106,7 @@ galacg.me##.sidebar-top
 galacg.me##a[href*="/game"]
 galacg.me,unecne.com##.metaslider
 galaopublicidade.com#@#.publicidade
-galleryxh.site,megaxh.com,openxh.com,stripchat.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster.one,xhamster1.desi,xhamster13.*,xhamster14.com,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.com,xhamster2.com,xhamster20.desi,xhamster3.*,xhamster37.com,xhamster40.com,xhamster42.desi,xhamster9.com,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhlease.world,xhmoon5.com,xhopen.com,xhofficial.com,xhplanet2.com,xhspot.com,xhtotal.com,xhvid.com,xhwebsite2.com,xhwide1.com,xhwide2.com##div[class*="cams-wgt"]
+galleryxh.site,megaxh.com,openxh.com,stripchat.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster.one,xhamster1.desi,xhamster13.*,xhamster14.com,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.com,xhamster2.com,xhamster20.desi,xhamster3.*,xhamster37.com,xhamster40.com,xhamster42.desi,xhamster9.com,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhlease.world,xhmoon5.com,xhofficial.com,xhopen.com,xhplanet2.com,xhspot.com,xhtotal.com,xhvid.com,xhwebsite2.com,xhwide1.com,xhwide2.com##div[class*="cams-wgt"]
 gamblingnewsmagazine.com##img[width="365"]
 gamcore.com###preloader_2
 gamcore.com##.add_game.d-none
@@ -17674,13 +17682,6 @@ kaufland.*##.sponsored-brand-products-container
 kaufland.*##.teaser-orchestration__wrapper--online
 kaufland.*#?#.recommender-wrapper:-abp-contains(Gesponsert)
 kawai-jav.com##.ads-here-right
-kayak.*,momondo.*,checkfelix.com,swoodoo.*##.CGMG:has(.c_3eP-badge-content)
-kayak.*,momondo.*,checkfelix.com,swoodoo.*##.Tl2M-contentInner:has(.c_3eP-badge-content)
-kayak.*,momondo.*,checkfelix.com,swoodoo.*##div[class$="-result-item-container"]:has(a[href*="/s/clickthrough.jsp?"])
-kayak.*,momondo.*,checkfelix.com,swoodoo.*##div[class$="-result-item-container"]:has(div[class$="-ad-badge"])
-kayak.*,momondo.*,checkfelix.com,swoodoo.*##div[data-resultid$="-sponsored"]
-kayak.*,momondo.*,checkfelix.com,swoodoo.*##div[role="button"]:has(.c_3eP-badge-content)
-kayak.*,momondo.*,checkfelix.com,swoodoo.*##div[role="link"]:has(.c_3eP-badge-content)
 kayak.com##[role="button"]:has([class*="ad-marking"])
 kayak.com##[role="tab"]:has([class*="sponsored"])
 kayak.com,momondo.*##.CGMG:has(.CGMG-logo-ad-wrapper)
@@ -20875,9 +20876,9 @@ puzzle-aquarium.com,puzzle-battleships.com,puzzle-binairo.com,puzzle-bridges.com
 puzzle-aquarium.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-skyscrapers.com###Skyscraper
 puzzle-aquarium.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-skyscrapers.com###btIn
 puzzlegarage.com##.banner--inside
-pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-1
-pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-2
-pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-3
+pv-magazine-australia.com,pv-magazine-usa.com,pv-magazine.*###home-top-rectangle-wrap-1
+pv-magazine-australia.com,pv-magazine-usa.com,pv-magazine.*###home-top-rectangle-wrap-2
+pv-magazine-australia.com,pv-magazine-usa.com,pv-magazine.*###home-top-rectangle-wrap-3
 pwinsider.com##.content-left
 pwinsider.com##.content-right
 pxedt.net##.ggtext
@@ -23587,6 +23588,8 @@ tribuneindia.com##.ad_div_incls
 tribunnews.com###div-Inside-MediumRectangle
 tribunnews.com###wideskyscraper
 tribunnews.com##.box__reserved
+trip.com##.list-item:has(span.ad-info)
+trip.com##.with-decorator-wrap-v8:has(span.ad_tag)
 tripadvisor.*##.rSJod
 tripadvisor.*##[data-automation="nova-ad-InlineNova"]
 tripadvisor.*##[data-sponsored="sponsored"]:has(.txxUo)
@@ -25396,11 +25399,9 @@ zol.com.cn##.zol-eshop
 zol.com.cn##.zolapp
 zol.com.cn##div[style="width: 300px; height: 250px; position: fixed; right: 0px; bottom: 0px; z-index: 9999; display: block;"]
 zonatmo.com##.pbm
-zoohit.*##div[class^="SearchSuggestion-module_suggestionItem_"]:has(.z-sponsored-tag)
-zoohit.*##div[data-zta="product-card"]:has(.z-sponsored-tag)
+zoohit.*,zooplus.*##div[class^="SearchSuggestion-module_suggestionItem_"]:has(.z-sponsored-tag)
+zoohit.*,zooplus.*##div[data-zta="product-card"]:has(.z-sponsored-tag)
 zoonek.com##.fullwidth-ads
-zooplus.*##div[class^="SearchSuggestion-module_suggestionItem_"]:has(.z-sponsored-tag)
-zooplus.*##div[data-zta="product-card"]:has(.z-sponsored-tag)
 zouaw.com##.cloudbox
 zpaste.net##.uk-animation-shake
 zstacklife.com#@#[href^="https://zstacklife.com/"] img
@@ -25779,7 +25780,6 @@ zzzyk.com###Tinfo
 ||1ketang.com/Runtime/js/play
 ||1lzz.com^$popup
 ||1pel.com^$third-party
-||1potatoproxy.1sthoster.com^
 ||1ppt.com/ad$image
 ||1pwx.com/js/ck.js
 ||1redirb.com^$popup
@@ -28554,6 +28554,7 @@ zzzyk.com###Tinfo
 ||authedwebmine.cz^$third-party,domain=~webmine.cz
 ||authognu.com^$popup
 ||authorinsights.com^$third-party
+||auto-ads6.site^$document
 ||auto-online.com.tw/vendor_data/
 ||auto-ping.com^$third-party
 ||auto.ru/-/ajax/$~xmlhttprequest
@@ -30143,6 +30144,7 @@ zzzyk.com###Tinfo
 ||cdn.vaughnsoft.net/abvs/
 ||cdn.wo.cc/wo.js
 ||cdn.yeahwebimobi.fun/r6.png
+||cdn.zg-api.com^*/analytics.js
 ||cdn141.com/banner/adcards.
 ||cdn3x.com/xxxdan/js/xxxdan.vast.
 ||cdn4.life/media/
@@ -31962,7 +31964,6 @@ zzzyk.com###Tinfo
 ||djicdn.com/uploads/ad_image_file/
 ||djljz.cn/Plugins/Template/XJLY/js/app.
 ||djpunjab.*/ads/
-||djsaduaweb.host^
 ||djuf7jb483wz1.cloudfront.net/p/l.jpg
 ||dk11863340282.activehosted.com^
 ||dk11863350763.activehosted.com^
@@ -33208,7 +33209,6 @@ zzzyk.com###Tinfo
 ||filefreehost.com^
 ||filehippo.com/best-recommended-apps^
 ||filehippo.com/revamp.js
-||filehost41.cfd^
 ||filehostingz.com^
 ||filemoon-*/js/baf.js
 ||filemoon.*/js/baf.js
@@ -45116,6 +45116,7 @@ zzzyk.com###Tinfo
 ||trkbc.com^$popup
 ||trkbng.com^$popup
 ||trker.com^$third-party
+||trkfomedia.eu^$document
 ||trkings.com^$popup
 ||trkjmp.com^$third-party
 ||trkless.com^$popup
@@ -45160,6 +45161,7 @@ zzzyk.com###Tinfo
 ||truex.com/js/client.js
 ||truffle.one^$third-party
 ||trugaze.io^$third-party
+||trulia.com/track/trackingPixel.gif?
 ||trumba.com/et.aspx?
 ||trumparea.com/_adz/
 ||trumppig.work^$document
