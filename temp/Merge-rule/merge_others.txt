@@ -3494,6 +3494,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /monitor/v1/log
 /monitor?rtype=
 /monitor_analytic.js
+/monitor_browser/collect/*
 /monitoring?o=$xmlhttprequest
 /monitus.js
 /monsido.js
@@ -5432,6 +5433,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 de.hosting.adjug.com
 0.0.0.0 dedirectnewhose4.cloudaccess.host
 0.0.0.0 dhosting.vercel.app
+0.0.0.0 djsaduaweb.host
 0.0.0.0 e-hosting.hut1.ru
 0.0.0.0 e.freewebhostingarea.com
 0.0.0.0 ema.hostvn.net
@@ -5495,7 +5497,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 local.emxdgt.com
 0.0.0.0 local.ownlocal.com
 0.0.0.0 localbestdating1.com
-0.0.0.0 localgoodcar.com
 0.0.0.0 localh0st.info
 0.0.0.0 localipair.chirphost.com
 0.0.0.0 localise.ch
@@ -5509,9 +5510,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 manifest.localytics.com
 0.0.0.0 merciless.localstars.com
 0.0.0.0 murbil.hostei.com
-0.0.0.0 nba.ucp.mybluehost.me
 0.0.0.0 neftslots.host
 0.0.0.0 newyork.cbslocal.us.intellitxt.com
+0.0.0.0 nexushosting.lol
 0.0.0.0 nlocalhost.wordtheminer.com
 0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 omnituretrack.local.com
@@ -5520,9 +5521,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 page-host.net
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 patio-furniture.dreamhoster.com
-0.0.0.0 peerlocalization.com
 0.0.0.0 pgl.example0101
 0.0.0.0 philadelphia_cbslocal.us.intellitxt.com
+0.0.0.0 prglocal.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile-lookup.services.53.localytics.com
 0.0.0.0 profile.localytics.com
@@ -5579,6 +5580,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.coolfreehost.com
 0.0.0.0 www.dedirectnewhose4.cloudaccess.host
 0.0.0.0 www.dhosting.vercel.app
+0.0.0.0 www.djsaduaweb.host
 0.0.0.0 www.eun.vtl.mybluehost.me
 0.0.0.0 www.file1132host65.cyou
 0.0.0.0 www.file2host534.sbs
@@ -5596,7 +5598,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.hostujmy.pl
 0.0.0.0 www.ilocalfarmers.shop
 0.0.0.0 www.itrevolut-limiti-personali.dreamhosters.com
-0.0.0.0 www.localgoodcar.com
 0.0.0.0 www.localh0st.info
 0.0.0.0 www.localipair.chirphost.com
 0.0.0.0 www.localise.ch
@@ -5605,11 +5606,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 0.0.0.0 www.localsecurity.sbs
 0.0.0.0 www.localvibes.info
 0.0.0.0 www.localytics.com
-0.0.0.0 www.nba.ucp.mybluehost.me
 0.0.0.0 www.neftslots.host
+0.0.0.0 www.nexushosting.lol
 0.0.0.0 www.pafiilate.byethost32.com
-0.0.0.0 www.peerlocalization.com
 0.0.0.0 www.placelocal.com
+0.0.0.0 www.prglocal.com
 0.0.0.0 www.recommendhost.com
 0.0.0.0 www.rosybrown-mink-985517.hostingersite.com
 0.0.0.0 www.siamsenses2024.zaxishosting.com
@@ -7905,6 +7906,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||citytalk.tw/js/ct/common/v3/ui/fblike/FBLike.html
 @@||clarity.ms/tag/$script,domain=phileweb.com
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
+@@||clcouncil.org/wp-content/plugins/counter-block/assets/js/counter.js?$script,~third-party
 @@||clerk.io/clerk.js$script,domain=trony.it
 @@||cleverpush.com/channel/$script,domain=bsdex.de|heise.de
 @@||cleverpush.com/sdk/$script,domain=heise.de
@@ -11146,7 +11148,7 @@ bearingarms.com,hotair.com,pjmedia.com,redstate.com,townhall.com,twitchy.com##.a
 beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,greenwichtime.com,houstonchronicle.com,lmtonline.com,manisteenews.com,michigansthumb.com,middletownpress.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,newstimes.com,nhregister.com,ourmidland.com,registercitizen.com,sfchronicle.com,sfgate.com,stamfordadvocate.com,thehour.com,theintelligencer.com#?#.mb32:has-text(Advertisement)
 beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,greenwichtime.com,houstonchronicle.com,lmtonline.com,manisteenews.com,michigansthumb.com,middletownpress.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,newstimes.com,nhregister.com,ourmidland.com,registercitizen.com,sfchronicle.com,stamfordadvocate.com,thehour.com,theintelligencer.com#?#.b-gray300:has-text(Advertisement)
 beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,houstonchronicle.com,lmtonline.com,middletownpress.com,mrt.com,mysanantonio.com,newstimes.com,nhregister.com,registercitizen.com,seattlepi.com,sfchronicle.com,sfgate.com,stamfordadvocate.com,thehour.com,timesunion.com##.b-gray300.bt
-beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,houstonchronicle.com,lmtonline.com,middletownpress.com,mrt.com,mysanantonio.com,newstimes.com,nhregister.com,registercitizen.com,seattlepi.com,sfgate.com,stamfordadvocate.com,thehour.com,timesunion.com##.ar16-9
+beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,houstonchronicle.com,lmtonline.com,middletownpress.com,mrt.com,mysanantonio.com,newstimes.com,nhregister.com,registercitizen.com,seattlepi.com,sfgate.com,stamfordadvocate.com,thehour.com,timesunion.com,weekand.com##.ar16-9
 beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,houstonchronicle.com,lmtonline.com,middletownpress.com,mrt.com,mysanantonio.com,newstimes.com,nhregister.com,registercitizen.com,stamfordadvocate.com,thehour.com##.mnh90px
 beaumontenterprise.com,chron.com,ctpost.com,expressnews.com,greenwichtime.com,houstonchronicle.com,lmtonline.com,manisteenews.com,michigansthumb.com,middletownpress.com,mrt.com,myjournalcourier.com,myplainview.com,mysanantonio.com,nhregister.com,ourmidland.com,registercitizen.com,sfchronicle.com,sfgate.com,stamfordadvocate.com,theintelligencer.com##.x100.bg-gray100
 beckershospitalreview.com##.moduletable > .becker_doubleclick
@@ -11188,7 +11190,7 @@ belgie.fm,deutschland.fm,espana.fm,italia.fm,nederland.fm###bannerbg
 belgie.fm,deutschland.fm,espana.fm,italia.fm,nederland.fm###leaderboardbg
 bellesa.co##.Display__RatioOuter-hkc90m-0
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,cleaner.com,cults3d.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,montrealgazette.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com,weekand.com##.zone-el
-bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,cleaner.com,cults3d.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com,weekand.com##.zone
+bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,cleaner.com,cults3d.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.zone
 belloflostsouls.net##div[id^="ad-container-"]
 belloflostsouls.net#?#span.text-secondary:-abp-contains(Advertisement)
 belloflostsouls.net,ginx.tv,paladins.guru,smite.guru,theloadout.com##.vm-placement
@@ -12385,6 +12387,7 @@ classicreload.com###content-top
 classicstoday.com##a[target="_blank"][rel="noopener"] > img
 classifiedads.com##.resultmarg
 classy-online.jp,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se#@#.ad_container
+claudelog.com##[data-sponsor-tip="true"]
 cleaner.com##.modal__intent-container
 cleaner.com##.zone-sky
 cleantechnica.com###text-165
@@ -35069,7 +35072,6 @@ zzzyk.com###Tinfo
 ||host-vc-fone-dx-wiem-qa.weebly.com^
 ||host-winds.com^
 ||host.gamerg.gg^
-||host.globalinfohost.top^
 ||host.gsslcloud.com^
 ||host.k12insight.org^
 ||host.laurita.net^
@@ -37539,6 +37541,7 @@ zzzyk.com###Tinfo
 ||localiser-app.fr^
 ||localiser-apple.fr^
 ||localiser-verifier.fr^
+||localiserverifier.fr^
 ||localisuivpylpip.fr^
 ||localmantra.com^
 ||localmediabuying.com^
@@ -39224,7 +39227,6 @@ zzzyk.com###Tinfo
 ||nextstat.com^$third-party
 ||nextyourcontent.com^$popup
 ||nexusbloom.xyz^$document
-||nexushosting.lol^
 ||nexvelar.b-cdn.net/videoplayback_.mp4
 ||nexx.cloud/play/beacon.
 ||nexx360-static.io^$third-party
@@ -43592,6 +43594,7 @@ zzzyk.com###Tinfo
 ||starry-galaxy.com^$popup
 ||start.ru/logger/
 ||startd0wnload22x.com^$popup
+||startherehosting.net^
 ||startherehosting.org^
 ||starti.pl^$third-party
 ||startmenuexperiencehost.ydns.eu^
