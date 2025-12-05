@@ -22268,6 +22268,7 @@ sogou.com##A[data-log*="PicAd"]
 sogou.com##div[class^="news-top-banner"]
 sogou.com#?#div[class^="right-feedback"]:-abp-has(>.list-step-title:-abp-contains(网游))
 sohu.com###apkBanner
+sohu.com###bottomBanner
 sohu.com###hotpicnew
 sohu.com###turn-ad
 sohu.com##.adB
@@ -27263,6 +27264,7 @@ zzzyk.com###Tinfo
 ||adshnk.com^$third-party
 ||adshost.com^
 ||adshost2.com^
+||adshostnet.com^
 ||adshostnet.com^$popup
 ||adshot.de^$third-party
 ||adsiduous.com^$third-party
@@ -29792,6 +29794,7 @@ zzzyk.com###Tinfo
 ||buyadvupfor24.com^$popup
 ||buyeasy.by^$popup
 ||buyflood.com^$third-party
+||buylocalday.org^
 ||buyorselltnhomes.com^$third-party
 ||buysellads.com^$third-party
 ||buysellads.net^$third-party
@@ -32258,6 +32261,7 @@ zzzyk.com###Tinfo
 ||duoyi.com/welcome/$popup
 ||duplichecker.com/csds/
 ||durationmedia.net^$third-party
+||duskesthostplug.duckdns.org^
 ||dvnfo.com^$third-party
 ||dw.com.com^$script
 ||dw.xcar.com.cn^*.gif?
@@ -33914,6 +33918,7 @@ zzzyk.com###Tinfo
 ||geegleshoaph.com^$popup
 ||geejetag.com^$popup
 ||geekbang.org/public/serving/
+||geekhostingsolutions.com^
 ||geekpark.net/api/v1/ads
 ||gegenstimme.tv/tracker/
 ||gegeyingshi.com/template/*/images/g_js/
@@ -35113,6 +35118,7 @@ zzzyk.com###Tinfo
 ||hostermasterplug.duckdns.org^
 ||hostermax.com^
 ||hosterroundcubz.s3.cubbit.eu^
+||hostfacet.net^
 ||hostfaze.com^
 ||hostgrater.com^
 ||hostify.fr^
@@ -35141,6 +35147,7 @@ zzzyk.com###Tinfo
 ||hostkiss.com^
 ||hostmanshipacademy.com^
 ||hostmaster.richardhyettlawyernotary.com^
+||hostmicro.com^
 ||hostmonster.com/src/js/$third-party
 ||hostname.biz^
 ||hostnet-online-x-1.s3.us-east-005.backblazeb2.com^
@@ -36487,6 +36494,7 @@ zzzyk.com###Tinfo
 ||journeymv.com^$third-party
 ||journity.com^$third-party
 ||jowingtykhana.click^$popup
+||joyasen522-45848.portmap.host^
 ||joyourself.com^$third-party
 ||jp1357.com/addon/
 ||jp2468.com/addon/
@@ -37535,6 +37543,7 @@ zzzyk.com###Tinfo
 ||localmediabuying.com^
 ||localo.fr^
 ||localpoint.ch^
+||localprivatenetwork.com^
 ||localreporting.pro^
 ||locals.dating^
 ||localsearch24.co.uk^
@@ -40075,6 +40084,7 @@ zzzyk.com###Tinfo
 ||paperg.com^$third-party
 ||paperstreetcash.com/banners/$third-party
 ||papoto.com^$third-party
+||paradisegirlshostels.com^
 ||paradocs.ru^$third-party
 ||parameter.dk^$third-party
 ||parametre.online^$third-party
@@ -40845,6 +40855,7 @@ zzzyk.com###Tinfo
 ||prf.hn^$third-party
 ||prfwhite.com^$document
 ||prfwhite.com^$popup
+||prglocal.com^
 ||price.com.hk/dfp_price.php?
 ||price.com.hk/ec-discuss-widget.php
 ||price.com.hk/scripts/ysm.js
@@ -46381,6 +46392,7 @@ zzzyk.com###Tinfo
 ||wecount4u.com^$third-party
 ||wee.dk/modules/$third-party
 ||weedmaps.com/pixel?
+||weekand.com/413gkwMT/init.js
 ||weekhost.com^
 ||weephostessscissors.com^
 ||weescorts.com/html5banners/
@@ -47403,6 +47415,7 @@ zzzyk.com###Tinfo
 ||zeepartners.com^$popup
 ||zeerat.com^$third-party
 ||zemanta.com^$third-party
+||zen1thblkhat-64927.portmap.host^
 ||zenaps.com^$popup
 ||zendesk.com/frontendevents/$xmlhttprequest
 ||zendplace.pro^$popup
