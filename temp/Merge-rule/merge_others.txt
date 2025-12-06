@@ -3352,6 +3352,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /logpv.aspx?
 /logreferrer.php?
 /logs/report_js_error
+/logs?ddsource=
 /logstat.js
 /logstats.php
 /logview.js
@@ -7016,6 +7017,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://l.*/counter.php?id=$script,~third-party
 ://l.*/script.php?i=$script,~third-party
 ://lightning.*/launch/
+://line.karte.io/CI0/$image
 ://links.flickr.com/s/eo/$image
 ://links.paypal.*/eos/$image
 ://load.*.js?st=$~third-party
@@ -7054,6 +7056,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ://signal.*/hardal
 ://signals.*/hardal
 ://sli.*/imp?s=$image
+://sp.*/sp/h|$xmlhttprequest
 ://sportframe*.co^
 ://sportframe*.org^
 ://stat.*/pageview/$xmlhttprequest
@@ -8429,6 +8432,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||hk.on.cc^$generichide
 @@||hk01.com^*/ga_trace.js
 @@||hk01.com^*/scripts/ga.js
+@@||hkcards.com^$generichide
 @@||hkjc.com/bannerad/
 @@||hlidacstatu.cz/scripts/highcharts-6/modules/heatmap.js
 @@||hmvod.com.hk/website/static/skin/images/share/
@@ -16206,8 +16210,7 @@ hjenglish.com,hujiang.com##.lamu_banner
 hk.yahoo.com##div[id^="my-ads"]
 hk01.com##.md\:min-h-\[90px\]
 hk01.com##.min-h-\[250px\].mb-3
-hkcards.com###ad-slot[style="min-width: 300px; min-height: 300px;"]
-hkcards.com#@##ad-slot
+hkcards.com##div[style="height:330px;min-height:330px;max-height:330px;"]
 hkepc.com##.headBanner
 hkgolden.com##.hkg-ad
 hkwb.net##.guanggao2
@@ -29390,7 +29393,6 @@ zzzyk.com###Tinfo
 ||bkjia.com/bkjia/js/subnavtop.js
 ||blackandwhite-temporary.com^$popup
 ||blackcrow.ai/v1/events/
-||blackhost.xyz^
 ||blacklinknow.com^$popup
 ||blacklinknowss.co^$popup
 ||blacklistednews.com/contentrotator/
@@ -35167,6 +35169,7 @@ zzzyk.com###Tinfo
 ||hostphpwindowsdriversappssapo.duckdns.org^
 ||hostpowermedium.112.2o7.net^
 ||hostrubs.com^
+||hosts-coinbase.com^
 ||hosts.dynuddns.com^
 ||hosts32.no-ip.biz^
 ||hostsag.com^
@@ -35898,6 +35901,7 @@ zzzyk.com###Tinfo
 ||insideofnews.com^$popup
 ||insideoftech.com^$popup,third-party
 ||insiderdata360online.com/service/platform.js
+||insidious764-41058.portmap.host^
 ||insight-x.tech/trackerlog-publisher-service/tracker-logs
 ||insight.mintel.com^$third-party
 ||insight.rapid7.com^$third-party
@@ -36828,7 +36832,6 @@ zzzyk.com###Tinfo
 ||kindgirls.com/banners2/
 ||kindredplc.com^$popup
 ||king3rsc7ol9e3ge.com^$popup
-||kingstare-54289.portmap.host^
 ||kingtrck1.com^$popup
 ||kinguin.net/affiliatepluswidget/$third-party
 ||kinoprofi.org^$third-party
@@ -37154,6 +37157,7 @@ zzzyk.com###Tinfo
 ||lechosabode.shop^$popup
 ||lederer.nl/incl/stats.js.php?
 ||ledevoir.com/js/pianoAnalyticsTags.js
+||ledivineenfant-60344.portmap.host^
 ||leeleo.top^$third-party
 ||leesaushoah.net^$popup
 ||legacy.com/globalscripts/tracking/
@@ -46694,6 +46698,7 @@ zzzyk.com###Tinfo
 ||wrating.com^$third-party
 ||writeestatal.space^$popup
 ||wrtn.ai/proxy/client/metrics
+||wrufkhnwc.localto.net^
 ||ws.amazon.*/widgets/$third-party
 ||ws.sharethis.com^$script
 ||wshufa.com^$third-party
@@ -46753,7 +46758,6 @@ zzzyk.com###Tinfo
 ||www.youtube.com/get_midroll_$domain=youtube.com
 ||wwwbaiducom.xyz/4/js4/
 ||wwwcdn.kimiss.net/btn/
-||wwwnetnetsolutiohost.ncecreditunion.com^
 ||wwwpromoter.com^$popup
 ||wwwxxx.uno/pop-code.js
 ||wwwxxx.uno/taco-code.js
