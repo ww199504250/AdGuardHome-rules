@@ -1773,6 +1773,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /b/ss?AQB=
 /b/stats?
 /b4b8.js$domain=homeporn.cc|pornenot.com|pornocase.net
+/bGFwb3N0ZS5uZXQ.js$third-party
+/bXlmb3JlY2FzdC5jb20.js$third-party
 /ba_tracking.js
 /baha/*$subdocument,domain=gamer.com.tw
 /baichuan/*$subdocument
@@ -1931,6 +1933,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /c/i.php?id=$script,third-party
 /c2_count.js
 /c?siteID=$image,script
+/cGlja3MubXk.js$third-party
 /c_track.php?
 /cache/OTca.js
 /cache/ad_js/*
@@ -2244,6 +2247,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cxf-tracking@
 /d.gif?
 /d/*-*-*.ap|$script,third-party
+/d3d3Lm5ld3Nlci5jb20.js$third-party
+/d3d3LmRlY2tzaG9wLnBybw.js$third-party
+/d3d3LnNtaXRoc29uaWFubWFnLmNvbQ.js$third-party
+/d3d3Lnplcm9ncHQuY29t.js$third-party
+/dGhlZnJlZWJpZWd1eS5jb20.js$third-party
 /data/attachment/ad/*
 /data/cache/myad-
 /data/stat.php?*&referer_host=
@@ -19032,6 +19040,7 @@ moviemistakes.com##.freestarad
 moviemistakes.com##.tower
 moxing.net##.pic_txt_list
 moxing.net##a[marked][href*=".taobao.com"]
+mp3andvideoconverter.com##.BannerReAds_horizontal-area__5JNuE
 mp4ba.la##.hd + table
 mp4ba.la##td[width="300"][height="300"]
 mp4upload.com###overlayads
@@ -39545,6 +39554,7 @@ zzzyk.com###Tinfo
 ||observerbd.com/ad/
 ||obsidiancutter.top^$popup
 ||obtaintrout.com^$document
+||occasional-flow.com^$document
 ||oceanwebcraft.com^$third-party
 ||ocelot.studio^$third-party
 ||ockremarkedon.com^$popup
