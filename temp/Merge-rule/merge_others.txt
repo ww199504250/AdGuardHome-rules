@@ -2406,6 +2406,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /email/tracking?
 /email_open_log_
 /email_opened_tracking_pixel?
+/emailopen?q=$image
 /emimp/*$image
 /emos2.js
 /emstrack.js
