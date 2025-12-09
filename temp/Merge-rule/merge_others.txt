@@ -689,6 +689,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /*JmVu.js?sp=
 /*JmVu.js?tg=
 /.netlify/scripts/rum
+/.rum/@adobe/helix-
 /.webscale/rum?
 /.well-known/shopify/monorail
 //cdn.*/uni-ggs.js$third-party
@@ -41033,6 +41034,7 @@ zzzyk.com###Tinfo
 ||prudsys-rde.de^$third-party
 ||prwave.info^$document
 ||prwave.info^$popup
+||ps.ex.co/cookie_sync
 ||ps0z.com/300x250b
 ||ps123.net/MyFile/
 ||ps557.com/link/
@@ -43527,7 +43529,6 @@ zzzyk.com###Tinfo
 ||srtrak.com^$popup
 ||srv243852.hoster-test.ru^
 ||srv244072.hoster-test.ru^
-||srv244399.hoster-test.ru^
 ||srv2trking.com^$popup
 ||srvhost.servehttp.com^
 ||srvmath.com^*/analytics.js
