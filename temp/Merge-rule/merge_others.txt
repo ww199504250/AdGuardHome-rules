@@ -1272,7 +1272,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /adf-tm-base-min.js
 /adflash/*
 /adfox/loader.js$script
-/adfx.loader.bind.js$script
+/adfx.loader.bind.js?
 /adhandler/*$~subdocument
 /adiframe|*|adtech;
 /adimage.$image,script,stylesheet
@@ -6771,6 +6771,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 69games.xxx,gamcore.com###tvnotice
 69games.xxx,porcore.com##body > [id][style^="position: fixed; top: 0px;"]
 69xx.one,69xx487.xyz,8mav.cc,av411.xyz,cable2055.cc,theav.xyz,thep178.com,theporn.cc,weav.xyz#?#[class]:-abp-has(>a>.q-responsive)
+6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.StickyAdWrapper
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.leaderboard2
 6abc.com,abcnews.go.com,goodmorningamerica.com##.taboola
 6fzd.com,eyy5.cn,fzd3.com##.area1
@@ -9839,7 +9840,6 @@ aarp.org##.hot-deals
 abbao.cn#@##adContent
 abbaspc.net##.buttonPress-116
 abbynews.com,biv.com,kelownacapnews.com,lakelandtoday.ca,orilliamatters.com,reddeeradvocate.com,revelstokereview.com,sootoday.com,surreynowleader.com,theprogress.com,time.com,timescolonist.com,vancouverisawesome.com,vicnews.com###leaderboard-container
-abc7ny.com##.StickyAdWrapper
 abcnews.go.com##[data-testid="prism-sticky-ad"]
 abcnews.go.com##div[data-container="band"]:has(> div > div[data-box-type="fitt-adbox-thinbannerhome"])
 abcnews.go.com,edarabia.com##.leaderboard-970
@@ -23664,7 +23664,6 @@ tsmodelstube.com##a[href="https://tsmodelstube.com/a/tangels"]
 tsumino.com##.erogames_container
 tsx.is##.VPDocAside > .mb-8
 tsx.is##.VPDocAsideCarbonAds
-ttdm.me##.dds_w
 ttmeiju.me##DIV[style="float:left;margin-bottom:27px;margin-top:27px;"]
 ttsp.tv##.play_list_adbox
 tubator.com##.ggg_container
@@ -34566,6 +34565,7 @@ zzzyk.com###Tinfo
 ||gucucmaikaups.com^$popup
 ||guesswhatnews.com^$popup
 ||guhai.com.cn/AD/
+||guidance.ghost.io^
 ||guifun.com/psptool/ad/
 ||guilin-ly.com^*.gif
 ||guineasbufo.top^$popup
@@ -41537,7 +41537,6 @@ zzzyk.com###Tinfo
 ||raenonx.cc/api/tag
 ||raenonx.cc/g/usage/
 ||raenonx.cc/scripts
-||ragaven09-21698.portmap.host^
 ||ragazzeinvendita.com^$third-party
 ||rail.bankofamerica.com^$script,~third-party,xmlhttprequest
 ||rainbownine.net^$third-party
@@ -45258,7 +45257,6 @@ zzzyk.com###Tinfo
 ||tt1069.com/script.min.js
 ||tt1069.com/t0602.js
 ||ttavav6.com/zz/
-||ttdm.me/upload/files/sss/
 ||ttoc8ok.com^$popup
 ||ttrace.ru^$third-party
 ||tubator.com/lookout/ex_rendr3.js
