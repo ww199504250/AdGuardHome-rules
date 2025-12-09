@@ -1,5 +1,5 @@
-! 规则更新时间 2025年12月09日 08:01:06
-! 本规则数量 192条
+! 规则更新时间 2025年12月09日 13:21:13
+! 本规则数量 188条
 ! 更新频率 12小时
 ! 白名单规则
 
@@ -15,7 +15,6 @@
 @@||acs-m.daraz.pk^
 @@||acs.m.taobao.com^
 @@||action.metaffiliation.com^
-@@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
 @@||adcdn.pingan.com^
@@ -70,9 +69,9 @@
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cs.silverpop.com^
 @@||cutcaptcha.com^
-@@||d.toutiao.com^
 @@||daikoku.ebis.ne.jp^
 @@||data-*.herz-fuer-tiere.de^
+@@||e.customeriomail.com^
 @@||email.*.skyeng.ru^
 @@||email.awscloud.com^
 @@||email.elitedangerous.com^
@@ -83,7 +82,6 @@
 @@||feed.adrelayer.com^
 @@||forum.notebookreview.com^
 @@||galleryapi.micloud.xiaomi.net^
-@@||gaode-jmacs.m.taobao.com^
 @@||gate.first-id.fr^
 @@||get.neofinancial.com^
 @@||go.adjust.com^
@@ -120,6 +118,7 @@
 @@||links.e.theatlantic.com^
 @@||links.getblueshift.com^
 @@||log.mmstat.com^
+@@||log2.cmpassport.com^
 @@||login.sendpulse.com^
 @@||m.douyinhanyu.com^
 @@||ma135-r.analytics.edgekey.net^
@@ -155,13 +154,10 @@
 @@||refer.discover.com^
 @@||remembering.ca^
 @@||res.ads.nicovideo.jp^
-@@||resolver.msg.xiaomi.net^
 @@||s.bluecore.com^
 @@||sbs.demdex.net^
 @@||sdkreport.e.qq.com^
-@@||secureimage.securedataimages.com^
 @@||security.browser.miui.com^
-@@||sentry.d.xiaomi.net^
 @@||smtp.focusgroupresearch.com^
 @@||sponsor.nitropay.com^
 @@||srv.sec.miui.com^
@@ -180,7 +176,6 @@
 @@||thumbnail.thench.net^
 @@||tlaol.com^
 @@||tlh.gedidigital.it^
-@@||torimochi.line-apps.com^
 @@||tr.rdrtr.com^
 @@||track.rutarget.ru^
 @@||track.webgains.com^
@@ -190,6 +185,7 @@
 @@||vcentry3.valuecommerce.ne.jp^
 @@||vv.video.qq.com^
 @@||www.alidns.com^
+@@||www.datadoghq-browser-agent.com^
 @@||www.dogpile.com^
 @@||www.googleadservices.com^
 @@||www.jdoqocy.com^
