@@ -1,4 +1,9 @@
 $ping,third-party
+*-ad.sm.cn*
+*-ad.video.yximgs.com*
+*-ad.wtzw.com*
+*-be-pack-sign.pglstatp-toutiao.com*
+*-normal.zijieapi.com*
 *ad.durasite.net^
 -160x600-$image,subdocument
 -300x250-$image
@@ -19,10 +24,12 @@ $ping,third-party
 -web-advert-$image
 .ads.controller.js$script
 .content_tracking.js
+.jkn0*loi.com$third-party
 .prebid-bundle.js$script
 .prtrackings.com$popup
 .sharecounter.$third-party
 @@-ds.metric.gstatic.com^|
+@@down.360safe.com^
 @@|ads.adsterra.com^|
 @@|adsterra.com^|
 @@|affiliate.notion.so^|
@@ -41,7 +48,9 @@ $ping,third-party
 @@|statcounter.com^|
 @@|www.daraz.pk^|
 @@|www3.doubleclick.net^|
+@@||developer.apple.com$generichide
 @@||music.amazon.$generichide
+_300x250.js
 _468_60-$~script
 _ad_250.$image
 _ad_300.$image
@@ -54,6 +63,7 @@ _prebid.js$script
 _rony.js$script,third-party
 _social_tracking.js
 analytics-*.aasaam.com
+cloudflareinsights.com$third-party
 img.promio-connect.com$image
 omni.soundestlink.com$image
 |167.206.10.148^
@@ -78,6 +88,10 @@ omni.soundestlink.com$image
 ||coinimp.com$third-party
 ||coinimp.net$third-party
 ||deloton.com$important
+||google-analytics.com$third-party
+||hongosi.xn--*.cc$third-party
 ||oclasrv.com$important
 ||proffering.xyz$popup
+||qchannel03.cn$third-party
+||trafficstars.com$third-party
 ！移动号码认证一键登录
