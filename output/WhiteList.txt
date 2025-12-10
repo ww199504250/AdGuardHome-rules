@@ -1,5 +1,5 @@
-! 规则更新时间 2025年12月10日 13:35:54
-! 本规则数量 1509条
+! 规则更新时间 2025年12月10日 14:03:57
+! 本规则数量 1507条
 ! 更新频率 12小时
 ! 白名单规则
 
@@ -431,6 +431,7 @@
 @@||download.adguard.com^
 @@||download.alicdn.com^
 @@||download.pinduoduo.com^
+@@||download.uc.cn^
 @@||downpack.baidu.com^
 @@||downum.game.uc.cn^
 @@||downv6.qq.com^
@@ -942,7 +943,6 @@
 @@||p*-piu.byteimg.com^
 @@||p*-ppx-report.byteimg.com^
 @@||p*-ppx-sign.byteimg.com^
-@@||p*-ppx.byteimg.com^
 @@||p*-sdbk2-media.byteimg.com^
 @@||p*.music.126.net^
 @@||p*.qhimg.com^
@@ -1062,6 +1062,7 @@
 @@||picx.zhimg.com^
 @@||pifa.pinduoduo.com^
 @@||pkg.biligame.com^
+@@||pkg.sinaimg.cn^
 @@||play-fe.googleapis.com^
 @@||play.163.com^
 @@||play1.heytapimage.com^
@@ -1174,7 +1175,6 @@
 @@||sdk.live.360.cn^
 @@||sdk.open.talk.gepush.com^
 @@||sdkapi.sms.mob.com^
-@@||sdkconfig.ad.xiaomi.com^
 @@||sdkreport.e.qq.com^
 @@||se*.360simg.com^
 @@||se.360.cn^
@@ -1285,7 +1285,6 @@
 @@||tnc11-bjlgy.zijieapi.com^
 @@||tnc3-aliec2.snssdk.com^
 @@||tnc3-bjlgy.zijieapi.com^
-@@||toblog.ctobsnssdk.com^
 @@||tongji.flash.cn^
 @@||top.17173.com^
 @@||tousu.sina.cn^
@@ -1311,7 +1310,6 @@
 @@||uc.ucweb.com^
 @@||ulive-interact.uc.cn^
 @@||ulive-sc.uc.cn^
-@@||ulog*.*.com^
 @@||unet.ucweb.com^
 @@||union.jd.com^
 @@||up.cm.ksmobile.com^
