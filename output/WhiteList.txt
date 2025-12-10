@@ -1,5 +1,5 @@
-! 规则更新时间 2025年12月10日 14:13:25
-! 本规则数量 1507条
+! 规则更新时间 2025年12月10日 14:25:47
+! 本规则数量 1518条
 ! 更新频率 12小时
 ! 白名单规则
 
@@ -87,7 +87,6 @@
 @@||aisubtitle.hdslb.com^
 @@||aizhan.com^
 @@||akamaized.net^
-@@||al-aqsanews.com^
 @@||ali-gamezone.static.yximgs.com^
 @@||ali-ky.static.yximgs.com^
 @@||ali.static.yximgs.com^
@@ -119,6 +118,7 @@
 @@||api-album.quark.cn^
 @@||api-chat.soulapp.cn^
 @@||api-cmnt.wtzw.com^
+@@||api-cn.cdo.heytapmobi.com^
 @@||api-ks.wtzw.com^
 @@||api-pay.soulapp.cn^
 @@||api-pda.jdl.com^
@@ -181,6 +181,7 @@
 @@||app.toutiao.com^
 @@||app.zhuanzhuan.com^
 @@||appcenter.ms^
+@@||appconf.heytapdownload.com^
 @@||appdl-1-drcn.dbankcdn.com^
 @@||appgoad.189.cn^
 @@||appimg-drcn.dbankcdn.com^
@@ -199,7 +200,6 @@
 @@||auni.telecome.cn^
 @@||auni.unioncom.cc^
 @@||auth.zijieapi.com^
-@@||auto-api.yelp.com^
 @@||avatar.coolapk.com^
 @@||avatars.githubusercontent.com^
 @@||avatars0.githubusercontent.com^
@@ -235,7 +235,6 @@
 @@||broadcastlv.chat.bilibili.com^
 @@||broccoli.uc.cn^
 @@||browser.360.cn^
-@@||browser.events.data.msn.com^
 @@||bs-origin.pull.yximgs.com^
 @@||buyad.bi-xenon.cn^
 @@||c.58cdn.com.cn^
@@ -261,6 +260,7 @@
 @@||cc.163.com^
 @@||ccportrait.yuewen.com^
 @@||cdi.ofiii.com^
+@@||cdn*.porn300.com^
 @@||cdn-audio.qimao.com^
 @@||cdn-f1.assistant.miui.com^
 @@||cdn-go.cn^
@@ -270,8 +270,10 @@
 @@||cdn.bootcdn.net^
 @@||cdn.cnbj1.fds.api.mi-img.com^
 @@||cdn.datatables.net^
+@@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.iocdn.cc^
 @@||cdn.pinduoduo.com^
+@@||cdn.rozetka.com.ua^
 @@||cdn.staticfile.org^
 @@||cdn.us*.exponea.com^
 @@||cdn.webclicks24.com^
@@ -332,11 +334,11 @@
 @@||click.trafficguard.ai^
 @@||click.virt.exacttarget.com^
 @@||click.virt.s*.exacttarget.com^
+@@||click.zoom.us^
 @@||clickattr.wayup.com^
 @@||clicks.aweber.com^
 @@||clicks.pipaffiliates.com^
 @@||clicks.trx-hub.com^
-@@||clickserve.dartsearch.net^
 @@||client.app.coc.10086.cn^
 @@||client.wns.windows.com^
 @@||clientlog*music.163.com^
@@ -359,6 +361,7 @@
 @@||cnbj1.fds.api.xiaomi.com^
 @@||cnlogin.cainiao.com^
 @@||cnnic.net.cn^
+@@||collect.hupu.com^
 @@||commimg.pddpic.com^
 @@||common.jbzj.com^
 @@||community.akamai.steamstatic.com^
@@ -379,6 +382,7 @@
 @@||cpv2.mairuan.com^
 @@||credit-cdn.heytap.com^
 @@||credit.heytap.com^
+@@||crm-cdn.peek-cloppenburg.com^
 @@||cros-updates-serving.appspot.com^
 @@||cs.silverpop.com^
 @@||cstaticdun-v6.126.net^
@@ -436,7 +440,7 @@
 @@||downum.game.uc.cn^
 @@||downv6.qq.com^
 @@||dp.push.dc.360.cn^
-@@||dragate.dc.oppomobile.com^
+@@||dragate-cn.dc.heytapmobi.com^
 @@||drive-h.quark.cn^
 @@||drive-pc.quark.cn^
 @@||drive.quark.cn^
@@ -511,6 +515,7 @@
 @@||fino.svc.litv.tv^
 @@||flydigi.com^
 @@||forum.notebookreview.com^
+@@||fourier-videoclip-eu.allawnos.com^
 @@||fp-it.fengkongcloud.com^
 @@||fr.register.xmpush.global.xiaomi.com^
 @@||free-aos-cdn-image.amap.com^
@@ -614,7 +619,6 @@
 @@||i82.lanzoug.com^
 @@||ia.hit.interia.pl^
 @@||ib.snssdk.com^
-@@||ib11.go2yd.com^
 @@||ic.snssdk.com^
 @@||id.163.com^
 @@||id.i2i.jp^
@@ -827,7 +831,6 @@
 @@||market.m.taobao.com^
 @@||market.mi-img.com^
 @@||market.waimai.meituan.com^
-@@||marketing.net.idealo-partner.com^
 @@||masterconn2.qq.com^
 @@||mb.yidianzixun.com^
 @@||mbd.baidu.com^
@@ -842,6 +845,7 @@
 @@||mdm.openapi.360.cn^
 @@||me-api.jd.com^
 @@||med-fe.cdn.bcebos.com^
+@@||media-consumer365.desigual.com^
 @@||media.githubusercontent.com^
 @@||mediation.adnxs.com^
 @@||member.aligames.com^
@@ -869,7 +873,6 @@
 @@||mobile.yangkeduo.com^
 @@||mobilist.kuwo.cn^
 @@||moggy-image-1251316161.file.myqcloud.com^
-@@||mon.isnssdk.com^
 @@||mon.snssdk.com^
 @@||mon.zijieapi.com^
 @@||mooc-image.nosdn.127.net^
@@ -1058,7 +1061,6 @@
 @@||pica.zhimg.com^
 @@||picasso-static.xiaohongshu.com^
 @@||pics.porn300.com^
-@@||pics.porndroids.com^
 @@||picx.zhimg.com^
 @@||pifa.pinduoduo.com^
 @@||pkg.biligame.com^
@@ -1129,8 +1131,10 @@
 @@||redirect.appmetrica.yandex.com^
 @@||redirect.disqus.com^
 @@||ref.rbauction.com^
+@@||refer.discover.com^
 @@||reg.163.com^
 @@||register*mi.com^
+@@||register.xmpush.global.xiaomi.com^
 @@||register.xmpush.xiaomi.com^
 @@||release-assets.githubusercontent.com^
 @@||remembering.ca^
@@ -1144,9 +1148,9 @@
 @@||restapi.amap.com^
 @@||router.ctc.lan^
 @@||rs.xmeye.net^
-@@||ru.register.xmpush.global.xiaomi.com^
 @@||s*.ssl.qhimg.com^
 @@||s*.ssl.qhmsg.com^
+@@||s-plugins.wordpress.org^
 @@||s.163.com^
 @@||s.bluecore.com^
 @@||s.click.alimama.com^
@@ -1169,7 +1173,6 @@
 @@||saveu.zijieapi.com^
 @@||sbs.demdex.net^
 @@||scan.call.f.360.cn^
-@@||scs.openspeech.cn^
 @@||sd.360.cn^
 @@||sdk-api.beizi.biz^
 @@||sdk.live.360.cn^
@@ -1218,6 +1221,7 @@
 @@||spotify.com^
 @@||spotifycdn.net^
 @@||sqimg.qq.com^
+@@||srv.sec.miui.com^
 @@||ss.phncdn.com^
 @@||ssl.msdk.qq.com^
 @@||staging.flash.sec.miui.com^
@@ -1241,6 +1245,8 @@
 @@||statics.itc.cn^
 @@||staticwiki.biligame.com^
 @@||stats.britishbaseball.org.uk^
+@@||stats.gc.apple.com^
+@@||stats.music.xiaomi.com^
 @@||statsig.com^
 @@||statusapi.micloud.xiaomi.net^
 @@||stawritecdn.yuewen.com^
@@ -1253,6 +1259,7 @@
 @@||studcat.infra.systems^
 @@||study.163.com^
 @@||sug.browser.miui.com^
+@@||suggestion.baidu.com^
 @@||sugs.m.sm.cn^
 @@||support-beacon.nakanohito.jp^
 @@||support-widget.nakanohito.jp^
@@ -1280,15 +1287,18 @@
 @@||theme.heytapimage.com^
 @@||thm.market.xiaomi.com^
 @@||thumbnail.thench.net^
+@@||thumbor.thedailymeal.com^
 @@||tlaol.com^
 @@||tlh.gedidigital.it^
 @@||tnc11-bjlgy.zijieapi.com^
+@@||tnc16-platform-useast1a.tiktokv.com^
 @@||tnc3-aliec2.snssdk.com^
 @@||tnc3-bjlgy.zijieapi.com^
 @@||tongji.flash.cn^
 @@||top.17173.com^
 @@||tousu.sina.cn^
 @@||tousu.sina.com.cn^
+@@||tr.rdrtr.com^
 @@||track.rutarget.ru^
 @@||track.webgains.com^
 @@||trade-acs.m.taobao.com^
@@ -1310,6 +1320,7 @@
 @@||uc.ucweb.com^
 @@||ulive-interact.uc.cn^
 @@||ulive-sc.uc.cn^
+@@||umiwi.com^
 @@||unet.ucweb.com^
 @@||union.jd.com^
 @@||up.cm.ksmobile.com^

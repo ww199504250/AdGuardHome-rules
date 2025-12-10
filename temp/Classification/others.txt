@@ -28,8 +28,55 @@ $ping,third-party
 .prebid-bundle.js$script
 .prtrackings.com$popup
 .sharecounter.$third-party
+103.224.182.210$network
+104.155.51.226:443$network
+107.148.45.21$network
+139.45.197.151$network
+139.45.197.152$network
+139.45.197.153$network
+139.45.197.154$network
+154.199.255.184$network
+157.90.183.248$network
+172.240.108.68$network
+172.240.108.76$network
+172.240.108.84$network
+172.240.127.234$network
+172.240.253.132$network
+185.149.120.173$network
+185.216.143.121$network
+185.246.188.124$network
+185.246.188.125$network
+192.243.59.12$network
+192.243.59.13$network
+192.243.59.20$network
+192.243.61.225$network
+192.243.61.227$network
+193.200.64.30$network
+193.200.64.31$network
+193.200.65.61$network
+194.63.140.103$network
+194.63.143.61$network
+194.63.143.96$network
+198.23.198.110$network
+212.117.190.201$network
+212.117.190.202$network
+212.117.190.210$network
+212.117.190.211$network
+212.117.190.212$network
+212.117.190.213$network
+54.229.21.199:3480$network
+54.246.248.134:3480$network
+57.128.71.215$network
+91.204.226.224$network
 @@-ds.metric.gstatic.com^|
-@@down.360safe.com^
+@@.instantservice.com$document
+@@127.0.0.1:10111$network
+@@185.88.236.76:443$network
+@@185.88.236.77:443$network
+@@212.103.68.8:443$network
+@@5.148.189.203:443$network
+@@5.148.189.204:443$network
+@@5.148.189.205:443$network
 @@|ads.adsterra.com^|
 @@|adsterra.com^|
 @@|affiliate.notion.so^|
@@ -48,8 +95,42 @@ $ping,third-party
 @@|statcounter.com^|
 @@|www.daraz.pk^|
 @@|www3.doubleclick.net^|
+@@||192.168.$~third-party
+@@||ads.dblink.us$~image,~third-party
+@@||airevue.net$generichide
+@@||akwam.$generichide
+@@||akwams.$generichide
+@@||app.sendgrid.com$document
+@@||azsoft.$generichide
+@@||bg-gledai.$generichide
+@@||content.googleapis.com$document
+@@||content.newegg.com$document
+@@||cryptoaddicted.biz$generichide
 @@||developer.apple.com$generichide
+@@||familyhandyman.com$generichide
+@@||googledrive.com$document
+@@||id.wsj.com$stealth
+@@||indiansgetfucked.com$generichide
+@@||javfinder.id$elemhide
+@@||javhdx.tv$generichide
+@@||leisurefire.github.io$elemhide,jsinject
+@@||mackungfu.org$generichide
+@@||miniminiplus.pl$generichide
 @@||music.amazon.$generichide
+@@||outlookindia.com$generichide
+@@||rendimentibtp.it$generichide
+@@||securitykiss.com$document
+@@||sh.st$generichide
+@@||shink.in$generichide
+@@||simple.ripley.cl$generichide
+@@||stfly.$generichide
+@@||streamingcommunity.$generichide
+@@||sync.maxthon.com$document
+@@||thenextweb.com$generichide
+@@||vpnconnect.ru$jsinject,elemhide,extension
+@@||waap.ru$jsinject,elemhide,extension
+@@||websetnet.com$elemhide
+_200x250.png
 _300x250.js
 _468_60-$~script
 _ad_250.$image
@@ -66,6 +147,9 @@ analytics-*.aasaam.com
 cloudflareinsights.com$third-party
 img.promio-connect.com$image
 omni.soundestlink.com$image
+rgmechanicsgames.com*VPN.exe
+stun:1755001826:443$important
+stun:35.224.227.218^
 |167.206.10.148^
 |a.klaviyo.com^
 |c.blue.*.com^|
@@ -74,6 +158,7 @@ omni.soundestlink.com$image
 |javascript:*window.location$popup
 ||1024wanzhai.$popup,third-party
 ||113-116-50-196-yf81c2bb.nodeedge.cn:9512^
+||117.254.84.212:3000^
 ||119.28.83.28:8099^
 ||142.91.159.$popup
 ||156.238.246.232 ^
@@ -98,9 +183,11 @@ omni.soundestlink.com$image
 ||api.upgrade.skysrt.com  ^
 ||avividone.likr.tw$third-party
 ||backgrounds.wetransfer.net$image
+||call_domainname_here.$all
 ||chaturbate.com*popunder$popup
 ||coinimp.com$third-party
 ||coinimp.net$third-party
+||d71e6dd31a026d45.com$popup
 ||deloton.com$important
 ||g1.tagtic.cn ^
 ||ggzuhao.com  ^
@@ -123,6 +210,7 @@ omni.soundestlink.com$image
 ||pgdt.ugdtimg.com ^
 ||proesh.com  ^
 ||proffering.xyz$popup
+||pussyspace.$image
 ||qchannel03.cn$third-party
 ||rangpurart.com  ^
 ||s.cmpay.com^eck.com^
