@@ -9964,7 +9964,6 @@ Mplay/kk1.js
 [Adblock Plus 1.1]
 [Adblock Plus 2.0]
 [Adblock Plus]
-[个人合并 2.0]
 ^endpoint=track^$image
 ^kklq0*p0i.com/$script,xmlhttprequest,third-party
 ^niu0*jd.top/$script,xmlhttprequest,third-party
@@ -26086,7 +26085,6 @@ zzzyk.com###Tinfo
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,third-party,domain=rmdown.com
 ||*.metric.gstatic.com^$denyallow=*-dnsotls-ds.metric.gstatic.com
 ||*/ad/$rewrite=abp-resource:blank-mp3,domain=huaren.tv
-||*/snscosdownload/*/reserved/*$app=com.tencent.mm
 ||*channel=*&amp;amp;disable_rcmd=1*^
 ||*xav.*/guang/*.gif
 ||*xav.*/guang/*.jpg
@@ -28940,8 +28938,6 @@ zzzyk.com###Tinfo
 ||api.vp.rambler.ru/events/
 ||api.wudizuqiu.com/72nba
 ||api.wudizuqiu.com/bocai.js
-||api.zhihu.com/ab/*^
-||api.zhihu.com/ad-style-service
 ||api64.com^$third-party
 ||apibaza.com/pixel/
 ||apic.in/mmd.gif
