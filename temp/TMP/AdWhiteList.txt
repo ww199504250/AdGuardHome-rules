@@ -26,18 +26,15 @@
 177h.wodeshougong.com
 177j.wodenongtiacom
 17u.cn
-1sapp.com
 1tian.kuaishou.com
 316.coolapk1s.com
 360.cn
 360buyimg.com
 3746760377.qnqcdn.net
-3975.com
 3d-platform-pro.obs.cn-south-1.myhuaweicloud.com
 3g.163.com
 3g.ali213.net
 3gimg.qq.com
-40017.cn
 48609.activity-42.m.duiba.com.cn
 5471782.fls.doubleclick.net
 79423.analytics.edgekey.net
@@ -170,7 +167,6 @@ apimobile.meituan.com
 apis.google.com
 apischedule.ksyungslb.com
 apissl.ksapisrv.com
-apiwz.midukanshu.com
 app-api.pixiv.net
 app.adjust.com
 app.appsflyer.com
@@ -194,7 +190,6 @@ article.zlink.toutiao.com
 artifactory.appodeal.com
 assets.giocdn.com
 at.umeng.com
-audid-api-sg.taobao.com
 audio-cdn.shuqireader.com
 audiopay.pcdn.xmcdn.com
 audiopaydl.pcdn.xmcdn.com
@@ -229,7 +224,6 @@ bmap6.cn
 bonuscloud.io
 book.qidian.com
 bookcover.yuewen.com
-bootcdn.net
 boxer.baidu.com
 bqq.gtimg.com
 brand.heytap.com
@@ -270,12 +264,14 @@ cdn-msp*.18comic.*
 cdn.akamai.steamstatic.com
 cdn.ark.qq.com
 cdn.atmedia.hu
+cdn.bootcdn.net
 cdn.cnbj1.fds.api.mi-img.com
 cdn.datatables.net
 cdn.duurzaam.greenchoice.nl
 cdn.iocdn.cc
 cdn.pinduoduo.com
 cdn.rozetka.com.ua
+cdn.staticfile.org
 cdn.us*.exponea.com
 cdn.webclicks24.com
 cdn.ynuf.aliapp.org
@@ -295,7 +291,6 @@ citiintl.122.2o7.net
 cj.dotomi.com
 cl.link-ag.net
 cl2.webterren.com
-clarins.com.cn
 classliving.lpages.co
 click*.experian.com
 click*.taobao.com
@@ -457,7 +452,6 @@ dx.10086.cn
 dxx.wwwtop.top
 eastus.api.speech.microsoft.com
 ecard.163.com
-ecard.shenzhentong.com
 ecombdapi.com
 edge.activity.windows.com
 edith.xiaohongshu.com
@@ -470,8 +464,6 @@ email.elitedangerous.com
 email.procook.co.uk
 emoji.bj.bcebos.com
 emoji.qpic.cn
-ename.com.cn
-ename.net
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
@@ -508,11 +500,11 @@ fcount-api.webapp.163.com
 fdfs.xmcdn.com
 fe-static.xhscdn.com
 feed.adrelayer.com
-feedback.miui.com
 feentry.zhuanzhuan.com
 fever.163.com
 fga0.market.xiaomi.com
 fgc0.market.xiaomi.com
+file.40017.cn
 file.market.xiaomi.com
 file.neixin.cn
 file.xiaomi.com
@@ -521,7 +513,6 @@ finderpdd.video.qq.com
 fino.svc.litv.tv
 flydigi.com
 forum.notebookreview.com
-foundation.youdao.com
 fourier-videoclip-eu.allawnos.com
 fp-it.fengkongcloud.com
 fr.register.xmpush.global.xiaomi.com
@@ -543,7 +534,6 @@ gate.first-id.fr
 gcable.com.cn
 gdfp.gifshow.com
 gdown.baidu.com
-gdtimg.com
 gecko.zijieapi.com
 get.neofinancial.com
 get.shouji.sogou.com
@@ -671,7 +661,6 @@ imgcache.qq.com
 imgservices-1252317822.image.myqcloud.com
 imgsrc.baidu.com
 imgx.mediav.com
-imop.com
 imtt.dd.qq.com
 infra-api.newrelic.com
 ingest.sentry.io
@@ -706,6 +695,7 @@ iteye.com
 itoya.ec-optimizer.com
 iwx.mail.qq.com
 jiazhang.qq.com
+jiguang.coc.10086.cn
 jikipedia.com
 jingfen.jd.com
 jr.jd.com
@@ -843,7 +833,6 @@ market.mi-img.com
 market.waimai.meituan.com
 market.xiaomi.com
 masterconn2.qq.com
-mb.yidianzixun.com
 mbd.baidu.com
 mc.*.exacttarget.com
 mca.cmpay.com
@@ -863,7 +852,6 @@ member.aligames.com
 member.bilibili.com
 message.bilibili.com
 mi-img.com
-mibi.api.xiaomi.com
 midas.gtimg.cn
 mimg.127.net
 minigame.zijieapi.com
@@ -1053,9 +1041,9 @@ pbs.twimg.com
 pda.jd.com
 pdds-c1-cdn.uc.cn
 pdds.ucweb.com
-pepsico.com.cn
 personaclick.com
 phonecallapi.micloud.xiaomi.net
+pic*.40017.cn
 pic*.iqiyipic.com
 pic*.zhimg.com
 pic.baike.soso.com
@@ -1092,6 +1080,7 @@ psstatic.cdn.bcebos.com
 pt.afl.rakuten.co.jp
 pub.idqqimg.com
 public-cis.exponea.com
+public.gdtimg.com
 pubmsg.meituan.com
 puds.ucweb.com
 pull2.91cloud.net
@@ -1188,7 +1177,6 @@ sdkreport.e.qq.com
 se*.360simg.com
 search.kuwo.cn
 search.sogoucdn.com
-sec.resource.xiaomi.net
 secureimage.securedataimages.com
 security.browser.miui.com
 security.snssdk.com
@@ -1207,14 +1195,12 @@ shminorshort.weixin.qq.com
 shmmsns.qpic.cn
 short.weixin.qq.com
 shouji.bmcx.com
-simg.sinajs.cn
 sl.hpplay.cn
 smarthome-drcn.dbankcdn.com
 smsks1.cmpassport.com
 smtp.focusgroupresearch.com
 sns-avatar-qc.xhscdn.com
 sns.m.taobao.com
-sobot.com
 soft.tbs.imtt.qq.com
 souti-ims.sm.cn
 sp.ele.me
@@ -1232,7 +1218,6 @@ st.todesk.com
 staging.flash.sec.miui.com
 stars.shuqireader.com
 stash.roistat.com
-stat.api.4399.com
 stat6.y.qq.com
 static-mobilegame-1.biligame.net
 static-ss.xvideos-cdn.com
@@ -1245,9 +1230,7 @@ static.e.189.cn
 static.hdslb.com
 static.iask.cn
 static.pddpic.com
-static.qiyi.com
 static.res.qq.com
-static.tieba.baidu.com
 static.ws.126.net
 statics.123pan.com
 statics.itc.cn
@@ -1292,7 +1275,6 @@ tangram.e.qq.com
 target.clickfunnels.com
 tb.himg.baidu.com
 tbm-auth.alicdn.com
-tbsone.imtt.qq.com
 teams.live.com
 test.nextdns.io
 theme.heytapimage.com
@@ -1411,7 +1393,6 @@ wk.idey.cn
 wm.makeding.com
 wmapi-mt.meituan.com
 wodenongtian.com
-woniu.com
 work.weixin.qq.com
 wqsd.jd.com
 write.qq.com
@@ -1487,7 +1468,6 @@ www1.pconline.com.cn
 wwwimage-tve.cbsstatic.com
 wx.tenpay.com
 wx2.sinaimg.cn
-wxapp.lvyadx.cn
 wxapp.tc.qq.com
 wxmini-api.uyouqu.com
 wxpay.qpic.cn
@@ -1495,9 +1475,7 @@ wxsnsdy.wxs.qq.com
 wxsnsencsvp.wxs.qq.com
 x0.ifengimg.com
 x2.ifengimg.com
-x6img.com
 xhslink.com
-xifuquan.com
 xj-n-tax.gov.cn
 xn--ngstr-lra8j.com
 xvideos.com
@@ -1523,7 +1501,6 @@ yoyodadada.lanzouw.com
 ysf.qiyukf.net
 yun.duiba.com.cn
 z.weixin.qq.com
-zazhipu.com
 zhan.vivo.com.cn
 zhidao.baidu.com
 zhipin.com
@@ -1531,4 +1508,3 @@ zhuanlan.zhihu.com
 zhuti.xiaomi.com
 zkres.myzaker.com
 zm.sm-tc.cn
-ztgame.com
