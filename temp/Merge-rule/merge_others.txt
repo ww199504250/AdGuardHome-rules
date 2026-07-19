@@ -433,7 +433,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .goodwell18.com/track/
 .google-analytics.com/
 .gruene.de/lists/ut.php$image
-.hgo0*uyi.com/$script,xmlhttprequest,third-party
 .hilton.com/subscription/watermark.gif?
 .hootsuite.com/trk?
 .html?android=hx*&_$csp=script-src
@@ -509,7 +508,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .mjt.lu/oo/$image
 .mkt2684.com/eos/
 .mkt51.net/eos/
-.moa0*ju.com/$script,xmlhttprequest,third-party
 .mozilla.org/eos/$image
 .mp4?*sdtfrom=&$domain=m.v.qq.com
 .n.2.1.js^$third-party
@@ -664,7 +662,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .xyz:*?c=$script,third-party
 .xyz:*?x=$script,third-party
 .xyz:8009/11?x=
-.yui0*shga.com/$script,xmlhttprequest,third-party
 .zalando.com/images/probe.png
 .zippingcare.com/beacon/$image
 .zone/ads/
@@ -834,7 +831,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /800x160/*
 /80sad/*
 /80x468_
-/83zg/tss.js
 /88/tag.min.js
 /8drama_yahoo/*
 /9115gg/*
@@ -10607,6 +10603,7 @@ amazon.*##div[data-csa-c-slot-id^="loom-mobile-brand-footer-slot_hsa-id-"]
 amazon.*##div[data-csa-c-slot-id^="loom-mobile-top-slot_hsa-id-"]
 amazon.*##div[id^="sims-simsContainer_feature_div_"]:has(.sp_info_link)
 amazon.*##div[id^="sp_detail"]
+amazon.*##div[id^="typ-recommendations-stripe-"]:has(div[data-is-sponsored-label-active="true"])
 amazon.*##li[role="listitem"]:has(.hybrid-widget-sponsored-label)
 amazon.*##span[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
 amazon.*##span[cel_widget_id^="MAIN-loom-desktop-brand-footer-slot_hsa-id-CARDS-"]
@@ -11892,6 +11889,7 @@ bleepingcomputer.com##[href^="https://www.threatlocker.com/"]
 bleepingcomputer.com##[href^="https://ztw.com/"]
 bleepingcomputer.com##[src*="https://www.bleepstatic.com/c/t/threatlocker/"]
 bleepingcomputer.com##div[style="width:98%; margin:0 auto; text-align:center; padding:4px; background:#f0f0f0; border:1px solid
+bleepingcomputer.com##div[style="width:98%; margin:0 auto; text-align:center; padding:5px; background:#f0f0f0; border:1px solid
 bleepingcomputer.com#?#.cz-line-heading:has-text(Sponsor Posts)
 bleepingcomputer.com#?#.cz-line-heading:has-text(Sponsor Posts) + ul
 bleepingcomputer.com#?#.post_wrap:has-text(AdBot)
@@ -21272,12 +21270,17 @@ pixiv.net##.ad-footer + .hover-item
 pixiv.net##.ad-frame-container
 pixiv.net##.ad-mobile-anchor
 pixiv.net##.ads_anchor
-pixiv.net##.gtm-toppage-thumbnail-illustration-recommend-works-zone > ul > li:has(> div > [id^="adsdk-"])
-pixiv.net##.list-none:has(> div > [id^="adsdk"])
+pixiv.net##.grid-flow-dense > .aspect-square.overflow-hidden
+pixiv.net##.grid-flow-dense > div:has(> [style="display: block; width: 184px; height: 232px;"] > iframe)
+pixiv.net##.gtm-toppage-thumbnail-illustration-recommend-works-zone > ul > li:has(> div > [style="display: block; width: 300px; height: 250px;"])
+pixiv.net##.gtm-toppage-thumbnail-manga-recommend-works-zone li:has(> [style="display: block; width: 184px; height: 232px;"])
 pixiv.net##.multi-ads-area
 pixiv.net##[data-gtm-recommend-zone="index"] li:has(> div > iframe[name$="rectangle"])
+pixiv.net##[span="1"]:has(> div > div > div[style="display: block; width: 100%; height: 434px;"])
+pixiv.net##[style="display: block; height: 345px; width: 500px;"]
 pixiv.net##[style="display: block; width: 100%; height: 520px;"]
 pixiv.net##[style="display: block; width: 300px; height: 250px;"]
+pixiv.net##[style="margin: 48px auto 8px; width: 728px; line-height: 0; font-size: 0px;"]
 pixiv.net##[style^="display: block; width: 100%; height"]:has(> iframe[data-uid])
 pixiv.net##a[target="premium_noads"]
 pixiv.net##div[class^="sc-"]:has(> [style^="display"][style*="468px;"][style*="60px"])
@@ -21288,6 +21291,7 @@ pixiv.net##iframe[height="300"][name="responsive"]
 pixiv.net##iframe[height="520"][name="expandedFooter"]
 pixiv.net##iframe[width="300"][height="250"]
 pixiv.net##li.overflow-hidden:has(> .pt-0 > [style="display: block; width: 300px; height: 250px;"])
+pixiv.net##section:has(> div > div > iframe[name="illusttop_appeal"])
 pixiv.net#@#.ad-footer
 pixnet.net###pixblogad
 pixnet.net###pixblogad-banner2
@@ -27075,7 +27079,6 @@ zzzyk.com###Tinfo
 ||3158.cn/static/js/fixbtm/
 ||3158.cn^*_analyser.
 ||315che.com/tree/ad.js
-||31fq.com^$third-party
 ||31vcd.com^*.js
 ||321mh.com/v1/getadvertise?
 ||32xp.com/upimg/
@@ -27845,9 +27848,6 @@ zzzyk.com###Tinfo
 ||ad-fam.com^$third-party
 ||ad-free.info^$popup
 ||ad-host-backup-*.aliyuncs.com^
-||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
-||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
-||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
 ||ad-maven.com^$popup
 ||ad-mixr.com^$third-party
 ||ad-nex.com^$third-party
@@ -28271,7 +28271,6 @@ zzzyk.com###Tinfo
 ||adshost.com^
 ||adshost1.com^
 ||adshost2.com^
-||adshostnet.com^
 ||adshostnet.com^$popup
 ||adshot.de^$third-party
 ||adsiduous.com^$third-party
@@ -41115,7 +41114,6 @@ zzzyk.com###Tinfo
 ||panc.cc/uploads/hongbao.png
 ||pandora.com/api/v1/ad/
 ||pandora.com/web-client-assets/displayAdFrame.
-||panelghostscontractor.com^
 ||panelghostscontractor.com^$popup
 ||panjin.net/ichat2/adhtml.htm
 ||panmeme.com^*/common.js
