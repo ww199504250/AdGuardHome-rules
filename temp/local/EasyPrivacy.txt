@@ -3041,6 +3041,7 @@ _WebVitalsReporter_
 &ga_blocked=$image
 &l=dataLayer&cx=c
 &sst.sw_exp=
+&tag_exp=*&e=gtm.
 .js?id=GTM-
 /*JmVu.js?sp=
 /.netlify/scripts/rum
@@ -3741,6 +3742,7 @@ omni.soundestlink.com$image
 ||pixmg.com^
 ||pixrealm.com^
 ||pjstat.com^
+||pocustrack.com^
 ||powerrobotflower.com^
 ||prfct.co^
 ||procroanalytics.com^
@@ -9507,6 +9509,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||obs.branderblender.com^
 ||obs.du89buildings.com^
 ||obs.esnlocco.com^
+||obs.greencolumnblog.com^
 ||obs.jollyoutdoorjogger.com^
 ||obs.system1onesource.com^
 ||observe-nexus.pointandplace.com^
@@ -11692,6 +11695,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||acclog001.shop-pro.jp^
 ||acclog002.shop-pro.jp^
 ||actagtracker.jp/tag
+||acv.mira-dsp.com^
 ||ad.daum.net^
 ||admin.blog.fc2.com/dctanalyzer.php
 ||affiliate.rakuten.co.jp^$script,third-party
@@ -11799,7 +11803,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rcm.shinobi.jp^
 ||rd.rakuten.co.jp^$script
 ||re-volver.net/visitor/
-||receptions.smart-bdash.com/receptions/action/click
 ||reports-tsi.tangerine.io^
 ||reproio.com^$third-party
 ||resultspage.com/js/sli-spark.js
@@ -12188,6 +12191,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.sunmedia.tv^
 ||track.tappx.com^
 ||tracker.thinkindot.com^
+||tracking-api.razor.media^
 ||tracking.smartmeapp.com^
 ||tracking.univtec.com^
 ||trsbf.com/static/fbs.min.js
@@ -12617,6 +12621,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||change.org/api-proxy/-/et
 ||change.org/api-proxy/-/event_tracker
 ||channel.io/front/v*/channels/*/events
+||chase.com/apps/services/clientBeacon.html
 ||chat.groq.com/global_stats
 ||chatfuel.com/cf-analytics/
 ||chatroll.com/t.gif
@@ -13851,6 +13856,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sexu.com/api/ttrack
 ||sexybabepics.net/re/?ping
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
+||sfgate.com/api/client-logs
 ||share.9cdn.net/share/short_cache/js/tracking/$domain=nine.com.au
 ||sharechat.com/event-tracking-service/
 ||sharesies.com/v1/identify
@@ -51319,6 +51325,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||zerkalo.io/stat/
 ||khamsat.com/ajax/account_stats?
 ||mosoah.com/analytics.js
+||stats.panet.com^
 ||tags.aljazeera.net^
 ||insight.olx.ba^
 ||klix.ba/pixel/
@@ -51963,6 +51970,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||mbp-japan.com/js/pv.js
 ||measure.ameblo.jp^
 ||medibot.delling.care/api/counts/
+||mercari.com/gtm/
 ||mixi.net/static/js/build/mixi-analysis.production.js
 ||mng.jiji.com/cookie.html
 ||muragon.com/js/normal/gtag-event.js
@@ -52164,6 +52172,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||wtk.pl/js/WTKStats.js
 ||yctjw54slxrwwlh.trybawaryjny.pl^
 ||ab.g.globo/event
+||alloy-rap.reclameaqui.com.br^
 ||audience-mostread.r7.com^
 ||click.afiliados.uol.com.br^
 ||click.uol.com.br^
