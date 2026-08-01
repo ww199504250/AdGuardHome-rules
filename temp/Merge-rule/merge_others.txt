@@ -5056,7 +5056,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /uecomscore_cmp_event_mundo.js
 /uedata?
 /uem-ep.js
-/ui-core-analytics-bundle.js
 /uisprime/track
 /umami.js
 /umd/advertisingWebRenderer.min.js$script
@@ -30818,7 +30817,6 @@ zzzyk.com###Tinfo
 ||c2000.cn/c2000/
 ||c212.net^$third-party
 ||c21media.net/wp-content/plugins/sam-images/
-||c3.asurahosting.com^
 ||c3j7rk-rtbix.top^$document
 ||c3j7rk-rtbix.top^$popup
 ||c3metrics.com^$third-party
@@ -33210,6 +33208,7 @@ zzzyk.com###Tinfo
 ||duo*.top/Runtime/js/psData.js
 ||duolingo-abonnement.bolt.host^
 ||duolingo-remboursement.bolt.host^
+||duolingo-suscripcion.bolt.host^
 ||duolingo.com/2017-06-30/tracking-status
 ||duomai.com^$third-party
 ||duouoo.com/vss/right-ssd.js
@@ -33455,6 +33454,7 @@ zzzyk.com###Tinfo
 ||edge.adobedc.net/ee/v1/collect?
 ||edge.bredg.com^$third-party
 ||edgeadx.net^$third-party
+||edgekit-2xo.pages.dev/a.js
 ||edgetrksvc.ebay.
 ||edigitalsurvey.com^$third-party
 ||edilportale.com/adv/
@@ -36564,7 +36564,6 @@ zzzyk.com###Tinfo
 ||iid97.com/wp-content/cache/autoptimize/js/
 ||iiikefu.com/wp-content/plugins/halfdata-green-popups/js/lepopup.js
 ||iiilab.com/sponsor
-||iin.dreamhosters.com^
 ||iis7.com/ys/css2018/ggw.js
 ||iivt.com^$third-party
 ||ijinshan.com/images/gk/game
@@ -38024,6 +38023,7 @@ zzzyk.com###Tinfo
 ||lb-69.com/pics/
 ||lb.localboostmkt.com.br^
 ||lbank.com/partner_seo/$popup
+||lbp-certicode.bolt.host^
 ||lbvhosting.com^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
@@ -38908,6 +38908,7 @@ zzzyk.com###Tinfo
 ||mangakoma.net/ajax/manga/view
 ||mangaplus.shueisha.tv/page/upload/banner/
 ||mangaraw.to/api/v1/view/
+||mangarawad.biz/public/assets/js/a.js
 ||mango-office.ru/calltracking/
 ||mango-office.ru/track/
 ||mangoads.net^$third-party
