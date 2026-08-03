@@ -12433,6 +12433,7 @@ chatgpt.com##div[data-assistant-ads]
 chatgpt.com##div[data-message-supplement]:has(aside[data-partial-island="assistant-ads"])
 chatgpt.com##div[data-testid="bazaar-single-card-container"]
 chatgpt.com##section:has(> [aria-label="Sponsored"])
+chatgpt.com#?#.opacity-100.transition-opacity.ease-out:has-text(Sponsored options)
 chaussures.fr,eapavi.lv,ecipele.hr,ecipo.hu,eobuv.cz,eobuv.sk,eobuwie.com.pl,epantofi.ro,epapoutsia.gr,escarpe.it,eschuhe.at,eschuhe.ch,eschuhe.de,eskor.se,evzuttya.com.ua,obuvki.bg,zapatos.es##.product-item:has(.sponsored-label)
 chaussures.fr,eapavi.lv,ecipele.hr,ecipo.hu,eobuv.cz,eobuv.sk,eobuwie.com.pl,epantofi.ro,epapoutsia.gr,escarpe.it,eschuhe.at,eschuhe.ch,eschuhe.de,eskor.se,evzuttya.com.ua,obuvki.bg,zapatos.es##.sponsored-slider-wrapper
 chazidian.com###worldcup_float
@@ -23398,6 +23399,9 @@ stocktwits.com##.leading-none
 stocktwits.com##.sticky-inner-wrapper
 stocktwits.com#?#.is-visible:has-text(Remove ads)
 stocktwits.com#?#.leading-\[16px\]:has-text(Advertisement)
+stockx.com##[data-component="brand-tile"]:has([data-testid="sponsored-tag"])
+stockx.com##[data-component="product-tile"]:has([data-testid="sponsored-tag"])
+stockx.com##[data-testid="banner-collage"] .chakra-aspect-ratio:has(a[title*="Promo"])
 stokesentinel.co.uk##.shop-window[data-impr-tracking="true"]
 stomp.sg##.lg\:py-xl.pt-md
 stomp.sg##.min-h-\[120px\]
@@ -39996,6 +40000,7 @@ zzzyk.com###Tinfo
 ||multilocal-leboncoin.com^
 ||multiup.us/cdn-cgi/trace
 ||multiview.com^$third-party
+||mummickdogleghosta.cfd^
 ||mundodesconocido.com/tracker/
 ||muragon.com/js/normal/gtag-event.js
 ||murbil.hostei.com^
