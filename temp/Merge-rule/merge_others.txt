@@ -19157,6 +19157,7 @@ makaidong.com###cyWallsplugin
 makeitmeme.com##div[class^="_adContainer_"]
 makemytrip.com##.adtech-desktop
 makemytrip.com##.hotDeals
+makemytrip.com##.hotelTileDt:has(.icSponsored)
 makepolo.com##.cpc_tgs
 makepolo.com##a[href*=".rong360.com"]
 makepolo.com##div[class*="_ad"]
@@ -20472,6 +20473,8 @@ noon.com###noon-modules:has(div[data-qa="widget_AdMultiProductSide"])
 noon.com##.PdpRecommendations-module-scss-module__e4nPqG__recosWrapper
 noon.com##.ProductDetailsDesktop-module-scss-module__AYN9Ya__topSlotWrapper
 noon.com##.visibilitySensorWrapper:has(.adBannerModule)
+noon.com##[class*="container"]:has(> [class*="adModuleWrapper"])
+noon.com##[class*="container"]:has([data-qa="widget_adBannerModule"])
 noon.com##[class*="topSection"]:has([class*="adText"])
 noon.com##[data-qa="plp-grid"] [data-qa="plp-product-box"]:has(svg[width="20"] > path[d])
 noon.com##[data-qa="plp-product-box"]:has([class^="SponsoredTag"])
@@ -38794,10 +38797,8 @@ zzzyk.com###Tinfo
 ||localizacaoiphone.com^
 ||localizar-iphone.info^
 ||localizar-status.sbs^
-||localjnail.shop^
 ||localleadsforbusiness.site^
 ||locallivingcfo.com^
-||locallyapproved.com^
 ||localmail.ten98.de^
 ||localmantra.com^
 ||localmeadow.eu^
