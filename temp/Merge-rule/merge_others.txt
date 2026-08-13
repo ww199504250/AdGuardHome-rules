@@ -657,7 +657,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*.metric.gstatic.com^$denyallow=*-dnsotls-ds.metric.gstatic.com
 ||*.org/config/v7.js
 ||/js/0x1a2b3c4d.js
-||0022a601.pphost.net^
 ||156zw.com/css/js/tools.js
 ||163.com/wap/special/article_cooper_piapia/
 ||172.247.208.87/js/head.js
@@ -678,10 +677,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||5nj.com/js/cnzz22.js
 ||5nj.com/js/cnzz33.js
 ||627txt.com/da/*js
-||88.212.109.208.host.secureserver.net^
 ||90mh.com/mip/qdbao77.js
 ||91mjw.com/hy-66-90.php
-||93.105.205.92.host.secureserver.net^
 ||97kpz.com/js/bbk/g.js
 ||a.foxsportslocal.com^
 ||a.thelocal.com^
@@ -738,7 +735,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||asacdn.com/prod/redirect.html
 ||asgg.ghostbin.me^
 ||assets.mediahostingcdn.com^
-||atom.freehosting.dev^
 ||auete.pro/js/mcenter/
 ||axp.localsyr.com^
 ||axutongxue.com/js/uuiiio.js
@@ -873,9 +869,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||holdhostel.space^
 ||homehre.bravehost.com^
 ||hoowhostowoache.net^
-||host-195-103-203-106.business.telecomitalia.it^
-||host-95-230-215-65.business.telecomitalia.it^
-||host-95-255-114-11.business.telecomitalia.it^
 ||host-host-ads.com^
 ||host-redirect.net^
 ||host-tracker.com^
@@ -915,7 +908,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hosting.miarroba.info^
 ||hosting24.com^
 ||hostingcloud.racing^
-||hostingcloud.science^
 ||hostip.info^
 ||hostk.cfd^
 ||hostlyacus.digital^
@@ -966,7 +958,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||local-download.com^
 ||local-hot-dates.com^
 ||local-shares.ri.la^
-||local-update.com^
 ||local.info.g9hc4.cn^
 ||localadbuy.com^
 ||localads-statistics.maps.me^
@@ -1130,7 +1121,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||skycdnhost.com^
 ||sleeper-sofa.dreamhoster.com^
 ||slhk23.0101host.com^
-||smartermail.host^
 ||smileyhost.net^
 ||smvconf.f.3
 ||snailok.com/template/stui_tpl/sdfsdfzxxsa/dxf.js
