@@ -1,20 +1,20 @@
 ad.ourgame.com 存在于黑白名单
-WhiteLine#6 BlackLine#16860
+WhiteLine#6 BlackLine#16870
 
 api-access.pangolin-sdk-toutiao1.com 存在于黑白名单
-WhiteLine#21 BlackLine#28124 父域: pangolin-sdk-toutiao1.com@BlackLine#182573
+WhiteLine#21 BlackLine#28128 父域: pangolin-sdk-toutiao1.com@BlackLine#182562
 
 api.sec.miui.com 存在于黑白名单
-WhiteLine#25 BlackLine#29367
+WhiteLine#25 BlackLine#29371
 
 app-advertise.zhihuishu.com 存在于黑白名单
-WhiteLine#27 BlackLine#29897
+WhiteLine#27 BlackLine#29901
 
 auni.telecome.cn 存在于黑白名单
-WhiteLine#28 BlackLine#34070 父域: telecome.cn@BlackLine#255668
+WhiteLine#28 BlackLine#34076 父域: telecome.cn@BlackLine#255674
 
 auni.unioncom.cc 存在于黑白名单
-WhiteLine#29 BlackLine#34071 父域: unioncom.cc@BlackLine#272682
+WhiteLine#29 BlackLine#34077 父域: unioncom.cc@BlackLine#272686
 
 chaturbate.com 存在于黑白名单
 WhiteLine#47 BlackLine#51377
@@ -26,55 +26,55 @@ content.ingbank.pl 存在于黑白名单
 WhiteLine#51 BlackLine#57440
 
 d.toutiao.com 存在于黑白名单
-WhiteLine#54 BlackLine#62706
+WhiteLine#54 BlackLine#62704
 
 h5.tv.mi.com 存在于黑白名单
-WhiteLine#70 BlackLine#111981
+WhiteLine#70 BlackLine#111973
 
 heukmsactivator.com 存在于黑白名单
-WhiteLine#71 BlackLine#114314
+WhiteLine#71 BlackLine#114303
 
 hot.browser.miui.com 存在于黑白名单
-WhiteLine#72 BlackLine#116630 父域: browser.miui.com@BlackLine#44077
+WhiteLine#72 BlackLine#116620 父域: browser.miui.com@BlackLine#44077
 
 img.shouji.sogou.com 存在于黑白名单
-WhiteLine#75 BlackLine#121938
+WhiteLine#75 BlackLine#121932
 
 log2.cmpassport.com 存在于黑白名单
-WhiteLine#78 BlackLine#148843 父域: cmpassport.com@BlackLine#54752
+WhiteLine#78 BlackLine#148828 父域: cmpassport.com@BlackLine#54752
 
 mis.g.mi.com 存在于黑白名单
-WhiteLine#84 BlackLine#162868
+WhiteLine#84 BlackLine#162856
 
 mtalk.google.com 存在于黑白名单
-WhiteLine#86 BlackLine#166377
+WhiteLine#86 BlackLine#166366
 
 pgpartner.com 存在于黑白名单
-WhiteLine#91 BlackLine#185526
+WhiteLine#91 BlackLine#185516
 
 resolver.msg.xiaomi.net 存在于黑白名单
-WhiteLine#100 BlackLine#201752
+WhiteLine#100 BlackLine#201756
 
 s1.wp.com 存在于黑白名单
-WhiteLine#102 BlackLine#208093
+WhiteLine#102 BlackLine#208102
 
 sdkreport.e.qq.com 存在于黑白名单
-WhiteLine#103 BlackLine#211533 父域: e.qq.com@BlackLine#79841
+WhiteLine#103 BlackLine#211539 父域: e.qq.com@BlackLine#79837
 
 security.browser.miui.com 存在于黑白名单
-WhiteLine#104 BlackLine#212571 父域: browser.miui.com@BlackLine#44077
+WhiteLine#104 BlackLine#212577 父域: browser.miui.com@BlackLine#44077
 
 security.snssdk.com 存在于黑白名单
-WhiteLine#105 BlackLine#212573 父域: snssdk.com@BlackLine#228118
+WhiteLine#105 BlackLine#212579 父域: snssdk.com@BlackLine#228124
 
 sentry.d.xiaomi.net 存在于黑白名单
-WhiteLine#106 BlackLine#213197
+WhiteLine#106 BlackLine#213203
 
 sgqcvfjvr.onet.pl 存在于黑白名单
-WhiteLine#107 BlackLine#217850
+WhiteLine#107 BlackLine#217858
 
 sobot.com 存在于黑白名单
-WhiteLine#108 BlackLine#228256
+WhiteLine#108 BlackLine#228261
 
 wan.douyu.com 存在于黑白名单
 WhiteLine#118 BlackLine#282627
