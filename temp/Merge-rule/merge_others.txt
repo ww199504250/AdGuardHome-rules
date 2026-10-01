@@ -381,6 +381,7 @@ baike.baidu.com###J-attention-wrapper
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
 baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
 baike.so.com##section#business-flow.business-flow
+bilibili.com#@#[class^="footer-ad"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
 bing.com,cn.bing.net###bnp_rich_div
 bing.com,cn.bing.net###uaanswer
@@ -887,6 +888,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hoowhostowoache.net^
 ||host-195-103-203-106.business.telecomitalia.it^
 ||host-95-230-215-65.business.telecomitalia.it^
+||host-95-255-114-11.business.telecomitalia.it^
 ||host-host-ads.com^
 ||host-override.ad-shield.dev^
 ||host-redirect.net^
