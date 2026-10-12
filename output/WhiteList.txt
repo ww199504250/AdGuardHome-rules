@@ -1,5 +1,5 @@
-! 规则更新时间 2026年10月12日 03:37:34
-! 本规则数量 97条
+! 规则更新时间 2026年10月12日 17:11:46
+! 本规则数量 94条
 ! 更新频率 12小时
 ! 白名单规则
 
@@ -43,7 +43,6 @@
 @@||captcha.su.baidu.com^
 @@||cbsi.map.fastly.net^
 @@||cdn.datatables.net^
-@@||central.github.com^
 @@||cloud.githubusercontent.com^
 @@||config2.cmpassport.com^
 @@||cookie-bar.eu^
@@ -55,8 +54,7 @@
 @@||fairplay.l.qq.com^
 @@||galleryapi.micloud.xiaomi.net^
 @@||gaode-jmacs.m.taobao.com^
-@@||gist.github.com^
-@@||github.blog^
+@@||gist.github.co^
 @@||github.com^
 @@||github.community^
 @@||github.dev^
@@ -78,7 +76,6 @@
 @@||passport.biligame.com^
 @@||pay.bilibili.com^
 @@||pics.porn300.com^
-@@||pipelines.actions.githubusercontent.com^
 @@||puma.112.2o7.net^
 @@||raw.githubusercontent.com^
 @@||redirect.disqus.com^

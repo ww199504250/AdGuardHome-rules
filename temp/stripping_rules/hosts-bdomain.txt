@@ -1,3 +1,15 @@
+ad.igaworks.com
+ad.naver.com
+ad.sooplive.co.kr
+adcolony.com
+adfit.kakao.com
+ads.naver.com
+ads.sooplive.co.kr
+adx.sooplive.co.kr
+api.ad.sooplive.co.kr
+api.adcolony.com
+api.adfit.kakao.com
+static.ad.sooplive.co.kr
 01.adnxs.com
 1.oadz.com
 1.z74d.com
@@ -391,6 +403,7 @@ ads-twitter.com
 ads-union.jd.com
 ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
+ads-vp5.xhscdn.com
 ads.51yund.com
 ads.95516.com
 ads.adfox.ru
@@ -793,7 +806,6 @@ api.branch.io
 api.bridgeoos.com
 api.bz.igexin.com
 api.cn.miaozhen.com
-api.comm.miui.com
 api.ctjpqg.cn
 api.cupid.iqiyi.com
 api.data.jiguang.cn
@@ -828,6 +840,7 @@ api.iqiyi.com
 api.jietuhb.com
 api.jiguang.cn
 api.jpush.cn
+api.jr.airstarfinance.net
 api.jr.mi.com
 api.kickoffo.site
 api.kuaishouzt.com
@@ -1168,6 +1181,7 @@ btrace.play.aiseet.atianqi.com
 btrace.qq.com
 btrace.video.qq.com
 bucket-ynote-online-cdn.note.youdao.com
+business-ad.cdn-go.cn
 business-syh-cdn.2345ii.com
 business.msstatic.com
 business.oceanengine.com
@@ -1441,6 +1455,7 @@ cn-api.anythinktech.com
 cn-da.anythinktech.com
 cn-job-inner.tradplusad.com
 cn-tk.anythinktech.com
+cn.app.chat.xiaomi.net
 cn.miaozhen.com
 cn.oss.vlion.cn
 cnaac.getui.com
@@ -1815,6 +1830,7 @@ et.tanx.com
 et.w.inmobi.cn
 et.w.inmobi.com
 ether-pack.pangolin-sdk-toutiao.com
+etl-xlmc-ssl.sandai.net
 etl.xlmc.sandai.net
 event-manager.oceanengine.com
 event.gdt.qq.com
@@ -2008,7 +2024,9 @@ getui.igexin.com
 geyan.getui.com
 gezhen-api.getui.com
 gg.kugou.com
+ggadoffline.miguvideo.com
 ggc.cmvideo.cn
+ggc.miguvideo.com
 gi.gepush.com
 gi.getui.net
 gia.jd.com
@@ -2214,6 +2232,7 @@ i-hl.snssdk.com
 i-lq.snssdk.com
 i-sdk.mediation.unity3d.com
 i-shadow2.ke.com
+i.adyounger.com
 i.gdt.qq.com
 i.gm.mob.com
 i.go.sohu.com
@@ -2380,7 +2399,6 @@ iqiyi.irs01.com
 iqiyi.m.cn.miaozhen.com
 iqiyim.adtrack.enlightent.cn
 ir-na.amazon-adsystem.com
-ir-sdk.dun.163.com
 ir.jiguang.cn
 ir.mail.163.com
 irnvf.lu.sogou.com
@@ -2615,6 +2633,7 @@ m.ad.zhangyue.com
 m.admobile.top
 m.adnxs.com
 m.ads.sohu.com
+m.adyounger.com
 m.analytics.126.net
 m.appsflyer.com
 m.atm.youku.com
@@ -2726,6 +2745,7 @@ mgpay-api.kltb.com.cn
 mgwkbrs.tingyun.com
 mgwkm.tingyun.com
 mi.gdt.qq.com
+mi.gdtimg.com
 miao.baidu.com
 miav-cse.avlyun.com
 midas-tracker.hellay.net
@@ -2749,7 +2769,6 @@ minigame5-normal-hl.zijieapi.com
 minigame5-normal-lq.zijieapi.com
 minigame5-normal.zijieapi.com
 minisite.letv.com
-minislugger.qunar.com
 mipcache.bdstatic.com
 misc.in.duokanbox.com
 misc.pandora.xiaomi.com
@@ -3131,6 +3150,7 @@ p3.l.qq.com
 p4-ad.adkwai.com
 p4-ad.adukwai.com
 p4-lm.adkwai.com
+p4-lm.adukwai.com
 p4-yx.adkwai.com
 p4.adkwai.com
 p5-ad.adkwai.com
@@ -3611,7 +3631,6 @@ s28.cnzz.com
 s29.cnzz.com
 s2s.appsflyer.com
 s3-fe-scm.pglstatp-toutiao.com
-s3-hnapuhdd-cdn.didistatic.com
 s3.cnzz.com
 s3.irs03.com
 s30.cnzz.com
@@ -3927,6 +3946,7 @@ spdmg-backend.i-mobile.co.jp
 spdmg.i-mobile.co.jp
 spider-tracker.xiaohongshu.com
 splash-online-decision.xiaohongshu.com
+splash.gdt.qq.com
 splash.yy.com
 splashimgbssdl.yun.kugou.com
 splashimgretrybssdl.cloud.kugou.com
@@ -3986,7 +4006,6 @@ stat.zhidahao.baidu.com
 stat2.deepinstall.com
 stat2.openinstall.io
 state.jpush.cn
-static-res.qq.com
 static-s.iqiyi.com
 static-ssl.mediav.com
 static.66mobi.com
@@ -4034,7 +4053,6 @@ stm-cdn.cn.miaozhen.com
 stm-collect.cn.miaozhen.com
 stm.cn.miaozhen.com
 stnetsdk.vivo.com.cn
-storage-public.zhaopin.cn
 store.is.autonavi.com
 store.tv.api.3g.youku.com
 store.xl.api.3g.youku.com
@@ -4084,6 +4102,7 @@ t-flow.flyme.cn
 t-l.play.aiseet.atianqi.com
 t-odx.op-mobile.opera.com
 t-remad.qm989.com
+t.adbiding.com
 t.ads.sohu.com
 t.ag.b9ad.com
 t.apkpure.net
@@ -4114,6 +4133,7 @@ talk.nz4.igexin.com
 talkv6.getui.com
 tangram-config.gdt.qq.com
 tangram.e.qq.com
+tao.ad.cn.sz.ad.tengine.ingress.alibabacorp.com.gds.alibabadns.com
 taobao.qq.com
 tapad-platform.oss-cn-beijing.aliyuncs.com
 tapad.iem.taptap.cn
@@ -4257,6 +4277,7 @@ tr.snapchat.com
 tr6.snapchat.com
 trace-api.aiclk.com
 trace.aqyad.com
+trace.gdt.qq.com
 trace.m1905.cn
 trace.mediago.io
 trace.popin.cc
@@ -4352,6 +4373,7 @@ ucstat.baidu.com
 ucus.ucweb.com
 udash.umengcloud.com
 udplus.umeng.com
+udpolimenew.baidu.com
 udpolimeok.baidu.com
 uedas.qdmm.com
 uedas.qidian.com
@@ -4408,6 +4430,7 @@ update.app.2345.com
 update.avlyun.sec.miui.com
 update.baidu.com
 update.duokan.com
+update.miui.com
 update.mobile.kugou.com
 update.pan.baidu.com
 update.pan.n.shifen.com
@@ -4461,6 +4484,7 @@ v.adx.hubcloud.com.cn
 v.aty.sohu.com
 v.data.mob.com
 v.gdt.qq.com
+v.gdtimg.com
 v.irs01.com
 v.l.youku.com
 v.voiceads.cn
@@ -4915,5 +4939,3 @@ zvs2.cnzz.com
 zwfw.mps.gov.cn
 zymo.mps.weibo.com
 zz.bdstatic.com
-cn.app.chat.xiaomi.net
-etl-xlmc-ssl.sandai.net

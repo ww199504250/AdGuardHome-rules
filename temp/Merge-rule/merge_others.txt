@@ -253,18 +253,18 @@
 /xxgg/gd*.js
 /xxgg/pf*.js
 /yinghuacd/bottom.js
-0.0.0.0 ad-host-backup-america.oss-us-west-1.aliyuncs.com
-0.0.0.0 ad-host-backup-america.s3.us-west-1.amazonaws.com
-0.0.0.0 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
-0.0.0.0 ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com
-0.0.0.0 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
-0.0.0.0 ad-host-backup-europe.s3.eu-central-1.amazonaws.com
-0.0.0.0 advancelocal-adapter-image-uploads.s3.amazonaws.com
-0.0.0.0 pagead-googlehosted.l.google.com
-0.0.0.0 visit.webhosting.yahoo.com
 118pan.com##.card.mt-2:nth-child(2)
 120ask.com##IFRAME[width='400']
+127.0.0.1 ad-host-backup-america.oss-us-west-1.aliyuncs.com
+127.0.0.1 ad-host-backup-america.s3.us-west-1.amazonaws.com
+127.0.0.1 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+127.0.0.1 ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com
+127.0.0.1 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
+127.0.0.1 ad-host-backup-europe.s3.eu-central-1.amazonaws.com
+127.0.0.1 advancelocal-adapter-image-uploads.s3.amazonaws.com
 127.0.0.1 localhost
+127.0.0.1 pagead-googlehosted.l.google.com
+127.0.0.1 visit.webhosting.yahoo.com
 163.com##.freeVip
 163.com##.js-open-app
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
