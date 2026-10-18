@@ -1,5 +1,5 @@
-! 规则更新时间 2026年10月18日 12:20:23
-! 本规则数量 94条
+! 规则更新时间 2026年10月18日 18:23:05
+! 本规则数量 92条
 ! 更新频率 12小时
 ! 白名单规则
 
@@ -8,8 +8,6 @@
 @@||access-open.quark.cn^
 @@||acs.m.taobao.com^
 @@||ad.kazakinfo.com^
-@@||adblock.adguard.com^
-@@||admin.mailchimp.com^
 @@||adv.bloop.info^
 @@||advert.kf5.com^
 @@||alive.github.com^
