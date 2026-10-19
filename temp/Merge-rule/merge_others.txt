@@ -84,6 +84,7 @@
 .com:8001/*/*?*=$third-party
 .com:8003/d/*&n=$third-party
 .com:8005/*&n=$third-party
+.com:8005/cc/*?*=$third-party
 .com:8008/sc/*?n=$third-party
 .com:8010/cc/
 .cyou/redbaiduct.com
