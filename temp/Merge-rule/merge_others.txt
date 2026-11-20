@@ -288,6 +288,7 @@
 ://*.yinghua*.*/bar$~third-party
 ://*banzhu*/js/cdn.js$~third-party
 ://*mp4*/js/wcount.js$~third-party
+://gg.*/*.js$third-party
 ://pic*.com/upload/*.js$third-party
 ://tj.*.com$third-party
 :800*/d/*n=$third-party
