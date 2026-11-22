@@ -79,6 +79,7 @@
 .com:*/d/*?t=
 .com:*/sc/*?n=$third-party
 .com:10446/*/get*.html
+.com:30009/*t*$third-party
 .com:7891/stats$third-party
 .com:8*/mj*$third-party
 .com:8001/*/*?*=$third-party
@@ -193,6 +194,7 @@
 /hm/ytymer?x=
 /ht.js?site_
 /index.html?channelCode=
+/js/0x1a2b3c4d.js
 /js/ads
 /js/gd.js
 /js/gg123/*
@@ -663,7 +665,6 @@ zhihu.com##.zhihuAdvert-MBanner-wordDownload
 zol.com.cn##A.dingtong.xianshiyouhui
 ||*.metric.gstatic.com^$denyallow=*-dnsotls-ds.metric.gstatic.com
 ||*.org/config/v7.js
-||/js/0x1a2b3c4d.js
 ||000nethost.com^
 ||000webhost.com^
 ||000webhost.info^
