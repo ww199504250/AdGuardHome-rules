@@ -1,56 +1,56 @@
 api-access.pangolin-sdk-toutiao1.com 存在于黑白名单
-WhiteLine#14 BlackLine#26962 父域: pangolin-sdk-toutiao1.com@BlackLine#186954
+WhiteLine#14 BlackLine#26972 父域: pangolin-sdk-toutiao1.com@BlackLine#186943
 
 api.sec.miui.com 存在于黑白名单
-WhiteLine#17 BlackLine#28276
+WhiteLine#17 BlackLine#28287
 
 auni.telecome.cn 存在于黑白名单
-WhiteLine#19 BlackLine#32991 父域: telecome.cn@BlackLine#261690
+WhiteLine#19 BlackLine#32993 父域: telecome.cn@BlackLine#261647
 
 auni.unioncom.cc 存在于黑白名单
-WhiteLine#20 BlackLine#32992 父域: unioncom.cc@BlackLine#278970
+WhiteLine#20 BlackLine#32994 父域: unioncom.cc@BlackLine#278925
 
 collector.github.com 存在于黑白名单
-WhiteLine#33 BlackLine#54900
+WhiteLine#33 BlackLine#54904
 
 d.toutiao.com 存在于黑白名单
-WhiteLine#35 BlackLine#61837
+WhiteLine#35 BlackLine#61835
 
 h5.tv.mi.com 存在于黑白名单
-WhiteLine#48 BlackLine#112396
+WhiteLine#48 BlackLine#112391
 
 heukmsactivator.com 存在于黑白名单
-WhiteLine#49 BlackLine#114763
+WhiteLine#49 BlackLine#114760
 
 hot.browser.miui.com 存在于黑白名单
-WhiteLine#50 BlackLine#117122 父域: browser.miui.com@BlackLine#42985
+WhiteLine#50 BlackLine#117119 父域: browser.miui.com@BlackLine#42986
 
 img.shouji.sogou.com 存在于黑白名单
-WhiteLine#52 BlackLine#122599
+WhiteLine#52 BlackLine#122595
 
 log2.cmpassport.com 存在于黑白名单
-WhiteLine#54 BlackLine#151867 父域: cmpassport.com@BlackLine#53690
+WhiteLine#54 BlackLine#151863 父域: cmpassport.com@BlackLine#53694
 
 mis.g.mi.com 存在于黑白名单
-WhiteLine#58 BlackLine#167039
+WhiteLine#58 BlackLine#167032
 
 mtalk.google.com 存在于黑白名单
-WhiteLine#60 BlackLine#170575
+WhiteLine#60 BlackLine#170564
 
 resolver.msg.xiaomi.net 存在于黑白名单
-WhiteLine#67 BlackLine#206172
+WhiteLine#67 BlackLine#206147
 
 sdkreport.e.qq.com 存在于黑白名单
-WhiteLine#68 BlackLine#215933 父域: e.qq.com@BlackLine#79682
+WhiteLine#68 BlackLine#215909 父域: e.qq.com@BlackLine#79676
 
 security.browser.miui.com 存在于黑白名单
-WhiteLine#69 BlackLine#216974 父域: browser.miui.com@BlackLine#42985
+WhiteLine#69 BlackLine#216950 父域: browser.miui.com@BlackLine#42986
 
 security.snssdk.com 存在于黑白名单
-WhiteLine#70 BlackLine#216976 父域: snssdk.com@BlackLine#232850
+WhiteLine#70 BlackLine#216952 父域: snssdk.com@BlackLine#232823
 
 sentry.d.xiaomi.net 存在于黑白名单
-WhiteLine#71 BlackLine#217580
+WhiteLine#71 BlackLine#217555
 
 wan.douyu.com 存在于黑白名单
-WhiteLine#79 BlackLine#288971
+WhiteLine#79 BlackLine#288920
